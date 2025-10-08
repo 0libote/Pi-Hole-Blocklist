@@ -1,9 +1,9 @@
 # Trackers-Only
 # Website: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 08 October 2025 11:37:20 UTC
+# Pi-Hole Blocklist - Generated 08 October 2025 17:02:31 UTC
 # Creation Date: 08 October 2025
-# Total Domains: 89,069
+# Total Domains: 89,072
 #
 0-0-gc-007dam1l40se01-1.gbc.criteo.com
 0-0.net.daraz.com
@@ -8759,6 +8759,7 @@ analytics.salesanalytics.io
 analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.santander.co.uk
+analytics.sayprimer.com
 analytics.schoolwires.com
 analytics.scorpion.co
 analytics.seagate.com
@@ -12092,6 +12093,7 @@ bfvlgp.appstory.co.kr
 bfzikn.l-wine.ru
 bg-go.experian.com
 bg4nxu2u5t.com
+bgalytics.com
 bgaycm.exvital-shop.de
 bgd.postaffiliatepro.com
 bge.webtrekk.net
@@ -61704,6 +61706,7 @@ p.aty.sohu.com
 p.cab.ua
 p.circaworks.com
 p.classroombookings.com
+p.codio.com
 p.connorgp.com
 p.cquotient.com
 p.data.cctv.com
