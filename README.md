@@ -1,5 +1,5 @@
 # Pi-Hole Blocklist by 0libote
-![GitHub Repo stars](https://img.shields.io/github/stars/0libote/Pi-Hole-Blocklist?label=Stars&logo=github&color=ff69b4)[![Last Commit](https://img.shields.io/github/last-commit/0libote/Pi-Hole-Blocklist)](https://github.com/0libote/Pi-Hole-Blocklist/commits/main)[![License](https://img.shields.io/github/license/0libote/Pi-Hole-Blocklist)](https://github.com/0libote/Pi-Hole-Blocklist/blob/main/LICENSE)![Domains](https://img.shields.io/badge/Domains-~192,000-%23ff3366)
+![GitHub Repo stars](https://img.shields.io/github/stars/0libote/Pi-Hole-Blocklist?label=Stars&logo=github&color=ff69b4)[![Last Commit](https://img.shields.io/github/last-commit/0libote/Pi-Hole-Blocklist)](https://github.com/0libote/Pi-Hole-Blocklist/commits/main)[![License](https://img.shields.io/github/license/0libote/Pi-Hole-Blocklist)](https://github.com/0libote/Pi-Hole-Blocklist/blob/main/LICENSE)![Domains](https://img.shields.io/badge/Domains-~1,084,000-%23ff3366)
 
 
 Welcome to **0libote's Pi-Hole Blocklist**, a curated collection of domain blocklists designed to enhance your Pi-Hole or other DNS-level ad-blocking setup. These lists aim to improve your privacy, reduce unwanted traffic, and block ads, trackers, malicious domains, and more.
@@ -12,16 +12,14 @@ Whether you're new to DNS-level blocking or a seasoned pro, these lists offer a 
 
 This repository provides several blocklists, each targeting different categories of unwanted domains:
 
-
-| List Name            | Domains | Description                                                            | Link                                                                                     |
-| -------------------- | ------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| All in one           |         | Comprehensive list blocking ads, trackers, malware, and more.          | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/All-in-One.txt)       |
-| Lite                 |         | A lighter list, Blocking more common domains on the All List.          | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Lite.txt)             |
-| Malware and Phishing |         | A list focused on blocking known malware and phishing related domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Malware-Phishing.txt) |
-| NSFW                 |         | Attempts to block NSFW/PORN websites.                                  | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/NSFW.txt)             |
-| Trackers only        |         | Blocks telemetry, analytics, and tracking domains.                     | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Trackers-Only.txt)    |
-| Gambling block       |         | List that attempts to block known sights relating to gambling.         | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Gambling.txt)         |
-
+| List Name            | Domains            | Description                                                            | Link                                                                                     |
+| -------------------- | ------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| All in one           | ~1,084,000 | Comprehensive list blocking ads, trackers, malware, and more.          | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/All-in-One.txt)       |
+| Lite                 | ~283,000       | A lighter list, Blocking more common domains on the All List.          | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Lite.txt)             |
+| Malware and Phishing | ~1,786,000    | A list focused on blocking known malware and phishing related domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Malware-Phishing.txt) |
+| NSFW                 | ~464,000       | Attempts to block NSFW/PORN websites.                                  | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/NSFW.txt)             |
+| Trackers only        | ~89,000   | Blocks telemetry, analytics, and tracking domains.                     | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Trackers-Only.txt)    |
+| Gambling block       | ~192,000   | List that attempts to block known sights relating to gambling.         | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Gambling.txt)         |
 
 ---
 
