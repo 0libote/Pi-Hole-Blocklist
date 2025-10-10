@@ -1,9 +1,9 @@
 # Trackers-Only
 # Website: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 10 October 2025 10:23:04 UTC
+# Pi-Hole Blocklist - Generated 10 October 2025 23:19:37 UTC
 # Creation Date: 10 October 2025
-# Total Domains: 89,072
+# Total Domains: 89,074
 #
 0-0-gc-007dam1l40se01-1.gbc.criteo.com
 0-0.net.daraz.com
@@ -57511,6 +57511,7 @@ now.peek-cloppenburg.de
 now.strategiccoach.com
 now.tana.fi
 now.wealthmanagement.com
+nowaymail.com
 nowinteract.com
 np6.eu
 nparallel.actonservice.com
@@ -57834,6 +57835,7 @@ o.j2global.com
 o.lenovo.com
 o.macworld.co.uk
 o.medallia.com
+o.momently.info
 o.myomnicard.in
 o.opentable.co.uk
 o.opentable.com
