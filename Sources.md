@@ -1,5 +1,5 @@
 ## Sources
-Last updated - 11 October 2025
+Last updated - 12 October 2025
 
 
 These sources have been partially used as references in compiling the block lists. They are not copied or transferred directly; rather, they provide a starting point for each version of the list. The content from these sources is adapted, modified, or filtered to fit the specific goals of the block lists. Each source is governed by its own license, so it’s important to check the source files or the original repositories for the full licensing details. By using these sources as a foundation, the block lists can be created efficiently while ensuring that the original work is properly acknowledged and respected. This approach allows for consistent updates, better coverage, and flexibility in maintaining each list version.

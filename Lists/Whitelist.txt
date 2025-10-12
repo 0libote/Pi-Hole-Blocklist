@@ -1,8 +1,8 @@
 # Whitelist
 # Website: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 11 October 2025 21:46:19 UTC
-# Creation Date: 11 October 2025
+# Pi-Hole Blocklist - Generated 12 October 2025 01:21:02 UTC
+# Creation Date: 12 October 2025
 # Total Domains: 16,599
 #
 0-edge-chat.facebook.com
