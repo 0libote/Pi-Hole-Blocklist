@@ -1,9 +1,9 @@
 # Trackers-Only
 # Website: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 14 October 2025 12:39:26 UTC
+# Pi-Hole Blocklist - Generated 14 October 2025 22:42:54 UTC
 # Creation Date: 14 October 2025
-# Total Domains: 87,050
+# Total Domains: 87,051
 #
 0-0-gc-007dam1l40se01-1.gbc.criteo.com
 0-0.net.daraz.com
@@ -61994,6 +61994,7 @@ press.viega.us
 presscab.gbc.criteo.com
 presscoder.com
 pret-dunion.eulerian.net
+prettyeasycafe.com
 prettylearning.com
 preview.fi-institutional.com.au
 preview.msn.com
