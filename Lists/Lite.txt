@@ -2,16 +2,11 @@
 # List - Lite
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Generated 19 October 2025 01:30:27 UTC
-# Total Domains: 280,444
+# Last Updated: 19 October 2025 01:48:20 UTC
+#
+# Domains: 280,450 | Added: 280,450 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
-#
-# List file size: 5.38 MB
-
-
-
-
 
 0-0.net.daraz.com
 0-0000-00000383vpnedf.gbc.criteo.com
@@ -32401,6 +32396,7 @@ autobytel.112.2o7.net
 autobytelcorppopup.112.2o7.net
 autocanvaspro.com
 autocar-offers.com
+autocar.serveuser.com
 autocarcomprod.112.2o7.net
 autocgatto.pro
 autochuzi.pro
@@ -59258,6 +59254,7 @@ cooporatestock.com
 coordinatedcoat.com
 coordinatediningroom.com
 coordinatedtouch.pro
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
 coordripul.pro
 coorechucegroo.com
 coorpfree.duckdns.org
@@ -100906,6 +100903,7 @@ go.zoomex.com
 go.zvooq.com
 go.zygo.com
 go.zylo.com
+go0gie.com
 go1.3mre.work
 go1.a2ure.work
 go1.atre.work
@@ -103324,6 +103322,7 @@ groumpepsouckoo.net
 groundasse.adriannagroth.com
 groundcare.dixiechopper.com
 groundedbob.com
+groundhog.mapsnode.com
 groundieschaussure.fr
 groundinquiryoccupation.com
 groundlesscobwebmiller.com
@@ -172047,6 +172046,7 @@ noxojyi.com
 noxyjea.com
 noyealider.com
 nozoakamsaun.net
+np3.jkub.com
 np6.eu
 np9kbk.shet.eveshamairporttransfers.co.uk
 nparallel.actonservice.com
@@ -197351,6 +197351,7 @@ q9pw.llim8.ru
 q9px.6-0sg.ru
 q9py.nowc8.ru
 q9t1c8xzsbfqm-pages-dev.translate.goog
+q9uvveypib.notepod2.com
 qa-ads.nobid.com
 qa-branch-app.liketoknow.it
 qa-brc.emails.rakuten.com
@@ -280457,6 +280458,3 @@ zzzjhkyprpsvl.store
 zzzjvqzmkazvo.top
 zzzmjfixezere.site
 zzzttv.ydns.eu
-
-
-
