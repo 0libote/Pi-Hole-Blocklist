@@ -2,8 +2,10 @@
 # List - Whitelist
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Generated 19 October 2025 01:30:17 UTC
-# Total Domains: 643,507
+# Added: 6 | Removed: 0
+#
+# Generated 19 October 2025 01:40:55 UTC
+# Total Domains: 643,478
 #
 # List is updated daily adding and removing new and old domains
 #
@@ -614419,40 +614421,11 @@ www-yahoo.info
 www-yodobash-com.lingerl1.tech
 www-youtube.ml
 www-youtube.net
-www.032magento.yria-covid19.hchearts.com
-www.032old.yria-covid19.hchearts.com
 www.032www.demo.yria-covid19.hchearts.com
-www.apple.com-speedup-macbook.live
-www.blog.covid.stacked.tk
-www.blog.www.shop.covid.government.money
-www.com-speed-system-macbook.live
-www.covid.antoinebarbare.me
-www.covid.catcoop.org
-www.covid.vaccinelm.ca
-www.covid19form.coxentetprises.com
-www.dev.syria-covid19.hchearts.com
 www.dhhs-covid19-arias-prod.crm9.dynamikcs.com
-www.occovid19.0chealthinfo.com
-www.ocovid19.ohealthinfo.com
-www.shop.occovid.ochealthyinfo.com
 www.staging.covid.antoinebarbare.me
-www.staging.syria-covid19.hchearts.com
-www.store.coronavirus.udland.dk
 www.susum032demo.coronavirus.udland.dk
 www.syria-covid19.hchearts.com
-www.ww1.covid.deaths.today
-www.www.032www.demo.yria-covid19.hchearts.com
-www.www.dhhs-covid19-arias-prod.crm9.dynamikcs.com
-www.www.staging.covid.antoinebarbare.me
-www.www.susum032demo.coronavirus.udland.dk
-www.www.syria-covid19.hchearts.com
-www.www.www.032www.demo.yria-covid19.hchearts.com
-www.www.www.dhhs-covid19-arias-prod.crm9.dynamikcs.com
-www.www.www.staging.covid.antoinebarbare.me
-www.www.www.susum032demo.coronavirus.udland.dk
-www.www.www.syria-covid19.hchearts.com
-www.www.www.www.yria-covid19.hchearts.com
-www.www.www.yria-covid19.hchearts.com
 www.www.yria-covid19.hchearts.com
 www.yria-covid19.hchearts.com
 www0.paperg.com
