@@ -2,9 +2,9 @@
 # List - Whitelist
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 19 October 2025 01:48:11 UTC
+# Last Updated: 19 October 2025 01:51:23 UTC
 #
-# Domains: 643,472 | Added: 643,472 | Removed: 0
+# Domains: 643,471 | Added: 643,471 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -614414,7 +614414,6 @@ www-yahoo.info
 www-yodobash-com.lingerl1.tech
 www-youtube.ml
 www-youtube.net
-www.yria-covid19.hchearts.com
 www0.paperg.com
 www038365.com
 www051365.com
