@@ -1,10 +1,18 @@
-# Gambling
-# Website: https://github.com/0libote/Pi-Hole-Blocklist
+# 0libote blocklists
+# List - Gambling
+# GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 19 October 2025 01:27:49 UTC
-# Creation Date: 19 October 2025
+# Generated 19 October 2025 01:30:21 UTC
 # Total Domains: 202,146
 #
+# List is updated daily adding and removing new and old domains
+#
+# List file size: 2.89 MB
+
+
+
+
+
 0-bdmbet.com
 0-bet.com
 0-casino.info
@@ -202151,3 +202159,6 @@ zzzz999.com
 zzzzbets1.com
 zzzzbetslots.com
 zzzzgame.com
+
+
+

@@ -1,10 +1,18 @@
-# NSFW
-# Website: https://github.com/0libote/Pi-Hole-Blocklist
+# 0libote blocklists
+# List - NSFW
+# GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Pi-Hole Blocklist - Generated 19 October 2025 01:28:33 UTC
-# Creation Date: 19 October 2025
+# Generated 19 October 2025 01:31:07 UTC
 # Total Domains: 471,686
 #
+# List is updated daily adding and removing new and old domains
+#
+# List file size: 8.52 MB
+
+
+
+
+
 0-1.gay
 0-porno.com
 0.011.free.fr
@@ -471691,3 +471699,6 @@ zzzxxx141.cc
 zzzxxxccc.com
 zzzzcam.blogspot.com
 zzzzporn.com
+
+
+
