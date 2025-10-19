@@ -2,18 +2,11 @@
 # List - Whitelist
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Added: 6 | Removed: 0
+# Last Updated: 19 October 2025 01:48:11 UTC
 #
-# Generated 19 October 2025 01:40:55 UTC
-# Total Domains: 643,478
+# Domains: 643,472 | Added: 643,472 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
-#
-# List file size: 11.70 MB
-
-
-
-
 
 0-0-0-0-0go.24ha7.com
 0-0-0-0-0proxy.emntest.com
@@ -614421,12 +614414,6 @@ www-yahoo.info
 www-yodobash-com.lingerl1.tech
 www-youtube.ml
 www-youtube.net
-www.032www.demo.yria-covid19.hchearts.com
-www.dhhs-covid19-arias-prod.crm9.dynamikcs.com
-www.staging.covid.antoinebarbare.me
-www.susum032demo.coronavirus.udland.dk
-www.syria-covid19.hchearts.com
-www.www.yria-covid19.hchearts.com
 www.yria-covid19.hchearts.com
 www0.paperg.com
 www038365.com
@@ -643493,6 +643480,3 @@ zzzzfordlinnetavox.com
 zzzzt5oeira.net
 zzzzzqp.com
 zzzzzzzzz.info
-
-
-
