@@ -2,16 +2,11 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Generated 19 October 2025 01:31:11 UTC
-# Total Domains: 86,359
+# Last Updated: 19 October 2025 01:49:09 UTC
+#
+# Domains: 86,359 | Added: 86,359 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
-#
-# List file size: 1.74 MB
-
-
-
-
 
 0-0.net.daraz.com
 0-0000-00000383vpnedf.gbc.criteo.com
@@ -86372,6 +86367,3 @@ zzpa3e62zt91c04r.docs.net.daraz.com
 zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 zzv2.net.daraz.com
-
-
-
