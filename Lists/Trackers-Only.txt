@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 19 October 2025 01:57:30 UTC
+# Last Updated: 21 October 2025 01:16:01 UTC
 #
-# Domains: 86,359 | Added: 86,359 | Removed: 0
+# Domains: 86,361 | Added: 86,361 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -27897,6 +27897,7 @@ hawaiianairlines.tt.omtrdc.net
 haxdym.min-breeder.com
 haymarketbusinesspublications.122.2o7.net
 hayneedle.com.102.122.2o7.net
+haystack.wavve.com
 hazawl.veke.fi
 hazmatworkshop.com
 hazy4cant.com
@@ -38664,6 +38665,7 @@ merchant-app.th3rdwave.coffee
 merchant-mail.neosurf.com
 merchant.libertycarz.com
 merchant.tt.omtrdc.net
+mercuryace.com
 mercuryinsurance.com.102.122.2o7.net
 mercyhealth.tt.omtrdc.net
 meremark.com
