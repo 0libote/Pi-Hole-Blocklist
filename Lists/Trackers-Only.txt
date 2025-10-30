@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 29 October 2025 01:18:55 UTC
+# Last Updated: 30 October 2025 01:18:35 UTC
 #
-# Domains: 87,024 | Added: 87,024 | Removed: 0
+# Domains: 87,030 | Added: 87,030 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -11835,6 +11835,7 @@ billing.tt.omtrdc.net
 billmelater.com.102.112.2o7.net
 billowybead.com
 billowybelief.com
+billtable.com
 bilsyndication.com
 biminibliss.rwbimini.com
 binarycrest.com
@@ -16487,6 +16488,7 @@ currentcollar.com
 curtaincows.com
 curvedheldideal.com
 curvedhoney.com
+curveshore.com
 curvycry.com
 cushiondrum.com
 cust01-cucm-sub-07-cl6.int.net.jumia.ug
@@ -23432,6 +23434,7 @@ free.tt.omtrdc.net
 freeadscanada.com
 freeadsonlineuk.com
 freebanner.com
+freedomgrail.com
 freelogs.com
 freemiumcom01.wt-eu02.net
 freeonlineusers.com
@@ -34644,6 +34647,7 @@ linksas.gbc.criteo.com
 linksbntest.branchcustom.xyz
 linkshighway.com
 linksmail.geosolinc.com
+linksoutside.com
 linkspine.insights.md
 linkspinedev.insights.md
 linkstorms.com
@@ -39036,6 +39040,7 @@ meson.ai
 mess.gbc.criteo.com
 message.alldata.com
 message.sonicwall.com
+messagelists.com
 messagenovice.com
 messages.blackhat.com
 messages1.com
@@ -61750,6 +61755,7 @@ popbcava.gbc.criteo.com
 popcapgames.122.2o7.net
 popcash.net
 popflawlessads.com
+popmixradio.com
 popmonetizer.com
 popmyads.com
 popplantation.com
