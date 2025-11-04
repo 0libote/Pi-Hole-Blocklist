@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 02 November 2025 01:21:02 UTC
+# Last Updated: 04 November 2025 01:16:38 UTC
 #
-# Domains: 86,289 | Added: 86,289 | Removed: 0
+# Domains: 86,291 | Added: 86,291 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -11710,6 +11710,7 @@ biglots.112.2o7.net
 biglots.tt.omtrdc.net
 bigpond.122.2o7.net
 bigtime.floridacitrussports.com
+bigworldfashion.com
 bijkep.hotelesestelar.com
 biken.gbc.criteo.com
 bikepaws.com
@@ -16034,6 +16035,7 @@ creatorcherry.com
 creatormail.co.uk
 creatorpassenger.com
 creators.gumroad.com
+creatorsnote.com
 creaturecabbage.com
 credishe.com
 creditacceptance.tt.omtrdc.net
