@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 11 November 2025 12:45:09 UTC
+# Last Updated: 12 November 2025 01:16:44 UTC
 #
-# Domains: 207,804 | Added: 207,804 | Removed: 0
+# Domains: 207,825 | Added: 207,825 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -68767,7 +68767,9 @@ betbnn.com
 betbolt.com
 betbonus-za.com
 betboo-casinoslot.com
+betboo.bet.br.cdn.cloudflare.net
 betboo.com
+betboo.com.cdn.cloudflare.net
 betboocasino.info
 betboocasino.top
 betbook.dev
@@ -68843,6 +68845,7 @@ betcenter-casino.org
 betcentercasino.org
 betcentral.com
 betcerto.net
+betcha.co.nz
 betchain-casino.com
 betchain.com
 betchain4.com
@@ -69665,6 +69668,7 @@ betmgm-online-casino.com
 betmgm.ca
 betmgm.co.uk
 betmgm.com
+betmgm.com.cdn.cloudflare.net
 betmgm.nl
 betmgm.se
 betmgmcasino-nl.com
@@ -75709,6 +75713,7 @@ borgatahotelcasinof.com
 borgatanightlife.tel
 borgatanitelife.com
 borgataonline.com
+borgataonline.com.cdn.cloudflare.net
 borgataonlinecasinousa.com
 borgatapoker.com
 borisbets.xyz
@@ -78078,6 +78083,7 @@ bwin.be
 bwin.buzz
 bwin.co
 bwin.com.ar
+bwin.com.cdn.cloudflare.net
 bwin.de
 bwin.dk
 bwin.es
@@ -82133,8 +82139,6 @@ casino402.com
 casino402.xyz
 casino41.ch
 casino440.com
-casino49042.online
-casino493.online
 casino4giants.com
 casino4money.com
 casino4tuns.com
@@ -93230,6 +93234,7 @@ coral-connect.mobi
 coral-connect.net
 coral-connect.org
 coral.co.uk
+coral.co.uk.cdn.cloudflare.net
 coralbingo.com
 coralcasino.com
 coralcasino.info
@@ -101439,6 +101444,7 @@ eurobet-casino-it.com
 eurobet-casino.org
 eurobet.bg
 eurobet.com
+eurobet.it.cdn.cloudflare.net
 eurobet365.com
 eurobet77.net
 eurobetcasino.eu
@@ -104179,6 +104185,7 @@ finlandsocialcasinos.com
 finlandsocialcasinos.fi
 finnishcasinobonuses.com
 finnishonlinecasinos.com
+finnplay.com
 finnslots.com
 finowlly.info
 finugor.com
@@ -105585,6 +105592,7 @@ foxy-casino.ca
 foxy-gold-casino.org
 foxy999.com
 foxybingo.com
+foxybingo.com.cdn.cloudflare.net
 foxycasino.bet
 foxycasino.com
 foxygames.com
@@ -108184,12 +108192,14 @@ galabets-resmigirisyap.com
 galabetsites.com
 galabingo.co.uk
 galabingo.com
+galabingo.com.cdn.cloudflare.net
 galabingocasino-uk.com
 galabingocasinoi.com
 galabingoclubs.co.uk
 galacasino.ca
 galacasino.co.uk
 galacasino.com
+galacasino.com.cdn.cloudflare.net
 galacasino.com.mx
 galacasino.online
 galacasino236.com
@@ -110702,6 +110712,7 @@ giocodigitale-casino-it.com
 giocodigitale-casino.net
 giocodigitale-casino.org
 giocodigitale.it
+giocodigitale.it.cdn.cloudflare.net
 giocodigitalecasino.co.uk
 giocodigitalecasino.org
 giocodigitalepoker.com
@@ -121250,6 +121261,7 @@ itonlinecasino.com
 itotalcasino.com
 itrello.com
 itscasinos.com
+itsfogo.com.cdn.cloudflare.net
 itsfortests.com
 itslots.shop
 itsnutspppoker.online
@@ -133274,15 +133286,21 @@ ladang88.co
 ladang88.net
 ladbrokers.com
 ladbrokes.be
+ladbrokes.be.cdn.cloudflare.net
 ladbrokes.com.au
+ladbrokes.com.cdn.cloudflare.net
 ladbrokes.de
 ladbrokes.dk
 ladbrokes.ie
 ladbrokes.it
+ladbrokesbelgium.be
+ladbrokesbelgium.be.cdn.cloudflare.net
 ladbrokescasino.mx
+ladbrokeshub.be
 ladbrokespartners.com
 ladbrokespoker.com
 ladbrokesraceclubs.com
+ladbrokesretail.be
 ladesbet.com
 ladies-slots.com
 ladstar.com
@@ -140913,7 +140931,6 @@ martin-zerkalocasino.fun
 martin-zerkalocasino.info
 martin.casino
 martin031.casino
-martin077.casino
 martin10.casino
 martin11.casino
 martin11casino.buzz
@@ -145470,7 +145487,6 @@ mobilecasinoscanada.net
 mobilecasinosg.xyz
 mobilecasinosireland.com
 mobilecasinosite.com
-mobiledeposit.casino
 mobilefotosapp.com
 mobilemeteor.com
 mobilemillions.co.uk
@@ -154990,6 +155006,7 @@ partybwin.co
 partybwin.com
 partybwinpartners.com
 partycasino-ro.com
+partycasino.com.cdn.cloudflare.net
 partycasino.es
 partycasino.lt
 partycasino.one
@@ -155013,6 +155030,7 @@ partygammon.com
 partymaker.live
 partymillion.net
 partypoker-bot.com
+partypoker.com.cdn.cloudflare.net
 partypoker.cz
 partypoker.de
 partypoker.es
@@ -180127,6 +180145,7 @@ sportingbet-slots.com
 sportingbet.co.za
 sportingbet.com
 sportingbet.com.au
+sportingbet.com.cdn.cloudflare.net
 sportingbet.de
 sportingbet.gr
 sportingbet.ru
@@ -193850,6 +193869,7 @@ vistabet-slots.com
 vistabet.com
 vistabet.com.gr
 vistabet.gr
+vistabet.gr.cdn.cloudflare.net
 vitaasli.xyz
 vitalbet.com
 vitibet.com
@@ -202307,6 +202327,7 @@ www-c54.com
 www-casinoplus.com
 www-dewa99.com
 www-ee88.com
+www-entaingroup-com.emperorhost.com
 www-faecbook-com.com
 www-godjogo.com
 www-google-vn.com
