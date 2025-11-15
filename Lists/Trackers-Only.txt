@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 13 November 2025 01:18:25 UTC
+# Last Updated: 15 November 2025 01:15:42 UTC
 #
-# Domains: 87,047 | Added: 87,047 | Removed: 0
+# Domains: 87,053 | Added: 87,053 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -14616,6 +14616,7 @@ cloud.webtrack.online
 clouda.gbc.criteo.com
 cloudapp-emailvision.net.daraz.com
 cloudapp.tt.omtrdc.net
+cloudchickens.com
 cloudcoins.biz
 cloudera.tt.omtrdc.net
 clouderrorreporting.googleapis.com
@@ -19135,6 +19136,7 @@ dollar.gbc.criteo.com
 dollardelta.com
 dollargeneral.tt.omtrdc.net
 dollarthriftyautomot.tt.omtrdc.net
+dollarthrill.com
 dolphin.deliver.ifeng.com
 dolphin.sfelc.com
 dolrfm.fotoregistro.com.br
@@ -19276,6 +19278,7 @@ dr6vcclmzwk74.cloudfront.net
 drabsize.com
 draganddropobjects.net.daraz.com
 dragerwerk.122.2o7.net
+dragonbats.com
 dragzebra.com
 drainpaste.com
 dramaticdirection.com
@@ -23022,6 +23025,7 @@ food.informaengage.com
 food.pentonmarketingsvcs.com
 food9wave.com
 foodbrochure.advancedtech.com
+foodczar.com
 fooders.eu
 foodfunfestivals.com
 foodpackaging.kpfilms.com
@@ -23428,6 +23432,7 @@ franoppnetwork.actonservice.com
 franticroof.com
 frasersproperty.tt.omtrdc.net
 fraudandcyberawareness.safeguard.hsbc.com
+fraysystems.com
 frbdzc.goguynet.jp
 frbmdx.fwrd.com
 frc.redcross.fi
@@ -66203,6 +66208,7 @@ seagull.wwnorton.com
 seahorsebio.actonsoftware.com
 seahorseinfo.agilent.com
 sealingdev.actonservice.com
+sealtravels.com
 seamarketny.actonservice.com
 seao.business.samsung.com
 seaofads.com
