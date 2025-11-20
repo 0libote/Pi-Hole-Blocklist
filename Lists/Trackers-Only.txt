@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 19 November 2025 01:17:28 UTC
+# Last Updated: 20 November 2025 01:16:07 UTC
 #
-# Domains: 87,050 | Added: 87,050 | Removed: 0
+# Domains: 87,056 | Added: 87,056 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -12197,6 +12197,7 @@ borders.112.2o7.net
 boredcrown.com
 boringberry.com
 boringcoat.com
+boringpirate.com
 borkaniosanos1.info
 borsaitalia01.wt-eu02.net
 bosctrl32.com
@@ -13169,6 +13170,7 @@ campaign.bpost.be.bpost.be
 campaign.csrxp.org
 campaign.daimlertruck.com
 campaign.ecalive.co.uk
+campaign.fbot.me
 campaign.fr.mazda.be
 campaign.glory-global.com
 campaign.grcrm.uow.edu.au
@@ -15885,6 +15887,7 @@ copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
 copyvibes.com
+coralcranes.com
 coralreverie.com
 core-apps.b-cdn.net
 core-cen-54.com
@@ -17780,6 +17783,7 @@ dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
 dd.sligro.nl
+dd.viator.com
 dd6zx4ibq538k.cloudfront.net
 ddbapp01.wt-eu02.net
 ddbelib01.wt-eu02.net
@@ -22953,6 +22957,7 @@ flixfacts.com
 flnkmj.hometogo.fr
 flog.pressplay.cc
 flonty.com
+floodedpixel.com
 floodprincipal.com
 floorforce.actonservice.com
 floridapowerandlight.tt.omtrdc.net
@@ -28670,6 +28675,7 @@ homedepotcanada.tt.omtrdc.net
 homedepotmx.tt.omtrdc.net
 homehardware.actonservice.com
 homelycrown.com
+homelyheater.com
 homepageking.de
 homepjlconline.com.112.2o7.net
 homepointfinancial.tt.omtrdc.net
