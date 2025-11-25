@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 22 November 2025 01:14:18 UTC
+# Last Updated: 25 November 2025 01:17:47 UTC
 #
-# Domains: 87,061 | Added: 87,061 | Removed: 0
+# Domains: 87,076 | Added: 87,076 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7253,6 +7253,7 @@ aep-target.credit-suisse.com
 aepxlg.adobe.com
 aerewardsae.com
 aerezb.nepamall.com
+aerialapps.com
 aerialmistaken.com
 aeromark.actonservice.com
 aeroviasdelcontinent.tt.omtrdc.net
@@ -8420,6 +8421,7 @@ analytics.pagefly.io
 analytics.palitra.ge
 analytics.pangle-ads.com
 analytics.partcommunity.com
+analytics.passes.com
 analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.phn.com
@@ -8703,6 +8705,7 @@ analyticsmsp.com
 analyticsnarc.ro.ing.net
 analyticsnossl.forcepoint.com
 analyticspixel.microsoft.com
+analyticsplusdev.clientify.net
 analyticsresults.bildungsforum.datev.de
 analyticsresults.datev-karriereblog.de
 analyticsresults.datev-magazin.de
@@ -12764,6 +12767,7 @@ budgetcarhire.112.2o7.net
 budibu.saksfifthavenue.com
 budsinc.com
 buf.lemonde.fr
+buffet.identityservices.io
 bug-dfe.gbc.criteo.com
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
@@ -23033,6 +23037,7 @@ followup2.independence.edu
 followup3.independence.edu
 followup4.independence.edu
 fomo.com
+fontserif.com
 foo.cosmocode.de
 food.informaengage.com
 food.pentonmarketingsvcs.com
@@ -23845,6 +23850,7 @@ g.whatsapp.net.iberostar.com
 g.yccdn.com
 g10102301085.co
 g10300385420.co
+g10498469755.co
 g11686975765.co
 g1188506010.co
 g11885060100.co
@@ -23852,6 +23858,7 @@ g12083144435.co
 g12281228770.co
 g1386590346.co
 g1584674682.co
+g1584674683.co
 g1584674684.co
 g1782759015.co
 g1782759016.co
@@ -23863,6 +23870,7 @@ g2048.rgluk.com
 g2575096355.co
 g2insights-cdn.azureedge.net
 g4p.redtram.com
+g594253006.co
 g6.tt.omtrdc.net
 g792337340.co
 g792337342.co
@@ -23873,6 +23881,7 @@ g9111879410.co
 g9508048080.co
 g9706132415.co
 g990421675.co
+g9904216750.co
 g990421676.co
 g993dvyzae.branch.salesfloor.net
 ga-beacon.appspot.com
@@ -24109,6 +24118,7 @@ gejzgq.gehaltsvergleich.com
 gel1.gosportmontagne.com
 gem.gbc.criteo.com
 gemoneysinsbicard2.112.2o7.net
+gemorganic.com
 genentech.tt.omtrdc.net
 generac.com.102.122.2o7.net
 generaleducation.graduateprogram.org
@@ -38547,6 +38557,7 @@ maxpat-tivogo.gbc.criteo.com
 maxtat.55truck.com
 maxtraffic.com
 maxymiser.net
+maybetony.com
 mayorschallenge.centreforpublicimpact.org
 mazaltov.gbc.criteo.com
 mazdamotorofamerica.tt.omtrdc.net
@@ -62809,6 +62820,7 @@ questdsgsupport.112.2o7.net
 questiacom.112.2o7.net
 questintegrity.actonservice.com
 question.snapiio.com
+questionate.com
 questionmarket.com
 questions.theanswerco.com
 questrominfo.bu.edu
@@ -67485,6 +67497,7 @@ showmax.hb.omtrdc.net
 showsteel.com
 shqmetrics.sony.com
 shr.gbc.criteo.com
+shredform.com
 shredquiz.com
 shrek.6.cn
 shrewsburyshow.com
@@ -77563,6 +77576,7 @@ tag.digops.sincro.io
 tag.eisa.mercari.com
 tag.elevaate.io
 tag.flagship.io
+tag.getamigo.io
 tag.getdrip.com
 tag.goldenbees.fr
 tag.imagino.com
@@ -84395,6 +84409,7 @@ web.abrigo.com
 web.ajostg.cfs.com.au
 web.ajostg.colonialfirststate.com.au
 web.akademiai.hu
+web.analytics.metrobyt-mobile.com
 web.araglegal.com
 web.autobodytoolmart.com
 web.b2bimperialfashion.com
