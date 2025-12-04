@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 03 December 2025 01:19:44 UTC
+# Last Updated: 04 December 2025 12:38:49 UTC
 #
-# Domains: 87,119 | Added: 87,119 | Removed: 0
+# Domains: 87,126 | Added: 87,126 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10183,6 +10183,7 @@ archiv.promatis.de
 archived.first.eloqua.extrahop.com
 archived.learn.eloqua.extrahop.com
 archived.thedrum.com
+arclet.net
 arcspire.io
 area51-ts.com
 arg.mail.always.com
@@ -13306,6 +13307,7 @@ capping.sirius.press
 capplanllc.actonservice.com
 capriciouscorn.com
 captainbicycle.com
+captainstick.com
 captchaclub.net.daraz.com
 captchaclub.usuario.net.daraz.com
 captifymedia.com
@@ -21533,6 +21535,7 @@ ess.tis.co.jp
 essaygiants.com
 essayspin.com
 essent.tt.omtrdc.net
+essential-apps-analytics.herokuapp.com
 essmnx.edreams.ch
 est-mta.b2b-mail.net
 est-regie.com
@@ -27716,6 +27719,7 @@ gotest.onefc.com
 gotest.real.co
 gotest.taillight.com
 gothaer01.webtrekk.net
+gotlunched.com
 goto.algolia.com
 goto.blackbox.com
 goto.firsttechfed.com
@@ -60312,6 +60316,7 @@ owaju01.webtrekk.net
 owavip.gbc.criteo.com
 owen.prolitteris.ch
 owlreporter.com
+owlstwo.com
 owlunimmvn.com
 owp-sg-prop.americanexpress.com
 owp-tw.americanexpress.com
@@ -61409,6 +61414,7 @@ pixel.nine.com.au
 pixel.nur.kz
 pixel.patch.com
 pixel.poptok.com
+pixel.propublica.org
 pixel.pub.lilyai.net
 pixel.redgifs.com
 pixel.roymorgan.com
@@ -76457,6 +76463,7 @@ stocks-analytics-events.apple.com
 stocktheme.com
 stomachscience.com
 stonechin.com
+stonepole.com
 stopstomach.com
 storage.lulu-row1.com
 storagekes.gbc.criteo.com
