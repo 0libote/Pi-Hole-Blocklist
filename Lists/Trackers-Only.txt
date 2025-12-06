@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 05 December 2025 01:20:11 UTC
+# Last Updated: 06 December 2025 01:15:59 UTC
 #
-# Domains: 85,824 | Added: 85,824 | Removed: 0
+# Domains: 85,828 | Added: 85,828 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -18208,6 +18208,7 @@ dis.us5.us.criteo.com
 disabled.tt.omtrdc.net
 disabledpartner.net.daraz.com
 disagreeabledrop.com
+discopond.com
 discountclick.com
 discounttireofameric.tt.omtrdc.net
 discover-car-hire.postaffiliatepro.com
@@ -22221,6 +22222,7 @@ flashplayerfeedback.adobe.com
 flashrouters.postaffiliatepro.com
 flashstats.libsyn.com
 flashtalking.com
+flashtexting.com
 flatex-at01.webtrekk.net
 flatex-de01.webtrekk.net
 flatex01.webtrekk.net
@@ -30883,6 +30885,7 @@ ins.wolterskluwerfs.com
 ins01.eulerian.net
 ins02.eulerian.net
 ins03.eulerian.net
+insectmacros.com
 insiderpagescom.122.2o7.net
 insideruser.trafficmanager.net
 insight.aon.com
@@ -51854,6 +51857,7 @@ monitoring.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 monitoring.iraiser.eu
 monitoring.nbg.webtrekk.com
 monitoring.res.gbc.criteo.com
+monkeyapes.com
 monkeysloveyou.com
 monkeystyping.com
 monkeytracker.cz
