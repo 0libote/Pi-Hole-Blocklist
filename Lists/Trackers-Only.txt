@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 06 December 2025 01:15:59 UTC
+# Last Updated: 09 December 2025 01:19:50 UTC
 #
-# Domains: 85,828 | Added: 85,828 | Removed: 0
+# Domains: 85,829 | Added: 85,829 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -72947,6 +72947,7 @@ sp.news-leader.com
 sp.news-press.com
 sp.nintendolife.com
 sp.northjersey.com
+sp.pcid.ca
 sp.pcoptimum.ca
 sp.postcrescent.com
 sp.poughkeepsiejournal.com
