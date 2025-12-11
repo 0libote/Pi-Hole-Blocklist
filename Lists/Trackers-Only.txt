@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 10 December 2025 01:21:31 UTC
+# Last Updated: 11 December 2025 01:22:25 UTC
 #
-# Domains: 86,564 | Added: 86,564 | Removed: 0
+# Domains: 86,566 | Added: 86,566 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -4911,6 +4911,7 @@ aazfby.auto.de
 aazmiw.reisenthel.com
 ab-machine.forbes.com
 ab.blogs.es
+ab.dns-finder.com
 ab.fanatical.com
 ab.oney.es
 ab.perfumesclub.com
@@ -59896,6 +59897,7 @@ p.circaworks.com
 p.classroombookings.com
 p.codio.com
 p.connorgp.com
+p.controld.com
 p.cquotient.com
 p.data.cctv.com
 p.diversityjobs.com
