@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 11 December 2025 01:22:25 UTC
+# Last Updated: 13 December 2025 01:17:30 UTC
 #
-# Domains: 86,566 | Added: 86,566 | Removed: 0
+# Domains: 86,571 | Added: 86,571 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -11420,6 +11420,7 @@ bigclicks.com
 bigcustomernetwork.actonservice.com
 bigdata.adups.com
 bigdata.clarin.com
+bigfishapparel.com
 bigfishgamesinc.tt.omtrdc.net
 bigfishgamesprodesntls.112.2o7.net
 bigfocusnews.fr
@@ -11645,6 +11646,7 @@ bluelp.2ask.blue.com.hk
 bluemarblepayroll.actonservice.com
 bluemercury.tt.omtrdc.net
 bluemountains.actonservice.com
+bluenest.net
 blueoceanpharma.actonservice.com
 blueoyster.click
 blueshieldca.tt.omtrdc.net
@@ -14854,6 +14856,7 @@ comparereaction.com
 compartamos.tt.omtrdc.net
 compatexchange1.trafficmanager.net
 competec.tt.omtrdc.net
+compilework.com
 completatusdatos.com
 completecabbage.com
 complexpixel.com
@@ -18138,6 +18141,7 @@ diana.bcava.gbc.criteo.com
 diana.gbc.criteo.com
 dianomi.com
 diboji.class101.net
+dicecandies.com
 diceinc.tt.omtrdc.net
 dicemoments.com
 dictionarycomllc.tt.omtrdc.net
@@ -38691,6 +38695,7 @@ meteachugood.holdmybeerconsulting.com
 meteora.us
 meter.bref.sh
 metin2.net.daraz.com
+metis.truecaller.com
 metlifeglobal.tt.omtrdc.net
 metric-nonssl.nomura.co.jp
 metric.1035thearrow.com
