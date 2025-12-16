@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 14 December 2025 01:27:20 UTC
+# Last Updated: 16 December 2025 01:22:54 UTC
 #
-# Domains: 85,578 | Added: 85,578 | Removed: 0
+# Domains: 85,592 | Added: 85,592 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7221,6 +7221,7 @@ ali-pro-pull.kwai.net.iberostar.com
 ali8.alinea.fr
 alias.cloud-marketing.dimensiondata.com
 aliasanvil.com
+alib.nine.com.au
 alibabapizza.openapp.link
 alicat.actonservice.com
 alicert-admincpicsr21.net.daraz.com
@@ -7536,6 +7537,7 @@ analytics-beacon.p.uliza.jp
 analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-egain.com
@@ -7769,6 +7771,7 @@ analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getpostman.com
 analytics.getshogun.com
+analytics.getsnworks.com
 analytics.gewaterheater.com
 analytics.global.sky.com
 analytics.gokwik.co
@@ -15267,6 +15270,7 @@ coordinator-production-28516768.us-east-1.elb.amazonaws.com
 cooyxg.tennis-point.de
 copilot-telemetry.githubusercontent.com
 copinesdevoyage-com.eulerian.net
+copperstills.net
 copy9loom.com
 copycarpenter.com
 copyfranchise.com
@@ -15439,6 +15443,7 @@ coventrybuildingsoci.tt.omtrdc.net
 coveritlive.com
 coverlayer.com
 covusde01.wt-eu02.net
+cowbelltime.com
 cowhmc.docmorris.de
 cowledges.com
 coww4.b2bmktg.com
@@ -18833,6 +18838,7 @@ e.preipobuzz.com
 e.prospertrading.com
 e.quizlet.com
 e.replacementdevicelawsuit.com
+e.revenue.cat
 e.securiflex.co.uk
 e.shop.app
 e.synchronybank.com
@@ -19468,6 +19474,7 @@ eidershop.eulerian.net
 eifeou.pandahall.com
 eiftfa.fashionette.de
 eightgreens.com
+eighthlayer.net
 eighthpowerfully.com
 eikwax.marmot.com
 eimcqw.dickies.com
@@ -27564,6 +27571,7 @@ hexagon-analytics.com
 hexal01.webtrekk.net
 hexusads.fluent.ltd.uk
 heyaxr.fashiondays.bg
+heycomputers.com
 hf.forevernetworks.com
 hfc195b.com
 hfd.bridgetowermedia.com
@@ -28208,6 +28216,7 @@ icthustivogo.gbc.criteo.com
 ictrjw.barcastores.com
 icul.envisant.com
 icul.lsc.net
+icywinter.com
 id-ward.com
 id.a-mx.com
 id.aftenbladet.no
@@ -34668,6 +34677,7 @@ madisonavenue.com
 madisoncres.actonservice.com
 madisonlogic.com
 madlysuccessful.com
+madoverrice.com
 madrid.cruzroja.es
 madrid.report.botm.transparentedge.io
 mads.cnet.com
@@ -79410,6 +79420,8 @@ tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cdiscount.com
+tracking.cds.dmm.co.jp
+tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
@@ -81998,6 +82010,7 @@ variouscreativeformats.com
 variousformatscontent.com
 varys.asongofzandc.xyz
 vatrack.hinet.net
+vault.gostatera.com
 vazulp.graniph.com
 vbe.eulerian.net
 vbe.voyage-prive.be
@@ -83458,6 +83471,7 @@ who.nie.easebar.com
 whoami.akamai.net.iberostar.com
 whoisonline.net
 whoisvisiting.com
+wholepagecache.com
 wholesale-comms.optus.com.au
 wholesaletraffic.info
 whoogled.com
