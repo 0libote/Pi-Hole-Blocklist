@@ -1,13 +1,3 @@
-# 0libote blocklists
-# List - Whitelist
-# GitHub: https://github.com/0libote/Pi-Hole-Blocklist
-#
-# Last Updated: 17 December 2025 01:17:20 UTC
-#
-# Domains: 643,471 | Added: 0 | Removed: 0
-#
-# List is updated daily adding and removing new and old domains
-
 0-0-0-0-0go.24ha7.com
 0-0-0-0-0proxy.emntest.com
 0-0-0-0-0proxy.sochy.org
