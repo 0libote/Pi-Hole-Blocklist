@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 17 December 2025 12:39:45 UTC
+# Last Updated: 18 December 2025 01:19:28 UTC
 #
-# Domains: 86,531 | Added: 943 | Removed: 4
+# Domains: 86,540 | Added: 9 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -707,6 +707,7 @@ a.ads2.msn.com
 a.aer.com
 a.alzcombocare.com
 a.amw.com
+a.apkeditor.io
 a.applvn.com
 a.aproductmsg.com
 a.as-eu.falkag.net
@@ -7334,6 +7335,7 @@ allseason.net.daraz.com
 allstarfg.actonservice.com
 allstate.122.2o7.net
 allstate.tt.omtrdc.net
+allsunflowers.com
 alltypo.com
 alluringbucket.com
 allvideometrika.com
@@ -11611,6 +11613,7 @@ blogspot.gbc.criteo.com
 blogtoplist.se
 bloomreach-api.haven.com
 bloomreach-cdn.haven.com
+bloomsend.com
 blsoof.wirwinzer.de
 blue-rocket.actonservice.com
 blue.nbc4i.com
@@ -27751,6 +27754,7 @@ hawaiianairlines.tt.omtrdc.net
 haxdym.min-breeder.com
 haymarketbusinesspublications.122.2o7.net
 hayneedle.com.102.122.2o7.net
+hayweb.net
 hazawl.veke.fi
 hazmatworkshop.com
 hazy4cant.com
@@ -28034,6 +28038,7 @@ highfalutinhoney.com
 highfalutinroom.com
 highlights-schadenmanager.schwacke.de
 highlights-schwackenet.schwacke.de
+highnoongear.com
 highperformancecpm.com
 highperformancecpmgate.com
 highperformancecpmnetwork.com
@@ -32189,6 +32194,7 @@ judaicawebstore.postaffiliatepro.com
 jufhxk.audienhearing.com
 juicebard.com
 juiceblocks.com
+juicingoasis.com
 juicyads.com
 jujtcq.amnibus.com
 juliethpaola.gbc.criteo.com
@@ -52403,6 +52409,7 @@ ms.dzen.ru
 ms.informaengage.com
 ms.topschooljobs.org
 ms.vk.com
+ms.vk.ru
 ms.www.ag.gbc.criteo.com
 ms1.morganstanley.com
 msa-emea.secureforms.partnermcafee.com
@@ -63147,6 +63154,7 @@ rentacar.eulerian.net
 rentcom.112.2o7.net
 rentinfinity.com
 renting.aldautomotive.es
+rentpenny.com
 repdata.12newsnow.com
 repdata.9news.com
 repdata.app.com
@@ -83321,6 +83329,7 @@ vitacost.tt.omtrdc.net
 vitalimages.actonservice.com
 vitalmedia.actonservice.com
 vitals.cgddrd.me
+vitals.flyingpress.com
 vitrade02.webtrekk.net
 vitrine.buscape.com.ar
 viu.actonservice.com
