@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 24 December 2025 12:38:27 UTC
+# Last Updated: 25 December 2025 01:23:05 UTC
 #
-# Domains: 490,553 | Added: 131 | Removed: 15
+# Domains: 490,557 | Added: 135 | Removed: 15
 #
 # List is updated daily adding and removing new and old domains
 
@@ -185262,6 +185262,7 @@ forward.leadpages.co
 forward.mdtrf.com
 forwarder.trackjs.com
 forwardpublishing-d.openx.net
+forwardslashetc.com
 forwardtest.simpli.fi
 forwardthinking.leadpages.co
 forwardtomyfriend.com
@@ -185282,6 +185283,7 @@ fossil.pxf.io
 fossil.sc.omtrdc.net
 fossil.vizury.com
 fossilgroup.demdex.net
+fossilzero.com
 fossp.omnitagjs.com
 fosspet.adx1.com
 fostos.com
@@ -185443,6 +185445,7 @@ foxit-pdf-editor.apponic.com
 foxit-software.com
 foxitsoftware.actonsoftware.com
 foxizecloud.firstpromoter.com
+foxlagoon.com
 foxlatam-kjlft4ujey.xid.segment.com
 foxmask.getambassador.com
 foxmvsdata.s.moatpixel.com
@@ -200825,6 +200828,7 @@ grayscaleart.com
 graysonline.tt.omtrdc.net
 graysonloupas-app.clickfunnels.com
 graytelevision.legacy.mymarketingreports.com
+graywords.net
 graz.chello.at
 graziadaily.onesignal.com
 grazianoscorona.getambassador.com
