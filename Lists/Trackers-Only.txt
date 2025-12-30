@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 29 December 2025 12:39:39 UTC
+# Last Updated: 30 December 2025 01:23:02 UTC
 #
-# Domains: 71,820 | Added: 0 | Removed: 0
+# Domains: 71,834 | Added: 19 | Removed: 5
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5544,6 +5544,7 @@ adm.kes.gbc.criteo.com
 adm.tt.omtrdc.net
 admanager-groceries.asda.com
 admaxium.com
+admetrics.events
 admin-advertising.roku.com
 admin-euw.ci360.sas.com
 admin-gce-eu-1.hb.omtrdc.net
@@ -6364,6 +6365,7 @@ allinde01.wt-eu02.net
 allinsurance.allinsure.ca
 allnipponairwayscolt.tt.omtrdc.net
 alloutdubstep.com
+alloy-web.zvuk.com
 allreach.actonservice.com
 allrisks.actonservice.com
 allseason.00-bootstrap.net.daraz.com
@@ -8205,6 +8207,7 @@ app.pandasuite.io
 app.panomoments.com
 app.pardot.com
 app.partner.fisglobal.com
+app.partnerboost.com
 app.pawsket.com
 app.payments-response.americanexpress.co.uk
 app.payments.53.com
@@ -9226,6 +9229,7 @@ avon.112.2o7.net
 avoq.gbc.criteo.com
 avp.labanquepostale.fr
 avs.adpinfo.com
+aw.perlesandco.com
 awakebird.com
 awap.equifax.com
 awaps.yandex.net
@@ -11798,6 +11802,7 @@ cdn-rum.ngenix.net
 cdn-xp-ingest-ab.v.aaplimg.com
 cdn-xp-ingest.edge.apple
 cdn.4patientcare.com
+cdn.9gtb.com
 cdn.adalytics.adastra.digital
 cdn.arcstudiopro.com
 cdn.atdmt.com
@@ -13066,6 +13071,7 @@ colliers.actonservice.com
 coloradoserves.com
 colorfulpet.com
 coloringisland.com
+coloroptimizer.com
 colors.chamoji.com
 colossalclouds.com
 colossalcoat.com
@@ -27435,6 +27441,7 @@ impact.go.economist.com
 impactcdn.com
 impactguns.postaffiliatepro.com
 impactradius-event.com
+imponestvional.com
 importantinfo.sainsburys.co.uk
 importantmeat.com
 importedinsect.com
@@ -29487,6 +29494,7 @@ ish.tumedia.no
 ishainsight.actonservice.com
 isharemetric.rediff.com
 isjoui.cainz.com
+islandssouth.com
 islandwebhelp.com
 ism-telemetry.trafficmanager.net
 iso.smartdealsemail.com
@@ -30048,6 +30056,7 @@ jupyter.eulerian.net
 just.playvici.com
 justconfig.com
 justicejudo.com
+justlagoon.com
 justpickaname.com
 justsayyes.infor.com
 justwebcards.com
@@ -31037,6 +31046,7 @@ layeredinsight.actonservice.com
 lazada.application.net.daraz.com
 lazy8krti.com
 lazychord.com
+lazyexplore.com
 lb-csr41.elastic.net.daraz.com
 lb-top700.b2bmktg.com
 lb.billing01.email-allstate.com
@@ -32249,6 +32259,7 @@ lit.connatix.com
 litbang.gbc.criteo.com
 literally-analytics.appspot.com
 littlefield.logs.roku.com
+littlesun.net
 live.alljobs.co.il
 live.applicationinsights.azure.cn
 live.applicationinsights.azure.com
@@ -32512,6 +32523,7 @@ logging.pw.adn.cloud
 loggingapi.spingo.com
 loggychops.paulsmith.site
 loghost-da.us.gbc.criteo.com
+logicalminds.net
 logicanalytics.io
 login-bg.as.criteo.net
 login-bg.criteo.net
@@ -37750,7 +37762,6 @@ metrics.steinhafels.com
 metrics.stockhead.com.au
 metrics.store.irobot.com
 metrics.strategiccoach.com
-metrics.streaks.jp
 metrics.striderite.com
 metrics.strokeawareness.com
 metrics.stubhub.co.uk
@@ -43092,6 +43103,8 @@ obqclg.dadway-onlineshop.com
 obqvss.debameubelen.be
 obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
+obs.branderblender.com
+obs.du89buildings.com
 obs.esnlocco.com
 obs.jollyoutdoorjogger.com
 obs.system1onesource.com
@@ -62186,6 +62199,7 @@ t.montecarlosbm.com
 t.msubobcats.com
 t.msuspartans.com
 t.msz-bahn.de
+t.mydialoginsight.com
 t.mynexity.fr
 t.nativendo.de
 t.navysports.com
@@ -62318,7 +62332,6 @@ t.vibe.co
 t.villanova.com
 t.virginiasports.com
 t.voyages-sncf.com
-t.vrbo.io
 t.vucommodores.com
 t.wayfair.ca
 t.wayfair.co.uk
@@ -64950,6 +64963,7 @@ tr.mep.enkiapp.io
 tr.mes-bonsplans.be
 tr.mes-prestataires.fr
 tr.message.maaf.fr
+tr.metaflow.de
 tr.mh-connect.moethennessy.com
 tr.mhch.moet.hennessy.com
 tr.mhdconnect.mhdfrance.fr
@@ -66524,6 +66538,7 @@ traeger.tt.omtrdc.net
 traffic-media.co
 traffic-media.co.uk
 traffic.acwebconnecting.com
+traffic.askrella.de
 traffic.hostedstatus.page
 traffic.shareaholic.com
 traffic.taktikal.is
@@ -66620,6 +66635,7 @@ trck.bdi-services.de
 trck.comms.watlow.com
 trck.coomeet.com
 trck.copeland.com
+trck.digiteka.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
 trck.employerservices.experian.com
@@ -67488,10 +67504,7 @@ ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
 um.contentstudio.io
-umami.aigenerations.net
-umami.askrella.de
 umami.flixer.su
-umami.heroku.uk
 umami.spencerdevs.xyz
 umami.vidfast.pro
 umami.wakarimasen.moe
@@ -69730,6 +69743,7 @@ wfmcgd.msccruzeiros.com.br
 wgeaqi.laredoute.gr
 wgnrrd.culturekings.com
 wgpepw.boatoutfitters.com
+wgs.wgs-static.com
 wgu.tt.omtrdc.net
 wgyapq.stormberg.com
 wh.ipaddress.com
