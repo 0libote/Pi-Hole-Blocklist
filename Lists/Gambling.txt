@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 30 December 2025 12:37:55 UTC
+# Last Updated: 31 December 2025 01:22:58 UTC
 #
-# Domains: 204,342 | Added: 335 | Removed: 1,567
+# Domains: 204,341 | Added: 2 | Removed: 3
 #
 # List is updated daily adding and removing new and old domains
 
@@ -66411,7 +66411,6 @@ bestcasinotricks.info
 bestcasinowinner.com
 bestcasinox.top
 bestchancecasino.com
-bestchinatour.com
 bestclovercasinos.com
 bestcrashgamecasino.com
 bestcryptocasino.games
@@ -90179,7 +90178,6 @@ casinox-rbf.top
 casinox-rfv.top
 casinox-rnq.top
 casinox-rp.xyz
-casinox-russia1.ru
 casinox-sk.top
 casinox-sqm.top
 casinox-ssq.top
@@ -109056,7 +109054,6 @@ gardenstatebets.com
 garderobpoker.ru
 garfieldpg.com
 garfopg.com
-garilla-casino-login.ru
 garilla-casino-ru.com
 garilla-casino.casino
 garillacasino.com
@@ -203356,6 +203353,7 @@ zdxwh.me
 zeb-poker.com
 zebet-casino-fr.com
 zebet.com
+zebet.es
 zebet.fr
 zebetcasino-fr.com
 zebono-casino-promocode.com
@@ -203706,6 +203704,7 @@ zettcasino.net
 zettcasino.now
 zettcasino.org
 zeturf.com
+zeturf.es
 zeturf.fr
 zeus-casino-ar.com
 zeus-pragmatic.ru
