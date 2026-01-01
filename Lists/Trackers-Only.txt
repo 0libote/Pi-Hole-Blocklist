@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 31 December 2025 12:38:08 UTC
+# Last Updated: 01 January 2026 01:41:55 UTC
 #
-# Domains: 72,904 | Added: 1,070 | Removed: 0
+# Domains: 72,911 | Added: 9 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7734,6 +7734,7 @@ apisda.us.gbc.criteo.com
 apisensor.actonservice.com
 apiserver.net.daraz.com
 apiserver.tt.omtrdc.net
+apitiny.net
 apiwmda.58.com.cn
 apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
@@ -14070,6 +14071,7 @@ cookingcom.112.2o7.net
 cookwareco.tt.omtrdc.net
 coolestcatcare.com
 coolguesthouse.com
+coolkidsdistrict.com
 coolmath.tt.omtrdc.net
 coop.custmta.com
 coop.vmware.com
@@ -17095,7 +17097,6 @@ dls-ddc.dqa.samsung.com
 dls-udc.dqa.samsung.com
 dls.di.runestone.samsung.com
 dls.guidrr.com
-dlswbr.baidu.com
 dluat.pokerbros.net
 dluat.supremapoker.net
 dlxpix.net
@@ -33191,6 +33192,7 @@ lovelydrum.com
 loveseashore.com
 lowercases.com
 lowermybills.actonsoftware.com
+lowerthewatts.net
 lowes.tt.omtrdc.net
 lowgxl.yokumoku.jp
 lowvolatilitysolutions.com
@@ -33422,6 +33424,7 @@ lucent.122.2o7.net
 lucid.mjhassoc.com
 luckyreferrals.com
 luckyreferrals.postaffiliatepro.com
+luckyshelf.com
 ludicrousarch.com
 luegnh.sneakercage.gr
 lufthansa01.webtrekk.net
@@ -33439,6 +33442,7 @@ lumpylumber.com
 lumpywood.com
 lumtjt.plumbingonline.ca
 luna.r.lafamo.com
+lunarcave.com
 lunchroomlock.com
 lundbeck.tt.omtrdc.net
 luptbq.lampsplus.com
@@ -33669,6 +33673,7 @@ madeleineprod01.wt-eu02.net
 madison.logs.roku.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madnessbuzz.com
 madoverrice.com
 madrid.cruzroja.es
 madrid.report.botm.transparentedge.io
@@ -38762,7 +38767,6 @@ mi.miliboo.lu
 mi4crawler.pandora.xiaomi.com
 miadhqsm4.alphonso.tv
 mialbj6.com
-miao.baidu.com
 mic.eulerian.net
 mic01.eulerian.net
 mic02.eulerian.net
@@ -41691,6 +41695,7 @@ mxhunv.kurz-mal-weg.de
 mxmacromedia.112.2o7.net
 mxmwqo.biosante.com.br
 mxpdsu.bhv.fr
+mxradon.com
 mxsvjc.hackers.ac
 my-account-lj.gbc.criteo.com
 my-account.criteo.com
@@ -47654,6 +47659,7 @@ pixel.sprinklr.com
 pixel.staging.web.roku.com
 pixel.tuko.co.ke
 pixel.veritone-ce.com
+pixel.visitiq.io
 pixel.web.roku.com
 pixel.wetracked.io
 pixel.wp.pl
@@ -59925,6 +59931,7 @@ spam.carte-gr.total.fr
 spambcava.gbc.criteo.com
 spamfighter.112.2o7.net
 spamtitan.actonservice.com
+spaning.creavite.co
 sparbusinessservices.tt.omtrdc.net
 sparda01.wt-eu02.net
 spareapp.com
