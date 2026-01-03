@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 02 January 2026 12:36:58 UTC
+# Last Updated: 03 January 2026 01:20:04 UTC
 #
-# Domains: 72,911 | Added: 0 | Removed: 0
+# Domains: 72,917 | Added: 6 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -12910,6 +12910,7 @@ cls7.theushuaiaexperience.com
 cls9.mimale.com
 cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
+cltr.willhaben.at
 cltxxq.cruises.united.com
 club-lj.gbc.criteo.com
 club.gbc.criteo.com
@@ -25995,6 +25996,7 @@ gtm.diamond.jp
 gtm.lercio.it
 gtm.mandesager.dk
 gtm.wise.com
+gtm.xtb.com
 gtmfsstatic.getgoogletagmanager.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
@@ -34753,6 +34755,8 @@ mantrafox.com
 mantual.pandora.xiaomi.com
 manufacturing.autodeskcommunications.com
 manulifefinancial.tt.omtrdc.net
+manydiamonds.com
+manyfishes.com
 map.rockwellautomation.com
 mapbasin.com
 mapcdn.cibcfcib.com
@@ -36509,6 +36513,7 @@ marrowleaves.com
 mars.www.ag.gbc.criteo.com
 marsh.actonservice.com
 marshinsurance.actonservice.com
+marsnextdoor.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
@@ -38913,6 +38918,7 @@ mixer.cupid.ptqy.gitv.tv
 mixomniture.rbs.com
 mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
+mixplays.com
 mixxuo.sportys.gr
 mizutr.gbc.criteo.com
 mj-snowplow-static-js.s3.amazonaws.com
