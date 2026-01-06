@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 05 January 2026 12:41:17 UTC
+# Last Updated: 06 January 2026 01:24:30 UTC
 #
-# Domains: 71,787 | Added: 0 | Removed: 0
+# Domains: 71,796 | Added: 9 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -25421,6 +25421,7 @@ grnext.crockpot-romania.ro
 grocerycrew.com
 grocerydog.com
 grofag.hollandandbarrett.ie
+groovespacing.com
 groovyornament.com
 grouchybrothers.com
 grouchypush.com
@@ -37378,6 +37379,7 @@ metrics.monclick.it
 metrics.moneta.cz
 metrics.moodys.com
 metrics.moosejaw.com
+metrics.morethings.digital
 metrics.morganshotelgroup.com
 metrics.morganstanley.com
 metrics.morningadvertiser.co.uk
@@ -38572,6 +38574,7 @@ more.groups.be
 more.socialflow.com
 more.spglobal.com
 more.transparency.org
+morefolks.com
 morefriendly.com
 moreinfo.onnowdigital.com
 moreinfo.powerpro360.com
@@ -40603,6 +40606,7 @@ mupmos.levis.com.au
 muqtti.motoin.de
 murcia.cruzroja.es
 mushywaste.com
+musicflashcard.com
 musicid.samsungcloudsolution.com
 mustang.logs.roku.com
 muteknife.com
@@ -41641,6 +41645,8 @@ ni8.lafuma-boutique.com
 ni8.lafuma.com
 niblewren.co
 nice3aiea.com
+nicefollows.com
+nid.mansionglobal.com
 nid.thesun.co.uk
 nid.thetimes.com
 nidays.austria.ni.com
@@ -43111,6 +43117,7 @@ observe-nexus.pointandplace.com
 observe.metarouter.io
 observer.ip-label.net
 obseu.netgreencolumn.com
+obsidiangems.com
 obtfhl.bellemaison.jp
 oca.microsoft.com
 oca.oncallair.com
@@ -62111,6 +62118,7 @@ t.iowaeventscenter.com
 t.irtyc.com
 t.itsehoitoapteekki.fi
 t.iuhoosiers.com
+t.jasper.ai
 t.jmusports.com
 t.jobsyn.org
 t.jossandmain.com
@@ -67775,6 +67783,7 @@ usdbbx.mmartan.com.br
 usdm.122.2o7.net
 usdomaincontrol.gbc.criteo.com
 use.fvr.to
+use.hetzner.com
 use.lunos.app
 use1.aws.external.logs.roku.com
 uselesslumber.com
