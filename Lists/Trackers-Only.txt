@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 07 January 2026 12:40:33 UTC
+# Last Updated: 08 January 2026 01:25:22 UTC
 #
-# Domains: 72,959 | Added: 1,163 | Removed: 0
+# Domains: 72,965 | Added: 6 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6812,6 +6812,7 @@ analytics.bleacherreport.com
 analytics.blue
 analytics.boing.es
 analytics.bolavip.com
+analytics.bomiv.com
 analytics.boomerangtv.co.uk
 analytics.box.com
 analytics.boxlunch.com
@@ -44014,6 +44015,7 @@ ojmxro.yatsan.com
 ojstejnuo72.alphonso.tv
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
+okaysurethat.com
 okbiz.gbc.criteo.com
 okc-5190.com
 okc-5191.com
@@ -44031,6 +44033,7 @@ old.tt.omtrdc.net
 oldandindie.com
 olddfe.gbc.criteo.com
 oldfashionedoffer.com
+oldportcoffee.com
 oldsite-ag.gbc.criteo.com
 oldsite.res.gbc.criteo.com
 oldus.gbc.criteo.com
@@ -44307,6 +44310,7 @@ one2.onestep.fr
 onebloodinc.tt.omtrdc.net
 onecloud.avaya.com
 onecollector.cloudapp.aria.akadns.net
+onecrow.net
 onedropocean.com
 onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
@@ -46665,6 +46669,7 @@ owavip.gbc.criteo.com
 owen.prolitteris.ch
 owlreporter.com
 owlstwo.com
+owltin.com
 owp-sg-prop.americanexpress.com
 owp-tw.americanexpress.com
 owpysc.lampenundleuchten.at
@@ -66532,6 +66537,7 @@ track.bcava.gbc.criteo.com
 track.bestbuy.ca
 track.bestpornsites.tv
 track.biz.lguplus.com
+track.bomiv.com
 track.btdmp.com
 track.buyma.com
 track.cafu.com
