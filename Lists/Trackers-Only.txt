@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 09 January 2026 12:39:22 UTC
+# Last Updated: 10 January 2026 01:22:46 UTC
 #
-# Domains: 72,965 | Added: 0 | Removed: 0
+# Domains: 72,970 | Added: 5 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -13257,6 +13257,7 @@ collector.mazeberry.com
 collector.megaxh.com
 collector.net-logger.com
 collector.pi.spectrum.net
+collector.pmc.com
 collector.quillbot.com
 collector.schibsted.io
 collector.spankbang.party
@@ -46915,6 +46916,7 @@ pailcrime.com
 pailpatch.com
 painstakingpickle.com
 paintersusainc.actonservice.com
+paintmogul.com
 paintpear.com
 pair1tune.com
 pairin.actonservice.com
@@ -47368,6 +47370,7 @@ petakfc.112.2o7.net
 petal.calyxflowers.com
 petamain.112.2o7.net
 petco.tt.omtrdc.net
+petitechili.com
 petplan.tt.omtrdc.net
 pets.channeladvisor.com
 pevdftpg7.alphonso.tv
@@ -47579,6 +47582,7 @@ pickmicro.com
 pico.logs.roku.com
 pics.domeus.com
 piddme.buyma.com
+pigeonkit.com
 pigeonsetc.com
 pigmentpaper.com
 pihxmq.98doci.com
@@ -48974,6 +48978,7 @@ quickkoala.io
 quicklyedit.com
 quickpcfixer.click
 quicksandear.com
+quicktrick.net
 quidel.actonservice.com
 quietknowledge.com
 quiksilver.eulerian.net
