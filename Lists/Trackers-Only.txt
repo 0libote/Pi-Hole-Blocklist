@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 12 January 2026 12:41:26 UTC
+# Last Updated: 13 January 2026 01:21:50 UTC
 #
-# Domains: 72,374 | Added: 0 | Removed: 0
+# Domains: 72,389 | Added: 15 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -706,6 +706,7 @@ a.munters.jp
 a.munters.nl
 a.munters.se
 a.munters.us
+a.n11.com
 a.nelo.mx
 a.ns.emailvision.net.daraz.com
 a.o2u.jp
@@ -7001,6 +7002,7 @@ analytics.ncaa.com
 analytics.neoogilvy.uy
 analytics.net.daraz.com
 analytics.net.dz.jumia.com
+analytics.netronline.dev
 analytics.newscred.com
 analytics.newsifier.nl
 analytics.nike.com
@@ -11062,6 +11064,7 @@ bucket.tt.omtrdc.net
 bucky-res.gbc.criteo.com
 buckykes.gbc.criteo.com
 bucyhq2.alphonso.tv
+buddycanvas.com
 budgetcarhire.112.2o7.net
 budibu.saksfifthavenue.com
 budwoc80.alphonso.tv
@@ -14157,6 +14160,7 @@ cp.eulerian.com
 cp.eulerian.eu
 cp.eulerian.fr
 cp.eulerian.net
+cp.filext.com
 cp.ir-central.irco.com
 cp.official-coupons.com
 cp.official-deals.co.uk
@@ -14210,6 +14214,7 @@ cpt.itv.com
 cpt.postnl.be
 cpt.postnl.nl
 cptec.gbc.criteo.com
+cpu-api.infor.pl
 cpu.samsungelectronics.com
 cpusall.112.2o7.net
 cpx.gbc.criteo.com
@@ -19878,6 +19883,7 @@ ev.stellarlabs.ai
 evasivejar.com
 evelynn-acbhk0.gbc.criteo.com
 evelynn.landing.ni.com
+evencoating.com
 evenement.ricoh.fr
 eveningtimes-gb.eveningtimes.co.uk
 event-api.rdstation.com.br
@@ -31415,6 +31421,7 @@ leadmanagement.leads360.com
 leadmanagement.velocify.com
 leads.commercial.keurig.com
 leads.goldenshovel.com
+leads.whatboxdigital.com
 leadsy.ai
 leadtracking.plumvoice.com
 leafpilot.com
@@ -48977,6 +48984,7 @@ recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
 recv.tbs.co.jp
+recyclehits.com
 red-by-sfr-fr.eulerian.net
 redazione.milanofinanza.it
 redbasketball.com
@@ -49839,6 +49847,7 @@ ro.lgsmartad.com
 roaddynamics.com
 roadrunner.tt.omtrdc.net
 roadwalks.com
+roamhousing.com
 roar9beer.com
 roberthalfintl.tt.omtrdc.net
 robertwoodjohnsonfou.tt.omtrdc.net
@@ -49886,6 +49895,7 @@ rowsrm.atasunoptik.com.tr
 roxtec.actonservice.com
 royalmailgroupltd.tt.omtrdc.net
 royalqueenseeds.postaffiliatepro.com
+royalsbagels.com
 royalsundaram.tt.omtrdc.net
 royalsweeper.com
 royzgi.giftishow.com
@@ -50191,6 +50201,7 @@ runwiththebull.meritor.com
 rup5.destinia.ru
 ruralrobin.com
 rus.miui.com
+rusticfrench.com
 rusticprice.com
 ruth8badb.com
 ruthlessdegree.com
@@ -51519,6 +51530,7 @@ saon6harz.com
 sap-dfe.gbc.criteo.com
 sapglobalmarketingin.tt.omtrdc.net
 sapi.tremendous.com
+sapnest.com
 sappmetrics.sprint.com
 sapres.gbc.criteo.com
 sardegna.gbc.criteo.com
@@ -51687,6 +51699,7 @@ scatteredheat.com
 scenicapparel.com
 scenicchicago.com
 scenicdrops.com
+scentedkindly.com
 scentsy.tt.omtrdc.net
 sch-alt-91.com
 sch-crt-91.com
@@ -66200,6 +66213,7 @@ track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
 track.zappos.com
+track1.avplayer.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
@@ -66756,6 +66770,7 @@ tracking.pgi.com
 tracking.piercingladies.de
 tracking.pioneer.com
 tracking.pirelli.com
+tracking.pixelz.com
 tracking.plascoid.com
 tracking.plinga.de
 tracking.precisely.com
