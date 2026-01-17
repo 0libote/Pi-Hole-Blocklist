@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 16 January 2026 12:39:17 UTC
+# Last Updated: 17 January 2026 01:21:58 UTC
 #
-# Domains: 73,451 | Added: 0 | Removed: 0
+# Domains: 73,459 | Added: 8 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6792,6 +6792,7 @@ analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
+analytics.animexx.de
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -7278,6 +7279,7 @@ analytics.verizon.com
 analytics.verizonwireless.com
 analytics.vgtimes.com
 analytics.villagehouse.jp
+analytics.vinovo.si
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
@@ -19774,6 +19776,7 @@ et92.eulerian.net
 et93.eulerian.net
 et94.eulerian.net
 et95.eulerian.net
+eta.animenewsnetwork.com
 eta.eulerian.com
 eta.eulerian.eu
 eta.eulerian.fr
@@ -27227,6 +27230,7 @@ ib.eulerian.net
 ibamolecular.actonservice.com
 ibbmfq.decameron.com
 ibbmly.moneymetals.com
+ibclick.stream
 ibe1.iberia.com
 ibf.smrtp.link
 ibfy.franklinpetfood.com
@@ -53889,6 +53893,7 @@ sharecare.tt.omtrdc.net
 shared.65twenty.com
 shared.jodel.com
 sharedev.passportpower.app
+sharedswap.com
 sharelink.oppvenuz.com
 sharen.oyorooms.com
 sharepoint-da.us.gbc.criteo.com
@@ -53917,6 +53922,7 @@ shhoix0fuonj0hz6.net.fidor.de
 shinypond.com
 ship.swacargo.com
 shipsmarter.idrivelogistics.com
+shirtseasons.com
 shirtsidewalk.com
 shiveringspot.com
 shiverscissors.com
@@ -54161,6 +54167,7 @@ skosgrill.openapp.link
 sksn.snowrental.com
 skst.skiset.com
 skullmagnets.com
+skullteeth.com
 skxbbj.clasic.jp
 sky.tt.omtrdc.net
 skyauction.122.2o7.net
@@ -60506,6 +60513,7 @@ sqripu.selsey.pl
 sqs.quoka.de
 sqtivj.vidaxl.hr
 sqtyz1.alphonso.tv
+squadtee.net
 squalidscrew.com
 squarecamel.com
 squealingturn.com
