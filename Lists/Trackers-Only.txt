@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 17 January 2026 12:35:01 UTC
+# Last Updated: 18 January 2026 01:40:37 UTC
 #
-# Domains: 73,459 | Added: 0 | Removed: 0
+# Domains: 72,562 | Added: 0 | Removed: 897
 #
 # List is updated daily adding and removing new and old domains
 
@@ -21,29 +21,21 @@
 0-am21.am6cba.gbc.criteo.com
 0-am210-am15cbawckhj16dau.am6cba.gbc.criteo.com
 0-astrologie.net.daraz.com
-0-cafw2cuaifsvnlnjqzehy0dk.bcava.gbc.criteo.com
 0-cafw3cuaifsvnlnjqzehy0dk.fed.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-apigateway.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-app.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-b-uat.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-dc.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-dfe.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-engima.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-jenkins.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-members.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-mijn.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-mp.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-ns3.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-par.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-ptr50.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-reviews.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-sb.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-storage.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-t.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-up.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-vip.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-vpn-nl0.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dk-webhook.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk-wordpress.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkblogs.cab.gbc.criteo.com
@@ -52,12 +44,9 @@
 0-cafw4cuaifsvnlnjqzehy0dkde.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkeuropewest.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkhera.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dkimogen.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkns5.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dksquirrelmail.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkssp-bidder-maxads-4.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dktesting.cab.gbc.criteo.com
-0-cafw4cuaifsvnlnjqzehy0dku.cab.gbc.criteo.com
 0-cafw4cuaifsvnlnjqzehy0dkvpn-jp2.cab.gbc.criteo.com
 0-cafw8cuaifsvnlnjqzehy3dk-cafw11cuaifsvnlnjqzehy3dk.def.gbc.criteo.com
 0-cafw8cuaifsvnlnjqzehy3dk.def.gbc.criteo.com
@@ -132,7 +121,6 @@
 10298198.m.sofi.org
 10298198.o.sofi.org
 102d.pandasuite.io
-103alertclickdistrictrd103alertclickdistrictrdd.gbc.criteo.com
 103cba.gbc.criteo.com
 104589611374374.mateti.net
 106075.genieessp.com
@@ -158,7 +146,6 @@
 123seks.net.daraz.com
 125.net.jumia.co.ke
 125611812418194.wt-eu02.net
-127re127rod.gbc.criteo.com
 12915784.care.sanvello.com
 12915784.help.sanvello.com
 12build.actonservice.com
@@ -180,7 +167,6 @@
 16i6nuuc2ej.koelewijn.nl
 175750679116864.wt-eu02.net
 176.net.jumia.ma
-176652923057792.wt-eu02.net
 180.60ag.gbc.criteo.com
 180.60gem.gbc.criteo.com
 18052925.im.intermiles.com
@@ -228,7 +214,6 @@
 1vyt1eguj27.ommasign.com
 2-cafw4cuaifsvnlnjqzehy2dk-cab.gbc.criteo.com
 2-cafw4cuaifsvnlnjqzehy2dk-us.gbc.criteo.com
-2-cafw4cuaifsvnlnjqzehy2dk.da.us.gbc.criteo.com
 2.brinkshome.com
 2.krayden.com
 2.mymoni.com
@@ -236,7 +221,6 @@
 2.tt.omtrdc.net
 2.wantsext.me
 2.worktango.io
-20.da.us.gbc.criteo.com
 20.edge46.testandtarget.omniture.com
 20.lj.gbc.criteo.com
 200-rockergod.com
@@ -244,7 +228,6 @@
 2015.apply.eemjr.backend.soporte.2016.commerce.crtdnb.axcloud.eu.preprod.gbc.criteo.com
 2016.commerce.crtdnb.axcloud.eu.preprod.gbc.criteo.com
 2017.tt.omtrdc.net
-2021.res.gbc.criteo.com
 208005830805862.wt-eu02.net
 209.sound.ag
 209.tt.omtrdc.net
@@ -255,7 +238,6 @@
 21fhq0t574p.talentkit.io
 21udflra4wd.app-dev.cainthus.com
 22-trk-srv.com
-221.sound.ag
 221.tt.omtrdc.net
 22153974.branch.rocks
 222.sound.ag
@@ -285,7 +267,6 @@
 2829i2p88jx.www.csaladinet.hu
 285545256993116.wt-eu02.net
 286813086616891.wt-eu02.net
-288group.postaffiliatepro.com
 29.b2bmktg.com
 2922qj5tf2n.swyftx.com.au
 292330999892453.wt-eu02.net
@@ -352,7 +333,6 @@
 3b38.pandasuite.io
 3bmeteoitalia01.wt-eu02.net
 3d.laserdesign.com
-3d.sso.reports.afsvq.hostmaster.2015.apply.eemjr.backend.soporte.2016.commerce.crtdnb.axcloud.eu.preprod.gbc.criteo.com
 3dm.3dimensional.com
 3dm.faro.com
 3esm.consubebe.es
@@ -469,7 +449,6 @@
 5jgwflo4y935b8udrp.www.pmn-nerez.cz
 5mc92su06suu.www.abhijith.page
 5pddfe.gbc.criteo.com
-5rer.park.b2bmktg.com
 5strands.postaffiliatepro.com
 6.dfe.gbc.criteo.com
 600483262075260.wt-eu02.net
@@ -490,7 +469,6 @@
 641523609775483.mateti.net
 641523609775483.wt-eu02.net
 642216731269756.mateti.net
-642216731269756.wt-eu02.net
 6519114.automated.almosafer.com
 6519114.automated.tajawal.com
 6519114.email.tajawal.com
@@ -1943,7 +1921,6 @@ a26612.actonservice.com
 a26629.actonservice.com
 a26632.actonservice.com
 a26634.actonservice.com
-a26642.actonsoftware.com
 a26648.actonservice.com
 a26650.actonservice.com
 a26655.actonservice.com
@@ -2371,7 +2348,6 @@ a33437.actonservice.com
 a33519.actonservice.com
 a33612.actonservice.com
 a33707.actonsoftware.com
-a33710.actonsoftware.com
 a33748.actonsoftware.com
 a33830.actonsoftware.com
 a33882.actonservice.com
@@ -2485,7 +2461,6 @@ a38026.actonsoftware.com
 a38028.actonservice.com
 a38031.actonservice.com
 a38137.actonservice.com
-a38143.actonsoftware.com
 a38230.actonsoftware.com
 a38256.actonservice.com
 a38265.actonsoftware.com
@@ -3158,7 +3133,6 @@ a45235.actonservice.com
 a45241.actonservice.com
 a45245.actonservice.com
 a45246.actonservice.com
-a45255.actonservice.com
 a45256.actonservice.com
 a45260.actonservice.com
 a45261.actonservice.com
@@ -4679,7 +4653,6 @@ a9198.actonsoftware.com
 a9643.actonservice.com
 a9727.actonservice.com
 a977.actonsoftware.com
-a9883.actonsoftware.com
 a9d8e7b6i5s.andgino.jp
 aa-aem.hamamatsu.com
 aa-metrics.aircard.jp
@@ -4795,7 +4768,6 @@ aamt.newsapp.telemundo.com
 aamt.today.com
 aan.bellemaison.jp
 aanalytics.adelaide.edu.au
-aanalytics.panduit.com
 aans.athome.com
 aaplepglobal.112.2o7.net
 aaqnpa.sizeofficial.se
@@ -4839,7 +4811,6 @@ abbqns.gowabi.com
 abbviecommercial.tt.omtrdc.net
 abc.bayer04.de
 abc.gbc.criteo.com
-abc.hb-api.omtrdc.net
 abc.hb.omtrdc.net
 abcam.tt.omtrdc.net
 abcd.coderays.com
@@ -4953,7 +4924,6 @@ ablink.news.felixmobile.com.au
 ablink.news.forhers.com
 ablink.news.gooseinsurance.com
 ablink.news.kfc.co.za
-ablink.news.theiconic.com.au
 ablink.newsletters1.motortrend.com
 ablink.newsletters2.motortrend.com
 ablink.notice.hoopladigital.com
@@ -5090,18 +5060,14 @@ academics01.webtrekk.net
 acadian-asset.actonservice.com
 acadomia.eulerian.net
 acadpartnershipsllc.tt.omtrdc.net
-acb-adserver.gbc.criteo.com
 acb-akamai.gbc.criteo.com
 acb.gbc.criteo.com
 acbhk0-auth.gbc.criteo.com
-acbhk0-bidder.gbc.criteo.com
-acbhk0-cafw4cuaifsvnlnjqzehy0dk.gbc.criteo.com
 acbhk0-cafw4cuaifsvnlnjqzehy2dk.gbc.criteo.com
 acbhk0-chronos.gbc.criteo.com
 acbhk0-controlp.gbc.criteo.com
 acbhk0-data.gbc.criteo.com
 acbhk0-demostatic.gbc.criteo.com
-acbhk0-duplo.gbc.criteo.com
 acbhk0-fileserver.gbc.criteo.com
 acbhk0-gum.gbc.criteo.com
 acbhk0-hercules.gbc.criteo.com
@@ -5111,7 +5077,6 @@ acbhk0-mercury.gbc.criteo.com
 acbhk0-rtb-global-2.gbc.criteo.com
 acbhk0-studio.gbc.criteo.com
 acbhk0-turk.gbc.criteo.com
-acbhk0.gbc.criteo.com
 acbhk0brand.gbc.criteo.com
 acbhk0cal.gbc.criteo.com
 acbhk0contacts.gbc.criteo.com
@@ -5123,16 +5088,13 @@ acbhk0em1976.gbc.criteo.com
 acbhk0enterpriseregistration.gbc.criteo.com
 acbhk0evelynn.gbc.criteo.com
 acbhk0extranets.gbc.criteo.com
-acbhk0ns16.gbc.criteo.com
 acbhk0sb.gbc.criteo.com
 acbhk0ticket.gbc.criteo.com
 acbhk0time.gbc.criteo.com
 acbhk0webconf.gbc.criteo.com
 acbhk0whm.gbc.criteo.com
 acbhk0win30.gbc.criteo.com
-acbhk0wsus.gbc.criteo.com
 acbp0020171456.page.tl
-acc-da.us.gbc.criteo.com
 acc-interactionext.net.daraz.com
 acc-link-ccontact.focuscura.com
 acc.info.lumxpert.signify.com
@@ -5179,11 +5141,9 @@ account.nl3.eu.criteo.com
 account.tt.omtrdc.net
 accountancy.bppeloqua.com
 accounting.frbservices.org
-accounting.kes.gbc.criteo.com
 accounting.res.gbc.criteo.com
 accounting.tt.omtrdc.net
 accountingdfe.gbc.criteo.com
-accountlj.gbc.criteo.com
 accountsdoor.com
 accountshd.gbc.criteo.com
 accstandardbank.tt.omtrdc.net
@@ -5256,7 +5216,6 @@ act.cwsglobal.org
 act.davistech.edu
 act.enli.net
 act.firstdata.com
-act.jonasconstruction.com
 act.lanap.com
 act.online.engineering.nyu.edu
 act.pivotpointsecurity.com
@@ -5635,16 +5594,13 @@ admin.totalpolitics.com
 admin.tt.omtrdc.net
 admin0-ag.gbc.criteo.com
 admin1-def.gbc.criteo.com
-admin2-def.gbc.criteo.com
 admin3-www.ag.gbc.criteo.com
-admin4-mail.gbc.criteo.com
 administradoradeserv.tt.omtrdc.net
 administrator-def.gbc.criteo.com
 administrator-freshegg.net.daraz.com
 administrator.b2bmktg.com
 administrator.net.daraz.com
 administrator.pnclassaction.com
-administrator.tt.omtrdc.net
 administrator.www.ag.gbc.criteo.com
 administratorcab.gbc.criteo.com
 administrators.net.daraz.com
@@ -5793,7 +5749,6 @@ ads-preview.criteo.com
 ads-preview.da.us.criteo.com
 ads-preview.da.us.preprod.criteo.com
 ads-preview.da1.vip.prod.criteo.com
-ads-preview.eu.criteo.com
 ads-preview.eu.gbc.criteo.com
 ads-preview.fr3.eu.criteo.com
 ads-preview.fr3.vip.prod.criteo.com
@@ -5822,12 +5777,10 @@ ads.beta.roku.com
 ads.bing.com
 ads.bingads.microsoft.com
 ads.cloud.huawei.com
-ads.criteo.com
 ads.da.us.criteo.com
 ads.da.us.preprod.criteo.com
 ads.da1.vip.prod.criteo.com
 ads.dandelionchocolate.jp
-ads.eu.criteo.com
 ads.eu.msn.com
 ads.fr3.eu.criteo.com
 ads.fr3.vip.prod.criteo.com
@@ -5856,7 +5809,6 @@ ads.sportsseoul.com
 ads.staging.roku.com
 ads.tikpage.com
 ads.twitter.com
-ads.us.criteo.com
 ads.us5.us.criteo.com
 ads.us5.vip.prod.criteo.com
 ads1.msads.net
@@ -5872,7 +5824,6 @@ adsdkprod.azureedge.net
 adserver.bing.com
 adserver.cab.gbc.criteo.com
 adserver.snapads.com
-adserverag.gbc.criteo.com
 adservice.google.de
 adservice.hani.co.kr
 adservices.roku.com
@@ -6015,7 +5966,6 @@ ae.eulerian.fr
 ae.eulerian.net
 ae.lgsmartad.com
 ae.oreilly.com
-ae01.eulerian.com
 ae01.eulerian.fr
 ae01.eulerian.net
 ae02.eulerian.com
@@ -6101,7 +6051,6 @@ affiliate.entireweb.com
 affiliate.fsastore.com
 affiliate.hsastore.com
 affiliate.htb-energy.co.jp
-affiliate.hypercentage.com
 affiliate.k-uno.co.jp
 affiliate.kaifect.com
 affiliate.kgcshop.jp
@@ -6125,7 +6074,6 @@ affiliates.r2net.com
 affiliates.templatemonster.com
 affiliates.thermoworks.com
 affiliates.tricentis.com
-affiliates.ultimatebundles.com
 affiliates.wegow.com
 affiliates.xeroshoes.com
 affiliatevip.gbc.criteo.com
@@ -6160,8 +6108,6 @@ ag-gbc6.gbc.criteo.com
 ag-gum.gbc.criteo.com
 ag-hr.gbc.criteo.com
 ag-ipv7.gbc.criteo.com
-ag-kor.gbc.criteo.com
-ag-log.gbc.criteo.com
 ag-tickets.gbc.criteo.com
 ag-va2.gbc.criteo.com
 ag-vip.gbc.criteo.com
@@ -6171,8 +6117,6 @@ ag.ad.lgsmartad.com
 ag.gbc.criteo.com
 ag.lgsmartad.com
 ag3pd.gbc.criteo.com
-agaccept.gbc.criteo.com
-agadministrator.gbc.criteo.com
 agamgreetingscom.112.2o7.net
 agamsterdam.gbc.criteo.com
 agbmcom.112.2o7.net
@@ -6185,7 +6129,6 @@ agegreetings.112.2o7.net
 agency-7-office.com
 agencycloud-52.com
 agenda.kes.gbc.criteo.com
-agendaacbhk0.gbc.criteo.com
 agentaspaarbank.tt.omtrdc.net
 agentcomm.mercuryinsurance.com
 ageo1xxpnwherodigitaltraining.112.2o7.net
@@ -6194,7 +6137,6 @@ agexpo.americanexpress.com
 aggalj.eloem.kr
 aggelakia.openapp.link
 aggle.net
-aghermes.gbc.criteo.com
 agile-company-247.com
 agile-company-365.com
 agile-enterprise-365.com
@@ -6218,7 +6160,6 @@ agnvbmaus.112.2o7.net
 agodaittivogo.gbc.criteo.com
 agonyshark.com
 agoqaa.stockmann.com
-agproduction.gbc.criteo.com
 agps-location-livenet.trafficmanager.net
 agps.location.live.net
 agptr6474.gbc.criteo.com
@@ -6384,7 +6325,6 @@ al03.eulerian.fr
 al03.eulerian.net
 alaburger.openapp.link
 aladdinupdate.blackrock.com
-alamedausd.ca.gbc.criteo.com
 alamocapital.actonservice.com
 alapita.openapp.link
 alarmticalc.gbc.criteo.com
@@ -6457,7 +6397,6 @@ alliancefrictionless.112.2o7.net
 alliansesamarbeidets.tt.omtrdc.net
 alliantdata.actonservice.com
 allianz-voyage-fr.eulerian.net
-allianz01.webtrekk.net
 allianzfr.custmta.fr
 alliedfundingcorp.actonservice.com
 allinde01.wt-eu02.net
@@ -6514,7 +6453,6 @@ altn.actonservice.com
 altopd.com
 altus.gbc.criteo.com
 alumni.as.gbc.criteo.com
-alumni.gbc.criteo.com
 alumni.qualfon.com
 alwaysahorse.com
 alwayscare.starmountlife.com
@@ -6534,7 +6472,6 @@ am5.vip.gbc.criteo.com
 am6.da.us.gbc.criteo.com
 am6.gbc.criteo.com
 am6.hpc.gbc.criteo.com
-am6.vip.gbc.criteo.com
 am6.vip.preprod.gbc.criteo.com
 am6.vip.prod.gbc.criteo.com
 am6cba.gbc.criteo.com
@@ -6827,7 +6764,6 @@ analytics.box.com
 analytics.boxlunch.com
 analytics.brave.com
 analytics.brickaward.com
-analytics.bruker.com
 analytics.canaltnt.es
 analytics.capitalgroup.com
 analytics.carambatv.ru
@@ -7215,7 +7151,6 @@ analytics.surfline.com
 analytics.sydney.edu.au
 analytics.synchrony.com
 analytics.tabichan.jp
-analytics.tatadigital.com
 analytics.tbs.com
 analytics.tcm.com
 analytics.teamcovenant.com
@@ -7395,7 +7330,6 @@ ange86-154auto-k5.b2bmktg.com
 ange917-44toolbar-s42.b2bmktg.com
 angebote.plex.com
 angebote.postbank.de
-angelabrudererch.gbc.criteo.com
 angiba.112.2o7.net
 angieslist.112.2o7.net
 angieslist.com.102.112.2o7.net
@@ -7427,7 +7361,6 @@ ans.avast.com
 ans.avast.ru
 ans.milb.com
 ans.mlb.com
-ans.sny.tv
 ans.worldbaseballclassic.com
 ans.yesnetwork.com
 ansm.gbc.criteo.com
@@ -7566,7 +7499,6 @@ apac.zendesk.com
 apaccsr31.proxy-emailvision.net.daraz.com
 apacenews.roche.com
 apache.net.daraz.com
-apache.vip.gbc.criteo.com
 apalmercom.122.2o7.net
 apartmentfinder.com.112.2o7.net
 apbspeakers.actonservice.com
@@ -7645,8 +7577,6 @@ api.ads.roku.com
 api.ads.xiaomi.com
 api.apiok.net.iberostar.com
 api.applicationinsights.azure.com
-api.as.criteo.com
-api.as.gbc.criteo.com
 api.aurogon.intl.miui.com
 api.autopilothq.com
 api.beta.ads.microsoft.com
@@ -7661,7 +7591,6 @@ api.content.intl.miui.com
 api.criteo.com
 api.crm.mandmdirect.com
 api.cupid.ptqy.gitv.tv
-api.dfe.gbc.criteo.com
 api.digitalpiloten.org
 api.distribution.hulu.com
 api.e-pfg.ca
@@ -7683,7 +7612,6 @@ api.e.victoriassecret.co.uk
 api.e.wallis.co.uk
 api.e.warehousefashion.com
 api.e1.nextdirect.com
-api.ea.eulerian.com
 api.ea.eulerian.eu
 api.ea.eulerian.fr
 api.ea.eulerian.net
@@ -7721,10 +7649,8 @@ api.weltevree.eu
 api.wipmania.com
 api.xmpush.global.xiaomi.com
 api0-lj.gbc.criteo.com
-api1-lj.gbc.criteo.com
 api4-as.gbc.criteo.com
 api4-dfe.gbc.criteo.com
-api4.mp.gbc.criteo.com
 apidocs-winter.net.daraz.com
 apidocs.net.daraz.com
 apidocs.tt.omtrdc.net
@@ -7750,7 +7676,6 @@ apilog-web.acfun.cn
 apis-dfe.gbc.criteo.com
 apis-vip.gbc.criteo.com
 apis.4bn.xyz
-apiscab.gbc.criteo.com
 apisda.us.gbc.criteo.com
 apisensor.actonservice.com
 apiserver.net.daraz.com
@@ -7767,8 +7692,6 @@ apnonline.112.2o7.net
 apodiscounterpl01.webtrekk.net
 apollogroupinc.tt.omtrdc.net
 apolloint.tt.omtrdc.net
-apollon.gbc.criteo.com
-apollores.gbc.criteo.com
 aponeo01.webtrekk.net
 aporg.112.2o7.net
 app-branch.yummybazaar-qa.com
@@ -7917,7 +7840,6 @@ app.citibikenyc.com
 app.citylink.ro
 app.classiccenter.com
 app.clientbook.com
-app.cloud.gbc.criteo.com
 app.clovia.com
 app.cmnet.cf
 app.coconuts.co
@@ -8618,7 +8540,6 @@ applets.ebxcdn.com
 appleworldwidedeveloper-stage.hb-api.omtrdc.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 applicatifs.ricoh.fr
-application-spring.net.daraz.com
 application.gbc.criteo.com
 application.mindshine.app
 application.mybiglove.ru
@@ -8635,7 +8556,6 @@ application.tt.omtrdc.net
 applicationdocsnewnautilus12345proxy3.net.daraz.com
 applicationinsights.azure.com
 applicationinsights.microsoft.com
-applications.net.daraz.com
 applications.tt.omtrdc.net
 applicationsnginx.net.daraz.com
 appliedmaterialsinc.tt.omtrdc.net
@@ -8749,7 +8669,6 @@ appuat.intermiles.com
 apqcjj.celford.com
 apqmxf.curama.jp
 apress.efscle.com
-april-dfe.gbc.criteo.com
 april.bcava.gbc.criteo.com
 april.dfe.gbc.criteo.com
 apssdc.epoise.com
@@ -8772,7 +8691,6 @@ aquaticowl.com
 aqvqsekdpw89.alphonso.tv
 aqwvwn.cultfurniture.com
 ar-ad-lgsmartad-com.aws-prd.net
-ar-vip.gbc.criteo.com
 ar.ad.lgsmartad.com
 ar.allrun.fr
 ar.atelier-romeo.com
@@ -8825,7 +8743,6 @@ aria.events.data.trafficmanager.net
 aria.inhaabit.com
 ariane.abtasty.com
 ariba.112.2o7.net
-ariba.tt.omtrdc.net
 arid5glop.com
 arigng.door.ac
 arincol.arin-innovation.com
@@ -8852,7 +8769,6 @@ art2wave.actonservice.com
 artannnov01.wt-eu02.net
 arte.gbc.criteo.com
 artemis-cdn.ocdn.eu
-article.gbc.criteo.com
 artisan.actonservice.com
 artistchristinacarmel.ericksonbuilt.com
 artlist.postaffiliatepro.com
@@ -8865,13 +8781,9 @@ arvwwu.stepstone.be
 as-beta.gbc.criteo.com
 as-bug.gbc.criteo.com
 as-cdn.gbc.criteo.com
-as-cms0.gbc.criteo.com
 as-dd.gbc.criteo.com
 as-dfe.gbc.criteo.com
-as-domain-controller.gbc.criteo.com
 as-ex.gbc.criteo.com
-as-feedback.gbc.criteo.com
-as-gbc5.gbc.criteo.com
 as-inte.gbc.criteo.com
 as-mijn.gbc.criteo.com
 as-mobil.gbc.criteo.com
@@ -8896,7 +8808,6 @@ as.businessinsider.de
 as.bz-berlin.de
 as.computerbild.de
 as.fitbook.de
-as.gbc.criteo.com
 as.metal-hammer.de
 as.mirapodo.de
 as.musikexpress.de
@@ -8914,7 +8825,6 @@ as.wieistmeineip.de
 as.yomonda.de
 as2.saiglobal.com
 as3.io
-asadmin1.gbc.criteo.com
 asadventure.tt.omtrdc.net
 asahibeer.112.2o7.net
 asamgd.rossmann.de
@@ -8932,11 +8842,9 @@ ascassociation.actonservice.com
 ascbdj.knivesandtools.de
 ascendintegratedmedia.actonservice.com
 ascentcrm.actonservice.com
-ascloudflare.gbc.criteo.com
 ascmart.abphotos.link
 asco.hb-api.omtrdc.net
 ascpqnj-oam.global.ssl.fastly.net
-ascrm.gbc.criteo.com
 asd.bauhaus.at
 asd.bauhaus.es
 asd.bauhaus.hr
@@ -8945,7 +8853,6 @@ asd.bauhaus.lu
 asd.nl.bauhaus
 asdfg23.com
 asdns.gbc.criteo.com
-asdynamic.gbc.criteo.com
 ase.adserver.snapads.com
 aseads.com
 asentech-dev.actonservice.com
@@ -9012,7 +8919,6 @@ assembly.gbc.criteo.com
 assetdtmamcom.112.2o7.net
 assetdtmewm.112.2o7.net
 assetmanagement.att.com
-assets-def.gbc.criteo.com
 assets.9gtb.com
 assets.channelplay.in
 assets.datarize.ai
@@ -9043,7 +8949,6 @@ assets2.suncorpbank.com.au
 assets2.terrischeer.com.au
 assets2.vanz.vero.co.nz
 assets2.vero.co.nz
-assetswww.ag.gbc.criteo.com
 assicurazione.conte.it
 assinatura.marketingbmg.bancobmg.com.br
 assistancetrack.changehealthcare.com
@@ -9136,7 +9041,6 @@ atlantablackstar.black.news
 atlantichealth.tt.omtrdc.net
 atlanticlabequipment.actonservice.com
 atlanticmedia.122.2o7.net
-atlas.r.akipam.com
 atlascopco.tt.omtrdc.net
 atlaslj.gbc.criteo.com
 atlassian.122.2o7.net
@@ -9154,7 +9058,6 @@ ato04.eulerian.net
 atom-log.3.cn
 atresmedia.hb.omtrdc.net
 ats.alot.com
-ats.gbc.criteo.com
 ats.otto.de
 atsmetrics.adobe.com
 atsmobile.actonservice.com
@@ -9168,7 +9071,6 @@ attmx.tt.omtrdc.net
 attorney.findlaw.com
 attorneymarketingnetwork1.actonsoftware.com
 attractionbanana.com
-attributionday.com
 attributiontrackingga.googlecode.com
 atumanera.burgerking.com.mx
 atv01.webtrekk.net
@@ -9363,7 +9265,6 @@ avivapl.112.2o7.net
 avivaplproduction.112.2o7.net
 avivauk.122.2o7.net
 avivauk.tt.omtrdc.net
-avmail.gbc.criteo.com
 avnet.actonservice.com
 avnet.com.102.122.2o7.net
 avnet.tt.omtrdc.net
@@ -9408,7 +9309,6 @@ ax-mms.autoexpress.co.uk
 ax.babe.today
 ax.idg.se
 axafrance.tt.omtrdc.net
-axalta.wt-eu02.net
 axentis.arclogics.com
 axfevh.bandab.com.br
 axiomaticanger.com
@@ -9576,7 +9476,6 @@ azg1.emalu-store.com
 azlyta.immowelt.de
 azscgj.penningtons.com
 azuberndpulchmedotcomcareerse.net.daraz.com
-azullinhasaereas.tt.omtrdc.net
 azure.bingads.microsoft.com
 azure.bingads.trafficmanager.net
 azure.net.daraz.com
@@ -9697,12 +9596,10 @@ b.zedge.me
 b0.yahoo.co.jp
 b02.black.ndmdhs.com
 b0b.vip.gbc.criteo.com
-b1.app.cloud.gbc.criteo.com
 b1bmktg.soa-router2-range06-129xroads.b2bmktg.com
 b1n.carabins.umontreal.ca
 b1tow9h4erpw.anur.polymerdev.com
 b20p6lt350nt.app.polymersearch.com
-b2b-dfe.gbc.criteo.com
 b2b-lj.gbc.criteo.com
 b2b.angi.com
 b2b.angieslist.com
@@ -9720,21 +9617,17 @@ b2binfo.canon-europe.com
 b2binsider.adobe.com
 b2blatam.page.com
 b2bleadgen.demandscience.com
-b2blj.gbc.criteo.com
 b2bmarketing.swisscom.ch
 b2bmarketingsb.swisscom.ch
 b2bmarketingsb.swisscom.com
-b2bmks.b2bmktg.com
 b2bmkt.lge.co.kr
 b2bmktg-pra.auth-nsstagingiv.mobile.b2bmktg.com
 b2bmktg.b2bmktg.com
 b2bmktg.cowww5b-engine.b2bmktg.com
 b2bmktg.cowww7b-engine.b2bmktg.com
 b2bmktg.storemx7h9-engine.b2bmktg.com
-b2bnam.page.com
 b2buk.page.com
 b2c-unleash-proxy.fresha.com
-b3b-as.gbc.criteo.com
 b3b-us.gbc.criteo.com
 b3mxnuvcer.com
 b4b-as.gbc.criteo.com
@@ -9758,7 +9651,6 @@ bablace.com
 babyblissgifts.com
 babycentercom.112.2o7.net
 bac.gbc.criteo.com
-bac.teller.gbc.criteo.com
 bacau.gbc.criteo.com
 baccarat.abzorbagames.com
 backend.as.gbc.criteo.com
@@ -9865,7 +9757,6 @@ bark.postaffiliatepro.com
 barp3.bordeaux.aeroport.fr
 barracuda.carte-gr.total.fr
 barrbennett-cbd.lee-associates.com
-baruwativogo.gbc.criteo.com
 bas.b2bmktg.com
 baseboosters.com
 basilfish.com
@@ -9960,9 +9851,7 @@ bcava-noc.gbc.criteo.com
 bcava-os.gbc.criteo.com
 bcava-promotion.gbc.criteo.com
 bcava-pt.gbc.criteo.com
-bcava-squirrel.gbc.criteo.com
 bcava-test3.gbc.criteo.com
-bcava-tpe.gbc.criteo.com
 bcava-vpn-nl0.gbc.criteo.com
 bcava.gbc.criteo.com
 bcavacafw4cuaifsvnlnjqzehy2dk.gbc.criteo.com
@@ -9971,19 +9860,13 @@ bcavacfg.gbc.criteo.com
 bcavaclient.gbc.criteo.com
 bcavacommercemax-cdn.gbc.criteo.com
 bcavadevelopers.gbc.criteo.com
-bcavaftp4.gbc.criteo.com
-bcavalisa.gbc.criteo.com
 bcavaptr49.gbc.criteo.com
 bcavaroot.gbc.criteo.com
-bcavasso.gbc.criteo.com
-bcavastatus.gbc.criteo.com
 bcavasun.gbc.criteo.com
-bcavat.gbc.criteo.com
 bcavatemp.gbc.criteo.com
 bcavatesting0.gbc.criteo.com
 bcavathreestage.gbc.criteo.com
 bcavatrial.gbc.criteo.com
-bcavawork.gbc.criteo.com
 bcbsks.com.102.112.2o7.net
 bcbsnc.tt.omtrdc.net
 bcc-ltd.actonservice.com
@@ -10116,7 +9999,6 @@ bellsouth.net.daraz.com
 bellsouth.northamerica.net.daraz.com
 belluna.122.2o7.net
 bellwholesale.bell.ca
-belogin.directories.gbc.criteo.com
 belointeractive.122.2o7.net
 belong.curtin.edu.au
 ben10.gbc.criteo.com
@@ -10258,7 +10140,6 @@ bi.tt.omtrdc.net
 biberukalap.com
 bibglj.timberland.fr
 biblioteca-dfe.gbc.criteo.com
-biblioteca-www.ag.gbc.criteo.com
 bibliotecakes.gbc.criteo.com
 bibliotheque.ville.gbc.criteo.com
 bicp-analytics.postscript.io
@@ -10419,7 +10300,6 @@ blava.viessmann.sk
 blavity.black.news
 bldr.mkt.samsung.com
 ble.ubm-licensing.com
-bleach.gbc.criteo.com
 bleachbubble.com
 bleachscarecrow.com
 bleedlight.com
@@ -10461,10 +10341,7 @@ blog21.gbc.criteo.com
 blog23.gbc.criteo.com
 blog25.gbc.criteo.com
 blog28.gbc.criteo.com
-blog40.gbc.criteo.com
-blog46.gbc.criteo.com
 blog47.gbc.criteo.com
-blog52.gbc.criteo.com
 blog56.gbc.criteo.com
 blog6.gbc.criteo.com
 blog65.gbc.criteo.com
@@ -10501,7 +10378,6 @@ bluemountains.actonservice.com
 bluenest.net
 blueoceanpharma.actonservice.com
 blueoyster.click
-blueshieldca.tt.omtrdc.net
 bluevinebooks.com
 blume02.wt-eu02.net
 blume2000.wt-eu02.net
@@ -10572,7 +10448,6 @@ bnutnr.landandfarm.com
 bnvsjg.hometogo.de
 bnwhgdi66.alphonso.tv
 bny.tt.omtrdc.net
-bnymellon.tt.omtrdc.net
 bnzkua.trussardi.com.br
 bo-ad-lgsmartad-com.aws-prd.net
 bo.ad.lgsmartad.com
@@ -10627,7 +10502,6 @@ bookda.us.gbc.criteo.com
 booking.getwaitnot.com
 booking.net.daraz.com
 bookings-dfe.gbc.criteo.com
-bookings.da.us.gbc.criteo.com
 bookings.mp.gbc.criteo.com
 bookings.net.daraz.com
 bookingsus.gbc.criteo.com
@@ -10673,7 +10547,6 @@ boucou.fr
 bounce.arb.pg.com
 bounce.arg.mail.gillette.com
 bounce.arg.mail.herbalessences.com
-bounce.arg.mail.pg.com
 bounce.blogs.otto.de
 bounce.bra.mail.gillette.com
 bounce.bra.mail.herbalessences.com
@@ -11100,7 +10973,6 @@ bruceclay.112.2o7.net
 brugocarz.eccocar.com
 bruisebaseball.com
 bruker-marketing.actonsoftware.com
-bruker-nano.actonsoftware.com
 brukerbiospin.tt.omtrdc.net
 brukernano.actonservice.com
 brunswickcorporation.tt.omtrdc.net
@@ -11130,7 +11002,6 @@ bsc01.eulerian.net
 bsc02.eulerian.net
 bsc03.eulerian.net
 bsc04.eulerian.net
-bsd-dfe.gbc.criteo.com
 bsd.da.us.gbc.criteo.com
 bsdvjjug6.alphonso.tv
 bsh01.webtrekk.net
@@ -11153,7 +11024,6 @@ bsw.da.us.gbc.criteo.com
 bsytzb.hago.kr
 bt-res.gbc.criteo.com
 bt.tt.omtrdc.net
-bt0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 btaconnect.americanexpress.at
 btaconnect.americanexpress.co.uk
 btaconnect.americanexpress.de
@@ -11195,13 +11065,10 @@ bubblewrapp.actonservice.com
 bubblyaction.com
 bubu.gbc.criteo.com
 buchch02.webtrekk.net
-buchde01.webtrekk.net
 buchde02.webtrekk.net
 bucket-da.us.gbc.criteo.com
 bucket.net.daraz.com
 bucket.tt.omtrdc.net
-bucky-res.gbc.criteo.com
-buckykes.gbc.criteo.com
 bucyhq2.alphonso.tv
 buddycanvas.com
 budgetcarhire.112.2o7.net
@@ -11234,7 +11101,6 @@ bulk.api.sandbox.bingads.microsoft.com
 bulkbookstore.actonservice.com
 bulkedittool-campaigns-api.criteo.com
 bulkedittool-campaigns-api.eu.criteo.com
-bulkedittool-campaigns-api.eu.gbc.criteo.com
 bulkedittool-campaigns-api.fr3.vip.prod.criteo.com
 bulkedittool-campaigns-api.nl3.eu.criteo.com
 bulkedittool-campaigns-api.nl3.vip.prod.criteo.com
@@ -11526,26 +11392,20 @@ caamcs.julipet.it
 caapp.levi.com
 cab-accept.gbc.criteo.com
 cab-account.gbc.criteo.com
-cab-accounts.gbc.criteo.com
 cab-administrator.gbc.criteo.com
 cab-am3.gbc.criteo.com
 cab-as.gbc.criteo.com
 cab-contact.gbc.criteo.com
-cab-cpanel.gbc.criteo.com
 cab-desktop.gbc.criteo.com
 cab-directory.gbc.criteo.com
 cab-domaincontrol.gbc.criteo.com
 cab-ektron.gbc.criteo.com
-cab-email-analytics.gbc.criteo.com
 cab-foro.gbc.criteo.com
 cab-forums.gbc.criteo.com
 cab-gis.gbc.criteo.com
-cab-ipmi.gbc.criteo.com
 cab-mercury.gbc.criteo.com
 cab-osx.gbc.criteo.com
 cab-rtb-taboola.gbc.criteo.com
-cab-ssl.gbc.criteo.com
-cab-url1218.gbc.criteo.com
 cab.gbc.criteo.com
 cab.watson.microsoft.com
 cabacceptatie.gbc.criteo.com
@@ -11574,10 +11434,8 @@ cablevisuowcom.112.2o7.net
 cablogin-dev.gbc.criteo.com
 cabnew.gbc.criteo.com
 cabns24.gbc.criteo.com
-cabpop.gbc.criteo.com
 cabprd.gbc.criteo.com
 cabsiteadmin.gbc.criteo.com
-cabstaff.gbc.criteo.com
 cabstaticdemo.gbc.criteo.com
 cacbhk0.gbc.criteo.com
 cache.datamart.windows.com
@@ -11593,13 +11451,11 @@ cafefrench.com
 cafescampfires.com
 cafirebreather.com
 cafw3cuaifsvnlnjqzehy0dk-vip.gbc.criteo.com
-cafw3cuaifsvnlnjqzehy0dkcab.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy0dk-lj.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy0dk.vip.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy0dk0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy0dkcab.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy1dk-as.gbc.criteo.com
-cafw4cuaifsvnlnjqzehy1dk-kes.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy1dkag.gbc.criteo.com
 cafw4cuaifsvnlnjqzehy3dk-vip.gbc.criteo.com
 cafw7cuaifsvnlnjqzehy0dk.vip.gbc.criteo.com
@@ -11625,7 +11481,6 @@ callondoc.postaffiliatepro.com
 callousbrake.com
 callsource.actonservice.com
 calltrack.co
-calm.gbc.criteo.com
 calmradio.actonservice.com
 calmstudent.com
 calpis.112.2o7.net
@@ -11724,7 +11579,6 @@ campaigns.verisk.com
 campaigns.wordandbrown.com
 campaigns.xactware.com
 camping-and-co.eulerian.net
-campuscard.gbc.criteo.com
 campustech.com
 can.goepson.com
 canada.tt.omtrdc.net
@@ -11827,7 +11681,6 @@ carfaxsubscriberwebsite.112.2o7.net
 cargas.actonservice.com
 cargdk.bakerross.co.uk
 cargo.aircanada.com
-cargosite.aircanada.com
 cargurus.actonservice.com
 carhartt.com.102.112.2o7.net
 caringcast.com
@@ -11921,7 +11774,6 @@ caterpillarsigns.tt.omtrdc.net
 cathayunitedbank.tt.omtrdc.net
 cati.mcad.com
 catimini-boutique-com.eulerian.net
-catmer-oocn.gbc.criteo.com
 catracking.cubiq.com
 catracking.finning.com
 cats.d20.rs
@@ -11940,7 +11792,6 @@ cb-mms.carbuyer.co.uk
 cb.tablethotels.com
 cba.122.2o7.net
 cba.gbc.criteo.com
-cbafr2.gbc.criteo.com
 cbc.122.2o7.net
 cbc.pnc.com
 cbcca.hb.omtrdc.net
@@ -12018,7 +11869,6 @@ ccpd.jet2.com
 ccpd.jet2holidays.com
 ccrg.tt.omtrdc.net
 ccrgaviscom.112.2o7.net
-ccs2.ua.edu
 ccservicesinc.tt.omtrdc.net
 cctrkom.creditcards.com
 ccxspcacy49.alphonso.tv
@@ -12420,7 +12270,6 @@ chesscrowd.com
 chessquery.com
 chevalierusa.actonservice.com
 chevrolet.marketing
-chevronlubricants.tt.omtrdc.net
 chghowardjohnson.112.2o7.net
 chgmanagement.tt.omtrdc.net
 chgsupereight.112.2o7.net
@@ -12488,7 +12337,6 @@ chronischepancreatitis.nl
 chrooo.soccerandrugby.com
 chubb.tt.omtrdc.net
 chubbycreature.com
-chuheng.gbc.criteo.com
 chumtv.122.2o7.net
 chunkycactus.com
 churchofjesuschrist.hb-api.omtrdc.net
@@ -12651,7 +12499,6 @@ citizensbank.tt.omtrdc.net
 citizensclimate.actonservice.com
 citizenship.gbc.criteo.com
 citizenship.quantresear.ch
-citrix.mp.gbc.criteo.com
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
@@ -12712,7 +12559,6 @@ clarity.microsoft.com
 clarium.global.ssl.fastly.net
 clarks.custmta.com
 claruscommerce.actonservice.com
-classaction.gbc.criteo.com
 classeditori01.webtrekk.net
 classeditoridev01.wt-eu02.net
 classicnotebook.com
@@ -12883,7 +12729,6 @@ client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
 client-metrics.chess.com
-client-res.gbc.criteo.com
 client-side-metrics.as.criteo.net
 client-side-metrics.criteo.net
 client-side-metrics.da.us.criteo.net
@@ -12907,7 +12752,6 @@ client.perimeterx.net
 client.trustaff.com
 client.tt.omtrdc.net
 clientapi-samsung.dtignite.com
-clientas.gbc.criteo.com
 clientcenter.api.bingads.microsoft.com
 clientcenter.api.sandbox.bingads.microsoft.com
 clientlog.music.163.com
@@ -13006,7 +12850,6 @@ cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
-club-lj.gbc.criteo.com
 club.gbc.criteo.com
 club.res.gbc.criteo.com
 clubmed.112.2o7.net
@@ -13088,13 +12931,11 @@ cmrcustomer.americanexpress.co.uk
 cmrcustomer.americanexpress.es
 cmrhvx.lojapegada.com.br
 cms-stats-view.vitrinabox.com
-cms.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 cms.net.daraz.com
 cms.sec.miui.com
 cms.tt.omtrdc.net
 cms0mp.gbc.criteo.com
 cms1-mail.gbc.criteo.com
-cms1hinet.net.daraz.com
 cms3dfe.gbc.criteo.com
 cmsdfe.gbc.criteo.com
 cmsqd1.alphonso.tv
@@ -13214,7 +13055,6 @@ co.eulerian.eu
 co.eulerian.fr
 co.eulerian.net
 co.lgsmartad.com
-co.medina.gbc.criteo.com
 co.stark.gbc.criteo.com
 co.tt.omtrdc.net
 co01.eulerian.net
@@ -13395,7 +13235,6 @@ com.102.122.207.net
 com.atlanta.gbc.criteo.com
 com.au.ssl.sc.citizensbank.tt.omtrdc.net
 com.b2bmktg.com
-com.baltimore.gbc.criteo.com
 com.carte-gr.total.fr
 com.detroit.gbc.criteo.com
 com.econa.com
@@ -13406,7 +13245,6 @@ com.sound.ag
 com.ssl.d1.sc.citizensbank.tt.omtrdc.net
 com.ssl.sc.citizensbank.tt.omtrdc.net
 com.ssl.sc.tt.omtrdc.net
-com.toronto.gbc.criteo.com
 com.tt.omtrdc.net
 com.vancouver.gbc.criteo.com
 comag.gbc.criteo.com
@@ -13573,7 +13411,6 @@ community.hill-murray.org
 community.keeperz.app
 community.newcastle.edu.au
 community.weforum.org
-communityfed.gbc.criteo.com
 commute.srpgo.com
 compaid.aosag.net
 companies.tt.omtrdc.net
@@ -13661,7 +13498,6 @@ confirm.ptvgroup.com
 confirmglobal.com
 confluence-bcava.gbc.criteo.com
 confluence.tt.omtrdc.net
-confluencedfe.gbc.criteo.com
 confusedcart.com
 congstar01.webtrekk.net
 conimicutlighthouse.viessmann-us.com
@@ -13893,7 +13729,6 @@ consent.ipswichstar.co.uk
 consent.iqdigital.de
 consent.islingtongazette.co.uk
 consent.ksta.de
-consent.mopo.de
 consent.mz-web.de
 consent.newhamrecorder.co.uk
 consent.nl3.eu.criteo.com
@@ -13921,7 +13756,6 @@ consulting.guidehouse.com
 consulting.icmi.com
 consulting.mcgladrey.com
 consulting.ramboll.com
-consumentenbond.tt.omtrdc.net
 consumer.equifax.com
 consumer.inform.equifax.com
 consumercellular.tt.omtrdc.net
@@ -13946,7 +13780,6 @@ contact.kdg-yobi.com
 contact.kensington.com
 contact.kikusuiamerica.com
 contact.lesmills.com
-contact.lj.gbc.criteo.com
 contact.marathon-sports-ec.com
 contact.nalgene.com
 contact.neutral.nl
@@ -13983,7 +13816,6 @@ container.tt.omtrdc.net
 container2.vip.gbc.criteo.com
 containermail.gbc.criteo.com
 containerus.gbc.criteo.com
-content-mp.gbc.criteo.com
 content-strl.courses-en-ligne.carrefour.fr
 content.360resourcing.co.uk
 content.4teamwork.ch
@@ -14333,7 +14165,6 @@ counters.libertaddigital.com
 coup7cold.com
 couponchief.122.2o7.net
 courageousbaby.com
-courts.gbc.criteo.com
 covenant.psjhealth.org
 coventrybuildingsoci.tt.omtrdc.net
 coverlayer.com
@@ -14341,7 +14172,6 @@ covusde01.wt-eu02.net
 cowbelltime.com
 cowhmc.docmorris.de
 coww4.b2bmktg.com
-cowww5b-engine.b2bmktg.com
 cowww7b-engine.b2bmktg.com
 coxhsi.112.2o7.net
 coxnet.112.2o7.net
@@ -14366,7 +14196,6 @@ cp.official-deals.co.uk
 cp.phiilu.com
 cp.pushwoosh.com
 cp.rootielearning.com
-cp.tt.omtrdc.net
 cp1.eulerian.com
 cp1.eulerian.eu
 cp1.eulerian.fr
@@ -14383,7 +14212,6 @@ cp3.eulerian.eu
 cp3.eulerian.fr
 cp3.eulerian.net
 cp4.eulerian.com
-cp4.eulerian.eu
 cp4.eulerian.fr
 cp4.eulerian.net
 cp5.eulerian.com
@@ -14443,7 +14271,6 @@ cqz6fn6aox.aporia.com
 cr-ad-lgsmartad-com.aws-prd.net
 cr.ad.lgsmartad.com
 cr.lgsmartad.com
-cr3.gbc.criteo.com
 cra.gbc.criteo.com
 crabbychin.com
 crackedsafe.com
@@ -14474,7 +14301,6 @@ creaturecabbage.com
 creditacceptance.tt.omtrdc.net
 creditcardscom.112.2o7.net
 creditkarmainc.tt.omtrdc.net
-creditreform01.wt-eu02.net
 creditreform02.wt-eu02.net
 creditsafebusinessso.tt.omtrdc.net
 crepemania.openapp.link
@@ -14502,7 +14328,6 @@ crm.givelively.org
 crm.ironmountain.com
 crm.landing.ni.com
 crm.leads360.com
-crm.lk.bookmyshow.com
 crm.mandmdirect.com
 crm.masonmac.com
 crm.smu.edu
@@ -14573,8 +14398,6 @@ cse.avlyun.sec.miui.com
 cse3.chausport.com
 csghyg.reginaclinic.jp
 csgui.gbc.criteo.com
-csidiomas.gbc.criteo.com
-csie.gbc.criteo.com
 csikcsak-otthona.gbc.criteo.com
 csm-magnetintell.eulerian.net
 csm.magnetintell.com
@@ -14633,7 +14456,6 @@ csr41.net.daraz.com
 csr41.photo.net.daraz.com
 csr41.stage-spyder-pdp.application.net.daraz.com
 css.gbc.criteo.com
-css.pardot.com
 css6.docmorris.fr
 cssmps40.alphonso.tv
 cstat-lb.apple.com.akadns.net
@@ -14874,7 +14696,6 @@ cvlb.dev
 cvm.leroymerlin.it
 cvoyrn.astotel.com
 cvpthv.vipoutlet.com
-cvs-lj.gbc.criteo.com
 cvs.com.102.112.2o7.net
 cvs.flir.com
 cvs.tt.omtrdc.net
@@ -14977,7 +14798,6 @@ d-snapshotapp.progressive.com
 d-staging.groc.press
 d-uat.as.criteo.com
 d-uat.criteo.com
-d-uat.da.us.criteo.com
 d-uat.da.us.preprod.criteo.com
 d-uat.eu.criteo.com
 d-uat.fr3.eu.criteo.com
@@ -15008,7 +14828,6 @@ d.m-net.de
 d.mail.levi.com
 d.nativendo.de
 d.nl3.eu.criteo.com
-d.ns.emailvision.net.daraz.com
 d.omsnative.de
 d.rp-online.de
 d.santemagazine.fr
@@ -15079,7 +14898,6 @@ d24rtvkqjwgutp.cloudfront.net
 d276.ourmidland.com
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
-d2fn4b420ej631.gbc.criteo.com
 d2gbtcuv3w9qyv.cloudfront.net
 d2i34c80a0ftze.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -15117,7 +14935,6 @@ d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3fqdikr1e3d38-www.gbc.criteo.com
 d3gi6isrskhoq.cloudfront.net
-d3i4t85h54vfzg.gbc.criteo.com
 d3iouejux1os58.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
@@ -15142,7 +14959,6 @@ d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d401.dollartree.com
 d4ax0r5detcsu.cloudfront.net
-d53bpfpeyyyn7.gbc.criteo.com
 d5yoctgpv4cpx.cloudfront.net
 d6ek.pandasuite.io
 d6rak4b14t5gp.cloudfront.net
@@ -15154,7 +14970,6 @@ da-cam.us.gbc.criteo.com
 da-fed.us.gbc.criteo.com
 da-ghcpi.us.gbc.criteo.com
 da-invoicepayment.us.gbc.criteo.com
-da-log.us.gbc.criteo.com
 da-mailadmin.us.gbc.criteo.com
 da-ns14.us.gbc.criteo.com
 da-ora.us.gbc.criteo.com
@@ -15191,7 +15006,6 @@ da.ugbc.preprod.gbc.criteo.com
 da.uprivacyenhancingplatform.preprod.gbc.criteo.com
 da.uprivacyenhancingplatform.userverlua-aws-fr-43.gbc.criteo.com
 da.us.gbc.criteo.com
-da.us.preprod.gbc.criteo.com
 da.usparta.gbc.criteo.com
 da0.dfe.gbc.criteo.com
 da0bcava.gbc.criteo.com
@@ -15208,11 +15022,9 @@ da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 da2as.gbc.criteo.com
 da6pd.us.gbc.criteo.com
 daaccept.us.gbc.criteo.com
-daapril.us.gbc.criteo.com
 dabu.askmediagroup.com
 dach.getinge.com
 dach.intersystems.de
-dachef.us.gbc.criteo.com
 dacocorp.actonservice.com
 dadalytics.it
 dadev4.us.gbc.criteo.com
@@ -15222,7 +15034,6 @@ dadn.gbc.criteo.com
 daegis.actonservice.com
 daes.us.gbc.criteo.com
 dafirewall.us.gbc.criteo.com
-dafuture.us.gbc.criteo.com
 dafvng.sunrefre.jp
 daifez.thebay.com
 daily.pray.com
@@ -15699,7 +15510,6 @@ data.mistat.rus.xiaomi.com
 data.mkt.qb.intuit.com
 data.mktg.daytonainternationalspeedway.com
 data.mktg.nfl.com
-data.mktg.subway.com
 data.mmail.northeast.aaa.com
 data.msg.wegmans.com
 data.msgs.westpac.com.au
@@ -15826,7 +15636,6 @@ data.umfrage.ayyildiz.de
 data.umfrage.blau.de
 data.umfrage.nettokom.de
 data.umfrage.whatsappsim.de
-data.us.gbc.criteo.com
 data.vdi-wissensforum.de
 data.vevor.com
 data.vinsolutions.com
@@ -15854,7 +15663,6 @@ data1.virginplus.ca
 data2.gosquared.com
 database-cab.gbc.criteo.com
 database01p.anixe.net
-databasedfe.gbc.criteo.com
 databeacon.apple.com
 databi.ad.xiaomi.com
 databizitalia01.wt-eu02.net
@@ -15887,7 +15695,6 @@ daveandbusters.tt.omtrdc.net
 davey.actonservice.com
 davines.postaffiliatepro.com
 davis.dsaco.com
-davms.us.gbc.criteo.com
 daw0.us.gbc.criteo.com
 dawn3host.com
 dawp.us.gbc.criteo.com
@@ -15935,7 +15742,6 @@ dc.bluecoat.com
 dc.di.atlas.samsung.com
 dc.di.runestone.samsung.com
 dc.dqa.samsung.com
-dc.kes.gbc.criteo.com
 dc.kfz-steuercheck.de
 dc.luzygas.ahorraconrepsol.com
 dc.madridistas.com
@@ -16039,7 +15845,6 @@ dd6zx4ibq538k.cloudfront.net
 ddbapp01.wt-eu02.net
 ddbelib01.wt-eu02.net
 ddbreg01.wt-eu02.net
-ddguhg.wickes.co.uk
 ddioce.wolverine.com
 ddlbr.timesclub.co
 ddlcvm.clas.style
@@ -16086,7 +15891,6 @@ debug-ue1.perf.pardot.com
 debug.pardot.com
 debug.perf.pardot.com
 dec-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
-dec-fed.gbc.criteo.com
 dec.vip.gbc.criteo.com
 decidedrum.com
 decisivebase.com
@@ -16148,7 +15952,6 @@ def.bayer04.de
 def.gbc.criteo.com
 def1.optimhome-recrutement.com
 defalumni.gbc.criteo.com
-defamerica.gbc.criteo.com
 defanalytics.gbc.criteo.com
 default-internal.3pd.criteo.com
 default-internal.3pd.eu.criteo.com
@@ -16163,14 +15966,12 @@ default-internal.apigateway.as.criteo.com
 default-internal.apigateway.criteo.com
 default-internal.apigateway.eu.criteo.com
 default-internal.apigateway.us.criteo.com
-default-internal.b-uat.as.criteo.com
 default-internal.b-uat.criteo.com
 default-internal.b-uat.eu.criteo.com
 default-internal.b.as.criteo.com
 default-internal.b.criteo.com
 default-internal.b.eu.criteo.com
 default-internal.bae.criteo.com
-default-internal.bae.eu.criteo.com
 default-internal.bae.us.criteo.com
 default-internal.bidder.as.criteo.com
 default-internal.bidder.criteo.com
@@ -16178,9 +15979,7 @@ default-internal.bidder.eu.criteo.com
 default-internal.bidder.us.criteo.com
 default-internal.bulkedittool-campaigns-api.criteo.com
 default-internal.bulkedittool-campaigns-api.eu.criteo.com
-default-internal.buy.as.criteo.com
 default-internal.buy.criteo.com
-default-internal.buy.eu.criteo.com
 default-internal.cas.as.criteo.com
 default-internal.cat.criteo.com
 default-internal.cat.eu.criteo.com
@@ -16206,7 +16005,6 @@ default-internal.exam-pca.eu.criteo.com
 default-internal.exam-pca.us.criteo.com
 default-internal.extranets.as.criteo.com
 default-internal.extranets.eu.criteo.com
-default-internal.fledge.as.criteo.com
 default-internal.fledge.eu.criteo.com
 default-internal.fledgereporting.as.criteo.com
 default-internal.fledgereporting.criteo.com
@@ -16226,7 +16024,6 @@ default-internal.gum.us.criteo.com
 default-internal.gumi.as.criteo.com
 default-internal.gumi.criteo.com
 default-internal.info.as.criteo.com
-default-internal.info.eu.criteo.com
 default-internal.marketing-cdn.as.criteo.com
 default-internal.marketing-cdn.criteo.com
 default-internal.marketplace.eu.criteo.com
@@ -16238,7 +16035,6 @@ default-internal.my-account.eu.criteo.com
 default-internal.partners.eu.criteo.com
 default-internal.pca.criteo.com
 default-internal.pca.eu.criteo.com
-default-internal.pmc.criteo.com
 default-internal.pmc.eu.criteo.com
 default-internal.privacy-info.as.criteo.com
 default-internal.privacy-info.criteo.com
@@ -16387,13 +16183,10 @@ demoapp.bloomreach.com
 demojobsapp.epoise.com
 demorewards.com
 demoshop.webtrekk.com
-demostatic-ag.gbc.criteo.com
 demostatic.criteo.com
 demostatic.eu.criteo.com
-demostatic.eu.gbc.criteo.com
 demostatic.fr3.eu.criteo.com
 demostatic.fr3.vip.prod.criteo.com
-demostration-cab.gbc.criteo.com
 deneyenlerbilir.postaffiliatepro.com
 deng3rada.com
 dennispublishing.112.2o7.net
@@ -16403,7 +16196,6 @@ dentsplysirona.tt.omtrdc.net
 denver.thexlife.co
 denverpost.112.2o7.net
 dep.hmgroup.com
-depdata.gbc.criteo.com
 dependable-s.hyster.com
 dependenttrip.com
 deployinput.com
@@ -16501,7 +16293,6 @@ detnmz.livestrong.com
 detnmz.sapling.com
 detnmz.techwalla.com
 detourgame.com
-detroit.gbc.criteo.com
 deu.pg.com
 deut1.fdj.fr
 deut2.fdj.fr
@@ -16555,7 +16346,6 @@ dev2-park.b2bmktg.com
 dev2.range85-122xroads.b2bmktg.com
 dev2.range86-122xroads.b2bmktg.com
 dev2.range86-162xroads.b2bmktg.com
-dev2.range86-329xroads.b2bmktg.com
 dev4-vip.gbc.criteo.com
 dev4.vip.gbc.criteo.com
 dev8.range86-122xroads.b2bmktg.com
@@ -16564,12 +16354,10 @@ devcar10.net.daraz.com
 devel-da.us.gbc.criteo.com
 develoapacment-dns1.freshegg.net.daraz.com
 develop.tt.omtrdc.net
-developer-da.us.gbc.criteo.com
 developer-kalendar.b2bmktg.com
 developer.tt.omtrdc.net
 developers.ads.microsoft.com
 developers.bingads.microsoft.com
-developervip.gbc.criteo.com
 developjapan.122.2o7.net
 development-ag.gbc.criteo.com
 development-emailvision.net.daraz.com
@@ -16579,7 +16367,6 @@ development.tt.omtrdc.net
 developmentda.us.gbc.criteo.com
 devenv-kes.gbc.criteo.com
 devenv.dfe.gbc.criteo.com
-devenv.fed.gbc.criteo.com
 devftp4b5a84aaf1c9185e060c702a0ff8cadbrange89-129xroads.b2bmktg.com
 devialet.eulerian.net
 device.zhiliaoapp.com
@@ -16611,7 +16398,6 @@ dfanalytics.dealerfire.com
 dfapvmql-q.global.ssl.fastly.net
 dfbfussballdeprod.112.2o7.net
 dfe-analytics.gbc.criteo.com
-dfe-av.gbc.criteo.com
 dfe-biblioteca.gbc.criteo.com
 dfe-blackboard.gbc.criteo.com
 dfe-cal.gbc.criteo.com
@@ -16632,12 +16418,10 @@ dfe.res.gbc.criteo.com
 dfe0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 dfeads.gbc.criteo.com
 dfeaffiliate.gbc.criteo.com
-dfeagenda.gbc.criteo.com
 dfeayuda.gbc.criteo.com
 dfebcava.gbc.criteo.com
 dfebrasil.gbc.criteo.com
 dfebusiness.gbc.criteo.com
-dfeclub.gbc.criteo.com
 dfecms3.gbc.criteo.com
 dfecommunity.gbc.criteo.com
 dfeconference.gbc.criteo.com
@@ -16648,16 +16432,11 @@ dfefax.gbc.criteo.com
 dfefile.gbc.criteo.com
 dfeforos.gbc.criteo.com
 dfegeneric.gbc.criteo.com
-dfeimap5d.gbc.criteo.com
 dfeincoming.gbc.criteo.com
 dfeinfra.gbc.criteo.com
 dfek.gbc.criteo.com
-dfelaboratories.gbc.criteo.com
 dfeo400.gbc.criteo.com
 dfeoutlook.gbc.criteo.com
-dfeox.gbc.criteo.com
-dfepayments.gbc.criteo.com
-dfesoporte.gbc.criteo.com
 dfestreaming.gbc.criteo.com
 dfestudio.gbc.criteo.com
 dfetest3.gbc.criteo.com
@@ -16771,7 +16550,6 @@ dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
-diana.bcava.gbc.criteo.com
 diana.gbc.criteo.com
 diana.res.gbc.criteo.com
 diboji.class101.net
@@ -17008,7 +16786,6 @@ direct-azr-78.com
 direct-collect.dy-api.com
 direct-collect.dy-api.eu
 direct-events-collector.spot.im
-direct-www.gbc.criteo.com
 direct.diarymuslim.com
 direct.granitenet.com
 directavenue.tech
@@ -17018,7 +16795,6 @@ directv.hb.omtrdc.net
 directwineslimited.tt.omtrdc.net
 direfuldesk.com
 dis.as.criteo.com
-dis.as.gbc.criteo.com
 dis.criteo.com
 dis.da.us.criteo.com
 dis.da.us.preprod.criteo.com
@@ -17153,7 +16929,6 @@ dkupaw9ae63a8.cloudfront.net
 dkvvwq.aosom.ca
 dl-dev.tablelist.com
 dl-dev.tytocare.com
-dl-dfe.gbc.criteo.com
 dl-qa.flipagram.com
 dl-qa.nonton.99array.com
 dl-stage.6tst.com
@@ -17269,7 +17044,6 @@ dmpcdn.el-mundo.net
 dmpmetrics.rcsmetrics.it
 dmqykw.thirtymall.com
 dms.karmak.com
-dms01.webtrekk.net
 dmtgo.upc.biz
 dmuwlm.fonteynspas.com
 dmvbpz.swimoutlet.com
@@ -17357,13 +17131,11 @@ dolphin.deliver.ifeng.com
 dolphin.sfelc.com
 dolrfm.fotoregistro.com.br
 domain-controller-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
-domain.da.us.gbc.criteo.com
 domainadmin-us.gbc.criteo.com
 domainanalytics.net
 domainbntest.branchcustom.xyz
 domaincontrol.gbc.criteo.com
 domaincontroldfe.gbc.criteo.com
-domaincontroller-mp.gbc.criteo.com
 domainmanagementus.gbc.criteo.com
 domainsbcava.gbc.criteo.com
 domeus.biz
@@ -17418,7 +17190,6 @@ download.helponymous.com
 download.ibuzza.net
 download.innit.com
 download.joingofree.com
-download.kes.gbc.criteo.com
 download.kesh5.co.il
 download.kuailefun.com
 download.milkpot.com
@@ -17445,7 +17216,6 @@ downloads.advancedtech.com
 downloads.coface.com
 downloads.mcgladrey.com
 downloads.pos.fs.account.azure.on.t.instagram.cp.acbhk0.gbc.criteo.com
-downloadsacbhk0.gbc.criteo.com
 downloadsag.gbc.criteo.com
 downpayment.fernsby.com
 downtownit.actonservice.com
@@ -17507,7 +17277,6 @@ drm.market.xiaomi.com
 droidwiz.com
 drollwharf.com
 dromadaire.biz
-drop-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 drop.lj.gbc.criteo.com
 dropboxinc.tt.omtrdc.net
 drt.fr.eu.euleriancdn.net
@@ -17576,7 +17345,6 @@ dttrk.com
 dtxtngytz5im1.cloudfront.net
 dtyjiik06.alphonso.tv
 dtzrrz.green-japan.com
-du127lor.eu.127re127rod.gbc.criteo.com
 du4rq1xqh3i1k.cloudfront.net
 dual-s-ring.msedge.net
 dueypce56.alphonso.tv
@@ -17601,7 +17369,6 @@ duplo.fr3.vip.prod.criteo.com
 duplor.eu.preprod.gbc.criteo.com
 dupont.hb.omtrdc.net
 dupont.tt.omtrdc.net
-dupontregistry.com.102.122.2o7.net
 duprelogistics.actonservice.com
 duqqrl.jefchaussures.com
 durchblicker.postaffiliatepro.com
@@ -17707,7 +17474,6 @@ e.gettyimages.pt
 e.givergy.com
 e.goamur.com
 e.graduateprogram.org
-e.grci.group
 e.hanleywood.com
 e.hertzusa.brierleycrm.com
 e.info.levi.com
@@ -17854,7 +17620,6 @@ ea.pixmania.de
 ea.pixmania.it
 ea.placedestendances.com
 ea.poeleaboismaison.com
-ea.promod.es
 ea.promod.fr
 ea.promovacances.com
 ea.quiksilver.eu
@@ -18028,7 +17793,6 @@ ebony.black.news
 ebook.gbc.criteo.com
 ebooks.javer.com.mx
 ebreid.garneroarredamenti.com
-ebs-partner.net.daraz.com
 ebs.10-marketing.net.daraz.com
 ebs.net.daraz.com
 ebs.tt.omtrdc.net
@@ -18208,7 +17972,6 @@ edge-metrics.telenet.be
 edge-mobile-static.azureedge.net.iberostar.com
 edge.adobedc.net
 edge.afco.com
-edge.as.gbc.criteo.com
 edge.bangkokbank.com
 edge.bell.ca
 edge.bigbrothercanada.ca
@@ -18246,7 +18009,6 @@ edidomus01.webtrekk.net
 ediemidnightzombies.com
 edietsmain.112.2o7.net
 edimotive01.webtrekk.net
-edisabledvision.net.daraz.com
 editorialelibero01.webtrekk.net
 edm-u.com.my
 edm.healthroundtable.org
@@ -18267,7 +18029,6 @@ edu.socialstudies.com
 edu.wsj.com
 edu0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 edu3.ceds.fr
-edubcava.gbc.criteo.com
 educ.am1.eulerian.net
 educa.gbc.criteo.com
 educacion.gbc.criteo.com
@@ -18282,7 +18043,6 @@ education.ricoh.ch
 education.ricoh.fr
 education.velocify.com
 educationaffiliates.tt.omtrdc.net
-educationboard.gbc.criteo.com
 educationcar.com
 educationfirst.tt.omtrdc.net
 educationlink.clear360.com
@@ -18444,7 +18204,6 @@ eliteclng.ericksonbuilt.com
 elkjop.112.2o7.net
 ellypsio.net.jumia.com.ng
 elogic-learning.actonservice.com
-elolivo.parla.educa.gbc.criteo.com
 eloq.fiducial.fr
 eloqua-tracking.kaiserpermanente.org
 eloqua-tracking.unity.com
@@ -18658,7 +18417,6 @@ em.northernquest.com
 em.stauffersafety.com
 em.thermofisher.com
 em.touchtunes.com
-em1971acbhk0.gbc.criteo.com
 em1971lj.gbc.criteo.com
 em1972-acbhk0.gbc.criteo.com
 em1973res.gbc.criteo.com
@@ -19021,7 +18779,6 @@ email.vollrathco.com
 email.whitewaterbrands.com
 email.wingocard.com
 email.wirexapp.com
-email.www.ag.gbc.criteo.com
 email.zumaoffice.com
 email1.advisorycloud.com
 email1.on1.com
@@ -19031,7 +18788,6 @@ email2.on1.com
 email3.advisorycloud.com
 email3.on1.com
 email4.advisorycloud.com
-email5.advisorycloud.com
 emailclk.dutchbros.com
 emailct.enfavr.com
 emailer45.clovinfo.com
@@ -19106,7 +18862,6 @@ emails.shopupp.com
 emails.sterislifesciences.com
 emails.summerclassics.com
 emails.tlc.com
-emails.traderiskguaranty.com
 emails.travelchannel.com
 emails.ultimateperformance.com
 emails.usvision.com
@@ -19195,7 +18950,6 @@ emptyescort.com
 emq.xmpush.xiaomi.com
 emrdnt.sumaity.com
 emrj82plvision.authenticate.net.daraz.com
-emrrhd12.gbc.criteo.com
 ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
 emsexam.quantresear.ch
@@ -19364,7 +19118,6 @@ engage.ferguson.com
 engage.figmarketing.com
 engage.gainfront.com
 engage.globalaffairs.org
-engage.growthplay.com
 engage.gsehd.gwu.edu
 engage.halliburton.com
 engage.hamiltoncaptel.com
@@ -19380,7 +19133,6 @@ engage.jlclive.com
 engage.krm22.com
 engage.landstar.com
 engage.marketone.com
-engage.mcfadyen.com
 engage.mcphs.edu
 engage.meritamerica.org
 engage.mhainc.com
@@ -19472,7 +19224,6 @@ enterprise.medbridge.com
 enterprise.medbridgeed.com
 enterprise.medbridgeeducation.com
 enterprise.sparklight.com
-enterprise.t-mobile.com
 enterprise2.secureforms.mcafee.com
 enterpriseforesight247.com
 enterprisehive.actonservice.com
@@ -19569,7 +19320,6 @@ equity.e2g.com
 eqvioe.polihome.gr
 eqy.link
 er.tui.fr
-er11.eulerian.net
 er12.eulerian.net
 er13.eulerian.net
 er14.eulerian.net
@@ -19624,7 +19374,6 @@ es.zettle.com
 esca-test.mno.link
 esca.mno.link
 escada01.webtrekk.net
-escasto.gbc.criteo.com
 eschsupply.actonservice.com
 eservices.lubetech.com
 eset.122.2o7.net
@@ -19757,7 +19506,6 @@ et7.eulerian.fr
 et7.eulerian.net
 et71.eulerian.net
 et72.eulerian.net
-et73.eulerian.net
 et74.eulerian.net
 et75.eulerian.net
 et8.etr.im
@@ -19808,7 +19556,6 @@ etherealbamboo.com
 ethereallagoon.com
 etherealpinnacle.com
 ethiassa.tt.omtrdc.net
-etihadairways.tt.omtrdc.net
 etk.locusrobotics.com
 etl.springbot.com
 etop.ro
@@ -20023,13 +19770,11 @@ eu-internal.marketing-cdn.eu.criteo.com
 eu-internal.marketing.criteo.com
 eu-internal.marketing.eu.criteo.com
 eu-internal.marketplace.criteo.com
-eu-internal.marketplace.eu.criteo.com
 eu-internal.measurement-api.criteo.com
 eu-internal.mug.criteo.com
 eu-internal.my-account.criteo.com
 eu-internal.my-account.eu.criteo.com
 eu-internal.pmc.eu.criteo.com
-eu-internal.privacy-info.criteo.com
 eu-internal.privacy-info.eu.criteo.com
 eu-internal.rdi.criteo.com
 eu-internal.reseller.eu.criteo.com
@@ -20078,14 +19823,12 @@ eu.350anketinguserverluaprod.gbc.criteo.com
 eu.ads-pcommerceprod.gbc.criteo.com
 eu.ads-preads-previewprodiewprod.gbc.criteo.com
 eu.ads-preiniewprod.gbc.criteo.com
-eu.ads-previewprod.gbc.criteo.com
 eu.ads-prewwwiewprod.gbc.criteo.com
 eu.aria.events.data.trafficmanager.net
 eu.blobcollector.events.data.trafficmanager.net
 eu.business.samsung.com
 eu.cignaglobalhealth.com
 eu.eolcdn.com
-eu.euleriancdn.net
 eu.events.data.trafficmanager.net
 eu.gbc.criteo.com
 eu.gldn.io
@@ -20204,7 +19947,6 @@ ev.moneymade.io
 ev.nasdaq.com
 ev.stellarlabs.ai
 evasivejar.com
-evelynn-acbhk0.gbc.criteo.com
 evelynn.landing.ni.com
 evencoating.com
 evenement.ricoh.fr
@@ -20458,7 +20200,6 @@ exam-pca.criteo.com
 exam-pca.da.us.criteo.com
 exam-pca.da1.vip.prod.criteo.com
 exam-pca.eu.criteo.com
-exam-pca.fr3.eu.criteo.com
 exam-pca.fr3.vip.prod.criteo.com
 exam-pca.jp2.as.criteo.com
 exam-pca.jp2.vip.prod.criteo.com
@@ -20473,14 +20214,12 @@ examinercom.122.2o7.net
 exampapersplus.postaffiliatepro.com
 examplecom.112.2o7.net
 exampledfe.gbc.criteo.com
-examples.res.gbc.criteo.com
 exampleshake.com
 examplevip.gbc.criteo.com
 exasol01.webtrekk.net
 exbujk.glamood.com
 excel-telemetry.wac.trafficmanager.net
 exchange-kes.gbc.criteo.com
-exchange.bcava.gbc.criteo.com
 exchange.carte-gr.total.fr
 exchange.happ.social
 exchange.tt.omtrdc.net
@@ -20609,12 +20348,10 @@ expressllc.tt.omtrdc.net
 expresspros.tt.omtrdc.net
 exquisiteartisanship.com
 exr-mms.expertreviews.co.uk
-ext.gbc.criteo.com
 ext.net.daraz.com
 ext.tt.omtrdc.net
 extendyourreach.actonservice.com
 external-bos5-1.xx.fbcdn.net.iberostar.com
-external.da.us.gbc.criteo.com
 external.fpbc1-1.fna.fbcdn.net.iberostar.com
 external.logs.roku.com
 external.techopian.com
@@ -20637,7 +20374,6 @@ extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 extranet.gbc.criteo.com
-extranetag.gbc.criteo.com
 extranetres.gbc.criteo.com
 extranets-lj.gbc.criteo.com
 extranets.as.criteo.com
@@ -20742,7 +20478,6 @@ factiva.122.2o7.net
 factoring.tt.omtrdc.net
 factory.redbull.racing
 factorybarbell.com
-faculty.gbc.criteo.com
 fagtgb.acorn.com
 fahmta.accountingweb.co.uk
 fahmta.f1i.com
@@ -20787,7 +20522,6 @@ fangfeeling.com
 fannybacker.com
 fantasy.gbc.criteo.com
 faokwl.sklepogrodniczy.pl
-fapacbr.gbc.criteo.com
 faqtjp.redley.com.br
 farahatco.actonservice.com
 farecastcom.122.2o7.net
@@ -20852,7 +20586,6 @@ faucons.viessmann.fr
 fauzxn.hairlavie.com
 faz-de.faz.net
 fazphz.theiconic.com.au
-fb-vip.gbc.criteo.com
 fb.da.us.gbc.criteo.com
 fb.echovisuals.com
 fb.fed.gbc.criteo.com
@@ -20952,28 +20685,19 @@ fed-6pd.gbc.criteo.com
 fed-acbhk0.gbc.criteo.com
 fed-ad.gbc.criteo.com
 fed-america.gbc.criteo.com
-fed-bucky.gbc.criteo.com
 fed-cab.gbc.criteo.com
 fed-cms3.gbc.criteo.com
 fed-container.gbc.criteo.com
 fed-default.gbc.criteo.com
 fed-dev.gbc.criteo.com
 fed-gallery.gbc.criteo.com
-fed-gbc.gbc.criteo.com
 fed-mailbox.gbc.criteo.com
-fed-mb.gbc.criteo.com
-fed-ms.gbc.criteo.com
-fed-ns18.gbc.criteo.com
-fed-o399.gbc.criteo.com
 fed-partners.gbc.criteo.com
 fed-privacy-info.gbc.criteo.com
 fed-review.gbc.criteo.com
-fed-rtb-appnexus-1.gbc.criteo.com
 fed-up.gbc.criteo.com
-fed-vpn-nl2.gbc.criteo.com
 fed-vpn-sg0.gbc.criteo.com
 fed-win35.gbc.criteo.com
-fed-www.gbc.criteo.com
 fed.gbc.criteo.com
 fed0-cafw5cuaifsvnlnjqzehy0dk.gbc.criteo.com
 fedacbhk0.gbc.criteo.com
@@ -20990,19 +20714,15 @@ fedgov.lexisnexis.com
 fedimap1d.gbc.criteo.com
 fedimap4d.gbc.criteo.com
 fedisa.gbc.criteo.com
-fednewsite.gbc.criteo.com
-fedrtb-generic.gbc.criteo.com
 feds1.gbc.criteo.com
 fedsales.gbc.criteo.com
 fedsched.actonservice.com
-fedw6.gbc.criteo.com
 fedweb2.gbc.criteo.com
 fedwwwold.gbc.criteo.com
 feeblestamp.com
 feed5baby.com
 feed5mown.com
 feedandpurr.com
-feedback-fed.gbc.criteo.com
 feedback.aon.com
 feedback.avigilon.com
 feedback.bingads.microsoft.com
@@ -21032,7 +20752,6 @@ ferrariitalia01.wt-eu02.net
 ferroviedellostatosp.tt.omtrdc.net
 fespzx.sfr.fr
 festo.actonservice.com
-fet-res.gbc.criteo.com
 fetbcava.gbc.criteo.com
 fetch.gethuan.com
 feuqzl.woolrich.com
@@ -21209,7 +20928,6 @@ fledge.da.us.criteo.com
 fledge.da.us.preprod.criteo.com
 fledge.eu.criteo.com
 fledge.fr3.eu.criteo.com
-fledge.gbc.criteo.com
 fledge.jp2.as.criteo.com
 fledge.nl3.eu.criteo.com
 fledge.sg1.as.criteo.com
@@ -21218,8 +20936,6 @@ fledge.us5.us.criteo.com
 fledgereporting.as.criteo.com
 fledgereporting.criteo.com
 fledgereporting.da.us.criteo.com
-fledgereporting.eu.criteo.com
-fledgereporting.eu.gbc.criteo.com
 fledgereporting.fr3.eu.criteo.com
 fledgereporting.jp2.as.criteo.com
 fledgereporting.nl3.eu.criteo.com
@@ -21229,7 +20945,6 @@ fledgereporting.us5.us.criteo.com
 fledgereportinglj.gbc.criteo.com
 fleet-eml.postmates.com
 fleet.nissan.co.uk
-fleet.skoda.co.uk
 fleet.volkswagen.co.uk
 fleetbegin.com
 fleurancenature-com.eulerian.net
@@ -21312,7 +21027,6 @@ fog.pixual.co
 fokbrd.impo.ch
 folderplan.com
 folders-bcava.gbc.criteo.com
-folders.mp.gbc.criteo.com
 folksam.tt.omtrdc.net
 followborder.com
 followup.cc-sd.edu
@@ -21373,7 +21087,6 @@ forms.bmc.com
 forms.bradyid.com
 forms.burriswindows.com
 forms.businessnews.telstra.com
-forms.cab.gbc.criteo.com
 forms.campusmanagement.com
 forms.capitaliq.com
 forms.comcast-spectacor.com
@@ -21401,7 +21114,6 @@ forms.iil.com
 forms.infor.com
 forms.irdeto.com
 forms.juniper.net
-forms.kes.gbc.criteo.com
 forms.keytravel.com
 forms.lenovo.com
 forms.lkpkg.com
@@ -21549,7 +21261,6 @@ fortunatemark.com
 forum-fed.gbc.criteo.com
 forums-lj.gbc.criteo.com
 forums.gbc.criteo.com
-forums.us.gbc.criteo.com
 forwardslashetc.com
 fossilzero.com
 fotoservicefr01.wt-eu02.net
@@ -21662,16 +21373,11 @@ fr.april.preprologs.gbc.criteo.com
 fr.contact.alphabet.com
 fr.eu.ads-appnexusprod.gbc.criteo.com
 fr.eu.ads-pcommerceprod.gbc.criteo.com
-fr.eu.ads-preads-previewprodiewprod.gbc.criteo.com
 fr.eu.ads-preiniewprod.gbc.criteo.com
 fr.eu.ads-previewprod.gbc.criteo.com
-fr.eu.ads-prewwwiewprod.gbc.criteo.com
 fr.eu.eolcdn.com
 fr.eu.euleriancdn.net
-fr.eu.gbc.criteo.com
 fr.eu.global-cdn.net
-fr.eu.membersrod.gbc.criteo.com
-fr.eu.mon-test-gce-be-1.gbc.criteo.com
 fr.eu.preprod.gbc.criteo.com
 fr.eu.ssp-bidder-maaads-1prod.gbc.criteo.com
 fr.feedback.xmpush.global.xiaomi.com
@@ -21682,7 +21388,6 @@ fr.lucanet.com
 fr.register.xmpush.global.xiaomi.com
 fr.resolver.msg.global.xiaomi.net
 fr.rtb-rubicon-1.ads-previewprod.gbc.criteo.com
-fr.rtb-rubicon-1.ads-userverlua-aws-va-106.gbc.criteo.com
 fr.sharpmarketing.eu
 fr.sound.ag
 fr.tt.omtrdc.net
@@ -21690,9 +21395,7 @@ fr.ui-c.preprod.gbc.criteo.com
 fr.zettle.com
 fr0fed.gbc.criteo.com
 fr1ag.gbc.criteo.com
-fr3.css.gbc.criteo.com
 fr3.gbc.criteo.com
-fr3.singed.gbc.criteo.com
 fr3.vip.gbc.criteo.com
 fr3.vip.prod.gbc.criteo.com
 fr3.vip.prorockabox.gbc.criteo.com
@@ -21764,7 +21467,6 @@ freshmaza.net.daraz.com
 freya.net.daraz.com
 fridaymarketing.actonservice.com
 friedone.com
-friend.discoverstudentloans.com
 friend.ebags.com
 friendlycrayon.com
 friendlyfold.com
@@ -21845,7 +21547,6 @@ ftp-forpftp1.actonsoftware.com
 ftp-us.gbc.criteo.com
 ftp.a.shortest-route.com
 ftp.actonservice.com
-ftp.arb.pg.com
 ftp.arg.mail.gillette.com
 ftp.arg.mail.herbalessences.com
 ftp.arg.mail.pg.com
@@ -21934,18 +21635,14 @@ ftp.vnm.pg.com
 ftp.wcohus.teradatadmc.com
 ftp.webtrekk.com
 ftp.yg.adac.de
-ftp0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 ftp01.ru.teradatadmc.com
-ftp1-vip.gbc.criteo.com
 ftp2-www.ag.gbc.criteo.com
-ftp3.as.gbc.criteo.com
 ftp3.res.gbc.criteo.com
 ftp3us.gbc.criteo.com
 ftp4.mail.gbc.criteo.com
 ftpadminbcava.gbc.criteo.com
 ftpadmincab.gbc.criteo.com
 ftpd.vip.gbc.criteo.com
-ftpd.www.ag.gbc.criteo.com
 ftpecsr31r-ln-1.net.daraz.com
 ftuart.chomedeynissan.com
 ftwnwght.net.anwalt.de
@@ -22025,8 +21722,6 @@ fvvyjd.jtv.com
 fvw-de01.wt-eu02.net
 fvw01.webtrekk.net
 fw-ag.gbc.criteo.com
-fw-am2.gbc.criteo.com
-fw-am2da.us.gbc.criteo.com
 fw-am3.res.gbc.criteo.com
 fw-am5.criteo.com
 fw-am5kes.gbc.criteo.com
@@ -22153,7 +21848,6 @@ galileotelemetry.tencent.com
 gallery-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 gallery.cab.gbc.criteo.com
 gallery.res.gbc.criteo.com
-galleryip.preprod.gbc.criteo.com
 gallerysouvlakeri.openapp.link
 galop.leferacheval-saintcloud.com
 galp.tt.omtrdc.net
@@ -22186,7 +21880,6 @@ gat.nl3.eu.criteo.com
 gat.sg1.as.criteo.com
 gat.us5.us.criteo.com
 gatan.actonservice.com
-gate-ag.gbc.criteo.com
 gate.bcava.gbc.criteo.com
 gatehousemedia.122.2o7.net
 gatejunction.com
@@ -22218,11 +21911,9 @@ gbc.api.as.gbc.criteo.com
 gbc.as.criteo.com
 gbc.criteo.com
 gbc.da.us.preprod.criteo.com
-gbc.eu.criteo.com
 gbc.gbc.criteo.com
 gbc.jp2.as.criteo.com
 gbc.mail.gbc.criteo.com
-gbc.nl3.eu.criteo.com
 gbc.sg1.as.criteo.com
 gbc.us.criteo.com
 gbc.us5.us.criteo.com
@@ -22240,7 +21931,6 @@ gbc1.jp2.as.criteo.com
 gbc1.nl3.eu.criteo.com
 gbc1.sg1.as.criteo.com
 gbc1.us5.us.criteo.com
-gbc10-www.ag.gbc.criteo.com
 gbc10.bcava.gbc.criteo.com
 gbc11.bcava.gbc.criteo.com
 gbc11.res.gbc.criteo.com
@@ -22264,14 +21954,12 @@ gbc4.nl3.eu.criteo.com
 gbc4.sg1.as.criteo.com
 gbc4.us5.us.criteo.com
 gbc4mp.gbc.criteo.com
-gbc5-us.gbc.criteo.com
 gbc5.da.us.criteo.com
 gbc5.dfe.gbc.criteo.com
 gbc5.fr3.eu.criteo.com
 gbc5.gbc.criteo.com
 gbc5.jp2.as.criteo.com
 gbc5.nl3.eu.criteo.com
-gbc5.sg1.as.criteo.com
 gbc5.us5.us.criteo.com
 gbc5ag.gbc.criteo.com
 gbc6.acbhk0.gbc.criteo.com
@@ -22283,7 +21971,6 @@ gbc6.fr3.eu.criteo.com
 gbc6.jp2.as.criteo.com
 gbc6.nl3.eu.criteo.com
 gbc6.sg1.as.criteo.com
-gbc6.us5.us.criteo.com
 gbc7.da.us.criteo.com
 gbc7.fr3.eu.criteo.com
 gbc7.jp2.as.criteo.com
@@ -22301,8 +21988,6 @@ gbc8.us5.us.criteo.com
 gbccam.gbc.criteo.com
 gbcsrv01.gbc.criteo.com
 gbcts01.gbc.criteo.com
-gbctsgw.gbc.criteo.com
-gbcvip.gbc.criteo.com
 gbl.radware.com
 gbl007.com
 gblock.greenhousedata.com
@@ -22325,7 +22010,6 @@ gccmembershiprewards.americanexpress.it
 gcn.tuv.com
 gcoiys.cutsclothing.com
 gcowhi.thesalarycalculator.co.uk
-gcp-kafka.gbc.criteo.com
 gcprivacy.com
 gct.americanexpress.com
 gcudsn.tradetested.co.nz
@@ -22350,7 +22034,6 @@ ge.lgsmartad.com
 gea-exchange-03.net.jumia.ug
 gear.echovisuals.com
 gearbubbles.com
-geauga.gbc.criteo.com
 geaviation.112.2o7.net
 gecfnc.foresight.jp
 geconsumerfinance.112.2o7.net
@@ -22368,7 +22051,6 @@ gem.gbc.criteo.com
 gemoneysinsbicard2.112.2o7.net
 gemorganic.com
 genentech.tt.omtrdc.net
-generac.com.102.122.2o7.net
 generaleducation.graduateprogram.org
 generalgrowth.tt.omtrdc.net
 generali01.webtrekk.net
@@ -22401,7 +22083,6 @@ geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
 geo.yahoo.com
 geobar.ziffdavisinternational.com
-geod.nrcan.gbc.criteo.com
 geoedge.be
 geoip.apps.avada.io
 geoip.ativo.com
@@ -22621,7 +22302,6 @@ gets.myoyster.mx
 getstarted.championteamwear.com
 getstarted.national.edu
 getter.fledge.gbc.criteo.com
-getter.preprod.gbc.criteo.com
 getter.tt.omtrdc.net
 getteremailvision.net.daraz.com
 gettoknow.skookum.com
@@ -22629,7 +22309,6 @@ gettunable.affinityblue.com
 getwagtail.com
 geygin.bonprix.ch
 geystikigonia.openapp.link
-gf.gbc.criteo.com
 gf7t.cheques-cadeaux-culturels.fr
 gfeede.theminda.com
 gfgcwf.vidaxl.lv
@@ -22694,7 +22373,6 @@ github.tt.omtrdc.net
 gitlab-extegitlab-extod.gbc.criteo.com
 gitlab.net.daraz.com
 gitlab.tt.omtrdc.net
-gitlabodregitlabodr3ucsd.gbc.criteo.com
 gitlj.gbc.criteo.com
 give.panfoundation.org
 give.supportbaptisthealth.org
@@ -22763,7 +22441,6 @@ global.fia-china.com
 global.morrowsodali.com
 global.raboag.com
 global.schroders.email
-global.sodali.com
 global.ssl.fastly.net.daraz.com
 global.successfactors.com
 global.tt.omtrdc.net
@@ -23041,7 +22718,6 @@ go.annualgiving.com
 go.antea.tech
 go.anthonyliftgates.com
 go.antylia.com
-go.anzea.com
 go.aofoundation.org
 go.apartments.com
 go.apboe.com
@@ -23076,7 +22752,6 @@ go.arielpa.nyc
 go.arizonafuture.org
 go.arjo.com
 go.arktura.com
-go.armstrongflooring.com
 go.arno.de
 go.arrowfunds.com
 go.arrowpointe.com
@@ -23095,7 +22770,6 @@ go.aspensurgical.com
 go.aspph.org
 go.assetclass.com
 go.assist-tokyo.asia
-go.associaonline.com
 go.assuredpartners.com
 go.astech.com
 go.astorchocolate.com
@@ -23105,7 +22779,6 @@ go.asurint.com
 go.asyousow.org
 go.athletx.com
 go.atirestoration.com
-go.atis.com
 go.atlanticcouncil.org
 go.atlas-mts.com
 go.atomica.com
@@ -23153,7 +22826,6 @@ go.azets.fi
 go.azets.no
 go.azets.se
 go.azfoundation.org
-go.aztex.com
 go.bachmannchemical.com
 go.backboneplm.com
 go.backtest.io
@@ -23220,7 +22892,6 @@ go.bluebeam.com
 go.bluecatnetworks.com
 go.bluecrewjobs.com
 go.bluefin.com
-go.bluefort.com
 go.blueridgeglobal.com
 go.bluewatertech.com
 go.bluewestcapital.com
@@ -23262,7 +22933,6 @@ go.bro.social
 go.broderson.com
 go.brookandwhittle.com
 go.brookslifesciences.com
-go.brother.com
 go.bruns-pak.com
 go.brunswickgroup.com
 go.bts.com
@@ -23339,7 +23009,6 @@ go.ccma.org.uk
 go.cdata.com
 go.cdg.com
 go.cdillc.com
-go.cdlconsultants.com
 go.cdsi.us.com
 go.ceastudyabroad.com
 go.ceatec.com
@@ -23517,7 +23186,6 @@ go.crisis24.garda.com
 go.criteo.net
 go.criteriacorp.com
 go.criteriacorp.com.au
-go.cromwell.co.uk
 go.crownjewelinsurance.com
 go.csagroup.org
 go.csdisco.com
@@ -23595,7 +23263,6 @@ go.digitalpromise.org
 go.digitalwell.com
 go.digitalzone.com
 go.dimensionfunding.com
-go.diningalliance.com
 go.diodes.com
 go.directemployers.org
 go.dirkzwager.com
@@ -23664,7 +23331,6 @@ go.ecsi.net
 go.edcast.com
 go.edenmccallum.com
 go.edenred.co.uk
-go.edenredbenefits.com
 go.edgenet.com
 go.edgewoodcapital.com
 go.edmontonoilers.com
@@ -23682,11 +23348,9 @@ go.eiffeltrading.com
 go.elationhealth.com
 go.electra-consumer.co.il
 go.elektrobit.com
-go.elementbiosciences.com
 go.elementfleet.com
 go.elite.com
 go.elliemae.com
-go.ellisontechnologies.com
 go.elsevier.com
 go.email.aztec.group
 go.email.lpi.ca
@@ -23997,7 +23661,6 @@ go.gtspower.com
 go.guardian1821.co.uk
 go.guardianalliancetechnologies.com
 go.guardicore.com
-go.guerbet.com
 go.guidepoint.com
 go.guildmortgage.net
 go.guycarp.com
@@ -24048,7 +23711,6 @@ go.heyho.my
 go.heylrealestate.com
 go.hfr.com
 go.highlandhomes.com
-go.highqa.com
 go.highradius.com
 go.hingehealth.com
 go.hirevets.com
@@ -24086,7 +23748,6 @@ go.hsyndicate.org
 go.huboo.com
 go.hulu.com
 go.humancoalition.org
-go.hunterconference.com
 go.hustle.com
 go.huterra.com
 go.i3verticals.com
@@ -24122,7 +23783,6 @@ go.ilpa.org
 go.imacorp.com
 go.imageskincare.com
 go.imaginecommunications.com
-go.imd.org
 go.imi-critical.com
 go.immuta.com
 go.imodules.com
@@ -24287,7 +23947,6 @@ go.kgi.edu
 go.kidsoutandabout.com
 go.kimbleapps.com
 go.kinematics.com
-go.kinesis.money
 go.kingsbridge.co.uk
 go.kingswaygroup.co.uk
 go.kirbyrisk.com
@@ -24603,7 +24262,6 @@ go.mycontractoruniversity.com
 go.mydigitaloffice.com
 go.myfave.com
 go.myflvs.net
-go.mylawshield.com
 go.mylike-app.com
 go.mymajors.com
 go.mynpp.com
@@ -24617,7 +24275,6 @@ go.na.akkodis.com
 go.na.kantar.com
 go.na.modis.com
 go.nacacnet.org
-go.naea.org
 go.nagios.org
 go.nam.rib-software.com
 go.nanolive.ch
@@ -24679,7 +24336,6 @@ go.nomaco.com
 go.noondate.com
 go.norcomsolutions.com
 go.nordistechnologies.com
-go.noredink.com
 go.northcentral.edu
 go.northeastbank.com
 go.northsideentertainmentholdings.com
@@ -24690,7 +24346,6 @@ go.novantaphotonics.com
 go.npact.com
 go.nptrust.org
 go.nrchealth.com
-go.nten.org
 go.nucorskyline.com
 go.nufarm.us
 go.nuix.com
@@ -24801,7 +24456,6 @@ go.parkmobile.io
 go.parksite.com
 go.parsec-corp.com
 go.parsely.com
-go.partech.com
 go.partena-professional.be
 go.partnersrealestate.com
 go.pasmeeting.org
@@ -24819,7 +24473,6 @@ go.pcb.com
 go.pcbc.com
 go.pcgcompanies.com
 go.pcipal.com
-go.pcma.org
 go.pcna.com
 go.pdihc.com
 go.peak.ai
@@ -25006,7 +24659,6 @@ go.raptortech.com
 go.rate.sh
 go.ratengoods.com
 go.rauland.com
-go.rbfinance.com
 go.rcainc.com
 go.rcdhousing.org
 go.rcreports.com
@@ -25187,7 +24839,6 @@ go.sierrainvestment.com
 go.sig.org
 go.sigep.org
 go.sigmachi.org
-go.signal-ai.com
 go.signumglobal.com
 go.sikhcoalition.org
 go.silvaco.com
@@ -25220,7 +24871,6 @@ go.smartfoodservice.com
 go.smartinsights.com
 go.smartjobr.com
 go.smartvault.com
-go.smashfly.com
 go.smokeball.com
 go.smoothieking.com
 go.smuckerawayfromhome.com
@@ -25501,11 +25151,9 @@ go.transcarent.com
 go.transtector.com
 go.transversal.com
 go.travelforteens.com
-go.travismanion.org
 go.treatmentadvocacycenter.org
 go.treelineinc.com
 go.treepeople.org
-go.trendhunter.com
 go.trevo.my
 go.tri-merit.com
 go.trilinkbiotech.com
@@ -25536,7 +25184,6 @@ go.twi.sm
 go.twinprime.com
 go.twitchadvertising.tv
 go.twstransworld.com
-go.txmoud.org
 go.tyfone.com
 go.tyndaleusa.com
 go.uae.innovatedating.com
@@ -25608,7 +25255,6 @@ go.veganuary.com
 go.venezuela.innovatedating.com
 go.vensure.com
 go.vention.io
-go.venturewell.org
 go.venusgroup.com
 go.verifiedfirst.com
 go.veriforce.com
@@ -25707,7 +25353,6 @@ go.wfpusa.org
 go.whatchu.com
 go.whatfix.com
 go.wheaton.com
-go.whip-around.com
 go.whiparound.com
 go.whitehousehistory.org
 go.whu.edu
@@ -25800,7 +25445,6 @@ go2.apollo.com
 go2.aspect.com
 go2.aspirehr.com
 go2.badenochandclark.com
-go2.bizbash.com
 go2.brookfield.com
 go2.clearent.com
 go2.deliveroo.com
@@ -25887,7 +25531,6 @@ goodlifefitnesscentr.tt.omtrdc.net
 goodyear.122.2o7.net
 goodyear.tt.omtrdc.net
 google-analytics-cn.com
-google-csr31.net.daraz.com
 google.pluto7.com
 googleads.g.doubleclick.net
 googleoptimize-cn.com
@@ -25953,7 +25596,6 @@ gpiljd.thetiebar.com
 gpiyhj.leopalace21.com
 gpplus-app.hotdoc.com.au
 gppppq.newcars.com
-gpsb-reims-dfe.gbc.criteo.com
 gpsb-reims.as.gbc.criteo.com
 gpsbfed.gbc.criteo.com
 gpsqnl.delsey.com
@@ -25990,7 +25632,6 @@ grade-a-248.wt-eu02.net
 grade-a-249.wt-eu02.net
 grade-a-250.wt-eu02.net
 grade-a-251.wt-eu02.net
-grade-a-252.wt-eu02.net
 grade-a-253.wt-eu02.net
 grade-a-254.wt-eu02.net
 grado.ufv.es
@@ -26017,7 +25658,6 @@ grc.openapp.link
 grc2.secureforms.mcafee.com
 greasegarden.com
 greasysquare.com
-greatdentalplans.tt.omtrdc.net
 greatrentals.com.102.122.2o7.net
 greatwestlife.tt.omtrdc.net
 green-griffin-860.appspot.com
@@ -26065,7 +25705,6 @@ grid-bidder.sg1.as.criteo.com
 grid-bidder.us.criteo.com
 grid-bidder.us5.us.criteo.com
 grid-eu.bidswitch.net
-grid-jp.bidswitch.net
 grid-lb-eu.bidswitch.net
 grid-lb-jp.bidswitch.net
 grid-lb-use.bidswitch.net
@@ -26147,8 +25786,6 @@ grunerandjahr.112.2o7.net
 grunerandjahr.hb.omtrdc.net
 grunerjahr01.wt-eu02.net
 grupoboticario.tt.omtrdc.net
-grupomonge.tt.omtrdc.net
-gruppoespresso01.webtrekk.net
 gruppofinelco01.webtrekk.net
 grxokm.kirstein.de
 grxsaq.tagheuer.com
@@ -26209,7 +25846,6 @@ guest.dfe.gbc.criteo.com
 guest.vistage.com
 guestdfe.gbc.criteo.com
 guhyqz.hawesko.de
-guia-cab.gbc.criteo.com
 guia.cab.gbc.criteo.com
 guidance.godaddy.com
 guide-vip.gbc.criteo.com
@@ -26228,12 +25864,10 @@ guj.122.2o7.net
 gulf.moneroocean.stream
 gulliblegrip.com
 gum.as.criteo.com
-gum.criteo.com
 gum.da.us.criteo.com
 gum.da.us.preprod.criteo.com
 gum.eu.criteo.com
 gum.fr3.eu.criteo.com
-gum.gbc.criteo.com
 gum.jp2.as.criteo.com
 gum.nl3.eu.criteo.com
 gum.sg1.as.criteo.com
@@ -26245,10 +25879,8 @@ gumi.criteo.com
 gumi.da.us.criteo.com
 gumi.da.us.preprod.criteo.com
 gumi.eu.criteo.com
-gumi.fr3.eu.criteo.com
 gumi.jp2.as.criteo.com
 gumi.nl3.eu.criteo.com
-gumi.res.gbc.criteo.com
 gumi.sg1.as.criteo.com
 gumi.us.criteo.com
 gumi.us5.us.criteo.com
@@ -26281,7 +25913,6 @@ gwropn.soelu.com
 gwtc.sfr.fr
 gwupkw.flexform.com.br
 gwyancancook.net.daraz.com
-gwyancancookghcpicsr21.net.daraz.com
 gx.idg.se
 gxcaxz.cresus.fr
 gxleat.attenir.co.jp
@@ -26337,8 +25968,6 @@ haag0some.com
 haberler.gbc.criteo.com
 habitat-de.eulerian.net
 habitat.eulerian.net
-habitation.gbc.criteo.com
-hachvana.gbc.criteo.com
 hacx60.com
 hagerty.com.102.112.2o7.net
 hagerty.tt.omtrdc.net
@@ -26479,7 +26108,6 @@ hcsc.tt.omtrdc.net
 hcsmec.decathlon.pt
 hcu.actonservice.com
 hczvwi.soldejaneiro.com
-hd-admin1.gbc.criteo.com
 hd.browser.miui.com
 hd.gbc.criteo.com
 hd.pe.fr
@@ -26549,7 +26177,6 @@ heatmaps.lcisoft.it
 heavycom.122.2o7.net
 heavydetail.com
 heavyplayground.com
-heise01.webtrekk.net
 heise02.webtrekk.net
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
@@ -26566,12 +26193,10 @@ hello.chartboost.com
 hello.cmgroup.com
 hello.commandalkon.com
 hello.controlmap.io
-hello.delaget.com
 hello.effervescents.com
 hello.emergeinteractive.com
 hello.foodbankccs.org
 hello.foundationsoft.com
-hello.gbc.criteo.com
 hello.gillette.co.kr
 hello.grattezvotrecadeau.be
 hello.heroku.com
@@ -26594,7 +26219,6 @@ hello.rxvantage.com
 hello.siteimprove.com
 hello.solliciteren.bpost.be
 hello.sourcewell-mn.gov
-hello.sourcewell.org
 hello.staticstuff.net
 hello.stbpost.be
 hello.steadyapp.com
@@ -26637,7 +26261,6 @@ herb7calk.com
 herbalife.tt.omtrdc.net
 herbgreencolumn.com
 hercules.net.daraz.com
-herdez.gbc.criteo.com
 heredeutschlandgmbh.tt.omtrdc.net
 herma01.webtrekk.net
 hermesdfe.gbc.criteo.com
@@ -26696,7 +26319,6 @@ hickoryfarms.112.2o7.net
 hickoryfarms.com.102.112.2o7.net
 hidjoi.perfumesclub.com
 high-impact-prospecting.actonsoftware.com
-high-tech.gbc.criteo.com
 highbeam.122.2o7.net
 highered.franklincovey.com
 higherone.tt.omtrdc.net
@@ -26708,7 +26330,6 @@ highnoongear.com
 highstreettvcom01.wt-eu02.net
 hightouch-events.com
 highway.cablecar.sph.com.sg
-highwoods.actonservice.com
 hijxfm.gaspedaal.nl
 hikingbars.com
 hikmxb.botovo.cz
@@ -26932,7 +26553,6 @@ host.roxiapp.com
 host11.vrgamehouse.nl
 host12.onmodus.com
 hostarmada.postaffiliatepro.com
-hostdfe.gbc.criteo.com
 hostingpeople.b2bmktg.com
 hostingservices.t-online.de
 hostmaster.2015.apply.eemjr.backend.soporte.2016.commerce.crtdnb.axcloud.eu.preprod.gbc.criteo.com
@@ -26945,7 +26565,6 @@ hotelsbarriere.eulerian.net
 hotelscom.122.2o7.net
 hotspot-cab.gbc.criteo.com
 hotspot-mail.gbc.criteo.com
-house.gbc.criteo.com
 housingdevelopment.tt.omtrdc.net
 houston-content.cresa.com
 houston.advgo.net
@@ -26965,10 +26584,8 @@ hparksendgrid.branch.rocks
 hparksendgridstage.branch.rocks
 hpbrqr.daihatsu.co.jp
 hpc.gbc.criteo.com
-hpc.preprod.gbc.criteo.com
 hpcd.gbc.criteo.com
 hpcduz.shoemall.com
-hpe.tt.omtrdc.net
 hpepdfembedapi.112.2o7.net
 hphqglobal.112.2o7.net
 hphtjv.orellfuessli.ch
@@ -27110,10 +26727,8 @@ hvuihu.undiz.com
 hvwgbj.wikinger-reisen.de
 hvxymx.tui.pl
 hw.tt.omtrdc.net
-hwcdn-fed.gbc.criteo.com
 hwcdn-vip.gbc.criteo.com
 hwcdn.tt.omtrdc.net
-hwcdndfe.gbc.criteo.com
 hwkfzf.meinauto.de
 hwnmhi.sunbeltrentals.com
 hwqdvz.cruises.com
@@ -27273,7 +26888,6 @@ id-ad-lgsmartad-com.aws-prd.net
 id-ward.com
 id.a-mx.com
 id.ad.lgsmartad.com
-id.bcava.gbc.criteo.com
 id.gbc.criteo.com
 id.google.de
 id.lgsmartad.com
@@ -27315,7 +26929,6 @@ idmb.feedback.xmpush.global.xiaomi.com
 idmb.register.xmpush.global.xiaomi.com
 idndlc.kango-oshigoto.jp
 idp-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
-idp.bcava.gbc.criteo.com
 idqwqm.kkday.com
 idrivelogistics.actonservice.com
 ids.actonservice.com
@@ -27387,7 +27000,6 @@ iiajtl.zeit.de
 iiceq.intuit.com
 iidoys.wearpact.com
 iiep.gbc.criteo.com
-iig01.webtrekk.net
 iiqtru.aunworks.jp
 iirexhibitionslimite.tt.omtrdc.net
 iirpzp.novasol.com
@@ -27507,7 +27119,6 @@ images.bounceback.chiesiusa.com
 images.brand.j2.com
 images.business.fedex.com
 images.business.lenovo.com
-images.business.samsungusa.com
 images.by.sensiolabs.com
 images.campaign.crmit.com
 images.campaign.reedexpo.at
@@ -28054,15 +27665,12 @@ imap2.carte-gr.total.fr
 imap2d.as.gbc.criteo.com
 imap2d.bcava.gbc.criteo.com
 imap4d-bcava.gbc.criteo.com
-imaps.mail.gbc.criteo.com
-imaps.res.gbc.criteo.com
 imb01.wt-eu02.net
 imbhdu.housedo.co.jp
 imc2.122.2o7.net
 imedo01.webtrekk.net
 imeem.112.2o7.net
 imeetcentral.pgi.com
-img-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 img-foodspring01.wt-eu02.net
 img-sparkasse-koelnbonn.wt-eu02.net
 img.aonunited.com
@@ -28275,7 +27883,6 @@ in-ftd-275.nl3.vip.prod.criteo.com
 in-ftd-275.sg1.vip.prod.criteo.com
 in-ftd-275.us5.vip.prod.criteo.com
 in-ftd-280.jp2.vip.prod.criteo.com
-in-ftd-280.nl3.vip.prod.criteo.com
 in-ftd-280.sg1.vip.prod.criteo.com
 in-ftd-280.us5.vip.prod.criteo.com
 in-ftd-282.da1.vip.prod.criteo.com
@@ -28296,7 +27903,6 @@ in-ftd-391.da1.vip.prod.criteo.com
 in-ftd-391.fr3.vip.prod.criteo.com
 in-ftd-391.jp2.vip.prod.criteo.com
 in-ftd-391.nl3.vip.prod.criteo.com
-in-ftd-391.sg1.vip.prod.criteo.com
 in-ftd-391.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
@@ -28340,7 +27946,6 @@ incisive.actonservice.com
 incisivemedia.112.2o7.net
 incline9edge.com
 incomehippo.com
-incoming-da.us.gbc.criteo.com
 incomingag.gbc.criteo.com
 incommholdings.tt.omtrdc.net
 incommholdingsgift.tt.omtrdc.net
@@ -28363,9 +27968,7 @@ indmetric.rediff.com
 indochino.tt.omtrdc.net
 indoeasia.edm.globalsources.com
 indpcr1.com
-indprop.gbc.criteo.com
 industrialrelations.gbc.criteo.com
-industry.promo.skf.com
 industry.statefoodsafety.com
 industry.tafensw.edu.au
 ineed2s.ro
@@ -28633,7 +28236,6 @@ info.cii.today
 info.cine-med.com
 info.cint.com
 info.cipcourses.com
-info.cipherhealth.com
 info.cityfibre.com
 info.citymarketingamersfoort.nl
 info.ckeditor.com
@@ -29405,7 +29007,6 @@ info.schmidt-na.com
 info.schoolspecialtynews.com
 info.schwing.com
 info.scoopinsurance.ca
-info.scor-pc.com
 info.scorecardrewards.com
 info.scottmadden.com
 info.scriptel.com
@@ -29602,7 +29203,6 @@ info.viant.com
 info.vibro-acoustics.com
 info.vidanthealth.com
 info.vierhetseizoen.nl
-info.viewsonic.com
 info.virtela.net
 info.virtusbenefits.aleragroup.com
 info.visitgranbury.com
@@ -29975,7 +29575,6 @@ internalcomms.hubinternational.com
 internalcomms.pg.com
 internalcondition.com
 internalemailvision.net.daraz.com
-internalfed.gbc.criteo.com
 internalreferral.freshworks.com
 internals.tt.omtrdc.net
 internalsink.com
@@ -29999,7 +29598,6 @@ intuitioncreative-52.com
 intuitive-365enterprise.com
 intuitive-52innovative.com
 intuitvisitorid.api.intuit.com
-inuyasha.gbc.criteo.com
 inv.isid.co.jp
 inv.mksp.io
 inv3te.oui.sncf
@@ -30100,7 +29698,6 @@ ip-a-box.com
 ip-check-perf.radar.cloudflare.com
 ip-info.ff.avast.sec.miui.com
 ip-route.net
-ip.bcava.gbc.criteo.com
 ip.chipestimate.com
 ip.cliphunter.com
 ip.lovely-app.com
@@ -30141,11 +29738,9 @@ ipv4-c003-ktw001-orangepl-isp.gbc.criteo.com
 ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com
 ipv4-c024-mia006-ix.1.oca.nflxvideo.net.iberostar.com
 ipv4-cs.intsig.net.iberostar.com
-ipv5da.us.gbc.criteo.com
 ipyjxs.chowsangsang.com
 iq-ad-lgsmartad-com.aws-prd.net
 iq.ad.lgsmartad.com
-iq.gbc.criteo.com
 iq.intellicyt.com
 iq.lgsmartad.com
 iq.sixaxisllc.com
@@ -30184,8 +29779,6 @@ ir-ad-lgsmartad-com.aws-prd.net
 ir-tracking.trafficmanager.net
 ir.ad.lgsmartad.com
 ir.lgsmartad.com
-irc-bcava.gbc.criteo.com
-irc-fed.gbc.criteo.com
 irc.da.us.gbc.criteo.com
 ircmail.gbc.criteo.com
 iready.curriculumassociates.com
@@ -30259,7 +29852,6 @@ iterable.convoy.com
 itgirishtimesprod.112.2o7.net
 itkdlu.equideow.com
 itlicensing.tt.omtrdc.net
-itm-multi.gbc.criteo.com
 itmedia.122.2o7.net
 itp.yaku-job.com
 itr1.la-source-bio.fr
@@ -30300,7 +29892,6 @@ iwhzhi.packstyle.jp
 iwl2d7pa4yx1.www.logology.co
 iwlnpw.claudiepierlot.com
 iwmjsk.jw.com.au
-iworldtivogo.gbc.criteo.com
 iwpneu.eneba.com
 iwwwvsed59.alphonso.tv
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com
@@ -30344,7 +29935,6 @@ jabber.eurelian.com
 jaccs.122.2o7.net
 jackpot.112.2o7.net
 jacksonnationallifei.tt.omtrdc.net
-jactiv.gbc.criteo.com
 jade01.webtrekk.net
 jade853gmbh.tt.omtrdc.net
 jaderooster.com
@@ -30545,15 +30135,12 @@ jo.ad.lgsmartad.com
 jo.lgsmartad.com
 jo2f.cheque-cadhoc.fr
 joatoon.net.daraz.com
-job-ag.gbc.criteo.com
 job.acbhk0.gbc.criteo.com
 jobacbhk0.gbc.criteo.com
-jobalerts-cab.gbc.criteo.com
 jobappplus.actonservice.com
 joblessdrum.com
 jobmist.com
 jobs-cab.gbc.criteo.com
-jobs-www.ag.gbc.criteo.com
 jobs.smpgn.co
 jobtestprep.postaffiliatepro.com
 joc.marketing.atafreight.com
@@ -30630,7 +30217,6 @@ join.talker.network
 join.thekrishi.com
 join.thetatilist.com
 join.thewritingrevolution.org
-join.thisisbeyond.com
 join.tlon.io
 join.travelxp.com
 join.vibely.io
@@ -30680,7 +30266,6 @@ jp-internal.mug.as.criteo.com
 jp-internal.mug.criteo.com
 jp-internal.pca.criteo.com
 jp-internal.rm-v.as.criteo.com
-jp-internal.rtb-generic.as.criteo.com
 jp-internal.rtb-google.criteo.com
 jp-internal.rtb-microad.criteo.com
 jp-internal.rtb.as.criteo.com
@@ -30693,7 +30278,6 @@ jp-tyo-as55569.anchors.atlas.ripe.net
 jp-v10.events.data.microsoft.com
 jp-v10c.events.data.microsoft.com
 jp-v20.events.data.microsoft.com
-jp-vip.gbc.criteo.com
 jp.ad.lgsmartad.com
 jp.events.data.trafficmanager.net
 jp.gbc.criteo.com
@@ -30716,7 +30300,6 @@ jp4.mail.gbc.criteo.com
 jpaatr.astellas.jp
 jpbodenandco.tt.omtrdc.net
 jpcn.as.gbc.criteo.com
-jpcyaniteproxy-gce-be-2.as.gbc.criteo.com
 jpfufu.xlmoto.co.uk
 jpluzr.autoc-one.jp
 jpmcabp.com
@@ -30771,7 +30354,6 @@ js2.tst.applicationinsights.io
 jscoinminer.com
 jshkyh.29cm.co.kr
 jslog.post.cz
-jsmp.gbc.criteo.com
 jsnzoe301m.com
 jsomtq.telescope.com
 jspqms.bellevue-ferienhaus.de
@@ -30982,7 +30564,6 @@ kernellife.com
 kernenergie.efscle.com
 kerplat.112.2o7.net
 kerryluxembourgsarl.hb.omtrdc.net
-kes-alt.gbc.criteo.com
 kes-classroom.gbc.criteo.com
 kes-dd.gbc.criteo.com
 kes-downloads.gbc.criteo.com
@@ -30998,27 +30579,18 @@ kes-prueba.gbc.criteo.com
 kes-sg3.gbc.criteo.com
 kes-vod.gbc.criteo.com
 kes-w3.gbc.criteo.com
-kes.gbc.criteo.com
-kesda3.gbc.criteo.com
-kesdemostatic.gbc.criteo.com
 kesedu.gbc.criteo.com
 kesfinance.gbc.criteo.com
-kesfr6.gbc.criteo.com
-kesgmail.gbc.criteo.com
 kesimap4d.gbc.criteo.com
-kesircd.gbc.criteo.com
 kesko.actonservice.com
-keslinks.gbc.criteo.com
 keslive.gbc.criteo.com
 kesmx-b.gbc.criteo.com
-kesnas.gbc.criteo.com
 kesns17.gbc.criteo.com
 kesns18.gbc.criteo.com
 kesns19.gbc.criteo.com
 kesnt.gbc.criteo.com
 kestlerfinancial.actonservice.com
 kesvideos.gbc.criteo.com
-kesvpn-da3.gbc.criteo.com
 kesvpn-jp1.gbc.criteo.com
 kesvpn-us4.gbc.criteo.com
 keswap.gbc.criteo.com
@@ -31069,7 +30641,6 @@ kidiliz-com.eulerian.net
 kidpowers.com
 kidsdeservethebest.childrenswi.org
 kidsdeservethebest.chw.org
-kie.enviedefraise.fr
 kierwg.enzzo.gr
 kiev.gbc.criteo.com
 kighmh.nelson.nl
@@ -31197,7 +30768,6 @@ kpcli-ngjsod.gbc.criteo.com
 kpcli-on-kes.gbc.criteo.com
 kpcli-prints.gbc.criteo.com
 kpcli-repart.gbc.criteo.com
-kpcli-s01e02.gbc.criteo.com
 kpcli-smiles.gbc.criteo.com
 kpcli-soomla.gbc.criteo.com
 kpcli-support-retailmedia.gbc.criteo.com
@@ -31206,7 +30776,6 @@ kpcli-tupelo.gbc.criteo.com
 kpcli-wptype.gbc.criteo.com
 kpcli.gbc.criteo.com
 kpclikoenma.gbc.criteo.com
-kpclipljava.gbc.criteo.com
 kpcyic.sportisimo.cz
 kpfhir58.alphonso.tv
 kpfvaq.schuhe.de
@@ -31517,7 +31086,6 @@ ktracker.kumparan.com
 ktskxm.smartphoto.nl
 ktus.gbc.criteo.com
 kuaifr.camicado.com.br
-kube-partner.net.daraz.com
 kube.tt.omtrdc.net
 kubectl.tt.omtrdc.net
 kubemarketing.net.daraz.com
@@ -31705,7 +31273,6 @@ la.mail.neurobion.com
 la.mail.oldspice.com
 la.mail.oralb.com
 la.mail.pampers.com
-la.mail.pantene.com
 la.mail.pg.com
 la.mail.secret.com
 la.mail.vicks.com
@@ -31820,7 +31387,6 @@ late6year.com
 late8chew.com
 lathes.gbc.criteo.com
 latin.ag.gbc.criteo.com
-latin.lj.gbc.criteo.com
 latin.net.daraz.com
 latin.tt.omtrdc.net
 latinamericavip.gbc.criteo.com
@@ -31843,12 +31409,10 @@ law.gbc.criteo.com
 law.lexisnexis.com
 lawschool.colorado.edu
 lawyers.rigbycooke.com.au
-lax.mp.gbc.criteo.com
 lax0-da.us.gbc.criteo.com
 lax0.mp.gbc.criteo.com
 lax1.mail.gbc.criteo.com
 lax2mp.gbc.criteo.com
-lax3.bcava.gbc.criteo.com
 lax3.vip.gbc.criteo.com
 laxnws.112.2o7.net
 laxprs.112.2o7.net
@@ -31946,7 +31510,6 @@ learn.apartnership.com
 learn.aqmd.gov
 learn.armanino.com
 learn.armaninollp.com
-learn.atarc.org
 learn.brainpop.com
 learn.brightspotstrategy.com
 learn.centricconsulting.com
@@ -31963,7 +31526,6 @@ learn.fusionrm.com
 learn.gbc.criteo.com
 learn.gobonfire.com
 learn.grassicpas.com
-learn.hcss.com
 learn.healthyinteractions.com
 learn.houzz.com
 learn.huthwaite.com
@@ -32016,7 +31578,6 @@ leeenterprises.112.2o7.net
 left5lock.com
 leftliquid.com
 legacy-hinet.net.daraz.com
-legacy-lj.gbc.criteo.com
 legacy.gbc.criteo.com
 legacy.net.daraz.com
 legacy.tt.omtrdc.net
@@ -32097,7 +31658,6 @@ lgadamericas.tt.omtrdc.net
 lgads.tv
 lgbdxo.azazie.com
 lgd8.olailhascanarias.com
-lgdnxx.stihldealer.net
 lgelectronics.122.2o7.net
 lglbfle6.alphonso.tv
 lgm.averydennison.com
@@ -33092,12 +32652,10 @@ littlesun.net
 live.alljobs.co.il
 live.applicationinsights.azure.cn
 live.applicationinsights.azure.com
-live.centtrip.com
 live.comunicaciones.jetstereo.com
 live.cxo.name
 live.direct.ly
 live.ff.co
-live.gbc.criteo.com
 live.imimobile.com
 live.miphone.pandora.xiaomi.com
 live.polycom.com
@@ -33118,18 +32676,12 @@ livingsleet.com
 lizard.donald.cat
 lizardslaugh.com
 lizmjtlnix16.alphonso.tv
-lj-3-cafw4cuaifsvnlnjqzehy3dk.gbc.criteo.com
 lj-alumni.gbc.criteo.com
-lj-cms2.gbc.criteo.com
-lj-domains.gbc.criteo.com
-lj-ftp.gbc.criteo.com
 lj-gh.gbc.criteo.com
 lj-github.gbc.criteo.com
 lj-old.gbc.criteo.com
 lj-ops.gbc.criteo.com
-lj-richmediacreative.gbc.criteo.com
 lj-rtb-medianet.gbc.criteo.com
-lj-slave.gbc.criteo.com
 lj-software.gbc.criteo.com
 lj-sports.gbc.criteo.com
 lj-ssp-bidder-rightmedia-1.gbc.criteo.com
@@ -33145,7 +32697,6 @@ ljduplo.gbc.criteo.com
 ljen.gbc.criteo.com
 ljgbc11.gbc.criteo.com
 ljimaps.gbc.criteo.com
-ljipv6.gbc.criteo.com
 ljipv7.gbc.criteo.com
 ljjsajcuwf67.alphonso.tv
 ljkb.gbc.criteo.com
@@ -33370,9 +32921,7 @@ login-bg.jp2.vip.prod.criteo.net
 login-bg.nl3.vip.prod.criteo.net
 login-bg.us.criteo.net
 login-bg.us5.vip.prod.criteo.net
-login-dev-ag.gbc.criteo.com
 login-dev-dfe.gbc.criteo.com
-login-devacbhk0.gbc.criteo.com
 login-freshegg.net.daraz.com
 login-vip.gbc.criteo.com
 login.ads.roku.com
@@ -33495,7 +33044,6 @@ lp.ag.gbc.criteo.com
 lp.americas.business.samsung.com
 lp.antalis.com
 lp.apac.business.samsung.com
-lp.atlas-mts.com
 lp.b2bmail.adobe.com
 lp.befly.com.br
 lp.capella.edu
@@ -33709,7 +33257,6 @@ lu.ad.lgsmartad.com
 lu.lgsmartad.com
 luaqlg.blissy.com
 lub-links.eyecue.io
-lublin.kmp.gbc.criteo.com
 lubricants.shell.com
 lubricationde.promo.skf.com
 lubw.gbc.criteo.com
@@ -33741,7 +33288,6 @@ lunchroomlock.com
 lundbeck.tt.omtrdc.net
 luptbq.lampsplus.com
 lurker.olx.com.br
-lusanovatravel.gbc.criteo.com
 lustroushaven.com
 luumhi.whatonearthcatalog.com
 luuonz.motoblouz.com
@@ -33992,21 +33538,16 @@ magic.freetrade.io
 magic.prism.gg
 magicaljoin.com
 magicminibox.com
-mail-account.gbc.criteo.com
-mail-autodiscover.gbc.criteo.com
 mail-backup.gbc.criteo.com
 mail-count.matsui.co.jp
 mail-cvs.gbc.criteo.com
-mail-d.gbc.criteo.com
 mail-da1.gbc.criteo.com
 mail-img.gbc.criteo.com
 mail-ip.gbc.criteo.com
 mail-login-dev.gbc.criteo.com
-mail-lyncdiscover.gbc.criteo.com
 mail-mailing.gbc.criteo.com
 mail-market.gbc.criteo.com
 mail-ns16.gbc.criteo.com
-mail-o2.gbc.criteo.com
 mail-privacy.gbc.criteo.com
 mail-rdi.gbc.criteo.com
 mail-rite.actonservice.com
@@ -34304,13 +33845,11 @@ mail16.aosag.net
 mail16.b2b-mail.net
 mail160.aosag.net
 mail161.aosag.net
-mail162.aosag.net
 mail163.aosag.net
 mail164.aosag.net
 mail165.aosag.net
 mail166.aosag.net
 mail167.aosag.net
-mail168.aosag.net
 mail169.aosag.net
 mail17.aosag.net
 mail17.b2b-mail.net
@@ -34398,8 +33937,6 @@ mail218.aosag.net
 mail219.aosag.net
 mail22.aosag.net
 mail22.b2b-mail.net
-mail220.aosag.net
-mail221.aosag.net
 mail222.aosag.net
 mail223.aosag.net
 mail224.aosag.net
@@ -34502,7 +34039,6 @@ mail47.aosag.net
 mail47.b2b-mail.net
 mail48.aosag.net
 mail49.aosag.net
-mail4pd.gbc.criteo.com
 mail5.aosag.net
 mail5.b2b-mail.net
 mail50.aosag.net
@@ -34681,7 +34217,6 @@ mailer134.aosag.net
 mailer135.aosag.net
 mailer136.aosag.net
 mailer137.aosag.net
-mailer138.aosag.net
 mailer139.aosag.net
 mailer14.aosag.net
 mailer14.conad.com
@@ -34727,7 +34262,6 @@ mailer172.aosag.net
 mailer173.aosag.net
 mailer174.aosag.net
 mailer175.aosag.net
-mailer176.aosag.net
 mailer177.aosag.net
 mailer178.aosag.net
 mailer179.aosag.net
@@ -34771,7 +34305,6 @@ mailer202.aosag.net
 mailer203.aosag.net
 mailer204.aosag.net
 mailer205.aosag.net
-mailer206.aosag.net
 mailer207.aosag.net
 mailer208.aosag.net
 mailer209.aosag.net
@@ -34793,7 +34326,6 @@ mailer220.aosag.net
 mailer221.aosag.net
 mailer222.aosag.net
 mailer223.aosag.net
-mailer224.aosag.net
 mailer225.aosag.net
 mailer226.aosag.net
 mailer227.aosag.net
@@ -34847,7 +34379,6 @@ mailer3.conad.com
 mailer3.moodypublishersmail.com
 mailer3.simpleviewinc.com
 mailer30.aosag.net
-mailer30.zoommeetingsclassaction.com
 mailer31.aosag.net
 mailer31.zoommeetingsclassaction.com
 mailer32.aosag.net
@@ -34879,7 +34410,6 @@ mailer42.zoommeetingsclassaction.com
 mailer43.aosag.net
 mailer43.zoommeetingsclassaction.com
 mailer44.aosag.net
-mailer44.zoommeetingsclassaction.com
 mailer45.aosag.net
 mailer45.zoommeetingsclassaction.com
 mailer46.aosag.net
@@ -34980,7 +34510,6 @@ mailing.channel4.com
 mailing.chcarolinaherrera.com
 mailing.dfg.de
 mailing.elconfidencialdigital.com
-mailing.etracker.com
 mailing.netcetera.com
 mailing.philips.com
 mailing.purificaciongarcia.com
@@ -35005,7 +34534,6 @@ mailtesting4.gbc.criteo.com
 mailtfs.gbc.criteo.com
 mailtracking.tf1.com
 mailtribunecom.112.2o7.net
-mailu.gbc.criteo.com
 mailwww0.gbc.criteo.com
 mailx.carte-gr.total.fr
 mailx.happ.social
@@ -35048,8 +34576,6 @@ managedpush.com
 management-application-spring.net.daraz.com
 management.net.daraz.com
 management.tt.omtrdc.net
-manager-mail.gbc.criteo.com
-managervip.gbc.criteo.com
 manamoment.com
 mandant.net.anwalt.de
 mandarinorientalmgt.tt.omtrdc.net
@@ -35084,7 +34610,6 @@ maps-cab.gbc.criteo.com
 maps-da.us.gbc.criteo.com
 maps.gbc.criteo.com
 mapscom2.112.2o7.net
-marathi.gbc.criteo.com
 marblediscussion.com
 marceline.wantsext.me
 march.landing.ni.com
@@ -35121,7 +34646,6 @@ marketing-cdn.da.us.criteo.com
 marketing-cdn.da.us.preprod.criteo.com
 marketing-cdn.eu.criteo.com
 marketing-cdn.fr3.eu.criteo.com
-marketing-cdn.gbc.criteo.com
 marketing-cdn.jp2.as.criteo.com
 marketing-cdn.mp.gbc.criteo.com
 marketing-cdn.nl3.eu.criteo.com
@@ -35320,7 +34844,6 @@ marketing.berktek.us
 marketing.best4tires.com
 marketing.bestagency.com
 marketing.bfandt.com
-marketing.bfinance.com
 marketing.bftwealth.com
 marketing.bglcorp.com
 marketing.bioagilytix.com
@@ -35445,7 +34968,6 @@ marketing.clarosanalytics.com
 marketing.classroominc.org
 marketing.cleardigital.com
 marketing.clearlaws.com
-marketing.clearthink.capital
 marketing.clearviewlive.com
 marketing.click.co.uk
 marketing.clickatell.com
@@ -36443,7 +35965,6 @@ marketing.sterlingsolutions.com
 marketing.sti.com
 marketing.stillsecure.com
 marketing.stmh.org
-marketing.sto.at
 marketing.sto.com
 marketing.stockcero.com
 marketing.streck.com
@@ -36780,7 +36301,6 @@ marketing2.technologyadvice.com
 marketing3.polarispacific.com
 marketing4.directimpactinc.com
 marketing6.directimpactinc.com
-marketingacbhk0.gbc.criteo.com
 marketingautomation.impexium.net
 marketingb2b.euromaster-neumaticos.es
 marketingde.mti.com
@@ -36883,7 +36403,6 @@ mattressusa.122.2o7.net
 matytt.tone.ne.jp
 maui.shakaguide.com
 maurices.tt.omtrdc.net
-mavenjtivogo.gbc.criteo.com
 mavic852.com
 max.ad.xiaomi.com
 maxbetme.postaffiliatepro.com
@@ -36891,7 +36410,6 @@ maxclientstatapi.com
 maxcruisers.com
 maxepv.com
 maxim.122.2o7.net
-maxpat-tivogo.gbc.criteo.com
 maxtat.55truck.com
 maybetony.com
 mayorschallenge.centreforpublicimpact.org
@@ -37168,7 +36686,6 @@ measlymiddle.com
 measure.ameblo.jp
 measure.office.net.edgesuite.net
 measure.refinery89.com
-measurement-api.as.criteo.com
 measurement-api.criteo.com
 measurement-api.da.us.criteo.com
 measurement-api.da.us.preprod.criteo.com
@@ -37177,10 +36694,8 @@ measurement-api.eu.criteo.com
 measurement-api.fr3.vip.prod.criteo.com
 measurement-api.gbc.criteo.com
 measurement-api.jp2.as.criteo.com
-measurement-api.jp2.vip.prod.criteo.com
 measurement-api.nl3.eu.criteo.com
 measurement-api.nl3.vip.prod.criteo.com
-measurement-api.sg1.as.criteo.com
 measurement-api.sg1.vip.prod.criteo.com
 measurement-api.us.criteo.com
 measurement-api.us5.us.criteo.com
@@ -37281,10 +36796,8 @@ mediasetitalia01.wt-eu02.net
 mediasolutions.netinsight.net
 mediasource.actonservice.com
 mediatescarf.com
-medicina.gbc.criteo.com
 medina.gbc.criteo.com
 mediniku.viessmann.lt
-medion01.webtrekk.net
 medion01.wt-eu02.net
 medisante.actonservice.com
 mediwebinars.com
@@ -37313,7 +36826,6 @@ meet.hammerspace.com
 meet.intercall.com
 meet.westuc.com
 meet3monk.com
-meetacbhk0.gbc.criteo.com
 meeting.nuance.com
 meetings.gaylordhotels.com
 meetupdev.122.2o7.net
@@ -37335,7 +36847,6 @@ melodothogy.meng2x.com
 meltmilk.com
 member-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 member-app.rightwayhealthcare.com
-member-bcava.gbc.criteo.com
 member.usenix.org
 memberkes.gbc.criteo.com
 members.asq.org
@@ -37382,7 +36893,6 @@ merryopal.com
 merryvault.com
 mesalabs.actonservice.com
 mesaviewlodge.com
-mess.gbc.criteo.com
 message.alldata.com
 message.sonicwall.com
 messagelists.com
@@ -38538,7 +38048,6 @@ metrics.radissonhotelsamericas.com
 metrics.rainbowmagic.co.uk
 metrics.ralphlauren.com
 metrics.ralphlauren.fr
-metrics.ramada.com
 metrics.rapidedge.io
 metrics.rarediseasesignup.com
 metrics.rbcgam.com
@@ -38955,7 +38464,6 @@ metrics.yola.com
 metrics.youandyourwedding.co.uk
 metrics.yourlexusdealer.com
 metrics.zacks.com
-metrics.zagg.com
 metrics1-data-hicloud-com.ge.dbankedge.cn
 metrics1-data-hicloud-com.gere.dbankedge.cn
 metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn
@@ -39092,7 +38600,6 @@ miadhqsm4.alphonso.tv
 mialbj6.com
 mic.eulerian.net
 mic01.eulerian.net
-mic02.eulerian.net
 mic03.eulerian.net
 mic04.eulerian.net
 michevrolet.com
@@ -39157,7 +38664,6 @@ millswell.com
 milsoft.actonservice.com
 mimakiusa.actonservice.com
 mimosamajor.com
-minamikanto.gbc.criteo.com
 mindfulgem.com
 mindlessmark.com
 mine.nahnoji.cz
@@ -39236,7 +38742,6 @@ mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
 mixplays.com
 mixxuo.sportys.gr
-mizutr.gbc.criteo.com
 mj-snowplow-static-js.s3.amazonaws.com
 mjca-yijws.global.ssl.fastly.net
 mjfunt.bibi.com
@@ -39333,7 +38838,6 @@ ml.ad.lgsmartad.com
 ml.etr.im
 ml.eulerian.com
 ml.eulerian.eu
-ml.eulerian.fr
 ml.eulerian.net
 ml.houzz.com
 ml.lgsmartad.com
@@ -39408,7 +38912,6 @@ mmk-dev.gbc.criteo.com
 mml1.melia.com
 mmobsz.edenviaggi.it
 mms.cmpsky.com
-mms.cnn.com
 mms.fitforfun.de
 mms.libelle.nl
 mms.nola.com
@@ -39567,7 +39070,6 @@ mormonorg.112.2o7.net
 mormont.gamer-network.net
 mormoraiaitalia01.wt-eu02.net
 morningnewsonline.112.2o7.net
-morrellinc.actonservice.com
 mors22.com
 mortgage.equifax.com
 mortgage.inform.equifax.com
@@ -39610,7 +39112,6 @@ mowimyjak.gbc.criteo.com
 mown5gaze.com
 mowvra.idlookmall.com
 moxtra.actonservice.com
-mp-appnexus.gbc.criteo.com
 mp-beta.gbc.criteo.com
 mp-cache.gbc.criteo.com
 mp-co.gbc.criteo.com
@@ -39624,16 +39125,10 @@ mp-ftpadmin.gbc.criteo.com
 mp-gbc6.gbc.criteo.com
 mp-ms.gbc.criteo.com
 mp-newmail.gbc.criteo.com
-mp-nginx.gbc.criteo.com
-mp-ns26.gbc.criteo.com
 mp-orion.gbc.criteo.com
 mp-pruebas.gbc.criteo.com
 mp-relay.gbc.criteo.com
-mp-retailmedia-static.gbc.criteo.com
-mp-richmediacreative.gbc.criteo.com
-mp-staging-commercegrid.gbc.criteo.com
 mp-tutorials.gbc.criteo.com
-mp-zabbix.gbc.criteo.com
 mp.digital.wilhelmsen.com
 mp.gbc.criteo.com
 mp.imgur.com
@@ -39641,12 +39136,10 @@ mp.pitchero.com
 mp.theepochtimes.com
 mp0pd.gbc.criteo.com
 mp4teluguwap.backpackworldstage.net.daraz.com
-mpadministrator.gbc.criteo.com
 mpakal.openapp.link
 mpassde01.webtrekk.net
 mpbroadcast-ip.gbc.criteo.com
 mpc-co.actonservice.com
-mpdomains.gbc.criteo.com
 mpelearning.gbc.criteo.com
 mpfml72.alphonso.tv
 mpglie.apartmentguide.com
@@ -39660,9 +39153,7 @@ mpns18.gbc.criteo.com
 mppass.gbc.criteo.com
 mprkxf.teebooks.com
 mprtb-global-3.gbc.criteo.com
-mpsites.gbc.criteo.com
 mptelework.gbc.criteo.com
-mptest3.gbc.criteo.com
 mpvm.gbc.criteo.com
 mq.lgsmartad.com
 mqesfg.bpm-power.com
@@ -39758,7 +39249,6 @@ msntest.serving-sys.com
 msntrademarketing.112.2o7.net
 msnwinonecare.112.2o7.net
 msoid.acbhk0.gbc.criteo.com
-msoid.mail.gbc.criteo.com
 mssbcprod.112.2o7.net
 mssqlkes.gbc.criteo.com
 msstonojstechnet.112.2o7.net
@@ -40067,7 +39557,6 @@ mta62-128.muc.bh-mail.com
 mta62-129.muc.bh-mail.com
 mta62-13.muc.bh-mail.com
 mta62-130.muc.bh-mail.com
-mta62-131.muc.bh-mail.com
 mta62-132.muc.bh-mail.com
 mta62-133.muc.bh-mail.com
 mta62-134.muc.bh-mail.com
@@ -40255,7 +39744,6 @@ mta62-69.muc.bh-mail.com
 mta62-7.muc.bh-mail.com
 mta62-70.muc.bh-mail.com
 mta62-71.muc.bh-mail.com
-mta62-72.muc.bh-mail.com
 mta62-73.muc.bh-mail.com
 mta62-74.muc.bh-mail.com
 mta62-75.muc.bh-mail.com
@@ -40286,7 +39774,6 @@ mta62-97.muc.bh-mail.com
 mta62-98.muc.bh-mail.com
 mta62-99.muc.bh-mail.com
 mta63-1.muc.bh-mail.com
-mta63-10.muc.bh-mail.com
 mta63-100.muc.bh-mail.com
 mta63-101.muc.bh-mail.com
 mta63-102.muc.bh-mail.com
@@ -40331,7 +39818,6 @@ mta63-137.muc.bh-mail.com
 mta63-138.muc.bh-mail.com
 mta63-139.muc.bh-mail.com
 mta63-14.muc.bh-mail.com
-mta63-140.muc.bh-mail.com
 mta63-141.muc.bh-mail.com
 mta63-142.muc.bh-mail.com
 mta63-143.muc.bh-mail.com
@@ -40341,7 +39827,6 @@ mta63-146.muc.bh-mail.com
 mta63-147.muc.bh-mail.com
 mta63-148.muc.bh-mail.com
 mta63-149.muc.bh-mail.com
-mta63-15.muc.bh-mail.com
 mta63-150.muc.bh-mail.com
 mta63-151.muc.bh-mail.com
 mta63-152.muc.bh-mail.com
@@ -40409,7 +39894,6 @@ mta63-207.muc.bh-mail.com
 mta63-208.muc.bh-mail.com
 mta63-209.muc.bh-mail.com
 mta63-21.muc.bh-mail.com
-mta63-210.muc.bh-mail.com
 mta63-211.muc.bh-mail.com
 mta63-212.muc.bh-mail.com
 mta63-213.muc.bh-mail.com
@@ -40504,7 +39988,6 @@ mta63-64.muc.bh-mail.com
 mta63-65.muc.bh-mail.com
 mta63-66.muc.bh-mail.com
 mta63-67.muc.bh-mail.com
-mta63-68.muc.bh-mail.com
 mta63-69.muc.bh-mail.com
 mta63-7.muc.bh-mail.com
 mta63-70.muc.bh-mail.com
@@ -40602,7 +40085,6 @@ mta64-152.muc.bh-mail.com
 mta64-153.muc.bh-mail.com
 mta64-154.muc.bh-mail.com
 mta64-155.muc.bh-mail.com
-mta64-156.muc.bh-mail.com
 mta64-157.muc.bh-mail.com
 mta64-158.muc.bh-mail.com
 mta64-159.muc.bh-mail.com
@@ -40870,7 +40352,6 @@ mta65-165.muc.bh-mail.com
 mta65-166.muc.bh-mail.com
 mta65-167.muc.bh-mail.com
 mta65-168.muc.bh-mail.com
-mta65-169.muc.bh-mail.com
 mta65-17.muc.bh-mail.com
 mta65-170.muc.bh-mail.com
 mta65-171.muc.bh-mail.com
@@ -40982,7 +40463,6 @@ mta65-37.muc.bh-mail.com
 mta65-38.muc.bh-mail.com
 mta65-39.muc.bh-mail.com
 mta65-4.muc.bh-mail.com
-mta65-40.muc.bh-mail.com
 mta65-41.muc.bh-mail.com
 mta65-42.muc.bh-mail.com
 mta65-43.muc.bh-mail.com
@@ -41017,7 +40497,6 @@ mta65-69.muc.bh-mail.com
 mta65-7.muc.bh-mail.com
 mta65-70.muc.bh-mail.com
 mta65-71.muc.bh-mail.com
-mta65-72.muc.bh-mail.com
 mta65-73.muc.bh-mail.com
 mta65-74.muc.bh-mail.com
 mta65-75.muc.bh-mail.com
@@ -41217,7 +40696,6 @@ mta66-25.muc.bh-mail.com
 mta66-250.muc.bh-mail.com
 mta66-251.muc.bh-mail.com
 mta66-252.muc.bh-mail.com
-mta66-253.muc.bh-mail.com
 mta66-254.muc.bh-mail.com
 mta66-26.muc.bh-mail.com
 mta66-27.muc.bh-mail.com
@@ -41316,7 +40794,6 @@ mta67-11.muc.bh-mail.com
 mta67-110.muc.bh-mail.com
 mta67-111.muc.bh-mail.com
 mta67-112.muc.bh-mail.com
-mta67-113.muc.bh-mail.com
 mta67-114.muc.bh-mail.com
 mta67-115.muc.bh-mail.com
 mta67-116.muc.bh-mail.com
@@ -41357,7 +40834,6 @@ mta67-147.muc.bh-mail.com
 mta67-148.muc.bh-mail.com
 mta67-149.muc.bh-mail.com
 mta67-15.muc.bh-mail.com
-mta67-150.muc.bh-mail.com
 mta67-151.muc.bh-mail.com
 mta67-152.muc.bh-mail.com
 mta67-153.muc.bh-mail.com
@@ -41495,7 +40971,6 @@ mta67-42.muc.bh-mail.com
 mta67-43.muc.bh-mail.com
 mta67-44.muc.bh-mail.com
 mta67-45.muc.bh-mail.com
-mta67-46.muc.bh-mail.com
 mta67-47.muc.bh-mail.com
 mta67-48.muc.bh-mail.com
 mta67-49.muc.bh-mail.com
@@ -41520,7 +40995,6 @@ mta67-65.muc.bh-mail.com
 mta67-66.muc.bh-mail.com
 mta67-67.muc.bh-mail.com
 mta67-68.muc.bh-mail.com
-mta67-69.muc.bh-mail.com
 mta67-7.muc.bh-mail.com
 mta67-70.muc.bh-mail.com
 mta67-71.muc.bh-mail.com
@@ -41611,7 +41085,6 @@ mug.us.criteo.com
 mug.us5.us.criteo.com
 mugapi.lazzarionline.com
 muhttw.spotlightstores.com
-muizon.gbc.criteo.com
 mujjrh.stylenanda.com
 mule.caddyserver.com
 multifamily.rediq.com
@@ -41653,7 +41126,6 @@ mwk.seagate.com
 mws.verisk.com
 mwuvclbed2.alphonso.tv
 mwxema.galerieslafayette.com
-mx-a.kes.gbc.criteo.com
 mx-ad-lgsmartad-com.aws-prd.net
 mx-b.fed.gbc.criteo.com
 mx-b.mail.gbc.criteo.com
@@ -41662,7 +41134,6 @@ mx.carfax.com
 mx.carte-gr.total.fr
 mx.eneba.com
 mx.happ.social
-mx.info.doordash.com
 mx.information.maileva.com
 mx.lgsmartad.com
 mx.mywd.com
@@ -41693,7 +41164,6 @@ mx02.h.shortest-route.com
 mx02.m.shortest-route.com
 mx02.ru.teradatadmc.com
 mx03.a.shortest-route.com
-mx03.c.shortest-route.com
 mx03.g.shortest-route.com
 mx03.h.shortest-route.com
 mx03.m.shortest-route.com
@@ -41711,7 +41181,6 @@ mx1.eulerian.eu
 mx1.eulerian.fr
 mx1.eulerian.net
 mx10-de.aosau.net
-mx10.aosau.net
 mx10.aosdelivery.com
 mx100-de.aosau.net
 mx100.aosau.net
@@ -41734,7 +41203,6 @@ mx11.aosdelivery.com
 mx110-de.aosau.net
 mx111-de.aosau.net
 mx112-de.aosau.net
-mx113-de.aosau.net
 mx114-de.aosau.net
 mx115-de.aosau.net
 mx116-de.aosau.net
@@ -41766,7 +41234,6 @@ mx136-de.aosau.net
 mx137-de.aosau.net
 mx138-de.aosau.net
 mx139-de.aosau.net
-mx14-de.aosau.net
 mx14.aosau.net
 mx140-de.aosau.net
 mx141-de.aosau.net
@@ -41812,7 +41279,6 @@ mx160.aoscmt.com
 mx161-de.aosau.net
 mx161.aoscmt.com
 mx162-de.aosau.net
-mx162.aoscmt.com
 mx163-de.aosau.net
 mx163.aoscmt.com
 mx164-de.aosau.net
@@ -41846,7 +41312,6 @@ mx178-de.aosau.net
 mx179-de.aosau.net
 mx18-de.aosau.net
 mx18.aosau.net
-mx180-de.aosau.net
 mx181-de.aosau.net
 mx182-de.aosau.net
 mx183-de.aosau.net
@@ -41867,12 +41332,10 @@ mx195-de.aosau.net
 mx196-de.aosau.net
 mx197-de.aosau.net
 mx198-de.aosau.net
-mx199-de.aosau.net
 mx1park.b2bmktg.com
 mx2-b.e.replacementdevicelawsuit.com
 mx2-de.aosau.net
 mx2.aosau.net
-mx2.aosdelivery.com
 mx2.carte-gr.total.fr
 mx2.happ.social
 mx20-de.aosau.net
@@ -41917,7 +41380,6 @@ mx230-de.aosau.net
 mx231-de.aosau.net
 mx232-de.aosau.net
 mx233-de.aosau.net
-mx234-de.aosau.net
 mx235-de.aosau.net
 mx236-de.aosau.net
 mx237-de.aosau.net
@@ -42203,7 +41665,6 @@ nadelle.wantsext.me
 nafmxc.1083.fr
 nagios-vip.gbc.criteo.com
 nagios.mp.gbc.criteo.com
-nagios.vip.gbc.criteo.com
 naidileobram.actonservice.com
 naivestatement.com
 nakisa.actonservice.com
@@ -42266,7 +41727,6 @@ natsp.xing.com
 naturalhistorymuseum.tt.omtrdc.net
 nauticalfox.com
 nautilus-lj.gbc.criteo.com
-nautilus.mail.gbc.criteo.com
 nautilus.net.daraz.com
 nautilus.tt.omtrdc.net
 nav.sec.miui.com
@@ -42383,7 +41843,6 @@ net.iberia.com
 net.idealo-partner.com
 net.jumia.com
 net.jumia.com.eg
-net.kes.gbc.criteo.com
 net.lj.gbc.criteo.com
 net.mydays.ch
 net.net.daraz.com
@@ -42440,7 +41899,6 @@ newcom.122.2o7.net
 newenglandsportsnetworkinc.hb-api.omtrdc.net
 newimagitasinc.hb.omtrdc.net
 newjersey-content.cresa.com
-newjersey.gbc.criteo.com
 newlook.112.2o7.net
 newmail.mp.gbc.criteo.com
 newperspective.americanexpress.com
@@ -42518,7 +41976,6 @@ news.lafourchette.com
 news.lascana.de
 news.leverforchange.org
 news.libn.com
-news.linde.com
 news.lufthansa.com
 news.lvb.com
 news.mahoneygroup.com
@@ -42657,7 +42114,6 @@ next.eulerian.com
 next.eulerian.eu
 next.eulerian.fr
 next.eulerian.net
-nextcloud.eulerian.net
 nexus.officeapps.live.com
 nexxtv-events.servicebus.windows.net
 nf.nationwideadvisory.com
@@ -42784,9 +42240,6 @@ nl2-as.gbc.criteo.com
 nl3.ag.gbc.criteo.com
 nl3.eu.gbc.criteo.com
 nl3.gbc.criteo.com
-nl3.rm-ssp-reporting.103alertclickdistrictrd103alertclickdistrictrdd.gbc.criteo.com
-nl3.vip.gbc.criteo.com
-nl5.www.ag.gbc.criteo.com
 nl6.res.gbc.criteo.com
 nl6.vip.gbc.criteo.com
 nlbukc.babyworld.se
@@ -42858,7 +42311,6 @@ noa0.compteczam.fr
 noam.events.data.microsoft.com
 noam.events.data.trafficmanager.net
 nocaadobefpc.optus.com.au
-nocmail.gbc.criteo.com
 node.csr23.net.daraz.com.00d1n0000017glquam.net.daraz.com
 node.net.daraz.com
 node.tt.omtrdc.net
@@ -42891,9 +42343,7 @@ noreply.apovoice.de
 norex-app.paihealth.no
 norm0care.com
 nortelcom.112.2o7.net
-northamerica.net.daraz.com
 northamerica.tt.omtrdc.net
-northamerica0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 northcentralus-0.in.applicationinsights.azure.com
 northeastern.tt.omtrdc.net
 northerntool.tt.omtrdc.net
@@ -43020,7 +42470,6 @@ ns.carte-gr.total.fr
 ns.emailvision.authenticate.net.daraz.com
 ns.emailvision.ebs.net.daraz.com
 ns.emailvision.net.daraz.com
-ns.emailvision.panel.net.daraz.com
 ns.emailvision.us.net.daraz.com
 ns.emailvjabberion.net.daraz.com
 ns.emrj82plvision.authenticate.net.daraz.com
@@ -43060,7 +42509,6 @@ ns1.ecircle.de
 ns1.eulerian.com
 ns1.eulerian.eu
 ns1.eulerian.fr
-ns1.eulerian.net
 ns1.happ.social
 ns1.lj.gbc.criteo.com
 ns1.res.gbc.criteo.com
@@ -43074,12 +42522,10 @@ ns13.criteo.com
 ns14.ag.gbc.criteo.com
 ns14mail.gbc.criteo.com
 ns15.gbc.criteo.com
-ns15.us.gbc.criteo.com
 ns15bcava.gbc.criteo.com
 ns16.kes.gbc.criteo.com
 ns17.criteo.com
 ns18.mail.gbc.criteo.com
-ns18lj.gbc.criteo.com
 ns19-www.ag.gbc.criteo.com
 ns19as.gbc.criteo.com
 ns19www.ag.gbc.criteo.com
@@ -43095,9 +42541,7 @@ ns2.mp.gbc.criteo.com
 ns2.viviotech.net.daraz.com
 ns20.mp.gbc.criteo.com
 ns21.criteo.com
-ns22.as.gbc.criteo.com
 ns22.criteo.com
-ns22cab.gbc.criteo.com
 ns22kes.gbc.criteo.com
 ns23.criteo.com
 ns23.fed.gbc.criteo.com
@@ -43126,8 +42570,6 @@ ns5-acbhk0.gbc.criteo.com
 ns5-mp.gbc.criteo.com
 ns6.criteo.com
 ns6.mp.gbc.criteo.com
-ns7.mail.gbc.criteo.com
-ns8-fed.gbc.criteo.com
 ns8.criteo.com
 ns9.gbc.criteo.com
 nsc.coutts.com
@@ -43187,7 +42629,6 @@ ntmonou0.alphonso.tv
 ntopcd.underarmour.nl
 ntp-kes.gbc.criteo.com
 ntp.b2bmktg.com
-ntp.kes.gbc.criteo.com
 ntphyl.milan-jeunesse.com
 ntt-fletscv.ntt-flets.com
 nttcommunications.122.2o7.net
@@ -43300,7 +42741,6 @@ o.opentable.com
 o.otrestaurant.com
 o.swisscom.ch
 o.webmd.com
-o0.kes.gbc.criteo.com
 o0www.ag.gbc.criteo.com
 o1ych4jb.com
 o2de.mno.link
@@ -43312,8 +42752,6 @@ o398.trumbulltimes.com
 o399.res.gbc.criteo.com
 o3gxzoewxl1x.cp.zomro.com
 o400cab.gbc.criteo.com
-o400da.us.gbc.criteo.com
-o403-fed.gbc.criteo.com
 o68c.sfr.fr
 o8.hyatt.com
 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
@@ -43387,7 +42825,6 @@ ob147.aoscufe.com
 ob148.aoscufe.com
 ob149.aoscufe.com
 ob15.aoscufe.com
-ob150.aoscufe.com
 ob151.aoscufe.com
 ob152.aoscufe.com
 ob153.aoscufe.com
@@ -43429,7 +42866,6 @@ ob185.aoscufe.com
 ob186.aoscufe.com
 ob187.aoscufe.com
 ob188.aoscufe.com
-ob189.aoscufe.com
 ob19.aoscufe.com
 ob190.aoscufe.com
 ob191.aoscufe.com
@@ -43441,7 +42877,6 @@ ob196.aoscufe.com
 ob197.aoscufe.com
 ob198.aoscufe.com
 ob199.aoscufe.com
-ob2.aoscufe.com
 ob20.aoscufe.com
 ob200.aoscufe.com
 ob201.aoscufe.com
@@ -43465,7 +42900,6 @@ ob217.aoscufe.com
 ob218.aoscufe.com
 ob219.aoscufe.com
 ob22.aoscufe.com
-ob220.aoscufe.com
 ob221.aoscufe.com
 ob222.aoscufe.com
 ob223.aoscufe.com
@@ -43500,7 +42934,6 @@ ob249.aoscufe.com
 ob25.aoscufe.com
 ob250.aoscufe.com
 ob251.aoscufe.com
-ob252.aoscufe.com
 ob253.aoscufe.com
 ob254.aoscufe.com
 ob255.aoscufe.com
@@ -43509,7 +42942,6 @@ ob27.aoscufe.com
 ob28.aoscufe.com
 ob29.aoscufe.com
 ob3.aoscufe.com
-ob30.aoscufe.com
 ob31.aoscufe.com
 ob32.aoscufe.com
 ob33.aoscufe.com
@@ -43518,7 +42950,6 @@ ob35.aoscufe.com
 ob36.aoscufe.com
 ob37.aoscufe.com
 ob38.aoscufe.com
-ob39.aoscufe.com
 ob4.aoscufe.com
 ob40.aoscufe.com
 ob41.aoscufe.com
@@ -43530,7 +42961,6 @@ ob46.aoscufe.com
 ob47.aoscufe.com
 ob48.aoscufe.com
 ob49.aoscufe.com
-ob5.aoscufe.com
 ob50.aoscufe.com
 ob51.aoscufe.com
 ob52.aoscufe.com
@@ -43649,7 +43079,6 @@ obm132.aoscufe.com
 obm133.aoscufe.com
 obm134.aoscufe.com
 obm135.aoscufe.com
-obm136.aoscufe.com
 obm137.aoscufe.com
 obm138.aoscufe.com
 obm139.aoscufe.com
@@ -43731,7 +43160,6 @@ obm196.aoscmt.com
 obm196.aoscufe.com
 obm197.aoscmt.com
 obm197.aoscufe.com
-obm198.aoscmt.com
 obm198.aoscufe.com
 obm199.aoscmt.com
 obm199.aoscufe.com
@@ -43744,7 +43172,6 @@ obm200.aoscmt.com
 obm200.aoscufe.com
 obm201.aoscmt.com
 obm201.aoscufe.com
-obm202.aoscmt.com
 obm202.aoscufe.com
 obm203.aoscmt.com
 obm203.aoscufe.com
@@ -43773,7 +43200,6 @@ obm213.aoscmt.com
 obm213.aoscufe.com
 obm214.aoscmt.com
 obm214.aoscufe.com
-obm215.aoscmt.com
 obm215.aoscufe.com
 obm216.aoscmt.com
 obm216.aoscufe.com
@@ -43793,8 +43219,6 @@ obm222.aoscmt.com
 obm222.aoscufe.com
 obm223.aoscmt.com
 obm223.aoscufe.com
-obm224.aoscmt.com
-obm224.aoscufe.com
 obm225.aoscmt.com
 obm225.aoscufe.com
 obm226.aoscmt.com
@@ -43915,12 +43339,10 @@ obm69.aoscufe.com
 obm7.aosag.net
 obm7.aoscufe.com
 obm70.aoscufe.com
-obm71.aoscufe.com
 obm72.aoscufe.com
 obm73.aoscufe.com
 obm74.aoscufe.com
 obm75.aoscufe.com
-obm76.aoscufe.com
 obm77.aoscufe.com
 obm78.aoscufe.com
 obm79.aoscufe.com
@@ -43939,7 +43361,6 @@ obm89.aoscufe.com
 obm9.aosag.net
 obm9.aoscufe.com
 obm90.aoscufe.com
-obm91.aoscufe.com
 obm92.aoscufe.com
 obm93.aoscufe.com
 obm94.aoscufe.com
@@ -43951,7 +43372,6 @@ obm99.aoscufe.com
 obmmx0.aoscufe.com
 obmmx1.aoscufe.com
 obmmx10.aoscufe.com
-obmmx100.aoscufe.com
 obmmx101.aoscufe.com
 obmmx102.aoscufe.com
 obmmx103.aoscufe.com
@@ -44016,7 +43436,6 @@ obmmx156.aoscufe.com
 obmmx157.aoscufe.com
 obmmx158.aoscufe.com
 obmmx159.aoscufe.com
-obmmx16.aoscufe.com
 obmmx160.aoscufe.com
 obmmx161.aoscufe.com
 obmmx162.aoscufe.com
@@ -44052,7 +43471,6 @@ obmmx19.aoscufe.com
 obmmx190.aoscufe.com
 obmmx191.aoscufe.com
 obmmx192.aoscufe.com
-obmmx193.aoscufe.com
 obmmx194.aoscufe.com
 obmmx195.aoscufe.com
 obmmx196.aoscufe.com
@@ -44106,13 +43524,11 @@ obmmx238.aoscufe.com
 obmmx239.aoscufe.com
 obmmx24.aoscufe.com
 obmmx240.aoscufe.com
-obmmx241.aoscufe.com
 obmmx242.aoscufe.com
 obmmx243.aoscufe.com
 obmmx244.aoscufe.com
 obmmx245.aoscufe.com
 obmmx246.aoscufe.com
-obmmx247.aoscufe.com
 obmmx248.aoscufe.com
 obmmx249.aoscufe.com
 obmmx25.aoscufe.com
@@ -44127,7 +43543,6 @@ obmmx27.aoscufe.com
 obmmx28.aoscufe.com
 obmmx29.aoscufe.com
 obmmx3.aoscufe.com
-obmmx30.aoscufe.com
 obmmx31.aoscufe.com
 obmmx32.aoscufe.com
 obmmx33.aoscufe.com
@@ -44229,8 +43644,6 @@ oca.telemetry.microsoft.us
 occidente.ubmmexico.com
 oceanair.actonservice.com
 oceanautomotive.actonservice.com
-oceania.kes.gbc.criteo.com
-oceania.mp.gbc.criteo.com
 ocelot.sonicumonitoring.com
 ochre-app.hotdoc.com.au
 ochsner.hrm.healthgrades.com
@@ -44378,9 +43791,6 @@ oldandindie.com
 olddfe.gbc.criteo.com
 oldfashionedoffer.com
 oldportcoffee.com
-oldsite.res.gbc.criteo.com
-oldus.gbc.criteo.com
-oldwww.cab.gbc.criteo.com
 olhqou.realsimple.com
 olklgn.jh-profishop.de
 olktn60.alphonso.tv
@@ -44638,7 +44048,6 @@ on.dextra.ch
 on.hellostake.com
 on.leagueapps.com
 on.librestream.com
-on.t.instagram.cp.acbhk0.gbc.criteo.com
 on24-webinars.co.uk
 oncahh.boxlunch.com
 oncoclinicas.actonservice.com
@@ -44799,7 +44208,6 @@ onfiei-onfofi.wcohus.teradatadmc.com
 onfiei-onfofo.uscluster.net
 onfiei-onfofo.wcohus.teradatadmc.com
 onfiei-onfoni.uscluster.net
-onfiei-onfoni.wcohus.teradatadmc.com
 onfiei-onfoon.uscluster.net
 onfiei-onfoon.wcohus.teradatadmc.com
 onfiei-onfose.uscluster.net
@@ -44809,7 +44217,6 @@ onfiei-onfosi.wcohus.teradatadmc.com
 onfiei-onfoth.uscluster.net
 onfiei-onfoth.wcohus.teradatadmc.com
 onfiei-onfotw.uscluster.net
-onfiei-onfotw.wcohus.teradatadmc.com
 onfiei-onfoze.uscluster.net
 onfiei-onfoze.wcohus.teradatadmc.com
 onfiei-onni.uscluster.net
@@ -45014,7 +44421,6 @@ onfiei-thfo.uscluster.net
 onfiei-thfo.wcohus.teradatadmc.com
 onfiei-thni.uscluster.net
 onfiei-thni.wcohus.teradatadmc.com
-onfiei-thon.uscluster.net
 onfiei-thon.wcohus.teradatadmc.com
 onfiei-thse.uscluster.net
 onfiei-thse.wcohus.teradatadmc.com
@@ -45033,7 +44439,6 @@ onfiei-twfi.wcohus.teradatadmc.com
 onfiei-twfifo.uscluster.net
 onfiei-twfifo.wcohus.teradatadmc.com
 onfiei-twfion.uscluster.net
-onfiei-twfion.wcohus.teradatadmc.com
 onfiei-twfith.uscluster.net
 onfiei-twfith.wcohus.teradatadmc.com
 onfiei-twfitw.uscluster.net
@@ -45111,7 +44516,6 @@ onfiei-twthth.wcohus.teradatadmc.com
 onfiei-twthtw.uscluster.net
 onfiei-twthtw.wcohus.teradatadmc.com
 onfiei-twthze.uscluster.net
-onfiei-twthze.wcohus.teradatadmc.com
 onfiei-twtw.uscluster.net
 onfiei-twtw.wcohus.teradatadmc.com
 onfiei-twtwei.uscluster.net
@@ -45342,7 +44746,6 @@ onfize-ononsi.cainus.teradatadmc.com
 onfize-ononsi.uscluster.com
 onfize-ononth.cainus.teradatadmc.com
 onfize-ononth.uscluster.com
-onfize-onontw.cainus.teradatadmc.com
 onfize-onontw.uscluster.com
 onfize-ononze.cainus.teradatadmc.com
 onfize-ononze.uscluster.com
@@ -45579,7 +44982,6 @@ onfize-twonze.uscluster.com
 onfize-twse.cainus.teradatadmc.com
 onfize-twse.uscluster.com
 onfize-twsi.cainus.teradatadmc.com
-onfize-twsi.uscluster.com
 onfize-twth.cainus.teradatadmc.com
 onfize-twth.uscluster.com
 onfize-twthei.cainus.teradatadmc.com
@@ -45642,10 +45044,8 @@ onfize-twzesi.cainus.teradatadmc.com
 onfize-twzesi.uscluster.com
 onfize-twzeth.cainus.teradatadmc.com
 onfize-twzeth.uscluster.com
-onfize-twzetw.cainus.teradatadmc.com
 onfize-twzetw.uscluster.com
 onfize-twzeze.cainus.teradatadmc.com
-onfize-twzeze.uscluster.com
 onfose-ei.m.teradatadmc.com
 onfose-ei.rucluster.net
 onfose-eiei.m.teradatadmc.com
@@ -45682,7 +45082,6 @@ onfose-fion.m.teradatadmc.com
 onfose-fion.rucluster.net
 onfose-fise.m.teradatadmc.com
 onfose-fise.rucluster.net
-onfose-fisi.m.teradatadmc.com
 onfose-fisi.rucluster.net
 onfose-fith.m.teradatadmc.com
 onfose-fith.rucluster.net
@@ -45871,7 +45270,6 @@ onfose-onseze.rucluster.net
 onfose-onsi.m.teradatadmc.com
 onfose-onsi.rucluster.net
 onfose-onsiei.m.teradatadmc.com
-onfose-onsiei.rucluster.net
 onfose-onsifi.m.teradatadmc.com
 onfose-onsifi.rucluster.net
 onfose-onsifo.m.teradatadmc.com
@@ -46008,7 +45406,6 @@ onfose-thfi.rucluster.net
 onfose-thfo.m.teradatadmc.com
 onfose-thfo.rucluster.net
 onfose-thni.m.teradatadmc.com
-onfose-thni.rucluster.net
 onfose-thon.m.teradatadmc.com
 onfose-thon.rucluster.net
 onfose-thse.m.teradatadmc.com
@@ -46143,7 +45540,6 @@ onfose-twzeni.m.teradatadmc.com
 onfose-twzeni.rucluster.net
 onfose-twzeon.m.teradatadmc.com
 onfose-twzeon.rucluster.net
-onfose-twzese.m.teradatadmc.com
 onfose-twzese.rucluster.net
 onfose-twzesi.m.teradatadmc.com
 onfose-twzesi.rucluster.net
@@ -46229,7 +45625,6 @@ onfosi-onnise.cncluster.net
 onfosi-onnise.n.teradatadmc.com
 onfosi-onnisi.cncluster.net
 onfosi-onnisi.n.teradatadmc.com
-onfosi-onnith.cncluster.net
 onfosi-onnith.n.teradatadmc.com
 onfosi-onnitw.cncluster.net
 onfosi-onnitw.n.teradatadmc.com
@@ -46245,7 +45640,6 @@ onfosi-ononni.cncluster.net
 onfosi-ononni.n.teradatadmc.com
 onfosi-ononon.cncluster.net
 onfosi-ononon.n.teradatadmc.com
-onfosi-ononse.cncluster.net
 onfosi-ononse.n.teradatadmc.com
 onfosi-ononsi.cncluster.net
 onfosi-ononsi.n.teradatadmc.com
@@ -46410,7 +45804,6 @@ onfosi-twthei.n.teradatadmc.com
 onfosi-twthfi.cncluster.net
 onfosi-twthfi.n.teradatadmc.com
 onfosi-twthfo.cncluster.net
-onfosi-twthfo.n.teradatadmc.com
 onfosi-twthni.cncluster.net
 onfosi-twthni.n.teradatadmc.com
 onfosi-twthon.cncluster.net
@@ -46425,7 +45818,6 @@ onfosi-twthtw.cncluster.net
 onfosi-twthtw.n.teradatadmc.com
 onfosi-twthze.cncluster.net
 onfosi-twthze.n.teradatadmc.com
-onfosi-twtwei.cncluster.net
 onfosi-twtwei.n.teradatadmc.com
 onfosi-twtwfi.cncluster.net
 onfosi-twtwfi.n.teradatadmc.com
@@ -46483,7 +45875,6 @@ onfosi-zeeith.cncluster.net
 onfosi-zeeith.n.teradatadmc.com
 onfosi-zeeitw.cncluster.net
 onfosi-zeeitw.n.teradatadmc.com
-onfosi-zeeize.cncluster.net
 onfosi-zeeize.n.teradatadmc.com
 onfosi-zefiei.cncluster.net
 onfosi-zefiei.n.teradatadmc.com
@@ -46666,7 +46057,6 @@ online.rwdstco.com
 online.sharjahart.org
 online.siteboosters.de
 online.spsglobal.com
-online.tt.omtrdc.net
 onlineda.us.gbc.criteo.com
 onlinegurupopularsitecom.112.2o7.net
 onlineis.actonservice.com
@@ -46716,7 +46106,6 @@ open.flow.com.mm
 open.fotition.com
 open.freeplayapp.com
 open.gaius.app
-open.gbc.criteo.com
 open.getsigneasy.com
 open.homepass.com
 open.homey.app
@@ -46803,7 +46192,6 @@ ora.as.gbc.criteo.com
 oraag.gbc.criteo.com
 oracle-netsuite-com-796203850.p04.elqsandbox.com
 oracle.112.2o7.net
-oracle.fed.gbc.criteo.com
 oracle.marketingcube.com.au
 oracle.tt.omtrdc.net
 oraclecom.112.2o7.net
@@ -46824,9 +46212,7 @@ ordpmx.victorianplumbing.co.uk
 oregoncommunitycredi.tt.omtrdc.net
 oregonstate.actonservice.com
 orellfuessli-ch01.wt-eu02.net
-org-dfe.gbc.criteo.com
 org.tt.omtrdc.net
-organchem.gbc.criteo.com
 organixx.postaffiliatepro.com
 organizations.stratfor.com
 orgbackups.com
@@ -46841,7 +46227,6 @@ orig.sec-cdn.static.xiaomi.net
 origin-smetrics.go365.com
 origin-target.humana.com
 origin.b2bmktg.com
-origin.da.us.gbc.criteo.com
 origin.net.daraz.com
 origin.tt.omtrdc.net
 origin.www.images.2.forms.healthcare.philips.com
@@ -47121,12 +46506,10 @@ pa.ad.lgsmartad.com
 pa.lgsmartad.com
 pa.opqr.co
 pa.travelwhiz.app
-pa23.vip.gbc.criteo.com
 pabgey.siepomaga.pl
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
 pac.thetimes.com
-pac12.hb-api.omtrdc.net
 pac12.hb.omtrdc.net
 pacificdentalservice.tt.omtrdc.net
 pacificlifereprod.112.2o7.net
@@ -47296,7 +46679,6 @@ panorama.wixapps.net
 panoramicbutter.com
 panoramicplane.com
 pantheon-acbhk0.gbc.criteo.com
-pantheon.da.us.gbc.criteo.com
 pantheon.mail.gbc.criteo.com
 panynj.tt.omtrdc.net
 paolo.logs.roku.com
@@ -47315,7 +46697,6 @@ par.prod.gbc.criteo.com
 par.readinghorizons.com
 par.vip.gbc.criteo.com
 par.vip.hpcd.gbc.criteo.com
-par.vip.preprod.gbc.criteo.com
 par.vip.prod.gbc.criteo.com
 par.vip.proggtc.gbc.criteo.com
 parade.122.2o7.net
@@ -47340,13 +46721,11 @@ pardot.bmiaudit.com
 pardot.cambriausa.com
 pardot.cesi.be
 pardot.chicagoreader.com
-pardot.clearstreet.io
 pardot.columbiaassociation.org
 pardot.commonlook.com
 pardot.csis.org
 pardot.dbu.edu
 pardot.dii.eu
-pardot.doubleline.com
 pardot.eblireads.com
 pardot.ecu.edu
 pardot.engen.com.mx
@@ -47504,7 +46883,6 @@ paydashboard.actonservice.com
 paydashboardinfo.com
 paydirekt-de01.wt-eu02.net
 paylocity.tt.omtrdc.net
-payment-kes.gbc.criteo.com
 payment.da.us.gbc.criteo.com
 payment.net.daraz.com
 payment.tt.omtrdc.net
@@ -47564,7 +46942,6 @@ pbx.lj.gbc.criteo.com
 pbxdny.angrybeards.cz
 pc.gbc.criteo.com
 pc.personalcreations.com
-pca-lj.gbc.criteo.com
 pca-vip.gbc.criteo.com
 pca.as.criteo.com
 pca.criteo.com
@@ -47576,7 +46953,6 @@ pca.nl3.eu.criteo.com
 pca.sg1.as.criteo.com
 pca.us.criteo.com
 pca.us5.us.criteo.com
-pcanywhere.as.gbc.criteo.com
 pcanywheredfe.gbc.criteo.com
 pcci.pccinnovation.org
 pccipieces.actonservice.com
@@ -47584,7 +46960,6 @@ pccomponenteses.112.2o7.net
 pcconnectioncom.112.2o7.net
 pcdstm.petbarn.com.au
 pcejsc.hellomolly.com
-pcgbctomer.vip.gbc.criteo.com
 pch.122.2o7.net
 pci.aon.com
 pciidk.shopee.vn
@@ -47605,7 +46980,6 @@ pd.bppeloqua.com
 pd.coinshares.com
 pd.empist.com
 pd.epson.co.id
-pd.epson.co.kr
 pd.fishisdata.com
 pd.gbc.criteo.com
 pd.pacificlegal.org
@@ -47637,7 +47011,6 @@ pdt.trellix.com
 pdt.werkenntdenbesten.de
 pdtqa.trellix.com
 pduwvp.chanti.dk
-pdx-col.eum-appdynamics.com
 pdxor02.com
 pdzutf.sftworks.jp
 pe-ad-lgsmartad-com.aws-prd.net
@@ -47659,7 +47032,6 @@ peering.criteo.net
 peering.da.us.criteo.net
 peering.da.us.preprod.criteo.net
 peering.us.criteo.net
-pegasus-as.gbc.criteo.com
 pegasus.mail.gbc.criteo.com
 pegasus.unifygroup.com
 pegasusda.us.gbc.criteo.com
@@ -47884,7 +47256,6 @@ phl5.hallocanarischeeilanden.com
 phlebotomyexam.quantresear.ch
 phoenix-content.cresa.com
 phoenix.thexlife.co
-phoenixcab.gbc.criteo.com
 phoenixitalia01.wt-eu02.net
 phonearena.tt.omtrdc.net
 phonecup.com
@@ -47909,7 +47280,6 @@ photobox-se.eulerian.net
 photobox-uk.eulerian.net
 photography.hursey.com
 photohints.com
-photos-vip.gbc.criteo.com
 php.bcava.gbc.criteo.com
 php.tt.omtrdc.net
 phpmyadmin.toolmonger.net.jumia.co.tz
@@ -47925,7 +47295,6 @@ pi.armentekort.be
 pi.corporateone.coop
 pi.ebizcharge.com
 pi.ias.xiaomi.com
-pi.idealist.org
 pi.ispot.tv
 pi.lpl.com
 pi.msi.org
@@ -48087,7 +47456,6 @@ pjgaez.autouncle.at
 pjh7.us.chantelle.com
 pjm4.heikanarioyene.com
 pjmryh.zapatos.es
-pjoxcw.rosewe.com
 pjstat.com
 pjtshn.floraprima.de
 pjtxmd.epool.ru
@@ -48095,7 +47463,6 @@ pk-ad-lgsmartad-com.aws-prd.net
 pk.ad.lgsmartad.com
 pk.lgsmartad.com
 pk1u.melanielyne.com
-pk8n57.fnac.com
 pkc5.hardrockhoteltenerife.com
 pkdimy.shoptime.com.br
 pkg.balluff.com
@@ -48342,7 +47709,6 @@ plwfwc.teknozone.it
 plyizb.latour-lith.nl
 pm.boostintegrated.com
 pm.dailykos.com
-pm.dfe.gbc.criteo.com
 pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
@@ -48351,7 +47717,6 @@ pm.pmu.fr
 pma.ag.gbc.criteo.com
 pmazpg.legalzoom.com
 pmbkvlupohcz.ddns.dataunlocker.com
-pmc-as.gbc.criteo.com
 pmc-reporting.criteo.net
 pmc-reporting.eu.criteo.net
 pmc-reporting.fr3.eu.criteo.net
@@ -48409,7 +47774,6 @@ podbooth.martela.no
 podbooth.martela.se
 podiumpresto.com
 podname.com
-podyplomowe.gbc.criteo.com
 poeleaboismaison.eulerian.net
 poemprompt.com
 poeticpackage.com
@@ -48440,7 +47804,6 @@ ponant.eulerian.net
 ponos.zeronaught.com
 ponyo.cheriefm.fr
 poodle.nl.eu.criteo.com
-poodle1.vip.prod.gbc.criteo.com
 pool.onjoyri.de
 pool.onjoyride.com
 poor5zero.com
@@ -48473,7 +47836,6 @@ portal.slipstreaminc.org
 portal.tt.omtrdc.net
 portalcz01.webtrekk.net
 portfolioportal.db.com
-portland.gbc.criteo.com
 pos.baidu.com
 pos.fs.account.azure.on.t.instagram.cp.acbhk0.gbc.criteo.com
 posfae2.alphonso.tv
@@ -48524,7 +47886,6 @@ ppe.telemetry.microsoft.com
 ppgdyq.ideenmitherz.de
 ppgqvz.bigmotoringworld.co.uk
 ppgxlbopn70.alphonso.tv
-pplj.gbc.criteo.com
 pplpiq.pricerunner.se
 ppm-licensingtelemetry.servicebus.windows.net
 ppmakl.oscarcalcados.com.br
@@ -48578,7 +47939,6 @@ prdt.readspeaker.com
 pre-employmentservices.adp.com
 pre-prod-mp.gbc.criteo.com
 pre-prod.da.us.gbc.criteo.com
-pre-production.ag.gbc.criteo.com
 pre.footprintpredict.com
 pre.receita.gbc.criteo.com
 pre.tt.omtrdc.net
@@ -48629,19 +47989,14 @@ prenesi-mojm.mercator.si
 prepareplanes.com
 prepaymint.net
 prepmc-reporting.gbc.criteo.com
-preprod.cab.gbc.criteo.com
-preprod.gbc.criteo.com
 preprod.tt.omtrdc.net
-preprodb1.gbc.criteo.com
 preproextranet.gbc.criteo.com
 preprojob.gbc.criteo.com
 preprologs.gbc.criteo.com
 preprortb-taboola.gbc.criteo.com
-preprosync.gbc.criteo.com
 preprowest1.gbc.criteo.com
 prerange88-129xroads.b2bmktg.com
 presence.teams.live.com
-press-bcava.gbc.criteo.com
 press.viega.us
 presscab.gbc.criteo.com
 presscoder.com
@@ -48687,7 +48042,6 @@ privacy-api.9gag.com
 privacy-as.gbc.criteo.com
 privacy-info.as.criteo.com
 privacy-info.criteo.com
-privacy-info.da.us.criteo.com
 privacy-info.da.us.preprod.criteo.com
 privacy-info.eu.criteo.com
 privacy-info.fr3.eu.criteo.com
@@ -48722,7 +48076,6 @@ privacy.us5.vip.prod.criteo.com
 privacyfriendly.netlify.app
 privacyoptout.zoominformation.com
 privadovpn.postaffiliatepro.com
-private-mail.gbc.criteo.com
 private.cervicalcancer-risk.com
 private.roche.com
 private.tt.omtrdc.net
@@ -48738,7 +48091,6 @@ prnewswireassociatio.tt.omtrdc.net
 prnzxf.glamira.se
 pro-us-east-1.gbc.criteo.com
 pro.bizportal.co.il
-pro.da.us.gbc.criteo.com
 pro.imaging.usa.canon.com
 pro.jig.space
 pro.pokerup.net
@@ -48796,7 +48148,6 @@ prod.tracking.refinitiv.com
 prod.tt.omtrdc.net
 prod.us.gbc.criteo.com
 prod.www.eulerian.net
-prodbcava.gbc.criteo.com
 proditor.sparda.de
 produ.kes.gbc.criteo.com
 produban.tt.omtrdc.net
@@ -48811,7 +48162,6 @@ production.net.daraz.com
 production.partner-pay.net.daraz.com
 production.tt.omtrdc.net
 productionas.gbc.criteo.com
-productionmp.gbc.criteo.com
 productionprinting.ricoh.ch
 productionprinting.ricoh.co.uk
 productionprinting.ricoh.ie
@@ -48865,7 +48215,6 @@ programs.pacificbiosciences.com
 progressiveagent.actonsoftware.com
 progressivedev.actonservice.com
 progressresidentiall.tt.omtrdc.net
-progrexionasginc.tt.omtrdc.net
 prolab.gbc.criteo.com
 prolabs.actonservice.com
 promiseair.com
@@ -48935,7 +48284,6 @@ prowareness.actonservice.com
 proxima.midjourney.com
 proximusnv.tt.omtrdc.net
 proxy-emailvision.net.daraz.com
-proxy-fed.gbc.criteo.com
 proxy-skadnetwork.apple.com
 proxy.cainus.teradatadmc.com
 proxy.dzeio.com
@@ -48994,8 +48342,6 @@ pto-slb-09.com
 ptr.zebra.com
 ptr47-vip.gbc.criteo.com
 ptr48.as.gbc.criteo.com
-ptr49.da.us.gbc.criteo.com
-ptr49bcava.gbc.criteo.com
 ptr51.bcava.gbc.criteo.com
 ptr51.cab.gbc.criteo.com
 ptr51.vip.gbc.criteo.com
@@ -49007,7 +48353,6 @@ ptr6473.gbc.criteo.com
 ptr6473lj.gbc.criteo.com
 ptr6474.bcava.gbc.criteo.com
 ptr6474.mail.gbc.criteo.com
-ptr6475-acbhk0.gbc.criteo.com
 ptr6476-fed.gbc.criteo.com
 ptrenx.vidaxl.com.au
 ptsc.shoplocal.com
@@ -49166,8 +48511,6 @@ qa-owl.preprod.gbc.criteo.com
 qa-prod.branch.rocks
 qa.acb.gbc.criteo.com
 qa.ad.lgsmartad.com
-qa.as.gbc.criteo.com
-qa.gbc.criteo.com
 qa.lgsmartad.com
 qa.sound.ag
 qaaohk.calpaktravel.com
@@ -49374,7 +48717,6 @@ quirkybodega.com
 quirkysugar.com
 quixoticnebula.com
 quiz-acbhk0.gbc.criteo.com
-quiz.kes.gbc.criteo.com
 quiz.negociermontaux.com
 quizzicalpartner.com
 quizzicalzephyr.com
@@ -49512,7 +48854,6 @@ radiocanada.hb-api.omtrdc.net
 radiocanada.hb.omtrdc.net
 radioitalia01.webtrekk.net
 radiometer.actonservice.com
-radiovip.gbc.criteo.com
 radissonhotels.tt.omtrdc.net
 radleyandco.tt.omtrdc.net
 rads.msn.com
@@ -49537,7 +48878,6 @@ rakuten.112.2o7.net
 rakuten.actonservice.com
 rals4alum.com
 rambunctiousflock.com
-ramp.gbc.criteo.com
 rampjs-cdn.system1.com
 ramv.eco-conscient.com
 randisphotos.com
@@ -49809,7 +49149,6 @@ refer.ballarddesigns.com
 refer.bareminerals.uk
 refer.baxterofcalifornia.com
 refer.belkin.com
-refer.booksy.com
 refer.bose.co.uk
 refer.bose.com
 refer.bose.de
@@ -49872,7 +49211,6 @@ refer.lendingclub.com
 refer.lighthousecu.org
 refer.lightstream.com
 refer.lmcu.org
-refer.luckyvitamin.com
 refer.lumosfiber.com
 refer.madison-reed.com
 refer.marinerfinance.com
@@ -49939,7 +49277,6 @@ refer.zipcar.com
 referafriend.box.com
 referafriend.comcast.com
 referafriend.directv.com
-referafriend.discover.com
 referafriend.xfinity.com
 referer.pixplug.in
 referral-ca.mixtiles.com
@@ -49960,7 +49297,6 @@ referral.upay.lk
 referral.vistaprint.com
 referral.yourcanvas.co
 referrals-test.ridealto.com
-referrals.gbc.criteo.com
 referrals.getservice.com
 referrals.ridealto.com
 referrals.tradeapp.me
@@ -49994,7 +49330,6 @@ region-emailvision.net.daraz.com
 region-us.gbc.criteo.com
 region.tt.omtrdc.net
 regis.gbc.criteo.com
-register-ag.gbc.criteo.com
 register-implants.dentsplysirona.com
 register.compellent.com
 register.denovo-us.com
@@ -50129,7 +49464,6 @@ report09.webtrekk.com
 report10.webtrekk.com
 report11.webtrekk.com
 report12.webtrekk.com
-report13.webtrekk.com
 report14.webtrekk.com
 report15.webtrekk.com
 report16.webtrekk.com
@@ -50140,7 +49474,6 @@ report2.webtrekk.com
 report2.webtrekk.de
 report20.webtrekk.com
 report21.webtrekk.com
-report22.webtrekk.com
 report23.webtrekk.com
 report24.webtrekk.com
 report25.webtrekk.com
@@ -50183,7 +49516,6 @@ reports.sdiapi.com
 reports.tunein.com
 reports.wes.df.telemetry.microsoft.com
 reportsk.web.sdo.com
-reportsmp.gbc.criteo.com
 reportsvip.gbc.criteo.com
 repository.tt.omtrdc.net
 repositrak.actonsoftware.com
@@ -50207,14 +49539,11 @@ res-forums.gbc.criteo.com
 res-imap5d.gbc.criteo.com
 res-infra.gbc.criteo.com
 res-loadbalancer.gbc.criteo.com
-res-logs.gbc.criteo.com
 res-mailhost.gbc.criteo.com
 res-mdm.gbc.criteo.com
 res-nl.gbc.criteo.com
 res-ns16.gbc.criteo.com
-res-o403.gbc.criteo.com
 res-poland.gbc.criteo.com
-res-ptr46.gbc.criteo.com
 res-rt.gbc.criteo.com
 res-testing2.gbc.criteo.com
 res.corelogic.com
@@ -50228,10 +49557,8 @@ res.programme-television.org
 res.public.fr
 res.rbl.ms
 resapi2.gbc.criteo.com
-rescorreoweb.gbc.criteo.com
 rescuerhino.com
 resdes.gbc.criteo.com
-research-strategy.admin.gbc.criteo.com
 research.aitegroup.com
 research.allianceadvisors.com
 research.alpinemacro.com
@@ -50241,7 +49568,6 @@ research.gartner.com
 research.insidesales.com
 research.leads360.com
 research.velocify.com
-researchlog.db.com
 researchlog.dbresearch.com
 reseller.criteo.com
 reseller.eu.criteo.com
@@ -50263,7 +49589,6 @@ resfrontpage.gbc.criteo.com
 resgbc6.gbc.criteo.com
 resgermany01.webtrekk.net
 resjboss.gbc.criteo.com
-reslondon.gbc.criteo.com
 resmail.cgsi.com
 resnet.sound.ag
 resnet.tt.omtrdc.net
@@ -50436,7 +49761,6 @@ resus8.gbc.criteo.com
 reswiki.gbc.criteo.com
 retail-eu.productads.hlserve.com
 retail-eu.products.hlserve.com
-retailmedia-ag.gbc.criteo.com
 retailmedia-res.gbc.criteo.com
 retailmedia-static.cab.gbc.criteo.com
 retailmedia-staticbcava.gbc.criteo.com
@@ -50517,7 +49841,6 @@ rhus.tt.omtrdc.net
 rhybey.gap.co.jp
 rhythmrule.com
 ricardocuisine-com.eulerian.net
-richmediacreativeus.gbc.criteo.com
 richmond.logs.roku.com
 richstring.com
 ricohusa.tt.omtrdc.net
@@ -50585,9 +49908,7 @@ rm-reporting.fr3.vip.prod.criteo.net
 rm-reporting.nl3.eu.criteo.net
 rm-reporting.nl3.vip.prod.criteo.net
 rm-ssp-reporting.103alertclickdistrictrd103alertclickdistrictrdd.gbc.criteo.com
-rm-ssp-reporting.criteo.net
 rm-ssp-reporting.eu.criteo.net
-rm-ssp-reporting.fr3.eu.criteo.net
 rm-ssp-reporting.fr3.vip.prod.criteo.net
 rm-ssp-reporting.nl3.eu.criteo.net
 rm-ssp-reporting.nl3.vip.prod.criteo.net
@@ -50818,7 +50139,6 @@ rtb-fluct.as.criteo.com
 rtb-fluct.criteo.com
 rtb-fluct.jp2.as.criteo.com
 rtb-generic.as.criteo.com
-rtb-generic.criteo.com
 rtb-generic.da.us.criteo.com
 rtb-generic.eu.criteo.com
 rtb-generic.jp2.as.criteo.com
@@ -50829,7 +50149,6 @@ rtb-global-1.criteo.com
 rtb-global-1.eu.criteo.com
 rtb-global-1.us.criteo.com
 rtb-global-1.us5.us.criteo.com
-rtb-global-2-as.gbc.criteo.com
 rtb-global-2-dfe.gbc.criteo.com
 rtb-global-2.criteo.com
 rtb-global-2.da.us.criteo.com
@@ -50850,7 +50169,6 @@ rtb-google.nl3.eu.criteo.com
 rtb-google.sg1.as.criteo.com
 rtb-google.us.criteo.com
 rtb-google.us5.us.criteo.com
-rtb-googlevip.gbc.criteo.com
 rtb-inmobi.criteo.com
 rtb-inmobi.eu.criteo.com
 rtb-inmobi.us.criteo.com
@@ -50881,8 +50199,6 @@ rtb-pubmatic.as.gbc.criteo.com
 rtb-pubmatic.criteo.com
 rtb-pubmatic.eu.criteo.com
 rtb-pubmatic.jp2.as.criteo.com
-rtb-pubmaticdfe.gbc.criteo.com
-rtb-rightmedia-1.eu.gbc.criteo.com
 rtb-rightmedia-2.criteo.com
 rtb-rightmedia-2.us.criteo.com
 rtb-rightmedia.as.criteo.com
@@ -50892,7 +50208,6 @@ rtb-rightmedia.jp2.as.criteo.com
 rtb-rubicon-1.ads-previewprod.gbc.criteo.com
 rtb-rubicon-1.ads-userverlua-aws-va-106.gbc.criteo.com
 rtb-rubicon-1.criteo.com
-rtb-rubicon-1.us.criteo.com
 rtb-rubicon-2.criteo.com
 rtb-rubicon-2.us.criteo.com
 rtb-rubicon-cyaniteproxy-gce-sc-3.ads-previewprod.gbc.criteo.com
@@ -50902,7 +50217,6 @@ rtb-rubicon.eu.criteo.com
 rtb-rubicon.nl3.eu.criteo.com
 rtb-smaato.as.criteo.com
 rtb-smaato.criteo.com
-rtb-smaato.da.us.criteo.com
 rtb-smaato.us.criteo.com
 rtb-smart-1.criteo.com
 rtb-smart-1.eu.criteo.com
@@ -50934,7 +50248,6 @@ rtb.jp2.as.criteo.com
 rtb.nl3.eu.criteo.com
 rtb.prod.carbonatixaudio.com
 rtb.sg1.as.criteo.com
-rtb.sv.gbc.criteo.com
 rtb.us.criteo.com
 rtb.us5.us.criteo.com
 rtbl.gbc.criteo.com
@@ -51269,7 +50582,6 @@ s1426.hs.eloqua.com
 s1427524768.hs.eloqua.com
 s1439730185.hs.eloqua.com
 s1445544.hs.eloqua.com
-s1457279.hs.eloqua.com
 s1460333.hs.eloqua.com
 s1467136.hs.eloqua.com
 s146977739.hs.eloqua.com
@@ -51316,7 +50628,6 @@ s1689503.hs.eloqua.com
 s1690315.hs.eloqua.com
 s1690595433.hs.eloqua.com
 s1701211846.hs.eloqua.com
-s1704464.hs.eloqua.com
 s1706134858.hs.eloqua.com
 s1711294798.hs.eloqua.com
 s1728163616.hs.eloqua.com
@@ -51391,7 +50702,6 @@ s2017930735.hs.eloqua.com
 s2022633471.hs.eloqua.com
 s2025473527.hs.eloqua.com
 s2033604275.hs.eloqua.com
-s2033696.hs.eloqua.com
 s2042789262.hs.eloqua.com
 s2048.hs.eloqua.com
 s2049007180.hs.eloqua.com
@@ -51441,12 +50751,10 @@ s2826.hs.eloqua.com
 s290512336.hs.eloqua.com
 s2941.hs.eloqua.com
 s2941439.hs.eloqua.com
-s296651.hs.eloqua.com
 s297511345.hs.eloqua.com
 s2977661.hs.eloqua.com
 s297885.hs.eloqua.com
 s298548211.hs.eloqua.com
-s2dfe.gbc.criteo.com
 s2whyufxmzam.chatpay.com.br
 s3-config.samsungacr.com
 s3.gbc.criteo.com
@@ -51464,7 +50772,6 @@ s3213709.hs.eloqua.com
 s3277601.hs.eloqua.com
 s3299820.hs.eloqua.com
 s332.hs.eloqua.com
-s3327771.hs.eloqua.com
 s334284386.hs.eloqua.com
 s335973.hs.eloqua.com
 s337390453.hs.eloqua.com
@@ -51556,7 +50863,6 @@ s591513.hs.eloqua.com
 s598301108.hs.eloqua.com
 s599902146.hs.eloqua.com
 s5network1.com
-s6.bcava.gbc.criteo.com
 s600830862.hs.eloqua.com
 s608.hs.eloqua.com
 s609785623.hs.eloqua.com
@@ -51583,7 +50889,6 @@ s708253975.hs.eloqua.com
 s712702944.hs.eloqua.com
 s722592.hs.eloqua.com
 s732349.hs.eloqua.com
-s734445500.hs.eloqua.com
 s736472.hs.eloqua.com
 s736811171.hs.eloqua.com
 s73756918.hs.eloqua.com
@@ -51635,7 +50940,6 @@ s97097.hs.eloqua.com
 s97329354.hs.eloqua.com
 s977829142.hs.eloqua.com
 s983166544.hs.eloqua.com
-s986383348.hs.eloqua.com
 s998.hs.eloqua.com
 s998125501.hs.eloqua.com
 sa-ad-lgsmartad-com.aws-prd.net
@@ -52358,8 +51662,6 @@ sapglobalmarketingin.tt.omtrdc.net
 sapi.tremendous.com
 sapnest.com
 sappmetrics.sprint.com
-sapres.gbc.criteo.com
-sardegna.gbc.criteo.com
 sas.nsm-corp.com
 sasc.solidworks.com
 sat.sanoma.fi
@@ -52595,7 +51897,6 @@ scoreaisle.com
 scorebuddy.actonservice.com
 scotiabank.tt.omtrdc.net
 scottrade.112.2o7.net
-scottsmiraclegro.tt.omtrdc.net
 scounter.rambler.ru
 scout.alpinetrek.co.uk
 scout.alpiniste.fr
@@ -52728,7 +52029,6 @@ search.anonymous.ads.brave.com
 search.gbc.criteo.com
 search.miui.com
 search.tt.omtrdc.net
-search2.gbc.criteo.com
 searchads.apple.com
 searchads.apple.com.edgesuite.net
 searchads.lb-apple.com.akadns.net
@@ -52860,7 +52160,6 @@ secure.desjardinsassurancesgenerales.com
 secure.desjardinsgeneralinsurance.com
 secure.details24group.com
 secure.detailsinventivegroup.com
-secure.dfe.gbc.criteo.com
 secure.dial4gwyn.com
 secure.diet.mayoclinic.org
 secure.diet3dart.com
@@ -53335,7 +52634,6 @@ segment-webhook.fr3.eu.criteo.com
 segment-webhook.fr3.vip.prod.criteo.com
 segment-webhook.nl3.eu.criteo.com
 segment-webhook.nl3.vip.prod.criteo.com
-segment-webhookmail.gbc.criteo.com
 segment.lalr.co
 segmentor.snowfox-ai.com
 segmueller01.wt-eu02.net
@@ -53468,7 +52766,6 @@ sephora-qa.branch.rocks
 sephora-qa.branchstaging.com
 sephora.tt.omtrdc.net
 sepkyu.bathandbodyworks.com.kw
-sept-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 sepvbm.fromyouflowers.com
 seraphichorizon.com
 seraphicjewel.com
@@ -53647,10 +52944,8 @@ sg1.vip.gbc.criteo.com
 sg1.vip.prod.gbc.criteo.com
 sg1.vip.webhook.gbc.criteo.com
 sg2-mail.gbc.criteo.com
-sg2.cab.gbc.criteo.com
 sg2.lj.gbc.criteo.com
 sg2.res.gbc.criteo.com
-sg3-da.us.gbc.criteo.com
 sg3.notarize.com
 sg31.vip.prod.gbc.criteo.com
 sg4-vip.gbc.criteo.com
@@ -53825,7 +53120,6 @@ share.refer-bumbleandbumble.co.uk
 share.refer-bumbleandbumble.com
 share.refer-clinique.com
 share.refer-clinique.com.tw
-share.refer-maccosmetics.co.uk
 share.refer-maccosmetics.com
 share.ridehip.com
 share.robinhood.com
@@ -53912,7 +53206,6 @@ shell-recharge.tupinambaenergia.com.br
 shell.as.gbc.criteo.com
 shell.tt.omtrdc.net
 shellacbhk0.gbc.criteo.com
-shellas.gbc.criteo.com
 shellvip.gbc.criteo.com
 sheregesh-io.traveler.today
 sherlock-events-sampler.ebay.com
@@ -53936,7 +53229,6 @@ shome.sca.samsung.com
 shoo5woop.com
 shook.forbes.com
 shop.anu-cosme.com
-shop.gbc.criteo.com
 shop.iwantclips.com
 shop.lids.ca
 shop.myaeon2go.com
@@ -53951,7 +53243,6 @@ shopperschoice.tt.omtrdc.net
 shopping.112.2o7.net
 shopping.cellpure.co.jp
 shoppingapp.norwex.com
-shoppr.gbc.criteo.com
 shoppydooitalia01.wt-eu02.net
 short.afgruppen.no
 short.isdev.info
@@ -53978,7 +53269,6 @@ shwahh.vestiairecollective.com
 shydinosaurs.com
 shylibrary.com
 si-ad-lgsmartad-com.aws-prd.net
-si-arka.gbc.criteo.com
 si.ad.lgsmartad.com
 si.bingads.microsoft.com
 si.gbc.criteo.com
@@ -54158,7 +53448,6 @@ skins.net.daraz.com
 skins.tt.omtrdc.net
 skinsdfe.gbc.criteo.com
 skipton.tt.omtrdc.net
-skiset-holidays-uk.eulerian.net
 skisofa.com
 skmcwz.haselmode.co.kr
 skoda-fr.eulerian.net
@@ -54542,7 +53831,6 @@ smetrics.argos.co.uk
 smetrics.argos.ie
 smetrics.arhealthwellness.com
 smetrics.arkansastotalcare.com
-smetrics.arm.com
 smetrics.armadaskis.com
 smetrics.army.mod.uk
 smetrics.arnette.com
@@ -54741,7 +54029,6 @@ smetrics.bmspaf.org
 smetrics.bmsstudyconnect.com
 smetrics.bmwusa.com
 smetrics.bna.com
-smetrics.bnck-12.com
 smetrics.bncollege.com
 smetrics.bncvirtual.com
 smetrics.bnpparibas.com
@@ -55487,7 +54774,6 @@ smetrics.hebdebit.com
 smetrics.hebprepaid.com
 smetrics.helios-gesundheit.de
 smetrics.hellobank.fr
-smetrics.help.disneyplus.com
 smetrics.help.hulu.com
 smetrics.helvetia.com
 smetrics.hemapedia.jp
@@ -55783,7 +55069,6 @@ smetrics.landolakesinc.com
 smetrics.landrover.com
 smetrics.lanebryant.com
 smetrics.langthesteliv.dk
-smetrics.langthundeliv.dk
 smetrics.laredoute.fr
 smetrics.lasexta.com
 smetrics.latitudefinancial.co.nz
@@ -57638,7 +56923,6 @@ smtp.bayreuth.bluehornet.com
 smtp.baytown.bluehornet.com
 smtp.beatrice.bluehornet.com
 smtp.beatty.bluehornet.com
-smtp.beaufort.bluehornet.com
 smtp.beaumont.bluehornet.com
 smtp.beauvais.bluehornet.com
 smtp.beaver.bluehornet.com
@@ -57647,7 +56931,6 @@ smtp.beaverisland.bluehornet.com
 smtp.beckley.bluehornet.com
 smtp.bedford.bluehornet.com
 smtp.beersheba.bluehornet.com
-smtp.beica.bluehornet.com
 smtp.beira.bluehornet.com
 smtp.beirut.bluehornet.com
 smtp.belaga.bluehornet.com
@@ -57986,7 +57269,6 @@ smtp.cortez.bluehornet.com
 smtp.corvallis.bluehornet.com
 smtp.coto47.bluehornet.com
 smtp.cotonou.bluehornet.com
-smtp.cottbus.bluehornet.com
 smtp.cotulla.bluehornet.com
 smtp.councilbluffs.bluehornet.com
 smtp.coupeville.bluehornet.com
@@ -58140,7 +57422,6 @@ smtp.easthampton.bluehornet.com
 smtp.eastland.bluehornet.com
 smtp.eastlondon.bluehornet.com
 smtp.eastman.bluehornet.com
-smtp.easton.bluehornet.com
 smtp.eastover.bluehornet.com
 smtp.eastport.bluehornet.com
 smtp.eastridingofyorkshire.bluehornet.com
@@ -58244,7 +57525,6 @@ smtp.ferryreach.bluehornet.com
 smtp.festus.bluehornet.com
 smtp.figari.bluehornet.com
 smtp.filton.bluehornet.com
-smtp.findlay.bluehornet.com
 smtp.fitchburg.bluehornet.com
 smtp.fitiutavillage.bluehornet.com
 smtp.fitzgerald.bluehornet.com
@@ -58641,7 +57921,6 @@ smtp.juzhai.bluehornet.com
 smtp.kagoshima.bluehornet.com
 smtp.kahramanmaras.bluehornet.com
 smtp.kailashahar.bluehornet.com
-smtp.kaitaia.bluehornet.com
 smtp.kalamazoo.bluehornet.com
 smtp.kalaupapa.bluehornet.com
 smtp.kaliningrad.bluehornet.com
@@ -58673,13 +57952,11 @@ smtp.karluk.bluehornet.com
 smtp.kars.bluehornet.com
 smtp.karup.bluehornet.com
 smtp.kasane.bluehornet.com
-smtp.kato.bluehornet.com
 smtp.katowice.bluehornet.com
 smtp.kaunakakai.bluehornet.com
 smtp.kaunas.bluehornet.com
 smtp.kazan.bluehornet.com
 smtp.kearney.bluehornet.com
-smtp.keene.bluehornet.com
 smtp.kekaha.bluehornet.com
 smtp.kelesy.bluehornet.com
 smtp.kelso.bluehornet.com
@@ -58896,7 +58173,6 @@ smtp.madhyapradesh.bluehornet.com
 smtp.madisonville.bluehornet.com
 smtp.madurai.bluehornet.com
 smtp.magadan.bluehornet.com
-smtp.magnitogorsk.bluehornet.com
 smtp.mahdia.bluehornet.com
 smtp.makabana.bluehornet.com
 smtp.makhachkala.bluehornet.com
@@ -58939,7 +58215,6 @@ smtp.maribor.bluehornet.com
 smtp.marietta.bluehornet.com
 smtp.marina.bluehornet.com
 smtp.marion.bluehornet.com
-smtp.mariposa.bluehornet.com
 smtp.mariupol.bluehornet.com
 smtp.marks.bluehornet.com
 smtp.marksville.bluehornet.com
@@ -58954,7 +58229,6 @@ smtp.maryesther.bluehornet.com
 smtp.marysville.bluehornet.com
 smtp.maryville.bluehornet.com
 smtp.masada.bluehornet.com
-smtp.masjedsoleiman.bluehornet.com
 smtp.masoncity.bluehornet.com
 smtp.massena.bluehornet.com
 smtp.masset.bluehornet.com
@@ -59022,7 +58296,6 @@ smtp.millington.bluehornet.com
 smtp.millinocket.bluehornet.com
 smtp.millville.bluehornet.com
 smtp.milton.bluehornet.com
-smtp.milwaukee.bluehornet.com
 smtp.minchumina.bluehornet.com
 smtp.minden.bluehornet.com
 smtp.mineralnyevody.bluehornet.com
@@ -59031,7 +58304,6 @@ smtp.mineralwells.bluehornet.com
 smtp.minneapolis.bluehornet.com
 smtp.minot.bluehornet.com
 smtp.missoula.bluehornet.com
-smtp.mitchell.bluehornet.com
 smtp.mitzperamon.bluehornet.com
 smtp.moab.bluehornet.com
 smtp.moberly.bluehornet.com
@@ -59344,7 +58616,6 @@ smtp.roundup.bluehornet.com
 smtp.rugby.bluehornet.com
 smtp.ruidoso.bluehornet.com
 smtp.rupsi.bluehornet.com
-smtp.russell.bluehornet.com
 smtp.russellville.bluehornet.com
 smtp.russianmission.bluehornet.com
 smtp.ruston.bluehornet.com
@@ -59680,11 +58951,9 @@ smtp.waukesha.bluehornet.com
 smtp.wauseon.bluehornet.com
 smtp.waverly.bluehornet.com
 smtp.waycross.bluehornet.com
-smtp.wayne.bluehornet.com
 smtp.waynesboro.bluehornet.com
 smtp.webstercity.bluehornet.com
 smtp.weeze.bluehornet.com
-smtp.wells.bluehornet.com
 smtp.wellsville.bluehornet.com
 smtp.wenatchee.bluehornet.com
 smtp.wendover.bluehornet.com
@@ -59709,7 +58978,6 @@ smtp.whittier.bluehornet.com
 smtp.wiarton.bluehornet.com
 smtp.wichita.bluehornet.com
 smtp.wichitafalls.bluehornet.com
-smtp.williams.bluehornet.com
 smtp.williamsburg.bluehornet.com
 smtp.williamslake.bluehornet.com
 smtp.williamsport.bluehornet.com
@@ -59749,7 +59017,6 @@ smtp.zaragoza.bluehornet.com
 smtp.zhengzhou.bluehornet.com
 smtp.zhezkazgan.bluehornet.com
 smtp.zielonagora.bluehornet.com
-smtp.ziguinchor.bluehornet.com
 smtp.zinder.bluehornet.com
 smtp.zunipueblo.bluehornet.com
 smtp2.carte-gr.total.fr
@@ -59802,7 +59069,6 @@ snapshotapp.progressive.com
 snazzypoodle.com
 snbwyi.heine.at
 sncf.eulerian.net
-sncpow-icalc.gbc.criteo.com
 snd.freshstartnews.com
 snd.offerhousepromo.com
 sneakwind.com
@@ -59811,9 +59077,7 @@ sneezecovers.com
 sngmta.qq.com
 sniffer.nitro-production.otto.boreus.de
 sniffer.nitro-test-extern.otto.boreus.de
-snmp-cab.gbc.criteo.com
 snmp.ag.gbc.criteo.com
-snmpmail.gbc.criteo.com
 sno1.snowrental.com
 snoresmile.com
 snow1.gosportmontagne.com
@@ -60257,8 +59521,6 @@ sopac-environnement.com
 sophisticatedstove.com
 soporte.2016.commerce.crtdnb.axcloud.eu.preprod.gbc.criteo.com
 soporte.ag.gbc.criteo.com
-soporte.mail.gbc.criteo.com
-soportemail.gbc.criteo.com
 soptimize.southwest.com
 sorebear.com
 soresidewalk.com
@@ -60306,7 +59568,6 @@ sp.app.com
 sp.argusleader.com
 sp.aviasales.com
 sp.aviasales.ru
-sp.azcentral.com
 sp.ballsdigroup.com
 sp.bcava.gbc.criteo.com
 sp.burlingtonfreepress.com
@@ -60347,7 +59608,6 @@ sp.knoxnews.com
 sp.lansingstatejournal.com
 sp.lcsun-news.com
 sp.lohud.com
-sp.mansfieldnewsjournal.com
 sp.montgomeryadvertiser.com
 sp.mycentraljersey.com
 sp.nba.com
@@ -60359,7 +59619,6 @@ sp.northjersey.com
 sp.pcid.ca
 sp.pcoptimum.ca
 sp.postcrescent.com
-sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
 sp.pushsquare.com
@@ -60396,7 +59655,6 @@ spaces.martela.pl
 spaces.martela.se
 spain.thomsonreuters.com
 spam.carte-gr.total.fr
-spambcava.gbc.criteo.com
 spamfighter.112.2o7.net
 spammp.gbc.criteo.com
 spamtitan.actonservice.com
@@ -60412,7 +59670,6 @@ sparmit01.webtrekk.net
 spc.personalcreations.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
-specials.gbc.criteo.com
 specialscissors.com
 specialsnake.com
 spectacularstamp.com
@@ -60503,7 +59760,6 @@ spysubstance.com
 sqdgwx.jobrapido.com
 sqdljj.kijiji.ca
 sqlcab.gbc.criteo.com
-sqlserver-www.ag.gbc.criteo.com
 sqlserver.as.gbc.criteo.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
@@ -60611,7 +59867,6 @@ srepdata.ydr.com
 srepdata.yorkdispatch.com
 sreport.mitsubishicars.com
 srgssr01.wt-eu02.net
-sriparthasarathytemple.gbc.criteo.com
 srm4.destinia.co.no
 srmdvb.ekohealth.com
 srmy.srglobal.com
@@ -60632,11 +59887,9 @@ srvgl.com
 srvtrkxx1.com
 srvtrkxx2.com
 sry4.muchoviaje.com
-srz1.sarenza.com
 srz2.sarenza.be
 srz3.sarenza.ch
 srz9.sarenza.nl
-ss-tehnicka-ck.gbc.criteo.com
 ss-telemetry.servicebus.windows.net
 ss.esade.edu
 ss.photospecialist.at
@@ -60935,7 +60188,6 @@ sslvpn.as.gbc.criteo.com
 sslwidget.as.criteo.com
 sslwidget.criteo.com
 sslwidget.da.us.criteo.com
-sslwidget.da.us.preprod.criteo.com
 sslwidget.eu.criteo.com
 sslwidget.fr3.eu.criteo.com
 sslwidget.jp2.as.criteo.com
@@ -60967,10 +60219,8 @@ ssp-bidder-maaads-1prod.gbc.criteo.com
 ssp-bidder-maxads-1.criteo.com
 ssp-bidder-maxads-1.eu.criteo.com
 ssp-bidder-maxads-1.fr3.eu.criteo.com
-ssp-bidder-maxads-1.gbc.criteo.com
 ssp-bidder-maxads-2-da.us.gbc.criteo.com
 ssp-bidder-rightmedia-1.criteo.com
-ssp-bidder-rightmedia-1.eu.criteo.com
 ssp-bidder-rightmedia-1.us.criteo.com
 ssp-bidder-rightmedia-1.us5.us.criteo.com
 ssp-bidder-rightmedia-2.criteo.com
@@ -60991,7 +60241,6 @@ ssp-bidder.nl3.eu.criteo.com
 ssp-bidder.sg1.as.criteo.com
 ssp-bidder.us.criteo.com
 ssp-bidder.us5.us.criteo.com
-ssp-bidderwww.ag.gbc.criteo.com
 ssp-lj.gbc.criteo.com
 ssp-prod-eastus-nonmutt.trafficmanager.net
 ssp-sync.as.criteo.com
@@ -60999,12 +60248,10 @@ ssp-sync.criteo.com
 ssp-sync.da.us.criteo.com
 ssp-sync.da.us.gbc.criteo.com
 ssp-sync.da.us.preprod.criteo.com
-ssp-sync.eu.criteo.com
 ssp-sync.fr3.eu.criteo.com
 ssp-sync.jp2.as.criteo.com
 ssp-sync.nl3.eu.criteo.com
 ssp-sync.sg1.as.criteo.com
-ssp-sync.us.criteo.com
 ssp-sync.us5.us.criteo.com
 ssp.seznam.cz
 ssp.xiaomi.com
@@ -61316,7 +60563,6 @@ staff.mail.gbc.criteo.com
 staff.net.daraz.com
 staff.tt.omtrdc.net
 stage-bitachon.net.daraz.com
-stage-classic.net.daraz.com
 stage-ddmix.net.daraz.com
 stage-eldersc0de.net.daraz.com
 stage-freshmaza.net.daraz.com
@@ -61337,7 +60583,6 @@ stage.ccgenerator.net.daraz.com
 stage.conbert2mp3.net.daraz.com
 stage.crestwoodstage.eup.net.daraz.com
 stage.csprod-ss.net.daraz.com
-stage.esportesdasorte.net.daraz.com
 stage.github.global.ssl.fastly.net.daraz.com
 stage.microsoft.net.daraz.com
 stage.mybooster.net.daraz.com
@@ -61359,7 +60604,6 @@ stageescortbabylon.net.daraz.com
 stageescortbabylon.samsungmobile.net.daraz.com
 stagegameofpornstaging-digitalvoice.net.daraz.com
 stageidm-autodesk.net.daraz.com
-stageidm.nanigasi365.net.daraz.com
 stageidm.net.daraz.com
 stagekatmoviehd.metin2.net.daraz.com
 stagekatmoviehdsoybibliotecario-stage.net.daraz.com
@@ -61373,7 +60617,6 @@ stagenewpakhistorian.be.net.daraz.com
 stageobong.net.daraz.com
 stageschine.com
 stagestage-cdigitalicom.joatoon.net.daraz.com
-stagestaging-digitalvoice.net.daraz.com
 stagetelenovellak-ugportal.net.daraz.com
 stagevision.net.daraz.com
 staging-analyze.pt.xiaomi.com
@@ -61385,7 +60628,6 @@ staging-csprod-ss.net.daraz.com
 staging-desiruleztv.net.daraz.com
 staging-diagnosis.ad.xiaomi.com
 staging-filmyhit.net.daraz.com
-staging-gce-jp-cs0zip.gbc.criteo.com
 staging-go.getsquire.com
 staging-hasani.net.daraz.com
 staging-javhihi.net.daraz.com
@@ -61415,7 +60657,6 @@ staging.hcmprod-staff.docomo.net.daraz.com
 staging.hk.mibi.xiaomi.com
 staging.lagu123.stage-manuaisdoproprietario.net.daraz.com
 staging.link.findeck.de
-staging.moviemp4hd.net.daraz.com
 staging.mp4teluguwap.backpackworldstage.net.daraz.com
 staging.narrateapp.com
 staging.net.daraz.com
@@ -61443,7 +60684,6 @@ stampscom.112.2o7.net
 stampscom.tt.omtrdc.net
 stan.xing.com
 stanburns.actonservice.com
-stanchartafrica.tt.omtrdc.net
 stanchartindia.tt.omtrdc.net
 stanchartpk.tt.omtrdc.net
 stanchartsingapore.tt.omtrdc.net
@@ -61521,8 +60761,6 @@ startrekk.flaconi.de
 startrekk.flaconi.fr
 startrekk.flaconi.nl
 startrekk.flaconi.pl
-starwars.gbc.criteo.com
-starwind.actonservice.com
 starwoodhotelsandres.tt.omtrdc.net
 starz.122.2o7.net
 stas.outbrain.com
@@ -61678,7 +60916,6 @@ statdynamic.com
 state.gbc.criteo.com
 stateofil.tt.omtrdc.net
 static-tracking.klaviyo.com
-static.as.criteo.net
 static.as.gbc.criteo.com
 static.criteo.com
 static.da.us.criteo.net
@@ -62664,7 +61901,6 @@ stg-deeplink.ring.md
 stg.net.daraz.com
 stg.tt.omtrdc.net
 stgeorge.122.2o7.net
-stgvip.gbc.criteo.com
 stgx.net.daraz.com
 sth.mykingsevents.com
 sticketsmetrics.masters.com
@@ -62779,7 +62015,6 @@ strayeruniversity.tt.omtrdc.net
 stream-log.dditscdn.com
 stream.corporatefinanceinstitute.com
 streamback.ff.avast.sec.miui.com
-streaming-www.ag.gbc.criteo.com
 streams.cablecar.sph.com.sg
 streamstats.prd.dlive.tv
 streetsort.com
@@ -62850,7 +62085,6 @@ submit.info.shutterstock.com
 submit.vaisala.com
 subpixel.4players.de
 subscribe.adpinfo.com
-subscribe.car.org
 subscribe.dnv.com
 subscribe.mathcounts.org
 subscribe.verintsystemsinc.com
@@ -62896,7 +62130,6 @@ success.localsearch.ch
 success.lohfeldconsulting.com
 success.mapcom.com
 success.messagegears.com
-success.realpage.com
 success.rhb.com
 success.rightcapital.com
 success.vertigis.com
@@ -62931,7 +62164,6 @@ summer.net.daraz.com
 summerobject.com
 summit.edm.globalsources.com
 summitbusinessmedia.112.2o7.net
-sumup.postaffiliatepro.com
 sun.bcava.gbc.criteo.com
 sunbeltrentals.tt.omtrdc.net
 suncanny.marvel.com
@@ -63594,7 +62826,6 @@ t.leady.cz
 t.liberty.edu
 t.libertyfirstcreditunionarena.com
 t.libertyflames.com
-t.liveclicker.com
 t.locasun-vp.fr
 t.locasun.co.uk
 t.locasun.de
@@ -63896,7 +63127,6 @@ talbotsinc.tt.omtrdc.net
 talent.aonunited.com
 talent.roxiapp.com
 talenteq.intuit.com
-talentosrh.gbc.criteo.com
 talentsprint.epoise.com
 talk-test.stitch.cam
 talk.stitch.cam
@@ -64252,7 +63482,6 @@ tdep.suncamp.co.uk
 tdep.suncamp.fr
 tdep.suncamp.it
 tdep.sunnycamp.dk
-tdf1.admyjob.com
 tdf1.easyviaggio.com
 tdf1.easyviajar.com
 tdf1.easyvols.fr
@@ -64267,7 +63496,6 @@ tdor-smetrics.td.com
 tdp1.vivabox.es
 tds1.vivabox.be
 tdxqjr.tessuti.co.uk
-te-ackermann-ch.oghub.io
 te-baur-de.oghub.io
 te-creation-l-de.oghub.io
 te-frankonia-de.oghub.io
@@ -64339,7 +63567,6 @@ teams.yovu.ca
 teamviewergmbh.tt.omtrdc.net
 tearfulglass.com
 tech.dfe.gbc.criteo.com
-tech.downloads.pos.fs.account.azure.on.t.instagram.cp.acbhk0.gbc.criteo.com
 tech.finalto.com
 tech.flexport.com
 tech.sangfor.com
@@ -64463,7 +63690,6 @@ telstraphonewords.actonservice.com
 telulr.golfgalaxy.com
 telus.hb-api.omtrdc.net
 telus.hb.omtrdc.net
-telus.tt.omtrdc.net
 tem.zpg.co.uk
 temails.productnotice.thomsonreuters.com
 temp.twicomi.com
@@ -64566,7 +63792,6 @@ test.vast
 test.zeus-wifi.jp
 test0-lj.gbc.criteo.com
 test1.bcava.gbc.criteo.com
-test1.www.gbc.criteo.com
 test2.majelan.com
 test3-kes.gbc.criteo.com
 test92.com
@@ -64617,7 +63842,6 @@ testsite.mail.gbc.criteo.com
 testsite.us.gbc.criteo.com
 testsocial.eduthrill.com
 testtarget.jeep.com
-testweb-fed.gbc.criteo.com
 testwebda.us.gbc.criteo.com
 tetovani.gbc.criteo.com
 teufel-com01.webtrekk.net
@@ -64671,7 +63895,6 @@ tgw.web.de
 th-ad-lgsmartad-com.aws-prd.net
 th-go.experian.com
 th.ad.lgsmartad.com
-th.gbc.criteo.com
 th.lgsmartad.com
 tha.pg.com
 thalasseo.eulerian.net
@@ -64734,7 +63957,6 @@ thestar.122.2o7.net
 thestardev.122.2o7.net
 thesuccessstars.actonservice.com
 theteachingcompanysa.tt.omtrdc.net
-thetjxcompaniesinc.tt.omtrdc.net
 theuniversityofauckl.tt.omtrdc.net
 theushuaiaexperience-com.eulerian.net
 thevanguardgroup.tt.omtrdc.net
@@ -64762,7 +63984,6 @@ three-email.co.uk
 three.tt.omtrdc.net
 threebusiness.three.co.uk
 threechurch.com
-threestage.vip.gbc.criteo.com
 threetruck.com
 thrillasoft.com
 thrive.metagenics.com
@@ -64775,7 +63996,6 @@ thumbs.net.anwalt.de
 thumbsfed.gbc.criteo.com
 thumbsres.gbc.criteo.com
 thunderingtendency.com
-ti.hornbach.de
 ti.hornbach.nl
 ti3av8k3ikwm.resume.gerardbosch.xyz
 tiaacref.hb.omtrdc.net
@@ -64784,11 +64004,9 @@ tib2.tropical-islands.de
 ticketaunt.com
 ticketjolly.com
 ticketoffice.liberty.edu
-tickets.dfe.gbc.criteo.com
 tickets.gbc.criteo.com
 tickets.gs-warriors.com
 tickets.smu.edu
-ticketsda.us.gbc.criteo.com
 ticketssponge.com
 ticketwww.ag.gbc.criteo.com
 ticklesign.com
@@ -64824,7 +64042,6 @@ timberland.fr.102.112.2o7.net
 time-mp.gbc.criteo.com
 time.aktion-mensch.de
 time.da.us.gbc.criteo.com
-time.mail.gbc.criteo.com
 time.video.ptqy.gitv.tv
 timeclock.mytoolr.com
 timecom.112.2o7.net
@@ -65644,7 +64861,6 @@ tofusquirrel.com
 tokyo.criteo.com
 tokyores.gbc.criteo.com
 toll6kerb.com
-tollabox01.webtrekk.net
 tomatobarrel.com
 tomcat-partner-pay.net.daraz.com
 tomcat.tt.omtrdc.net
@@ -65666,7 +64882,6 @@ toolforthought.com
 tools.ricoh.co.uk
 tools.ricoh.de
 toolskes.gbc.criteo.com
-toolslj.gbc.criteo.com
 toolwww.gbc.criteo.com
 toomanyalts.com
 toonboom.actonservice.com
@@ -67098,7 +66313,6 @@ track.livasoft.com.tr
 track.magazineluiza.com.br
 track.mailerlite.com
 track.marketingcube.com.au
-track.massmutualascend.com
 track.mentor.com
 track.mituo.cn
 track.mp.microsoft.com
@@ -68035,7 +67249,6 @@ train.toolingu.com
 train.tt.omtrdc.net
 training-activehichannel3.cl.bellsouth.net.daraz.com
 training.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
-training.ag.gbc.criteo.com
 training.graduateschool.edu
 training.hager.co.uk
 training.indigobusiness.co.uk
@@ -68534,13 +67747,11 @@ trkr.shoppingminds.net
 trksrv44.com
 trksrv45.com
 trksrv46.com
-trollbarna.gbc.criteo.com
 tropicalpal.com
 tropo01.webtrekk.net
 troubleshade.com
 trovo-tag.com
 troweprice.hb.omtrdc.net
-troweprice.tt.omtrdc.net
 trpzjj.hrkgame.com
 tru.am
 truchoicefinancial.actonsoftware.com
@@ -68622,7 +67833,6 @@ ttmetrics.faz.net
 ttmetrics.jcpenney.com
 ttnnuo.racing-planet.de
 tuagol.gartenmoebel.de
-tube.gbc.criteo.com
 tube6sour.com
 tuclothing.nectar.com
 tuevrheinland01.wt-eu02.net
@@ -68637,15 +67847,11 @@ tumbleicicle.com
 tumi.112.2o7.net
 tune.sckmediatv.com
 tuneupcoffee.com
-tunnel-lj.gbc.criteo.com
 tunnel.fed.gbc.criteo.com
-tunnel.mail.gbc.criteo.com
-tunnelres.gbc.criteo.com
 tur-mp.gbc.criteo.com
 tur.ag.gbc.criteo.com
 turboeagle.co
 turbolion.io
-turbotax.gbc.criteo.com
 turfoutbound.fifa.com
 turk.as.gbc.criteo.com
 turkres.gbc.criteo.com
@@ -68662,7 +67868,6 @@ tv-static.scdn.co
 tv-test.esvdigital.com
 tv.ads.spotx.tv
 tv.totaljobs.com
-tv.tt.omtrdc.net
 tv2.hb-api.omtrdc.net
 tv2.hb.omtrdc.net
 tvacr-tools.acr.roku.com
@@ -68687,7 +67892,6 @@ tvx.adgrx.com
 tw-ad-lgsmartad-com.aws-prd.net
 tw-go.experian.com
 tw.ad.lgsmartad.com
-tw.kes.gbc.criteo.com
 tw.lgsmartad.com
 tw.reppublika.com
 tw.spiriteq.com
@@ -68703,7 +67907,6 @@ twilio.tt.omtrdc.net
 twistairclub.net.anwalt.de
 twistloss.com
 twitchus.gbc.criteo.com
-twiten.gbc.criteo.com
 twitterinc.tt.omtrdc.net
 twiz.wizaly.co.uk
 twiz.wizaly.fr
@@ -68779,7 +67982,6 @@ u652.myplainview.com
 u927.sfgate.com
 ua-ad-lgsmartad-com.aws-prd.net
 ua.ad.lgsmartad.com
-ua.gbc.criteo.com
 ua.indianexpress.com
 ua.lgsmartad.com
 uaaooa.stansberryresearch.com
@@ -68843,7 +68045,6 @@ ucmetrics.unicreditbanca.it
 ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
-ucs-gce-sc-3.gbc.criteo.com
 uct.service.usercentrics.eu
 udblog.huya.com
 udc.msn.com
@@ -69100,7 +68301,6 @@ up-coop.eulerian.net
 up-dfe.gbc.criteo.com
 up.b2bmktg.com
 update.gbc.criteo.com
-update.lgim.com
 update.purina.com
 update.sandiego.org
 update.tcsg.edu
@@ -69118,7 +68318,6 @@ upgradeyoga.com
 upi.112.2o7.net
 upload.c.ns.emailvjabberion.net.daraz.com
 upload.euleriancdn.net
-upload.net.daraz.com
 upload.tt.omtrdc.net
 uploads.tt.omtrdc.net
 uploadsemailvision.net.daraz.com
@@ -69187,7 +68386,6 @@ uroqgj.wind.it
 urr.kumamoto-food.com
 urs.metacritic.com
 urxbvw.tui.nl
-us-2-cafw4cuaifsvnlnjqzehy2dk.gbc.criteo.com
 us-ad-lgsmartad-com.aws-prd.net
 us-ads.gbc.criteo.com
 us-affiliate.gbc.criteo.com
@@ -69198,7 +68396,6 @@ us-default.gbc.criteo.com
 us-east4.ads.gcp.roku.com
 us-east4.dev.ads.gcp.roku.com
 us-elb.gbc.criteo.com
-us-em1975.gbc.criteo.com
 us-gbc7.gbc.criteo.com
 us-go.experian.com
 us-ic3.events.data.microsoft.com
@@ -69248,7 +68445,6 @@ us.nudge.lgtvcommon.com
 us.onkyo.actonservice.com
 us.pdc.micloud.xiaomi.net.iberostar.com
 us.pdr.gbc.criteo.com
-us.prepmc-reporting.gbc.criteo.com
 us.preprod.gbc.criteo.com
 us.preproou.gbc.criteo.com
 us.promo.skf.com
@@ -69268,15 +68464,12 @@ us.w0wavhxew0wavhxod.gbc.criteo.com
 us2-www.ag.gbc.criteo.com
 us3.acbhk0.gbc.criteo.com
 us4-v20.events.data.microsoft.com
-us4bcava.gbc.criteo.com
 us4da.us.gbc.criteo.com
 us5-v20.events.data.microsoft.com
 us5.us.gbc.criteo.com
-us5.vip.gbc.criteo.com
 us5.vip.prod.gbc.criteo.com
 us5mp.gbc.criteo.com
 us6.as.gbc.criteo.com
-us8cab.gbc.criteo.com
 usa.pgbrands.com
 usaang.tt.omtrdc.net
 usabilitybook.com
@@ -69312,7 +68505,6 @@ usbank.tt.omtrdc.net
 usbrand.gbc.criteo.com
 usc.adserver.snapads.com
 uscellular.tt.omtrdc.net
-uscommercemax.gbc.criteo.com
 usda.gbc.criteo.com
 usda1.gbc.criteo.com
 usdbbx.mmartan.com.br
@@ -69323,12 +68515,10 @@ use.hetzner.com
 use.lunos.app
 use1.aws.external.logs.roku.com
 uselesslumber.com
-usem1974.gbc.criteo.com
 usenpita.122.2o7.net
 user-metrics.onthemarket.com
 user-registration.criteo.com
 user-registration.eu.criteo.com
-user-registration.fr3.eu.criteo.com
 user-registration.fr3.vip.prod.criteo.com
 user-registration.gbc.criteo.com
 user-registration.nl3.eu.criteo.com
@@ -69339,11 +68529,9 @@ userballot.com
 userdata.dev.sr.roku.com
 userdata.sr.roku.com
 userdataws-da-us.criteo.com
-userdataws-fr-eu-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 userdataws-fr-eu.criteo.com
 userdataws-jp-as.criteo.com
 userdataws-nl-eu.criteo.com
-userdataws-nl-eulj.gbc.criteo.com
 userdataws.criteo.com
 userdataws.da.us.criteo.com
 userdataws.fr3.eu.criteo.com
@@ -69359,7 +68547,6 @@ usersmp.gbc.criteo.com
 usersres.gbc.criteo.com
 usertesting.tt.omtrdc.net
 userverlua-aws-fr-43.gbc.criteo.com
-userverlua-aws-va-10.gbc.criteo.com
 userverlua-aws-va-23.gbc.criteo.com
 userverlua-aws-va-249s.gbc.criteo.com
 userverlua-gce-or-15.gbc.criteo.com
@@ -69371,7 +68558,6 @@ usgovarizona-global.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
-usgt.tt.omtrdc.net
 usgzei.vidaxl.ch
 ushotspot.gbc.criteo.com
 usingyourcard.americanexpress.co.uk
@@ -69402,7 +68588,6 @@ usstaff.gbc.criteo.com
 usstatus.gbc.criteo.com
 ustat.info
 ustglobal.tt.omtrdc.net
-usuario.net.daraz.com
 usunity.gbc.criteo.com
 usupload.gbc.criteo.com
 usversion.gbc.criteo.com
@@ -69410,7 +68595,6 @@ usw18-268-pdb.net.mydays.de
 uswww-test.gbc.criteo.com
 usyyzz.winparts.nl
 usztct.gang.com.br
-ut.actonsoftware.com
 ut.dailyfx.com
 ut.econnect.utexas.edu
 ut.iggroup.com
@@ -69875,8 +69059,6 @@ v.topya.com
 v.tt.omtrdc.net
 v0acbhk0.gbc.criteo.com
 v1-acb-abc.gbc.criteo.com
-v1.acbhk0.gbc.criteo.com
-v1.net.daraz.com
 v1.tt.omtrdc.net
 v10-win.vortex.data.trafficmanager.net
 v10c.events.data.microsoft.com
@@ -69909,8 +69091,6 @@ va0dfe.gbc.criteo.com
 va0vip.gbc.criteo.com
 va1.vip.gbc.criteo.com
 va1.vip.prod.gbc.criteo.com
-va1dfe.gbc.criteo.com
-va4.as.gbc.criteo.com
 va4.vip.gbc.criteo.com
 vahlnd.bogsfootwear.com
 vaillant02.webtrekk.net
@@ -70025,7 +69205,6 @@ verify.spin.app
 verify.test.spin.app
 verify.tt.omtrdc.net
 verisignwildcard.112.2o7.net
-veritastechnologiesl.tt.omtrdc.net
 verivox01.webtrekk.net
 verizon-branch.locationlabs.com
 verizonenterprisesol.tt.omtrdc.net
@@ -70194,8 +69373,6 @@ vip-api.xmpush.global.xiaomi.com
 vip-api.xmpush.xiaomi.com
 vip-backup.gbc.criteo.com
 vip-billing.gbc.criteo.com
-vip-da3.gbc.criteo.com
-vip-domains.gbc.criteo.com
 vip-gateway.gbc.criteo.com
 vip-guest.gbc.criteo.com
 vip-imap0d.gbc.criteo.com
@@ -70207,7 +69384,6 @@ vip-ns10.gbc.criteo.com
 vip-pc.gbc.criteo.com
 vip-ptr48.gbc.criteo.com
 vip-relay.gbc.criteo.com
-vip-sept.gbc.criteo.com
 vip-url1218.gbc.criteo.com
 vip-v2.gbc.criteo.com
 vip-vpn-nl6.gbc.criteo.com
@@ -70216,7 +69392,6 @@ vip.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 vip.agentteam.com.au
 vip.api.xmpush.global.xiaomi.com
 vip.api.xmpush.xiaomi.com
-vip.gbc.criteo.com
 vip.german.ni.com
 vip.gophersport.com
 vip.granicus.com
@@ -70226,18 +69401,14 @@ vip.preprod.gbc.criteo.com
 vip.preprortb-taboola.gbc.criteo.com
 vip.prod.gbc.criteo.com
 vip.proggtc.gbc.criteo.com
-vip.ptf-gitlabod.gbc.criteo.com
 vip.springd.gbc.criteo.com
 vip.swiftcapital.com
 vip.webhook.gbc.criteo.com
-vipa.us.gbc.criteo.com
 vipacc.gbc.criteo.com
 vipalumni.gbc.criteo.com
 vipapi-docs.gbc.criteo.com
 vipar.gbc.criteo.com
-vipar.vipreviprod.gbc.criteo.com
 vipautodiscover.gbc.criteo.com
-vipcorreoweb.gbc.criteo.com
 vipdefault.gbc.criteo.com
 vipdev3.gbc.criteo.com
 vipfs.gbc.criteo.com
@@ -70246,7 +69417,6 @@ vipimap2d.gbc.criteo.com
 vipipv5.gbc.criteo.com
 viplb.gbc.criteo.com
 viplinks.gbc.criteo.com
-vipns15.gbc.criteo.com
 vipns19.gbc.criteo.com
 vippl.gbc.criteo.com
 vipresearch.gbc.criteo.com
@@ -70292,7 +69462,6 @@ visit.lifeblood.com.au
 visit.monroecollege.edu
 visit.mxrimaging.com
 visit.oakstreethealth.com
-visit.perfectserve.com
 visit.sabre.com
 visit.sendheirloom.com
 visit.singlewire.com
@@ -70326,7 +69495,6 @@ vitals.flyingpress.com
 vitrade02.webtrekk.net
 viu.actonservice.com
 viu.viubyhub.com
-vivabox-fr.eulerian.net
 vividcanopy.com
 vividcortex.actonservice.com
 vividfrost.com
@@ -70352,7 +69520,6 @@ vllsuv.skatedeluxe.com
 vllychnv92.alphonso.tv
 vlogs.deja.media
 vm-fed.gbc.criteo.com
-vm.dfe.gbc.criteo.com
 vmedianet.gbc.criteo.com
 vmgihu.gelatopique.com
 vmjdpk.repairclinic.com
@@ -70361,7 +69528,6 @@ vms-www.ag.gbc.criteo.com
 vmsspl.tenamall.co.kr
 vmsxzx.buienradar.nl
 vmware-us.gbc.criteo.com
-vmware.da.us.gbc.criteo.com
 vmware.hb.omtrdc.net
 vmware.tt.omtrdc.net
 vmwody.seibu-k.co.jp
@@ -70381,7 +69547,6 @@ vo.tt.omtrdc.net
 vocalsure.com
 vocfhq.ilgiardinodeilibri.it
 vod.gbc.criteo.com
-vod.mp.gbc.criteo.com
 vodacom.eum-appdynamics.com
 vodacom.tt.omtrdc.net
 vodafonegreece.tt.omtrdc.net
@@ -70476,34 +69641,24 @@ vpn-da1.preprod.criteo.com
 vpn-da2-acbhk0.gbc.criteo.com
 vpn-da2-as.gbc.criteo.com
 vpn-fr.criteo.com
-vpn-fr.gbc.criteo.com
 vpn-fr3.criteo.com
 vpn-jp1.ag.gbc.criteo.com
 vpn-jp1.www.ag.gbc.criteo.com
-vpn-jp1www.ag.gbc.criteo.com
 vpn-jp2.criteo.com
 vpn-jp2.dfe.gbc.criteo.com
 vpn-jp3.gbc.criteo.com
-vpn-jp4-ag.gbc.criteo.com
-vpn-jp5-us.gbc.criteo.com
-vpn-nl3.as.gbc.criteo.com
-vpn-nl3.criteo.com
 vpn-nl4ag.gbc.criteo.com
-vpn-sg0-ag.gbc.criteo.com
 vpn-sg1.criteo.com
 vpn-sg1as.gbc.criteo.com
 vpn-sg2-mail.gbc.criteo.com
 vpn-sg3.as.gbc.criteo.com
 vpn-sg4ag.gbc.criteo.com
 vpn-sg4lj.gbc.criteo.com
-vpn-sg4mp.gbc.criteo.com
 vpn-us2us.gbc.criteo.com
 vpn-us4-kes.gbc.criteo.com
 vpn-us5-acbhk0.gbc.criteo.com
 vpn-us5.criteo.com
 vpn-us6da.us.gbc.criteo.com
-vpn-us7-bcava.gbc.criteo.com
-vpn-us7.mp.gbc.criteo.com
 vpn.criteo.com
 vpn.sound.ag
 vpn.tt.omtrdc.net
@@ -70511,7 +69666,6 @@ vpn.vip.gbc.criteo.com
 vpnedf-dxlsvguoqjcux.gbc.criteo.com
 vpnedf0-0-01170i.gbc.criteo.com
 vpnedfd3atzbypvhbiqt.gbc.criteo.com
-vpnedfd3v8ndyj12i0yx.gbc.criteo.com
 vppst.iltrovatore.it
 vps-0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 vps.eulerian.com
@@ -70553,16 +69707,12 @@ vsc02.eulerian.net
 vsc03.eulerian.net
 vsc04.eulerian.net
 vsc05.eulerian.net
-vsc06.eulerian.net
 vsc07.eulerian.net
 vsc08.eulerian.net
-vsc09.eulerian.net
 vsc10.eulerian.net
 vsc11.eulerian.net
 vsc12.eulerian.net
 vsc13.eulerian.net
-vsc14.eulerian.net
-vsc15.eulerian.net
 vsc16.eulerian.net
 vsc17.eulerian.net
 vsc18.eulerian.net
@@ -70726,11 +69876,9 @@ walmartisd.tt.omtrdc.net
 wamahe.wokularach.pl
 want7feed.com
 wantingwindow.com
-wap-mail.gbc.criteo.com
 wap-www.ag.gbc.criteo.com
 wap.mail.gbc.criteo.com
 wap.mylifetime.com
-wap0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 wapn1.flosports.tv
 war5.parquewarner.com
 wareneingang.edeka.de
@@ -70818,7 +69966,6 @@ wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 wc-nl.co.uk
 wcastrprod.122.2o7.net
-wce.gbc.criteo.com
 wchjfv.apartmenttherapy.com
 wco.crownpeak.com
 wct-2.com
@@ -71053,7 +70200,6 @@ web.web.tomasiauto.com
 web.winzer.com
 web.x.ilpost.it
 web.yourerc.com
-web0-lj.gbc.criteo.com
 web1.51.la
 web2.alphonso.tv
 web2.perkinelmer.com
@@ -71061,7 +70207,6 @@ web2ag.gbc.criteo.com
 web3.perkinelmer.com
 web4.fed.gbc.criteo.com
 web4us.gbc.criteo.com
-web4www.ag.gbc.criteo.com
 web8.perkinelmer.com
 webanalytics.also.com
 webanalytics.astrogaming.com
@@ -71082,20 +70227,15 @@ webapp.ag.gbc.criteo.com
 webapp.e-post.smn.no
 webapp.mp.gbc.criteo.com
 webapp.tt.omtrdc.net
-webappr-oa-2.net.daraz.com
 webapps.tt.omtrdc.net
 webcasts.de.ni.com
 webcasts.partnermcafee.com
-webconf-dfe.gbc.criteo.com
 webconomy01.webtrekk.net
 webcounter.goweb.de
 webdb-bcava.gbc.criteo.com
 webdb.www.ag.gbc.criteo.com
-webdbres.gbc.criteo.com
-webdisk.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 webdisk.tt.omtrdc.net
 webhook.fed.gbc.criteo.com
-webhook.gbc.criteo.com
 webhotel.gbc.criteo.com
 webinar.dnv.com
 webinar.intel.com
@@ -71163,13 +70303,11 @@ webstat.4music.com
 webstat.garanti.com.tr
 webstat.qiumibao.com
 webstat.vodafone.com
-webstats-fed.gbc.criteo.com
 webstats.abajournal.com
 webstats.americanbar.org
 webstats.bijenpatel.com
 webstats.cbre.com
 webstats.channel4.com
-webstats.garanti.com.tr
 webstats.imf.org
 webstats.kronos.com
 webstats.sapo.pt
@@ -71356,7 +70494,6 @@ widget-pixels.outbrain.com
 widget.as.criteo.com
 widget.criteo.com
 widget.da.us.criteo.com
-widget.da.us.preprod.criteo.com
 widget.educationdynamics.com
 widget.eu.criteo.com
 widget.fr3.eu.criteo.com
@@ -71385,14 +70522,12 @@ wileypublishing.112.2o7.net
 wileypublishing.tt.omtrdc.net
 williamhill.tt.omtrdc.net
 win-global-asimov-leafs-events-data.trafficmanager.net
-win.da.us.gbc.criteo.com
 win.staticstuff.net
 win10-trt.msedge.net
 win31.bcava.gbc.criteo.com
 win33-www.ag.gbc.criteo.com
 win34-www.ag.gbc.criteo.com
 win8.ipv6.microsoft.com
-windows.0-cafw4cuaifsvnlnjqzehy0dk.cab.gbc.criteo.com
 windows.bcava.gbc.criteo.com
 windows2303-magnet.b2bmktg.com
 windsor.logs.roku.com
@@ -71473,7 +70608,6 @@ wnozpl.escarpe.it
 wnsn.mcommemutuelle.com
 wnvieu.enpal.de
 wnyywf.frankonia.de
-wohnbau.gbc.criteo.com
 wolterskluwer.tt.omtrdc.net
 wolterskluwermedical.hb-api.omtrdc.net
 wolterskluwermedical.tt.omtrdc.net
@@ -71505,7 +70639,6 @@ workfed.gbc.criteo.com
 workforcetrends.advancedtech.com
 workfront.tt.omtrdc.net
 workhorsefunds.com
-worknworld.gbc.criteo.com
 workoperation.com
 workplace.ricoh.de
 workplace.ricoh.ie
@@ -71737,13 +70870,10 @@ www-110.aig.com
 www-11smtpr1csr41.net.daraz.com
 www-171.aig.com
 www-172.aig.com
-www-am6.ag.gbc.criteo.com
 www-ayuda.gbc.criteo.com
 www-blogs.ag.gbc.criteo.com
-www-bounce.gbc.criteo.com
 www-d1vmp8zzttzftq.gbc.criteo.com
 www-d1w4q6ldc8l0qo.gbc.criteo.com
-www-dd.ag.gbc.criteo.com
 www-ebis.384.co.jp
 www-firewall.ag.gbc.criteo.com
 www-ftp2.ag.gbc.criteo.com
@@ -71763,9 +70893,7 @@ www-smt.daiichisankyo-hc.co.jp
 www-smtp.ag.gbc.criteo.com
 www-ssp-bidder-rightmedia-1.ag.gbc.criteo.com
 www-test.da.us.gbc.criteo.com
-www-turk.ag.gbc.criteo.com
 www-vpn-jp1.ag.gbc.criteo.com
-www-xml.ag.gbc.criteo.com
 www0.kes.gbc.criteo.com
 www1.bottomline.com
 www1.cmitsolutions.com
@@ -71789,7 +70917,6 @@ www15.jedora.com
 www15.jtv.com
 www16.jtv.com
 www2.2ndgear.com
-www2.360visualizer.com
 www2.37deux.com
 www2.3dsystems.com
 www2.ablenetinc.com
@@ -71802,7 +70929,6 @@ www2.acrolinx.com
 www2.acsvalves.com
 www2.actionforhealthykids.org
 www2.acuitybrands.com
-www2.adsmarketing.grab.com
 www2.advancedtech.com
 www2.aegonam.com
 www2.aeroseal.com
@@ -71816,7 +70942,6 @@ www2.alphafmc.com
 www2.alpineintel.com
 www2.ambition.org.uk
 www2.amer.dormakaba.com
-www2.amnhealthcare.com
 www2.apollo.com
 www2.appian.com
 www2.appnovation.com
@@ -71936,7 +71061,6 @@ www2.constellationdealer.com
 www2.convergint.com
 www2.corevestfinance.com
 www2.cority.com
-www2.cornwall-insight.com
 www2.corvel.com
 www2.covaris.com
 www2.covius.com
@@ -72138,7 +71262,6 @@ www2.ljstar.com
 www2.logicgate.com
 www2.lone-star.uk
 www2.ltcwebsitesolutions.com
-www2.lumapps.com
 www2.malvernpanalytical.com
 www2.matterport.com
 www2.mau.com
@@ -72187,7 +71310,6 @@ www2.naw.org
 www2.nebotools.com
 www2.neonone.com
 www2.neosfunds.com
-www2.netwitness.com
 www2.network.bethematchclinical.org
 www2.network.nmdp.org
 www2.neuraflash.com
@@ -72224,7 +71346,6 @@ www2.pdsvision.com
 www2.pedigreetechnologies.com
 www2.peikko.com
 www2.perficient.com
-www2.perrygolf.com
 www2.phoenixlighting.com
 www2.phunware.com
 www2.phxa.com
@@ -72233,7 +71354,6 @@ www2.plparchitecture.com
 www2.polarislabs.com
 www2.policylink.org
 www2.postgrados.udp.cl
-www2.powersolutions.danfoss.com
 www2.pplprs.co.uk
 www2.primecreative.com.au
 www2.priorygroup.com
@@ -72255,7 +71375,6 @@ www2.quickattach.com
 www2.quickbooks.co.uk
 www2.quicktalkerfreestyle.com
 www2.qventus.com
-www2.rablighting.com
 www2.rabweb.com
 www2.radiantlogic.com
 www2.redwheel.com
@@ -72348,7 +71467,6 @@ www2.telos.com
 www2.terrapinn.com
 www2.terry.uga.edu
 www2.tfm.co.jp
-www2.tgas.com
 www2.theadvisgroup.com
 www2.theclimategroup.org
 www2.theforum.social
@@ -72426,7 +71544,6 @@ www2s.usautoparts.net
 www3.alva-group.com
 www3.americanprogressaction.org
 www3.amnhealthcare.com
-www3.avast.com
 www3.bimobject.com
 www3.blackstone.com
 www3.brenntag.com
@@ -72506,16 +71623,11 @@ wwwamsterdam.gbc.criteo.com
 wwwapis.ag.gbc.criteo.com
 wwwauth.ag.gbc.criteo.com
 wwwbug.ag.gbc.criteo.com
-wwwcafw5cuaifsvnlnjqzehy0dk.ag.gbc.criteo.com
-wwwcorporate.ag.gbc.criteo.com
 wwwd21vejvoh8fjtd.gbc.criteo.com
 wwwd26tdg0zc6yz7q.gbc.criteo.com
 wwwdocs.ag.gbc.criteo.com
-wwwdomaincontrol.ag.gbc.criteo.com
 wwwdxkptbljw30jv.gbc.criteo.com
 wwwf15.mitsubishielectric.co.jp
-wwwfw-am2.ag.gbc.criteo.com
-wwwhealth.ag.gbc.criteo.com
 wwwhosting.ag.gbc.criteo.com
 wwwimg.roku.com
 wwwimg.staging.roku.com
@@ -72647,7 +71759,6 @@ xid.glossier.com
 xid.intothegloss.com
 xid.natrelle.com
 xid.opsgenie.com
-xid.sendcloud.sc
 xid.sourcetreeapp.com
 xid.statuspage.io
 xid.teamleader.eu
@@ -72656,7 +71767,6 @@ xid.wandb.ai
 xid.wandb.com
 xid.wandb.us
 xiqvza.dickblick.com
-xirsys-tivogo.gbc.criteo.com
 xitvce.webtretho.com
 xiuksf.worten.es
 xivbr6.alphonso.tv
@@ -72690,7 +71800,6 @@ xml.opera.com
 xmohlh.melia.com
 xmqrvx.jewelry-queen-shop.com
 xmyvhu.soxo.pl
-xn.tt.omtrdc.net
 xnt4.ece.fr
 xnukcp.cpcompany.com
 xo.xomarriage.com
@@ -73025,7 +72134,6 @@ ywojvu.kujten.com
 ywrcqa.10tv.com
 ywrcqa.11alive.com
 ywrcqa.12news.com
-ywrcqa.12newsnow.com
 ywrcqa.13newsnow.com
 ywrcqa.13wmaz.com
 ywrcqa.5newsonline.com
@@ -73047,7 +72155,6 @@ ywrcqa.krem.com
 ywrcqa.ksdk.com
 ywrcqa.ktvb.com
 ywrcqa.kvue.com
-ywrcqa.localmemphis.com
 ywrcqa.newscentermaine.com
 ywrcqa.newswest9.com
 ywrcqa.thv11.com
@@ -73062,7 +72169,6 @@ ywrcqa.wltx.com
 ywrcqa.wnep.com
 ywrcqa.wqad.com
 ywrcqa.wthr.com
-ywrcqa.wtol.com
 ywrcqa.wtsp.com
 ywrcqa.wusa9.com
 ywrcqa.wwltv.com
@@ -73108,7 +72214,6 @@ za.lgsmartad.com
 za.qeeq.com
 za.zalo.me
 zaawds.farmae.it
-zabbixbcava.gbc.criteo.com
 zag.112.2o7.net
 zag.122.2o7.net
 zagg.com.102.122.2o7.net
@@ -73210,7 +72315,6 @@ zhf121i5ei571ao6.net.daraz.com
 zhgneo8d5vrfayus.net.daraz.com
 zhihu-web-analytics.zhihu.com
 zhqcir.netage.ne.jp
-zhuevv03d0fxj7yh.authenticate.net.daraz.com
 zhuevv03d0fxj7yh.emailvision.authenticate.net.daraz.com
 zhyeqw.mercury.ru
 zi50mh0ou2uy4lso.summer.net.daraz.com
@@ -73387,7 +72491,6 @@ zs0l3kw5yrcf7n6l.lib-oa-1.net.daraz.com
 zsassociatesindiapvt.tt.omtrdc.net
 zsi7.destinia.do
 zsrznel7.alphonso.tv
-zt1cvsp6ix4x43ig.lib-oa-1.net.daraz.com
 zt60ekgwjuswdj4y.northamerica.net.daraz.com
 ztarkm.johnnie-o.com
 ztbbpz.betten.de
