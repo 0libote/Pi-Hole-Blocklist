@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 19 January 2026 12:43:32 UTC
+# Last Updated: 20 January 2026 01:24:52 UTC
 #
-# Domains: 72,562 | Added: 0 | Removed: 0
+# Domains: 72,573 | Added: 11 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6128,6 +6128,7 @@ agda.gbc.criteo.com
 agegreetings.112.2o7.net
 agency-7-office.com
 agencycloud-52.com
+agencysignals.com
 agenda.kes.gbc.criteo.com
 agentaspaarbank.tt.omtrdc.net
 agentcomm.mercuryinsurance.com
@@ -6680,6 +6681,7 @@ analytics-dev-api.test.samsunghealth.com
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
 analytics-hub.3plearning.com
 analytics-lgs.corebridgefinancial.com
@@ -11878,6 +11880,7 @@ cd.ad.lgsmartad.com
 cd.chemistanddruggist.co.uk
 cd.lgsmartad.com
 cdanjoyner4374.myre.io
+cdapi.collegedunia.com
 cdb.cbtrk.net
 cdbgmj12.com
 cdc.112.2o7.net
@@ -21264,6 +21267,7 @@ forums.gbc.criteo.com
 forwardslashetc.com
 fossilzero.com
 fotoservicefr01.wt-eu02.net
+fourlevelsgame.com
 fourmtagservices.appspot.com
 fourpawsahead.com
 fourtimessmelly.com
@@ -39133,6 +39137,7 @@ mp.digital.wilhelmsen.com
 mp.gbc.criteo.com
 mp.imgur.com
 mp.pitchero.com
+mp.sintra.ai
 mp.theepochtimes.com
 mp0pd.gbc.criteo.com
 mp4teluguwap.backpackworldstage.net.daraz.com
@@ -60676,6 +60681,7 @@ stagingtubeunblock.net.daraz.com
 stahhx.inversapub.com
 stahl.actonservice.com
 stakedances.com
+stakeschips.com
 stakingbasket.com
 stakingshock.com
 stakingsmile.com
@@ -61907,6 +61913,7 @@ sticketsmetrics.masters.com
 stiffgame.com
 stiffstem.com
 stillborn-angels.gbc.criteo.com
+stillpeace.com
 stimulatingsneeze.com
 stingsquirrel.com
 stingycrush.com
@@ -64037,6 +64044,7 @@ tiglck.technopolis.bg
 tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
+tiltonbots.com
 tim.nextinpact.com
 timberland.fr.102.112.2o7.net
 time-mp.gbc.criteo.com
@@ -64046,6 +64054,7 @@ time.video.ptqy.gitv.tv
 timeclock.mytoolr.com
 timecom.112.2o7.net
 timecom.122.2o7.net
+timecrossed.com
 timeessence.122.2o7.net
 timeew.122.2o7.net
 timefoodandwine.122.2o7.net
@@ -67293,6 +67302,7 @@ travel.ec-ovc.com
 travel.onlinevacationcenter.com
 travel.stage.x.unikoom.com
 travel.x.unikoom.com
+travelerpic.com
 travelinsurance.postaffiliatepro.com
 travelmarketreport.actonservice.com
 travidia.112.2o7.net
@@ -69194,6 +69204,7 @@ veqvek.ctvnews.ca
 veqvek.much.com
 veqvek.thebeaverton.com
 veqvek.tsn.ca
+veradata.network
 vercel-vitals.axiom.co
 vercomicporno.net.daraz.com
 verdantanswer.com
