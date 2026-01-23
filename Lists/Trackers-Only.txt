@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 22 January 2026 12:42:59 UTC
+# Last Updated: 23 January 2026 01:25:19 UTC
 #
-# Domains: 73,503 | Added: 0 | Removed: 0
+# Domains: 73,509 | Added: 6 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10485,6 +10485,7 @@ blogs.tt.omtrdc.net
 blogspot.gbc.criteo.com
 bloomreach-api.haven.com
 bloomreach-cdn.haven.com
+bloomreach.co
 bloomsend.com
 blrhel.veronicabeard.com
 blsoof.wirwinzer.de
@@ -60313,6 +60314,7 @@ soundstocking.com
 soundstrue.postaffiliatepro.com
 sour1bare.com
 sour7will.com
+sourcecodeinfo.com
 sourceoak.com
 sourcepoint-mms.aetv.com
 sourcepoint-mms.biography.com
@@ -68216,6 +68218,7 @@ triton.actonservice.com
 triton.companyegg.com
 tritoneestmpb.blitztesting.com
 triumph.actonservice.com
+triumphbull.com
 trjs2.mediafin.be
 trk-branch.balinea.com
 trk-brevinate.com
@@ -68794,6 +68797,7 @@ tybfxw.puma.com
 tycoelectronicscorpo.tt.omtrdc.net
 tyftsjph74.alphonso.tv
 tyler.logs.roku.com
+typepredict.com
 typewebsite.com
 typicalairplane.com
 typicalteeth.com
@@ -69078,6 +69082,7 @@ uni.okane-reco-plus.com
 uni7.uniplaces.com
 unicontainers.com
 unidademergencias.cruzroja.es
+unidays.world
 unified-ter-na.hismarttv.com
 unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
@@ -69857,6 +69862,7 @@ utklhk.kojima.net
 utm.sankei.jp.msn.com
 utm.semilab.hu
 utm.shireburn.com
+utopiaband.net
 utrack.hexun.com
 utraffic.engine.adglare.net
 uts.auction.co.kr
