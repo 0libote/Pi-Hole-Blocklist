@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 28 January 2026 12:43:32 UTC
+# Last Updated: 29 January 2026 01:48:04 UTC
 #
-# Domains: 73,537 | Added: 0 | Removed: 0
+# Domains: 73,546 | Added: 10 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6930,6 +6930,7 @@ analytics.emol.com
 analytics.erepublic.com
 analytics.ericafischerphotography.com
 analytics.esporteinterativo.com.br
+analytics.eternagame.org
 analytics.eventbrite.com
 analytics.everythingstream.com
 analytics.evo.co.uk
@@ -7039,6 +7040,7 @@ analytics.lunaweb.cloud
 analytics.lunge.de
 analytics.m7g.twitch.tv
 analytics.maikel.pro
+analytics.maileon.com
 analytics.makeitmeme.com
 analytics.makro.be
 analytics.makro.pt
@@ -15019,6 +15021,7 @@ d.groc.press
 d.haberler.com
 d.jp2.as.criteo.com
 d.jugnoo.in
+d.lilstts.com
 d.m-net.de
 d.mail.levi.com
 d.nativendo.de
@@ -21111,6 +21114,7 @@ fight.offtherecord.com
 figlobal.112.2o7.net
 figmarketing.actonservice.com
 figsprotein.com
+figurehunter.net
 fiimox.lebenskraftpur.de
 filabech01.wt-eu02.net
 filament-stats.herokuapp.com
@@ -30308,6 +30312,7 @@ itservices.ricoh.de
 itservices.ricoh.ie
 itservices.ricoh.no
 itslogicalinteractive.actonsoftware.com
+itsstats.wp1.site
 itt.enterprises.proximus.com
 itv.112.2o7.net
 itznub.gap.co.uk
@@ -31132,6 +31137,7 @@ kit22.com
 kitchen.juicer.cc
 kitetuning.com
 kits.diesellaptops.com
+kittentacos.com
 kittycatking.com
 kiwi.mdldb.net
 kiwi.railway.app
@@ -33268,6 +33274,7 @@ loadbalancerbcava.gbc.criteo.com
 loaddisplay.com
 loadedhearts.com
 loader-cdn.azureedge.net
+loader.mantis-intelligence.com
 loadsurprise.com
 loans.rategenius.com
 loansales.cbre.com
@@ -61072,6 +61079,7 @@ sspmp.gbc.criteo.com
 ssr.streamrail.net
 ssrlot.lotoquebec.com
 sst.babypark.nl
+sst.brodo.com
 sst.bwt.com
 sst.colemanfurniture.com
 sst.cooperativa.cl
@@ -61903,6 +61911,7 @@ stats.brennholzauktion.com
 stats.briskoda.net
 stats.broddin.be
 stats.brumtechtapas.co.uk
+stats.bryancollins.com
 stats.buddiy.net
 stats.bungeefit.co.uk
 stats.bunkr.ru
@@ -62627,6 +62636,7 @@ stats2.architecturaldigest.com
 stats2.bonappetit.com
 stats2.cntraveler.com
 stats2.golfdigest.com
+stats2.helpmonks.com
 stats2.indianpornempire.com
 stats2.mytuner.mobi
 stats2.newyorker.com
@@ -69104,7 +69114,6 @@ uni.okane-reco-plus.com
 uni7.uniplaces.com
 unicontainers.com
 unidademergencias.cruzroja.es
-unidays.world
 unified-ter-na.hismarttv.com
 unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
