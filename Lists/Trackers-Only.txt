@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 02 February 2026 12:54:11 UTC
+# Last Updated: 03 February 2026 01:54:32 UTC
 #
-# Domains: 72,751 | Added: 0 | Removed: 0
+# Domains: 72,763 | Added: 12 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7004,6 +7004,7 @@ analytics.midwesternmac.com
 analytics.ml.homedepot.ca
 analytics.mobile.yandex.net
 analytics.mondotv.jp
+analytics.morphe.software
 analytics.mouthshut.com
 analytics.moviepilot.de
 analytics.mpay.samsung.com
@@ -7600,6 +7601,7 @@ api.competition.intl.miui.com
 api.content.intl.miui.com
 api.criteo.com
 api.crm.mandmdirect.com
+api.croct.io
 api.cupid.ptqy.gitv.tv
 api.dfe.gbc.criteo.com
 api.digitalpiloten.org
@@ -11909,6 +11911,7 @@ cdjbf8trk.com
 cdjhcf.hometogo.es
 cdl.lvsafe.io
 cdl2.booksy.com
+cdn-a.raptor.digital
 cdn-aas-campaigns.alphonso.tv
 cdn-aas-ssai.alphonso.tv
 cdn-at.bahn.de
@@ -21330,6 +21333,7 @@ foxtel-prod-events.digitalsmiths.net
 foxtinfo.foxt.com
 foxtrotdata.com
 fp-cdn.azureedge.net
+fp-flame.vercel.app
 fp-upload.dun.163.com
 fp.bizjournals.com
 fp.kakaku.com
@@ -31797,6 +31801,7 @@ likerf.gbc.criteo.com
 likethedog.com
 lilly.tt.omtrdc.net
 lilogy.actonservice.com
+limecodesign.com
 limepeal.com
 limone.iltrovatore.it
 lincoln-financial.lfd.com
@@ -36925,6 +36930,7 @@ member-app.rightwayhealthcare.com
 member-bcava.gbc.criteo.com
 member.usenix.org
 memberkes.gbc.criteo.com
+membernook.com
 members.asq.org
 members.atomcomplete.com
 members.simplicity.coop
@@ -39168,6 +39174,7 @@ mosvnx.livup.com.br
 motion.cmco.com
 motion.columbusmckinnon.com
 motion.kollmorgen.com
+motionarray.net
 motionflowers.com
 motionlessbelief.com
 motionlessmeeting.com
@@ -46225,6 +46232,7 @@ ooqjaq.travelzoo.com
 oossod.potterybarn.ae
 ootsweb.b2bmktg.com
 op-drive-sto.carrefour.fr
+op-mobile.opera.com
 op-res.gbc.criteo.com
 op.acbhk0.gbc.criteo.com
 op.lafourchette.com
@@ -50459,6 +50467,7 @@ rum.ingress.layer0.co
 rum.layer0.co
 rum.marquardmedia.hu
 rum.mauve.eu
+rum.optimizely.com
 rum.perfops.net
 rum.uptime.com
 rumsey.actonservice.com
@@ -66614,6 +66623,7 @@ tracker.gleanview.com
 tracker.gold.org
 tracker.grupanya.com
 tracker.hdtvcloud.com
+tracker.hollandandbarrett.com
 tracker.icerocket.com
 tracker.iltrovatore.it
 tracker.incite-group.com
@@ -66661,6 +66671,7 @@ tracker.wpserveur.net
 tracker.xgen.dev
 trackerapi.truste.com
 trackercloud.net
+trackhorizon.nnmtools.com
 trackid.globoid.globo.com
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.bookzone.ro
@@ -69655,6 +69666,7 @@ visit.tafensw.edu.au
 visit.tenplay.com.au
 visit.xchina.pics
 visitor-microservice.ext.p-a.im
+visitor-speed.com
 visitor.arabiancentres.com
 visitor.hotelex.cn
 visitor.novartisoncology.us
