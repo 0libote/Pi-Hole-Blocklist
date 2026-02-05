@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 04 February 2026 12:53:46 UTC
+# Last Updated: 05 February 2026 01:50:41 UTC
 #
-# Domains: 73,542 | Added: 779 | Removed: 0
+# Domains: 73,550 | Added: 8 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5198,6 +5198,7 @@ accuride.actonservice.com
 accutrain.actonservice.com
 accuzip.actonservice.com
 accwww9.53kf.com
+acds-events.adobe.io
 acebunny.com
 acecashexpress.tt.omtrdc.net
 acelogger.heraldcorp.com
@@ -7205,6 +7206,7 @@ analytics.sixt.nl
 analytics.sixtcarsales.de
 analytics.sixtmiddleeast.com
 analytics.skinit.com
+analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.smart.mercedes-benz.com
@@ -17384,6 +17386,7 @@ domain.da.us.gbc.criteo.com
 domainadmin-us.gbc.criteo.com
 domainanalytics.net
 domainbntest.branchcustom.xyz
+domaincolumn.com
 domaincontrol.gbc.criteo.com
 domaincontroldfe.gbc.criteo.com
 domaincontroller-mp.gbc.criteo.com
@@ -33141,6 +33144,7 @@ live.centtrip.com
 live.comunicaciones.jetstereo.com
 live.cxo.name
 live.direct.ly
+live.exchangesolutions.com
 live.ff.co
 live.gbc.criteo.com
 live.imimobile.com
@@ -39645,6 +39649,7 @@ motu-teamblue.services
 mountainamericacredi.tt.omtrdc.net
 mountedbattery.com
 mousebusters.odencat.com
+movableobject.com
 move.azets.com
 move.azets.dk
 move.azets.fi
@@ -47071,6 +47076,7 @@ owa.carhartt.com
 owaju01.webtrekk.net
 owavip.gbc.criteo.com
 owen.prolitteris.ch
+owlbees.com
 owlreporter.com
 owlstwo.com
 owltin.com
@@ -49081,6 +49087,7 @@ pubfs.com
 pubimgs.com
 public-analytics.telekom.sk
 public-cis.exponea.com
+public.9gtb.com
 public.tt.omtrdc.net
 publications.nomination.fr
 publicidad.davivienda.com.pa
@@ -64932,6 +64939,7 @@ tiresomethunder.com
 tiscaliadv01.webtrekk.net
 titan.tt.omtrdc.net
 titanium.servicios.com.ec
+titanprod.narvar.com
 titomacia.net.anwalt.de
 tittendestages.net.anwalt.de
 tivixv.nutribullet.com
