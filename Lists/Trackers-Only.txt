@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 09 February 2026 13:02:59 UTC
+# Last Updated: 10 February 2026 02:08:01 UTC
 #
-# Domains: 72,518 | Added: 0 | Removed: 0
+# Domains: 72,531 | Added: 13 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -477,6 +477,7 @@
 666882163750646.wt-eu02.net
 6677648.reddoorz.com
 669154114435717.wt-eu02.net
+66hao.cc
 66infra-strat.com
 66jo.societegenerale.fr
 671130969507772.wt-eu02.net
@@ -6821,6 +6822,7 @@ analytics.distributednews.com
 analytics.dv.socure.io
 analytics.dvidshub.net
 analytics.edgekey.net
+analytics.editorialedomani.it
 analytics.egdata.app
 analytics.egernsund.com
 analytics.egernsund.de
@@ -12291,6 +12293,7 @@ chl.mail.pantene.com
 chl.mail.pg.com
 chl.mail.secret.com
 chl.mail.vicks.com
+chloro.trip.com
 chn.pg.com
 choicehotels.tt.omtrdc.net
 chong.sec.miui.com
@@ -15409,6 +15412,7 @@ data.inst.socios.realmadrid.com
 data.inswa.coca-cola.com
 data.investing.questrade.com
 data.janvanderstorm.de
+data.jaytuckwell.com
 data.jerkmate.com
 data.jp-email.princess.com
 data.jp-guest.princess.com
@@ -21401,6 +21405,7 @@ fra.pg.com
 fraalb.cebanatural.com
 frailfruit.com
 framebanana.com
+fran.pro
 france.alphabet.com
 francecentral-1.in.applicationinsights.azure.com
 franchise.goodearthcoffeehouse.com
@@ -22572,6 +22577,7 @@ go.aami.org
 go.aamlive.com
 go.abcmetalroofing.com
 go.ablinc.com
+go.absolventa.de
 go.abtasty.com
 go.acadiainsurance.com
 go.acadian-asset.com
@@ -22817,6 +22823,7 @@ go.azets.no
 go.azets.se
 go.azfoundation.org
 go.aztex.com
+go.azubi.de
 go.bachmannchemical.com
 go.backboneplm.com
 go.backtest.io
@@ -31303,6 +31310,7 @@ lagu123.stage-manuaisdoproprietario.net.daraz.com
 lahitapiola.tt.omtrdc.net
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
+lakesecure.com
 lakeshorelearningmat.tt.omtrdc.net
 laksjd4.com
 lambwestoninc.tt.omtrdc.net
@@ -38490,6 +38498,7 @@ metricssecure.luna.com
 metricssecure.nmfn.com
 metricssecure.northwesternmutual.com
 metricstur.www.svenskaspel.se
+metrik.freitag.de
 metrika.kontur.ru
 metrix.511tactical.com
 metrix.avon.uk.com
@@ -48247,6 +48256,7 @@ promotions.stationcasinos.com
 promotions.thermofisher.com
 promotionspr.actonservice.com
 pronovias.tt.omtrdc.net
+prop.astonvillanews.co.uk
 propay.actonservice.com
 properties.insiterealestate.com
 property.aon.com
@@ -48850,6 +48860,7 @@ radiocanada.hb-api.omtrdc.net
 radiocanada.hb.omtrdc.net
 radioitalia01.webtrekk.net
 radiometer.actonservice.com
+radiosfax.com
 radiovip.gbc.criteo.com
 radissonhotels.tt.omtrdc.net
 radleyandco.tt.omtrdc.net
@@ -62916,6 +62927,7 @@ t.texassports.com
 t.texastech.com
 t.thalesgroup.com
 t.thefishercenter.com
+t.themarketer.com
 t.ticketatlantic.com
 t.ticketleader.ca
 t.ticketstaronline.com
@@ -67868,6 +67880,7 @@ twcroadrunner.tt.omtrdc.net
 twctsg.hb-api.omtrdc.net
 twdhec.marioeletro.com
 tweetdeck.net.anwalt.de
+twelvedawn.com
 twentyfourhour.tt.omtrdc.net
 twilio.tt.omtrdc.net
 twistairclub.net.anwalt.de
