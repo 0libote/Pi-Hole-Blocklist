@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 11 February 2026 13:03:16 UTC
+# Last Updated: 12 February 2026 01:56:45 UTC
 #
-# Domains: 73,512 | Added: 981 | Removed: 0
+# Domains: 73,517 | Added: 5 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -14479,6 +14479,7 @@ cratecamera.com
 crawford-industries.actonservice.com
 crazies.crazyshirts.com
 crb-frm-71.com
+crcldu.com
 create-tracking.com
 create.encore-mx.com
 create.encoreglobal.com
@@ -50282,6 +50283,7 @@ res.public.fr
 res.rbl.ms
 resapi2.gbc.criteo.com
 rescorreoweb.gbc.criteo.com
+rescueothers.com
 rescuerhino.com
 resdes.gbc.criteo.com
 research-strategy.admin.gbc.criteo.com
@@ -52364,6 +52366,7 @@ sandboxbid.com
 sandboxeformsonboarding.globalbanking.wolterskluwer.com
 sandstrophies.com
 sandy.gbc.criteo.com
+sandypocket.com
 sanfordcorporation.112.2o7.net
 sanl.champssports.ca
 sanl.champssports.com
@@ -69991,6 +69994,7 @@ vanishmemory.com
 vaping.tt.omtrdc.net
 vapxga.sieh-an.de
 varys.asongofzandc.xyz
+vastmillions.com
 vatrack.hinet.net
 vault.gostatera.com
 vazulp.graniph.com
@@ -70904,6 +70908,7 @@ weare.ballymoregroup.com
 weare.ninetyone.com
 weareknitters.eulerian.net
 weather-analytics-events.apple.com
+weatherbytes.net
 weatherservice.www-11smtpr1csr41.net.daraz.com
 web-01-gbl.com
 web-beacon.starii-rover.com
