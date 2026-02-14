@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 13 February 2026 12:53:50 UTC
+# Last Updated: 14 February 2026 01:49:24 UTC
 #
-# Domains: 72,472 | Added: 0 | Removed: 0
+# Domains: 72,477 | Added: 6 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6389,6 +6389,7 @@ allianzfr.custmta.fr
 alliedfundingcorp.actonservice.com
 allinde01.wt-eu02.net
 allinsurance.allinsure.ca
+allnewhost.com
 allnipponairwayscolt.tt.omtrdc.net
 alloutdubstep.com
 alloy-web.zvuk.com
@@ -10284,6 +10285,7 @@ bksckn.minhacasasolar.com.br
 bkstg.flyx.me
 bl-server.alphonso.tv
 bl-test.curatedplanet.com
+blackbelted.com
 blackberrylimited.tt.omtrdc.net
 blackbirdventures.actonservice.com
 blackboard.da.us.gbc.criteo.com
@@ -11498,6 +11500,7 @@ calmradio.actonservice.com
 calmstudent.com
 calpis.112.2o7.net
 caltagironeeditore01.wt-eu02.net
+calvarycards.com
 calvera-telemetry.polaris.me
 calvin8.b2bmktg.com
 calvinklein.tt.omtrdc.net
@@ -11616,6 +11619,7 @@ canfaceoff.112.2o7.net
 canfinancialpost.112.2o7.net
 cannaclicks.postaffiliatepro.com
 cannationalpost.112.2o7.net
+cannonborough.com
 cannonchange.com
 canoe.112.2o7.net
 canonusa.tt.omtrdc.net
@@ -19961,6 +19965,7 @@ event-api.reverb.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 event-listener.air.tv
+event-log-api-data-platform-data-lake-prod.gryphline.com
 event-logger.tagboard.com
 event-router.olympics.com
 event-service.letslinc.com
@@ -26815,7 +26820,6 @@ i.play.vividpicks.com
 i.poker2u.app
 i.pokerbros.net
 i.pokernews.com
-i.posthog.com
 i.raise.me
 i.rttd.io
 i.sandbox.love
@@ -48794,6 +48798,7 @@ r.sax.sina.com.cn
 r.skimresources.com
 r.sportsie.com
 r.tt.omtrdc.net
+r.winf.site
 r.wz.de
 r1c.ricardocuisine.com
 r1ztni.oui.sncf
