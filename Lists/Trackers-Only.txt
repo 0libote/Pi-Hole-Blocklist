@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 14 February 2026 12:41:22 UTC
+# Last Updated: 15 February 2026 01:59:10 UTC
 #
-# Domains: 72,477 | Added: 0 | Removed: 0
+# Domains: 72,481 | Added: 5 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -17083,7 +17083,8 @@ dnn506yrbagrg.cloudfront.net
 dns.cab.gbc.criteo.com
 dns1.apac-apaccsr31.net.daraz.com
 dns1.freshegg.net.daraz.com
-dnsbl.test.watson.events.data.microsoft.com
+dnsbl.test.browser.pipe.aria.microsoft.com
+dnsbl.test.functional.events.data.microsoft.com
 dnsdelegation.io
 dnsmp.gbc.criteo.com
 dnt-userreport.com
@@ -20264,6 +20265,7 @@ exhibitsneeze.com
 eximius.epoise.com
 exitachieve.myre.io
 exmeqy.smartbuyglasses.de
+exo.nel.measure.office.net.sw.buhl-data.com
 exp-api.my-jewellery.com
 exp-api.saxo.com
 exp-api.velux.com
@@ -33769,6 +33771,7 @@ mail.xmarkets.db.com
 mail.yeslifecyclemarketing-email.com
 mail.zaplo.us
 mail.zyla.in
+mail01.business.samsungusa.com
 mail1.aabacosmallbusiness.com
 mail1.actsys-mail.com
 mail1.amexopen.americanexpress.com
@@ -63495,6 +63498,7 @@ teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
 teams-events-data.trafficmanager.net
 teams.events.data.microsoft.com
+teams.nel.measure.office.net.sw.buhl-data.com
 teams.yovu.ca
 teamviewergmbh.tt.omtrdc.net
 tearfulglass.com
