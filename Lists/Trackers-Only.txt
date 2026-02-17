@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 16 February 2026 12:57:28 UTC
+# Last Updated: 17 February 2026 01:52:59 UTC
 #
-# Domains: 72,481 | Added: 0 | Removed: 0
+# Domains: 72,490 | Added: 9 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -635,6 +635,7 @@ a.audifrance.fr
 a.auth-ns.b2bmktg.com
 a.b2bmktg.com
 a.bigtennetwork.com
+a.boredpanda.bio
 a.careangel.com
 a.centrum.cz
 a.deutschehospitality.com
@@ -14160,6 +14161,7 @@ counters.freewebs.com
 counters.libertaddigital.com
 coup7cold.com
 couponchief.122.2o7.net
+couponrail.com
 courageousbaby.com
 covenant.psjhealth.org
 coventrybuildingsoci.tt.omtrdc.net
@@ -15036,6 +15038,7 @@ dafirewall.us.gbc.criteo.com
 dafvng.sunrefre.jp
 daifez.thebay.com
 daily.pray.com
+dailydomino.com
 dailyheraldpaddockpublication.112.2o7.net
 daimail.us.gbc.criteo.com
 daimlerag.122.2o7.net
@@ -30095,6 +30098,7 @@ jial.lafrikileria.com
 jiciqm.antalyahomes.com
 jifflenow.actonservice.com
 jifjai.instamotion.com
+jigsawlucky.com
 jijcyb.competitivecyclist.com
 jijsonline.112.2o7.net
 jijsonline.122.2o7.net
@@ -36690,6 +36694,7 @@ measlymiddle.com
 measure.ameblo.jp
 measure.office.net.edgesuite.net
 measure.refinery89.com
+measureadv.com
 measurement-api.as.criteo.com
 measurement-api.criteo.com
 measurement-api.da.us.criteo.com
@@ -44081,6 +44086,7 @@ onem.marketing.onemarketinguxp.com
 onemarketingazap.tt.omtrdc.net
 onenet.gakujutsu.com
 onesourcebackground.actonservice.com
+onespecify.com
 onespot-tracking.herokuapp.com
 onetoone.112.2o7.net
 onetrustllc.tt.omtrdc.net
@@ -46189,6 +46195,7 @@ orbidder.otto.de
 orbis.actonservice.com
 orchestrate.welcomesoftware.com
 orchestrate.workjam.com
+orchidgenius.com
 ordbng.extra.com.br
 order.benchmarkinc.com
 orders.sainsburys.co.uk
@@ -53383,6 +53390,7 @@ skii-concierge.sk-ii.co.th
 skilledview.com
 skiller-education.eulerian.net
 skillfuldrop.com
+skillfullyfrugal.com
 skillsfuturesingapor.tt.omtrdc.net
 skillshouse.actonservice.com
 skillsresults.com
@@ -69198,6 +69206,7 @@ vgo.vegaoopro.com
 vgrbvi.atncorp.com
 vhans.siege-corp.com
 vhb-01.wt-eu02.net
+vhit.io
 vhmewg.edreams.fr
 vhmjci.edreams.co.uk
 vhpabx.herffjones.com
