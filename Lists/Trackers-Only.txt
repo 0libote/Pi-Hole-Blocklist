@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 18 February 2026 12:58:39 UTC
+# Last Updated: 19 February 2026 01:55:33 UTC
 #
-# Domains: 73,581 | Added: 1,091 | Removed: 0
+# Domains: 73,589 | Added: 9 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -16078,6 +16078,7 @@ ddbelib01.wt-eu02.net
 ddbreg01.wt-eu02.net
 ddguhg.wickes.co.uk
 ddioce.wolverine.com
+ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
 ddmfrg.modivo.bg
@@ -33139,6 +33140,7 @@ linkvetdev.insights.md
 lintv.122.2o7.net
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+lipstat.com
 liquid.agora.pl
 lisa-us.gbc.criteo.com
 lisa.res.gbc.criteo.com
@@ -33177,6 +33179,7 @@ livedealcom.112.2o7.net
 livelylaugh.com
 livenation.122.2o7.net
 livereliverod.gbc.criteo.com
+livesearch-metrics.magento-ds.com
 livestats.kaltura.com
 livestats.matrix.it
 liveviewer.ez.no
@@ -53605,7 +53608,6 @@ service.rhapsody.com
 service.techzine.eu
 service.trustpid.com
 service.tt.omtrdc.net
-service.utiq.com
 service.vrp.com
 serviceclient.lafourchette.com
 servicenowinc.tt.omtrdc.net
@@ -53640,6 +53642,7 @@ settleshoes.com
 setup.physiapp.com
 seven00dev0.range89-129xroads.b2bmktg.com
 seven00dev2.range89-149xroads.b2bmktg.com
+sevendeer.com
 sevenhalves.com
 sevenoneintermedia.112.2o7.net
 severn.viessmann.co.uk
@@ -61732,6 +61735,7 @@ stat.ringier.sk
 stat.rizeniskoly.cz
 stat.rum.cdnvideo.ru
 stat.russianfood.com
+stat.rz.htw-berlin.de
 stat.segitek.hu
 stat.smarteca.cz
 stat.smarteca.es
@@ -61838,6 +61842,7 @@ statistics.riskommunal.net
 statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
+statistics.werkenntdenbesten.de
 statistics.wibiya.com
 statisticsplatform.com
 statistiek.rijksoverheid.nl
@@ -64478,6 +64483,7 @@ teen.zubie.com
 teenytinycellar.com
 teenytinyshirt.com
 teenytinytongue.com
+teeshining.com
 teho.visma.fi
 tehomercacom.112.2o7.net
 teijgy.herveleger.com
@@ -67496,6 +67502,7 @@ tracking.bradyid.com
 tracking.brandmentions.com
 tracking.brevant.ca
 tracking.brgeneral.org
+tracking.buhl.de
 tracking.build.com
 tracking.burriswindows.com
 tracking.busenladies.de
@@ -69117,6 +69124,7 @@ umdpva.gakumado.mynavi.jp
 ume0.ekosport.co.uk
 umh0.teamekosport.com
 umhyck.belvilla.com
+umi.cloudful.de
 umiaob.kireibiz.jp
 umrvmb.net.anwalt.de
 umtzwr.adidas.co.kr
