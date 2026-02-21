@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 20 February 2026 12:53:19 UTC
+# Last Updated: 21 February 2026 01:46:53 UTC
 #
-# Domains: 73,589 | Added: 0 | Removed: 0
+# Domains: 73,590 | Added: 1 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -20465,6 +20465,7 @@ events3alt.adcolony.com
 eventservice.trafficmanager.net
 eventsink.api.redbee.live
 eventsmall.com
+eventsourcing.ms.harmo.me
 eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 evepdaggiesports.112.2o7.net
