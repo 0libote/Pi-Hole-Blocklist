@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 25 February 2026 12:58:49 UTC
+# Last Updated: 26 February 2026 01:51:01 UTC
 #
-# Domains: 73,598 | Added: 992 | Removed: 0
+# Domains: 73,599 | Added: 1 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6753,6 +6753,7 @@ analytics-fe.digital-cloud-prem.medallia.com
 analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
 analytics-hub.3plearning.com
+analytics-ipv6.tiktokw.us
 analytics-lgs.corebridgefinancial.com
 analytics-listener.trafficmanager.net
 analytics-myhermes.wt-eu02.net
