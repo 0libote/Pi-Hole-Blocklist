@@ -2,9 +2,9 @@
 # List - Lite
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 05 March 2026 01:50:42 UTC
+# Last Updated: 05 March 2026 12:53:39 UTC
 #
-# Domains: 255,571 | Added: 311 | Removed: 2
+# Domains: 255,572 | Added: 1 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -68132,6 +68132,7 @@ disinsotto.digital
 disintegrateredundancyfen.com
 disk-redial.com
 disk.accord1key.cn
+disk.grovecitykitchenremodeling.com
 diskclean.cn
 diskeryaffixer.com
 disko888.com
