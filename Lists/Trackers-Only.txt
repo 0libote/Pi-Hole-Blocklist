@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 04 March 2026 12:51:22 UTC
+# Last Updated: 05 March 2026 01:51:47 UTC
 #
-# Domains: 73,638 | Added: 961 | Removed: 1
+# Domains: 73,644 | Added: 7 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6484,6 +6484,7 @@ allstarfg.actonservice.com
 allstate.122.2o7.net
 allstate.tt.omtrdc.net
 allsunflowers.com
+allthelogs.com
 alltypo.com
 alluringbucket.com
 allvideometrika.com
@@ -9878,6 +9879,7 @@ baptist-health.hrm.healthgrades.com
 baptisthealth.hrm.healthgrades.com
 barbadoshello.com
 barbarousbase.com
+barbershirts.com
 barcalicensing.tt.omtrdc.net
 barcelogestionhotele.tt.omtrdc.net
 barclaycardus.tt.omtrdc.net
@@ -11883,6 +11885,7 @@ carryenjoy.com
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
 cars.smartleasing.com.au
+carsarace.com
 cart-res.gbc.criteo.com
 cart.da.us.gbc.criteo.com
 cart.gbc.criteo.com
@@ -26641,6 +26644,7 @@ heise02.webtrekk.net
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
+helix.bitformations.ca
 helllo.wingsforlife.com
 hello-as.gbc.criteo.com
 hello.acbpost.be
@@ -30739,7 +30743,6 @@ join.thekrishi.com
 join.thetatilist.com
 join.thewritingrevolution.org
 join.thisisbeyond.com
-join.tlon.io
 join.travelxp.com
 join.vibely.io
 join.vtail.co
@@ -33519,6 +33522,7 @@ logs.chatboost-cv.algoage.co.jp
 logs.dev.sr.roku.com
 logs.dynamicauth.com
 logs.hotstar.com
+logs.kaya.delfi.ee
 logs.locarta.co
 logs.mezmo.com
 logs.n.xiaomi.com
@@ -48915,6 +48919,7 @@ prod.fennec.atp.fox
 prod.gbc.criteo.com
 prod.nitrosniffer.ottogroup.io
 prod.sound.ag
+prod.tahoe-analytics.publishers.advertising.a2z.com
 prod.tracking.refinitiv.com
 prod.tt.omtrdc.net
 prod.us.gbc.criteo.com
@@ -70541,6 +70546,7 @@ vllychnv92.alphonso.tv
 vlogs.deja.media
 vm-fed.gbc.criteo.com
 vm.dfe.gbc.criteo.com
+vm.target-video.com
 vmedianet.gbc.criteo.com
 vmgihu.gelatopique.com
 vmjdpk.repairclinic.com
