@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 06 March 2026 12:49:11 UTC
+# Last Updated: 07 March 2026 01:45:09 UTC
 #
-# Domains: 73,644 | Added: 0 | Removed: 0
+# Domains: 73,646 | Added: 2 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10163,6 +10163,7 @@ benjamin-w.logs.roku.com
 benjamin.logs.roku.com
 benn8bord.com
 bennetts.tt.omtrdc.net
+bentengine.com
 bentleymotors.com.102.122.2o7.net
 bentleysystems.122.2o7.net
 bento.agoda.com
@@ -10655,6 +10656,7 @@ boo021managementtrap.0-058.net.daraz.com
 book-acbhk0.gbc.criteo.com
 book.bcava.gbc.criteo.com
 book.londonsoundacademy.com
+bookbeef.com
 bookda.us.gbc.criteo.com
 booking.getwaitnot.com
 booking.net.daraz.com
