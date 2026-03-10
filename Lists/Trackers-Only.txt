@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 09 March 2026 12:56:56 UTC
+# Last Updated: 10 March 2026 01:47:04 UTC
 #
-# Domains: 72,484 | Added: 0 | Removed: 0
+# Domains: 72,486 | Added: 2 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10872,6 +10872,7 @@ brettrobinsonconstru.tt.omtrdc.net
 breville.tt.omtrdc.net
 brevnet.eccocar.com
 brewster.logs.roku.com
+brewthing.com
 brfeneval.eccocar.com
 brfree2move.eccocar.com
 brgoazen.eccocar.com
@@ -48212,6 +48213,7 @@ prospex.actonservice.com
 protapes.actonservice.com
 protect.dev.sec.intl.miui.com
 protect.dev.sec.miui.com
+protectpool.com
 protestcopy.com
 protosell.actonservice.com
 protys.protys.fr
