@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 11 March 2026 12:54:41 UTC
+# Last Updated: 12 March 2026 01:49:58 UTC
 #
-# Domains: 73,372 | Added: 886 | Removed: 0
+# Domains: 73,379 | Added: 7 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6832,6 +6832,7 @@ analytics.boxlunch.com
 analytics.brave.com
 analytics.brickaward.com
 analytics.bruker.com
+analytics.byecorps.com
 analytics.canaltnt.es
 analytics.capitalgroup.com
 analytics.carambatv.ru
@@ -10262,6 +10263,7 @@ bhmzab.totes.com
 bhwjoa.cotopaxi.com
 bhwkju.vivo.com
 bhxemw.charleskeith.com
+bi-events-collector.spot.im
 bi-metrics.aramuz.net
 bi.avalere.com
 bi.banggood.com
@@ -11656,6 +11658,7 @@ cam.bcava.gbc.criteo.com
 camagess.carte-gr.total.fr
 cambridgeinvestmentr.tt.omtrdc.net
 camel.headfarming.com
+camelsfestival.com
 camisado.actonservice.com
 campagne.enecozakelijk.nl
 campaign-direct.eisai.jp
@@ -11874,6 +11877,7 @@ cart8draw.com
 carte.fleet-page.total.fr
 cartelsalsa.com
 cartkitten.com
+cartlug.com
 cartoon.hardalist.com
 cartoonnetwork.122.2o7.net
 cartoonnetworknewmedia.hb-api.omtrdc.net
@@ -47013,8 +47017,11 @@ p.jmlp.app
 p.lbresearch.com
 p.logbox.io
 p.marqueplace.com
+p.mdb.tools
 p.meilentrio.de
 p.metrilo.com
+p.midbound.click
+p.midbound.net
 p.minds.com
 p.miroconsulting.com
 p.pagesjaunes.fr
