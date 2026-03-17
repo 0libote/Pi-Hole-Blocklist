@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 16 March 2026 13:05:19 UTC
+# Last Updated: 17 March 2026 01:53:19 UTC
 #
-# Domains: 61,350 | Added: 0 | Removed: 0
+# Domains: 61,354 | Added: 6 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -14123,6 +14123,7 @@ d1gp8joe0evc8s.cloudfront.net
 d1hyarjnwqrenh.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
+d1l6p2sc9645hc.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
@@ -19685,6 +19686,7 @@ fnoqgg.roninwear.com
 fnvma.milanuncios.com
 fnwi.gbc.criteo.com
 foambench.com
+focusfitwear.com
 fodgfip.fr
 fog.pixual.co
 fokbrd.impo.ch
@@ -27595,8 +27597,6 @@ interland.122.2o7.net
 interlochen.actonsoftware.com
 intermediary.leedsbuildingsociety.co.uk
 internal-analytics.odoo.com
-internal-e.posthog.com
-internal-t.posthog.com
 internal.hcltech.com
 internal.sound.ag
 internal.tt.omtrdc.net
@@ -36588,6 +36588,7 @@ nerldv.ullapopken.pl
 nervoussummer.com
 nesn.hb.omtrdc.net
 neso.r.niwepa.com
+nestbuyers.com
 net-1.net.daraz.com
 net-oa.net.daraz.com
 net.24-ads.com
@@ -38805,6 +38806,7 @@ people.mbtionline.com
 peoplehr.actonservice.com
 peoplesunitedbank.tt.omtrdc.net
 pepboys.tt.omtrdc.net
+pepin.padlet.com
 pepleb.ekosport.de
 peqvwk.notino.at
 perceivequarter.com
@@ -40362,6 +40364,7 @@ r.powuta.com
 r.presspadnews.com
 r.rover.com
 r.sax.sina.com.cn
+r.sdiapi.net
 r.skimresources.com
 r.sportsie.com
 r.tt.omtrdc.net
@@ -52091,6 +52094,7 @@ tag.digops.sincro.io
 tag.eisa.mercari.com
 tag.elevaate.io
 tag.flagship.io
+tag.gendiscover.com
 tag.getamigo.io
 tag.goldenbees.fr
 tag.imagino.com
