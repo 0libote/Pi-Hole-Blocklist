@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 20 March 2026 12:54:34 UTC
+# Last Updated: 21 March 2026 01:46:54 UTC
 #
-# Domains: 73,313 | Added: 0 | Removed: 0
+# Domains: 73,317 | Added: 4 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -19202,6 +19202,7 @@ emptyescort.com
 emq.xmpush.xiaomi.com
 emrdnt.sumaity.com
 emrj82plvision.authenticate.net.daraz.com
+emrld.cc
 emrrhd12.gbc.criteo.com
 ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
@@ -21197,6 +21198,7 @@ fjdzgn.paulfredrick.com
 fjgcai.zlavomat.sk
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
+fjordsand.com
 fjortk.braun-hamburg.com
 fjp4.animalcity.es
 fjuccm.uktsc.com
@@ -60355,6 +60357,7 @@ squirrel.cividi.ch
 squirrel.malaynahocker.com
 squirrelmail.fed.gbc.criteo.com
 squishybears.com
+squishykiosk.com
 sr-ad-lgsmartad-com.aws-prd.net
 sr.ad.lgsmartad.com
 sr.lgsmartad.com
@@ -62481,6 +62484,7 @@ steinbackhaus.viessmann.com
 steinernehaus.viessmann.at
 steinsala.viessmann.lu
 stel.telegraaf.nl
+stellarduel.com
 stentel.actonservice.com
 stepcattle.com
 stepstone.112.2o7.net

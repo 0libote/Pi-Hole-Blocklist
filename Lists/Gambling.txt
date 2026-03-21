@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 20 March 2026 12:53:21 UTC
+# Last Updated: 21 March 2026 01:45:41 UTC
 #
-# Domains: 202,833 | Added: 285 | Removed: 2,295
+# Domains: 202,831 | Added: 0 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -131365,7 +131365,6 @@ lietuvosonlinekazino.com
 life-kentcasino.com
 lifeandbraincasino.de
 lifecasino.club
-lifelessonsforlittleones.com
 lifemirror.net
 lifepokerstore.com
 lifestylefitnessbd.com
@@ -145508,7 +145507,6 @@ no-deposit-bonus-casinos.org
 no-deposit-casino-bonus.se
 no-deposit-casino-nz.online
 no-deposit-casinos-nz.online
-no-kyc-casinos.hu.net
 no-limitslots.co.uk
 no-minimum.com
 no-wageringcasino.com
