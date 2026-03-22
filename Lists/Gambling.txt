@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 21 March 2026 12:40:51 UTC
+# Last Updated: 22 March 2026 01:56:53 UTC
 #
-# Domains: 199,481 | Added: 233 | Removed: 3,583
+# Domains: 199,479 | Added: 1 | Removed: 3
 #
 # List is updated daily adding and removing new and old domains
 
@@ -73399,6 +73399,7 @@ carton777.com
 cartoonfile.net
 carvalhopg.com
 carvecasino.co.uk
+cas-uk.com
 cas.casino
 cas01.lpcomet.com
 cas0mbie-7391.com
@@ -103593,7 +103594,6 @@ gamerkaya.com
 gameroc.com
 gamersbets.com
 gamerscasino.info
-games-1xbet-casino.ru
 games-casino-vavada-1.cfd
 games-casino95.win
 games-casinoz.site
@@ -114999,7 +114999,6 @@ infiniwin.info
 infiniwin1.com
 infitotojaya.xyz
 info-1win-poker.ru
-info-1xbet-casino.ru
 info-casino-bn.com
 info-casino.online
 info-ls168.com
@@ -181195,7 +181194,6 @@ twinstatescleanenergylink.com
 twinwinslots.ca
 twistcasino.com
 twistcasino.net
-twistedbulb.com
 twistedpoker.com
 twisterwins777.co
 twistst.xyz
