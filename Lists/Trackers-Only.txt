@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 23 March 2026 13:01:10 UTC
+# Last Updated: 24 March 2026 01:51:19 UTC
 #
-# Domains: 72,340 | Added: 0 | Removed: 0
+# Domains: 72,353 | Added: 13 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -9712,6 +9712,7 @@ bankrate.112.2o7.net
 banks.adpinfo.com
 bankwest.112.2o7.net
 bankwithunited.tt.omtrdc.net
+banner.appsflyersdk.com
 banstat.nadavi.net
 bapages.carte-gr.total.fr
 baptist-health.hrm.healthgrades.com
@@ -20823,6 +20824,7 @@ fisgmbh01.webtrekk.net
 fishersfinds.com
 fishing.daigostudio.com
 fishingbooker.postaffiliatepro.com
+fishingtoolsbox.com
 fitbitinc.tt.omtrdc.net
 fitmessage.com
 fitnessfirst01.wt-eu02.net
@@ -21676,6 +21678,7 @@ fuzrxc.aboutyou.nl
 fuzzyaudio.com
 fuzzybasketball.com
 fuzzyerror.com
+fvalid.appsflyersdk.com
 fvc.alcatel-lucent.com
 fvuitt.alibabuy.com
 fvvyjd.jtv.com
@@ -29346,6 +29349,7 @@ ins01.eulerian.net
 ins02.eulerian.net
 ins03.eulerian.net
 insectmacros.com
+insidepsych.net
 insiderpagescom.122.2o7.net
 insideruser.trafficmanager.net
 insight.aon.com
@@ -42071,6 +42075,7 @@ nissanheliosjao.tt.omtrdc.net
 nissanheliosna.tt.omtrdc.net
 nissanheliossa.tt.omtrdc.net
 nitrous-analytics.s3.amazonaws.com
+nixie.starlightnet.work
 njmvc.112.2o7.net
 njnlih.realitatea.net
 njorya.aosom.de
@@ -43940,6 +43945,7 @@ onecollector.cloudapp.aria.akadns.net
 onecrow.net
 onedropocean.com
 onelink.taptalk.io
+onelinksmartscript.appsflyersdk.com
 onem.marketing.onemarketinguxp.com
 onemarketingazap.tt.omtrdc.net
 onenet.gakujutsu.com
@@ -45935,6 +45941,7 @@ oossod.potterybarn.ae
 ootsweb.b2bmktg.com
 op-mobile.opera.com
 op-res.gbc.criteo.com
+op.dragonfru.it
 op.lafourchette.com
 opalquill.com
 opbdps.bonprix.fi
@@ -53061,6 +53068,7 @@ sicas.ikea.com
 sicas.ikea.net
 sid.nordstrom.com
 siderain.com
+sidetrades.com
 sierrakermit.com
 siewmi.uncommongoods.com
 sig.ig.com
@@ -62604,6 +62612,7 @@ t.locasun.it
 t.locasun.nl
 t.longbeachstate.com
 t.lsusports.net
+t.ltiquery.com
 t.lucentis.com
 t.lucentisdirect.com
 t.massmutualcenter.com
@@ -62865,6 +62874,7 @@ tagm.tchibo.pl
 tagm.tchibo.sk
 tagmwu.thalia.at
 tagourounakia.openapp.link
+tags-event.woolworths.co.nz
 tags.air1.com
 tags.aljazeera.com
 tags.aljazeera.net
@@ -65948,6 +65958,7 @@ traces-us-east-1.dev.sr.roku.com
 traces-us-west-2.dev.sr.roku.com
 traces.dev.sr.roku.com
 traces.sr.roku.com
+traces.youdo.com
 tracfonewireless.tt.omtrdc.net
 track-acbhk0.gbc.criteo.com
 track-acton.healthengine.com.au
@@ -69616,6 +69627,7 @@ w88.qam.disney.go.com
 w9g7dlhw3kaank.www.eldorado.gg
 wa-wdr.wt-eu02.net
 wa.and.co.uk
+wa.appsflyersdk.com
 wa.baltimoreravens.com
 wa.bol.com
 wa.castorama.fr
@@ -70086,6 +70098,7 @@ webroot.112.2o7.net
 webs.hammacher.com
 websdk.admiral.com
 websdk.appsflyer.com
+websdk.appsflyersdk.com
 websdkmetrics.blackrock.com
 webservices.websitepros.com
 website-security.geotrust.com
