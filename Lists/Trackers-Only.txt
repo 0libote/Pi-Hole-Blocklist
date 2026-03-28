@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 27 March 2026 13:00:14 UTC
+# Last Updated: 28 March 2026 01:55:11 UTC
 #
-# Domains: 73,655 | Added: 0 | Removed: 0
+# Domains: 73,660 | Added: 5 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -49169,6 +49169,7 @@ pubimgs.com
 public-analytics.telekom.sk
 public-cis.exponea.com
 public.9gtb.com
+public.profitwell.com
 public.tt.omtrdc.net
 publications.nomination.fr
 publicidad.davivienda.com.pa
@@ -63667,6 +63668,7 @@ t.dnsdelegation.io
 t.e.x.com
 t.ecomms.origin.com.au
 t.ecupirates.com
+t.elitedomains.de
 t.emueagles.com
 t.emusic.com
 t.enuygun.com
@@ -67389,6 +67391,7 @@ tracker-v4.gamedock.io
 tracker.3dissue.com
 tracker.520call.me
 tracker.adbinead.com
+tracker.adcluster.com.tr
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
@@ -68746,6 +68749,7 @@ truefaced.actonservice.com
 truejasmine.com
 truemfg.actonservice.com
 truenergy.com.au.102.122.2o7.net
+trueselfkeys.com
 truffle.bid
 trust.flexpay.io
 trust.mitutoyo.com
@@ -70242,6 +70246,7 @@ vermontteddybear.112.2o7.net
 versacespa.tt.omtrdc.net
 verseballs.com
 versionone.com.102.122.2o7.net
+versuswall.com
 vertexcs.actonservice.com
 vetsource.actonservice.com
 vetxanh.edu.vn
