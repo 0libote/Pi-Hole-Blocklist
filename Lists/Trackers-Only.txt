@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 30 March 2026 13:13:24 UTC
+# Last Updated: 31 March 2026 02:05:11 UTC
 #
-# Domains: 72,606 | Added: 0 | Removed: 0
+# Domains: 72,612 | Added: 6 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7678,6 +7678,7 @@ apiwmda.58.com.cn
 apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
+aplus.alibaba.com
 apm-rum-ind.inf.miui.com
 apm.tnet.nl
 apm6.chausport.com
@@ -15679,6 +15680,7 @@ dataholics.tech
 datalayer.orange.fr
 datanoticias.prisasd.com
 dataofpages.com
+datapickles.com
 datas.connectingthreads.com
 datas.knitpicks.com
 datas3ntinel.com
@@ -27768,6 +27770,7 @@ importedinsect.com
 impossibleexpansion.com
 impress.vcita.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
+impression.appsflyer.com
 impressions.svc.abillion.com
 improve.tempest.com
 improving.wuzhuiso.com
@@ -44091,6 +44094,7 @@ onecollector.cloudapp.aria.akadns.net
 onecrow.net
 onedropocean.com
 onelink.taptalk.io
+onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
 onem.marketing.onemarketinguxp.com
 onemarketingazap.tt.omtrdc.net
@@ -51993,6 +51997,7 @@ sdcs.felissimo.co.jp
 sdjthl.tvguide.dk
 sdk-analytics-web.cloud.itau.com.br
 sdk-cache.video.ptqy.gitv.tv
+sdk.appsflyer.com
 sdk.hockeyapp.net
 sdk.ptqy.gitv.tv
 sdkconfig.ad.eu.xiaomi.com
@@ -70057,6 +70062,7 @@ weare.ninetyone.com
 weareknitters.eulerian.net
 weather-analytics-events.apple.com
 weatherbytes.net
+weatherpush.net
 weatherservice.www-11smtpr1csr41.net.daraz.com
 web-01-gbl.com
 web-beacon.starii-rover.com
