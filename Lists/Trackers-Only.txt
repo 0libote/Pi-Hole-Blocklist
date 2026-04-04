@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 03 April 2026 12:58:23 UTC
+# Last Updated: 04 April 2026 01:55:29 UTC
 #
-# Domains: 72,783 | Added: 0 | Removed: 0
+# Domains: 72,784 | Added: 1 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -70787,6 +70787,7 @@ wispycity.com
 wissen.sage.de
 wissende.122.2o7.net
 wistfulwaste.com
+withsounds.com
 withyou.shorr.com
 wittypopcorn.com
 wivo2gaza.com
