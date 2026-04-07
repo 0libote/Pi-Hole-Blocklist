@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 06 April 2026 02:09:54 UTC
+# Last Updated: 07 April 2026 13:13:42 UTC
 #
-# Domains: 56,521 | Added: 0 | Removed: 0
+# Domains: 56,528 | Added: 8 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10153,6 +10153,7 @@ cdn.e.nastygal.com
 cdn.e.next.co.uk
 cdn.e.victoriassecret.co.uk
 cdn.e.wallis.co.uk
+cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.exp.xiaomi.com
 cdn.hbbtv.smartclip.net
 cdn.mennace.com
@@ -10328,6 +10329,7 @@ cf.lgsmartad.com
 cf.overblog.com
 cfa.fidelity.com
 cfaexam.quantresear.ch
+cfapi.upstackdata.io
 cfb.8it.me
 cfpwood.actonservice.com
 cfr.112.2o7.net
@@ -11886,6 +11888,7 @@ count.vidsrc.pro
 count.xxxssk.com
 count.yandeg.ru
 count5.pconline.com.cn
+counter-growthbook.minute-ly.com
 counter.1i.kz
 counter.asobeans.jp
 counter.blogoscoop.net
@@ -12503,6 +12506,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2lyx5ly60ksu3.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
+d2o9p5vky89u4e.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
@@ -15856,6 +15860,7 @@ err.ifengcloud.ifeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
+error-tracker.pages.dev
 error.videonow.ru
 errorreports.couponcabin.com
 errors.darkreader.app
@@ -23144,7 +23149,6 @@ iotapool.com
 iotmail.t-mobile.com
 ioxqdp.leatherology.com
 ip-a-box.com
-ip-check-perf.radar.cloudflare.com
 ip-info.ff.avast.sec.miui.com
 ip-route.net
 ip.chipestimate.com
@@ -29267,6 +29271,7 @@ metrics.divosta.com
 metrics.diy.com
 metrics.diynetwork.com
 metrics.dockers.com
+metrics.documentfoundation.org
 metrics.dog.com
 metrics.dollar.com
 metrics.dollargeneral.com
@@ -38807,6 +38812,7 @@ roaddynamics.com
 roadwalks.com
 roamhousing.com
 roar9beer.com
+roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
 rochelle.wantsext.me
@@ -49033,6 +49039,7 @@ telemetry.navispherecarrier.com
 telemetry.novomedlink.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
+telemetry.portal.voltdeutschland.org
 telemetry.proton.me
 telemetry.reembed.com
 telemetry.remoteapp.windowsazure.com
