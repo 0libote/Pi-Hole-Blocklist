@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 10 April 2026 13:04:18 UTC
+# Last Updated: 11 April 2026 02:00:13 UTC
 #
-# Domains: 72,736 | Added: 0 | Removed: 0
+# Domains: 72,737 | Added: 2 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5127,6 +5127,7 @@ account.net.daraz.com
 account.nl3.eu.criteo.com
 account.tt.omtrdc.net
 accountancy.bppeloqua.com
+accountgram.com
 accounting.frbservices.org
 accounting.kes.gbc.criteo.com
 accounting.res.gbc.criteo.com
@@ -6554,6 +6555,7 @@ amexopenprod.122.2o7.net
 amezqu.fabrykaform.pl
 amfaminsurance.tt.omtrdc.net
 amgpprod.112.2o7.net
+amidsttruly.com
 amigraphics.actonservice.com
 amik.postaffiliatepro.com
 amimon.actonservice.com
@@ -10385,7 +10387,6 @@ bluevinebooks.com
 blume02.wt-eu02.net
 blume2000.wt-eu02.net
 blushingbeast.com
-blushingbread.com
 bluvue.actonservice.com
 blytheco.actonservice.com
 blzayw.ticketsmarter.com
