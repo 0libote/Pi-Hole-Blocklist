@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 13 April 2026 13:21:15 UTC
+# Last Updated: 14 April 2026 02:12:28 UTC
 #
-# Domains: 72,535 | Added: 0 | Removed: 0
+# Domains: 72,534 | Added: 1 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5073,7 +5073,6 @@ acbhk0webconf.gbc.criteo.com
 acbhk0whm.gbc.criteo.com
 acbhk0win30.gbc.criteo.com
 acbhk0wsus.gbc.criteo.com
-acbp0020171456.page.tl
 acc-interactionext.net.daraz.com
 acc-link-ccontact.focuscura.com
 acc.info.lumxpert.signify.com
@@ -12506,7 +12505,6 @@ ckxsfx1.alphonso.tv
 ckygge.mohd.it
 ckyhec.maxisport.com
 cl-ad-lgsmartad-com.aws-prd.net
-cl-pbr.cxr.skeepers.io
 cl.ad.lgsmartad.com
 cl.canva.com
 cl.gbc.criteo.com
@@ -46934,6 +46932,7 @@ peak2poem.com
 pear.ca-eko-globetrotter.fr
 peards.zevvle.com
 pearlcompanies.actonsoftware.com
+pearpouch.com
 pedropanther.com
 peekundcloppenburg.tt.omtrdc.net
 peep1alea.com
