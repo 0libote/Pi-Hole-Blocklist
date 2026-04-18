@@ -5,7 +5,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/0libote/Pi-Hole-Blocklist?label=Stars&logo=github&color=ff69b4&style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/0libote/Pi-Hole-Blocklist?style=flat-square)](https://github.com/0libote/Pi-Hole-Blocklist/commits/main)
 [![License](https://img.shields.io/github/license/0libote/Pi-Hole-Blocklist?style=flat-square)](https://github.com/0libote/Pi-Hole-Blocklist/blob/main/LICENSE)
-![Domains](https://img.shields.io/badge/Domains-2,030,276-ff3366?style=flat-square)
+![Domains](https://img.shields.io/badge/Domains-2,112,504-ff3366?style=flat-square)
 
 **A curated collection of domain blocklists to enhance your privacy and security.**
 
@@ -23,12 +23,12 @@ Whether you are using Pi-Hole, AdGuard Home, or another DNS-level blocker, these
 
 | List Name | Domains | Description | Link |
 | :--- | :---: | :--- | :---: |
-| **All in One** | `2,030,276` | **Comprehensive.** Blocks ads, trackers, malware, and more. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/All-in-One.txt) |
-| **Lite** | `367,496` | **Lightweight.** Blocks the most common unwanted domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Lite.txt) |
-| **Malware & Phishing** | `3,055,626` | **Security.** Focused on known malware and phishing sites. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Malware-Phishing.txt) |
-| **NSFW** | `582,645` | **Parental Control.** Attempts to block adult content. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/NSFW.txt) |
-| **Trackers Only** | `73,738` | **Privacy.** Target telemetry and analytics domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Trackers-Only.txt) |
-| **Gambling** | `211,008` | **Specialized.** Blocks known gambling sites. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Gambling.txt) |
+| **All in One** | `2,112,504` | **Comprehensive.** Blocks ads, trackers, malware, and more. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/All-in-One.txt) |
+| **Lite** | `453,787` | **Lightweight.** Blocks the most common unwanted domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Lite.txt) |
+| **Malware & Phishing** | `3,062,334` | **Security.** Focused on known malware and phishing sites. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Malware-Phishing.txt) |
+| **NSFW** | `583,350` | **Parental Control.** Attempts to block adult content. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/NSFW.txt) |
+| **Trackers Only** | `73,739` | **Privacy.** Target telemetry and analytics domains. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Trackers-Only.txt) |
+| **Gambling** | `210,846` | **Specialized.** Blocks known gambling sites. | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/Lists/Gambling.txt) |
 | **Whitelist** | `643,471` | **Essential.** Common false positives (already applied to lists). | [Link](https://github.com/0libote/Pi-Hole-Blocklist/raw/main/whitelist.txt) |
 
 ## � How to Setup

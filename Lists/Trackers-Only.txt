@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 17 April 2026 13:13:02 UTC
+# Last Updated: 18 April 2026 02:04:28 UTC
 #
-# Domains: 73,738 | Added: 0 | Removed: 0
+# Domains: 73,739 | Added: 3 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10543,6 +10543,7 @@ bluevinebooks.com
 blume02.wt-eu02.net
 blume2000.wt-eu02.net
 blushingbeast.com
+blushingbread.com
 bluvue.actonservice.com
 blytheco.actonservice.com
 blzayw.ticketsmarter.com
@@ -26587,6 +26588,7 @@ hearstdigital.122.2o7.net
 hearstmagazineitalia01.webtrekk.net
 hearstmagazines.112.2o7.net
 hearstugo.112.2o7.net
+heartbeat-pearl.vercel.app
 heartbeat.pmd.444.hu
 heartbeats.omtrdc.net
 heartbreakingmind.com
@@ -31172,7 +31174,6 @@ kikoe.aisei.co.jp
 kilo6alga.com
 kimberlyspa.actonservice.com
 kindasingle.com
-kindhush.com
 kindlereunion.com
 kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
@@ -44345,7 +44346,6 @@ oca.telemetry.microsoft.us
 occidente.ubmmexico.com
 oceanair.actonservice.com
 oceanautomotive.actonservice.com
-oceancloudhosts.com
 oceania.kes.gbc.criteo.com
 oceania.mp.gbc.criteo.com
 ocelot.sonicumonitoring.com
@@ -51162,6 +51162,7 @@ rum-ingress-coralogix.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.battle.net
 rum.cdnpure.com
 rum.condenastdigital.com
 rum.corewebvitals.io
