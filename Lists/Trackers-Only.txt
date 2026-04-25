@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 24 April 2026 13:17:54 UTC
+# Last Updated: 25 April 2026 02:06:41 UTC
 #
-# Domains: 73,781 | Added: 0 | Removed: 0
+# Domains: 73,785 | Added: 5 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -12508,6 +12508,7 @@ childlikecrowd.com
 childlikeexample.com
 childlikeform.com
 chiliitalia01.wt-eu02.net
+chillingtofu.com
 chimera.res.gbc.criteo.com
 chimera.www.ag.gbc.criteo.com
 china-gld.push.samsungosp.com.cn
@@ -13051,7 +13052,6 @@ cloudflareinc.tt.omtrdc.net
 cloudfront-labs.amazonaws.com
 cloudfrontcar31.net.daraz.com
 cloudfrontdfe.gbc.criteo.com
-cloudguppy.com
 cloudhosting-business.vodafone.com
 cloudhosting.actonservice.com
 cloudhustles.com
@@ -20814,6 +20814,7 @@ fairygaze.com
 fairytaleflame.com
 faithrowold.com
 fakedisguise.com
+fakeschool.com
 fakexa-post.mno.link
 fal2.carrefour-banque.fr
 fallaciousfifth.com
@@ -21073,6 +21074,7 @@ feeds-www.ag.gbc.criteo.com
 feeds.tip.ads.microsoft.com
 feedsus.gbc.criteo.com
 feedten.com
+feelwarmth.com
 feignedfaucet.com
 felixschllergroup01.wt-eu02.net
 femalecook.com
@@ -22760,6 +22762,7 @@ giddycoat.com
 gif1.gifi.fr
 gifastcompanycom.112.2o7.net
 gift2pair.com
+giftclothings.com
 giftplanning.westmont.edu
 giftscom.122.2o7.net
 giga.logs.roku.com
@@ -67228,6 +67231,7 @@ trace.bluemonkey.jp
 trace.insead.edu
 trace.qq.com
 trace.swaven.com
+tracecontent.com
 tracer.autoscout24.ch
 traces-us-east-1.dev.sr.roku.com
 traces-us-west-2.dev.sr.roku.com
