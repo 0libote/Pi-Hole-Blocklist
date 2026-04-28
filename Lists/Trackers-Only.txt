@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 27 April 2026 13:46:41 UTC
+# Last Updated: 28 April 2026 02:38:42 UTC
 #
-# Domains: 72,441 | Added: 0 | Removed: 0
+# Domains: 72,454 | Added: 13 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6227,6 +6227,7 @@ aikhra.londonclub.sk
 aikrir.lcwaikiki.com
 ailab.gbc.criteo.com
 ailla.abphotos.link
+aim-tag.hcn.health
 aim.etr.im
 aim.eulerian.biz
 aim.eulerian.com
@@ -6618,6 +6619,7 @@ anal.doubledouble.top
 anal.sataniskwijt.be
 analitica.webrpp.com
 analitik.bik.gov.tr
+analitika.derp.si
 analys.live
 analyse.bcovery.com
 analysis.aws.locondo.jp
@@ -7311,6 +7313,7 @@ analyticsresults.dev.datev.de
 analyticsresults.trialog-magazin.de
 analyticssec.overwolf.com
 analyticsssl.forcepoint.com
+analyze-82dfgsi2.m-w.com
 analyzecorona.com
 analyzer.fc2.com
 analyzer2.fc2.com
@@ -10168,6 +10171,7 @@ bigdata.ssp.samsung.com
 bigfishapparel.com
 bigfishgamesinc.tt.omtrdc.net
 bigfishgamesprodesntls.112.2o7.net
+biggerbling.com
 biglots.112.2o7.net
 biglots.tt.omtrdc.net
 bigpond.122.2o7.net
@@ -31433,6 +31437,7 @@ leadmanagement.velocify.com
 leads.commercial.keurig.com
 leads.goldenshovel.com
 leads.whatboxdigital.com
+leadsandmore.go2cloud.org
 leadsy.ai
 leadtracking.plumvoice.com
 leafpilot.com
@@ -36665,6 +36670,7 @@ medbridge.postaffiliatepro.com
 meddleplant.com
 medhelpinternational.112.2o7.net
 medhyg.actonservice.com
+media-analytic.com
 media-atl3-1.cdn.whatsapp.net.iberostar.com
 media-cdg4-1.cdn.whatsapp.net.iberostar.com
 media-consumer365.desigual.com
@@ -40973,6 +40979,7 @@ mtoxtg.tezenis.com
 mtr.fluor.com
 mtrace.qq.com
 mtracking.mhequipment.com
+mtrics.cdc.gov
 mtrs.cooecfluor.com
 mtrs.fluor.com
 mtrs.fluorconstructors.com
@@ -42208,6 +42215,7 @@ noa0.compteczam.fr
 noam.events.data.microsoft.com
 noam.events.data.trafficmanager.net
 noblecables.com
+noblefellow.com
 nocaadobefpc.optus.com.au
 nocmail.gbc.criteo.com
 node.csr23.net.daraz.com.00d1n0000017glquam.net.daraz.com
@@ -47928,6 +47936,7 @@ prism.tramclockmunich.com
 prismtest.epoise.com
 pristinegale.com
 priv.tt.omtrdc.net
+privacy-analytics-proxy.cookiebot.com
 privacy-api.9gag.com
 privacy-as.gbc.criteo.com
 privacy-info.as.criteo.com
@@ -47956,6 +47965,7 @@ privacy.miui.com
 privacy.nl3.eu.criteo.com
 privacy.nl3.vip.prod.criteo.com
 privacy.outdoorsg.com
+privacy.reverso.net
 privacy.sg1.as.criteo.com
 privacy.sg1.vip.prod.criteo.com
 privacy.stroeerdigitalgroup.de
@@ -62945,6 +62955,7 @@ tag.unifyintent.com
 tag.weezmo.com
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
+tagdelivery.mayoclinic.org
 tagger.ope.scmp.com
 tagging.shiftdigitalapps.io
 tagging.sliponline.nl
@@ -69723,6 +69734,7 @@ wa.postnl.nl
 wa.proflowers.com
 wa.quarks.de
 wa.sherwin-williams.com
+wa.slideshare.net
 wa.spring-gds.com
 wa.st.com
 wa.stubhub.com
@@ -70588,6 +70600,7 @@ wrhv.education.gouv.fr
 wrigley.122.2o7.net
 writerhubs.com
 writewealth.com
+writingcalls.com
 wrkbha.lyst.de
 wrlnvt.pepita.hu
 wrongweather.postaffiliatepro.com
