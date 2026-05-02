@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 01 May 2026 13:14:36 UTC
+# Last Updated: 02 May 2026 02:28:36 UTC
 #
-# Domains: 73,711 | Added: 0 | Removed: 0
+# Domains: 73,718 | Added: 7 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6763,6 +6763,7 @@ analytics-dev-api.test.samsunghealth.com
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
 analytics-hub.3plearning.com
@@ -9351,6 +9352,7 @@ autspe.notino.hr
 autumn.net.daraz.com
 auvergne-direct.eulerian.net
 auwdff.dyfashion.ro
+aux-log.bidmatic.io
 aux.lansator.ro
 av6fm8zw2cvz.furucombo.app
 avads.net
@@ -10334,6 +10336,7 @@ bigpond.122.2o7.net
 bigtime.floridacitrussports.com
 bigworldfashion.com
 bijkep.hotelesestelar.com
+bikeexerciser.com
 biken.gbc.criteo.com
 bikepaws.com
 bikesboard.com
@@ -10364,6 +10367,7 @@ bio.gbc.criteo.com
 bioagiliytix.actonservice.com
 bioanalyticalmarketing.eurofins-info.com
 biohavenpharma.tt.omtrdc.net
+biologylog.com
 biomerieux.tt.omtrdc.net
 biopharmaservices.amerisourcebergen.com
 biophysicsgroup.actonservice.com
@@ -11439,6 +11443,8 @@ bzgjx81.alphonso.tv
 bzlold.machi.to
 bznxqj.fiat.it
 bzqxze.remixshop.com
+bzr.openai.com
+bzrcdn.openai.com
 bzuaqh.roan.nl
 bzyzph9.alphonso.tv
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
@@ -43323,6 +43329,7 @@ nuyibu.pieper.de
 nuyujp.barstoolsports.com
 nv.inhaabit.com
 nvpdaa.brightcellars.com
+nvrmd.novaramedia.com
 nvumcv.standoil.kr
 nvxlag.liligo.fr
 nw-rail-03.com
