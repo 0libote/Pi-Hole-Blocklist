@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 04 May 2026 13:52:12 UTC
+# Last Updated: 05 May 2026 02:29:59 UTC
 #
-# Domains: 72,469 | Added: 0 | Removed: 0
+# Domains: 72,473 | Added: 5 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10957,6 +10957,7 @@ browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.miui.com
 browsercfg-drcn.cloud.dbankcloud.cn
+browserguides.net
 brp.tt.omtrdc.net
 brpayless.eccocar.com
 brqory.notino.sk
@@ -11508,6 +11509,7 @@ camagess.carte-gr.total.fr
 cambridgeinvestmentr.tt.omtrdc.net
 camel.headfarming.com
 camelsfestival.com
+camelspark.com
 camisado.actonservice.com
 campagne.enecozakelijk.nl
 campaign-direct.eisai.jp
@@ -48273,7 +48275,6 @@ pubimgs.com
 public-analytics.telekom.sk
 public-cis.exponea.com
 public.9gtb.com
-public.profitwell.com
 public.tt.omtrdc.net
 publications.nomination.fr
 publicidad.davivienda.com.pa
@@ -60141,6 +60142,7 @@ sst.brodo.com
 sst.bwt.com
 sst.colemanfurniture.com
 sst.cooperativa.cl
+sst.fdiintelligence.com
 sst.shopware.com
 sst.vrijopnaam.nl
 sstat.3pagen.at
@@ -66283,6 +66285,7 @@ trackdomainq3.wt-eu02.net
 tracker-00.qvb.qcloud.com
 tracker-aa.paf.es
 tracker-aa.pafbetscore.lv
+tracker-beam.tempo.co
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker-empresas.ifood.com.br
@@ -68110,6 +68113,7 @@ umwatsonc.telemetry.microsoft.us
 umwuxk.hotel.cz
 umxwew.hellobello.com
 umylynsr9b.quira.sh
+un.kumparan.com
 unablehope.com
 unaccountablepie.com
 unbecominghall.com
