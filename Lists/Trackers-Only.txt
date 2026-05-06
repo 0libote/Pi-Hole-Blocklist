@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 06 May 2026 02:34:21 UTC
+# Last Updated: 06 May 2026 14:02:16 UTC
 #
-# Domains: 72,473 | Added: 0 | Removed: 0
+# Domains: 72,475 | Added: 4 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -16904,6 +16904,7 @@ display.ravm.tv
 displaymaxmerchandising.actonservice.com
 distiller.kano.link
 distillery.wistia.com
+distilltable.com
 distrelec-02.webtrekk.net
 distribuidoraliverpo.tt.omtrdc.net
 distribution.provenpharma.com
@@ -17533,6 +17534,7 @@ e.thebritsworld.com
 e.tradestocks.com
 e.tt.omtrdc.net
 e.unchealthcare.org
+e.usesneakpeek.com
 e.vcty.co
 e.viously.com
 e.webfleet.com
@@ -20826,7 +20828,6 @@ fiservsolution.tt.omtrdc.net
 fishersfinds.com
 fishing.daigostudio.com
 fishingbooker.postaffiliatepro.com
-fishingtoolsbox.com
 fitbitinc.tt.omtrdc.net
 fitmessage.com
 fitnessfirst01.wt-eu02.net
@@ -20845,7 +20846,6 @@ fjgcai.zlavomat.sk
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
 fjnkfl18.alphonso.tv
-fjordsand.com
 fjortk.braun-hamburg.com
 fjp4.animalcity.es
 fjuccm.uktsc.com
@@ -47630,6 +47630,7 @@ pmel.gbc.criteo.com
 pmi.flowplayer.com
 pmi.tt.omtrdc.net
 pmmqf78.alphonso.tv
+pmnbh.dedcool.com
 pmu-rr.eulerian.net
 pmu.etr.im
 pmu.eulerian.net
@@ -52495,6 +52496,7 @@ securian.tt.omtrdc.net
 security.johnsoncontrols.com
 security.ns1.twtelecom.net.daraz.com
 security.tt.omtrdc.net
+securityannex.net
 securityins.actonservice.com
 securityintelligence.verint.com
 sedge.aarp.org
