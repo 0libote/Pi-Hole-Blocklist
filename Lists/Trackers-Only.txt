@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 08 May 2026 13:26:31 UTC
+# Last Updated: 09 May 2026 02:35:45 UTC
 #
-# Domains: 72,475 | Added: 0 | Removed: 0
+# Domains: 72,479 | Added: 5 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5361,7 +5361,6 @@ ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.ksyna.net
 ad.jibunde-esute.com
-ad.kddi-fs.com
 ad.kirara-support.jp
 ad.lgappstv.com
 ad.lgsmartad.com
@@ -12224,6 +12223,7 @@ chaindisc.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
+chalkdream.com
 chalkoil.com
 challengeh.carte-gr.total.fr
 chanalytics.merchantadvantage.com
@@ -14375,6 +14375,7 @@ crunchcontrol.com
 cruntn.receno.com
 crvayw.kagunosato.com
 cryo.socialblade.com
+crypticgenius.com
 crypto.egghead.link
 cryptvalue.com
 crystalboulevard.com
@@ -17061,6 +17062,7 @@ dmdrogerie01.webtrekk.net
 dmdxly.oldrow.net
 dmepyodjotcuks.com
 dmetric-partner.net.daraz.com
+dmg-libs.anm.co.uk
 dmkfppbdav49.alphonso.tv
 dmkt.solutions.cas.org
 dmndfrcstng.com
@@ -17182,6 +17184,7 @@ doppler-reporting.cbsivideo.com
 dosfarma-data.wt-eu02.net
 dot.discovery.org
 dot.mindmatters.ai
+dotshellmain.com
 dotster.112.2o7.net
 dotsterdomaincom.112.2o7.net
 dotsterdotsteraug08.112.2o7.net
@@ -60622,6 +60625,7 @@ starify.appsonic.fr
 starkscale.com
 starman.fathomdns.com
 starman.floorcleanse.co.uk
+starrynets.com
 starsmarter.com
 start.adelaide.edu.au
 start.digitaltext.rtl.de
