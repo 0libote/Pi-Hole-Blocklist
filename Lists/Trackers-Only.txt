@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 09 May 2026 13:11:00 UTC
+# Last Updated: 10 May 2026 02:40:03 UTC
 #
-# Domains: 72,479 | Added: 0 | Removed: 0
+# Domains: 72,477 | Added: 1 | Removed: 3
 #
 # List is updated daily adding and removing new and old domains
 
@@ -11863,7 +11863,6 @@ cc.ad.intl.xiaomi.com
 cc.conforama.es
 cc.conforama.pt
 cc.dalten.cz
-cc.di.runestone.samsung.com
 cc.gbc.criteo.com
 cc.pennstatehealth.org
 cc.sound.ag
@@ -15686,7 +15685,6 @@ database-cab.gbc.criteo.com
 database01p.anixe.net
 databasedfe.gbc.criteo.com
 databeacon.apple.com
-databi.ad.xiaomi.com
 databizitalia01.wt-eu02.net
 databricks.tt.omtrdc.net
 datacirrus.com
@@ -18152,6 +18150,7 @@ ehrlgb.izlato.sk
 ehs.gbc.criteo.com
 eht.endress.com
 ehtel.endress.com
+ehtelemetrystaging-alias.servicebus.windows.net
 ehweb.endress.com
 ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
 ei.monday.com
@@ -31404,7 +31403,6 @@ lch.tt.omtrdc.net
 lcinternational.tt.omtrdc.net
 lcodff.uta-net.com
 lcrrqcz39.alphonso.tv
-lcs.di.runestone.samsung.com
 lcscompanies.lcsnet.com
 lcsopa.onamae.com
 lctfgw.evernew.ca
