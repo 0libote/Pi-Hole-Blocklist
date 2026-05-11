@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 11 May 2026 02:49:53 UTC
+# Last Updated: 11 May 2026 14:43:32 UTC
 #
-# Domains: 72,477 | Added: 0 | Removed: 0
+# Domains: 72,483 | Added: 7 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7678,6 +7678,7 @@ apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
 apm-rum-ind.inf.miui.com
+apm.qwant.com
 apm.tnet.nl
 apm6.chausport.com
 apnonline.112.2o7.net
@@ -9754,6 +9755,7 @@ barcodespartner.net.daraz.com
 barium.cheezdev.com
 bark.postaffiliatepro.com
 barp3.bordeaux.aeroport.fr
+barqueue.com
 barracuda.carte-gr.total.fr
 barrbennett-cbd.lee-associates.com
 bas.b2bmktg.com
@@ -10919,6 +10921,7 @@ brinstascooter.eccocar.com
 brioscoot.eccocar.com
 brisa.tt.omtrdc.net
 briskeagle.io
+briskedge.net
 briskpelican.io
 briskstorm.com
 britishamericanshare.tt.omtrdc.net
@@ -11999,6 +12002,7 @@ cdnral.com
 cdns.brsrvr.com
 cdnwidget.com
 cdp.cifinancial.com
+cdp.howtotrade.com
 cdp2.oral-b.co.kr
 cdpbeacon.lgtvcommon.com
 cdrive.compellent.com
@@ -12312,6 +12316,7 @@ chinaeast2-0.in.applicationinsights.azure.cn
 chinanorth3-0.in.applicationinsights.azure.cn
 chingovernment.com
 chip2gift.com
+chipcardice.com
 chipperisle.com
 chivalrouscord.com
 chl.mail.always.com
@@ -15858,6 +15863,7 @@ dd.g2.com
 dd.garena.com
 dd.leboncoin.fr
 dd.nytimes.com
+dd.qwant.com
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
@@ -17060,7 +17066,6 @@ dmdrogerie01.webtrekk.net
 dmdxly.oldrow.net
 dmepyodjotcuks.com
 dmetric-partner.net.daraz.com
-dmg-libs.anm.co.uk
 dmkfppbdav49.alphonso.tv
 dmkt.solutions.cas.org
 dmndfrcstng.com
@@ -17719,6 +17724,7 @@ eastus2-4.in.applicationinsights.azure.com
 easy.sentinelgroup.com
 easy.surepayroll.com
 easy0bark.com
+easysyncnews.com
 easyvoyage.eulerian.net
 eat.newtrina.com
 eat9.thebeat925.ca
