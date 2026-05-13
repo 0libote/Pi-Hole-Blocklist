@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 13 May 2026 02:48:06 UTC
+# Last Updated: 13 May 2026 14:26:55 UTC
 #
-# Domains: 72,483 | Added: 0 | Removed: 0
+# Domains: 72,488 | Added: 6 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -19414,6 +19414,7 @@ eservices.lubetech.com
 eset.122.2o7.net
 eset.tt.omtrdc.net
 esignal.com.102.122.2o7.net
+esoterictools.com
 esp.logs.roku.com
 esp.pgregistro.com
 espaniapizza.openapp.link
@@ -20423,6 +20424,7 @@ fabcharting.com
 fabfurnish01.webtrekk.net
 fabledsoul.com
 fabryczna.viessmann.pl
+fabulousbooking.com
 fac.fanucamerica.com
 face2.ishoppingapp.com
 facebook.da.us.gbc.criteo.com
@@ -32689,6 +32691,7 @@ lknqfn.furla.com
 lkvkgk.levis.com.tr
 llamavoice.com
 llkdiu.chacos.com
+llmometrics.b-cdn.net
 llntrack.messe-duesseldorf.de
 llohtzbd55.alphonso.tv
 llqutk.skechers.com.au
@@ -32965,6 +32968,7 @@ lol.gbc.criteo.com
 lonelyflavor.com
 loneworker.soloprotect.com
 longingtrees.com
+longloops.com
 longterminvestmentsolutions.com
 longview.logs.roku.com
 loobmf.hardloop.fr
@@ -38589,6 +38593,7 @@ midar.112.2o7.net
 midas.chase.com
 midcru.112.2o7.net
 midland.logs.roku.com
+midnightmead.com
 midsen.112.2o7.net
 mie-solutions.actonservice.com
 miembroskube-csr31.net.daraz.com
@@ -46924,6 +46929,7 @@ peacocks-mail.com
 peacocks.wt-eu02.net
 peak-ip-54.com
 peak2poem.com
+peakcreator.com
 pear.ca-eko-globetrotter.fr
 peards.zevvle.com
 pearpouch.com
@@ -63678,7 +63684,6 @@ test.pgeveryday.com
 test.pooler.io
 test.samsungrm.net
 test.shigoto-web.com
-test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 test.sound.ag
