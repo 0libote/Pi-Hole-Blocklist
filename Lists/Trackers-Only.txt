@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 16 May 2026 13:16:27 UTC
+# Last Updated: 17 May 2026 02:47:34 UTC
 #
-# Domains: 72,592 | Added: 0 | Removed: 0
+# Domains: 72,598 | Added: 7 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5743,6 +5743,7 @@ ads-cf-us-west-2.delivery.roku.com
 ads-collector.luizalabs.com
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
+ads-drru.platform.hihonorcloud.com
 ads-msn-com-profile.trafficmanager.net
 ads-pcommerceprod.gbc.criteo.com
 ads-preiniewprod.gbc.criteo.com
@@ -5816,6 +5817,7 @@ ads.us5.us.criteo.com
 ads.us5.vip.prod.criteo.com
 ads1.msads.net
 ads1.msn.com
+ads2.msads.net
 adscore.com
 adsdk.microsoft.com
 adsdk.trafficmanager.net
@@ -27102,7 +27104,6 @@ images.bounceback.chiesiusa.com
 images.brand.j2.com
 images.business.fedex.com
 images.business.lenovo.com
-images.business.samsungusa.com
 images.by.sensiolabs.com
 images.campaign.crmit.com
 images.campaign.reedexpo.at
@@ -33007,6 +33008,7 @@ logservice-dre.platform.dbankcloud.cn
 logservice-dre.platform.hicloud.com
 logservice-drru.dt.hicloud.com
 logservice-drru.dt.hihonorcloud.com
+logservice-lbs-drcn.dt.hihonorcloud.com
 logservice.dt.hihonorcloud.com
 logservice.hicloud.com
 logservice.vmall.com
@@ -37081,6 +37083,7 @@ metrics-go.experian.com
 metrics-ieeexplore.ieee.org
 metrics-logger.spot.im
 metrics-now.experian.com
+metrics-pcc-drcn.dt.hihonorcloud.com
 metrics-target.siriusxm.com
 metrics-test-drcn.dt.hihonorcloud.com
 metrics.1800contacts.com
@@ -66496,6 +66499,8 @@ tracking-api-4lasu2nlcq-ew.a.run.app
 tracking-api.bookzone.ro
 tracking-api.hotmart.com
 tracking-api.mangopulse.net
+tracking-data-drru.platform.hihonorcloud.com
+tracking-data.platform.hihonorcloud.com
 tracking-explore-uat.agilent.com
 tracking-explore.agilent.com
 tracking-live.kr3m.com
@@ -67999,6 +68004,7 @@ ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
+uaenorth-0.in.applicationinsights.azure.com
 uaforbusiness.united.com
 ual.unitedcargo.com
 ualkzq.moobel1.ee
