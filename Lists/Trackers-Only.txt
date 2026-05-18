@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 18 May 2026 02:57:22 UTC
+# Last Updated: 18 May 2026 15:23:57 UTC
 #
-# Domains: 72,598 | Added: 0 | Removed: 0
+# Domains: 72,600 | Added: 3 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -30658,7 +30658,6 @@ kikoe.aisei.co.jp
 kilo6alga.com
 kimberlyspa.actonservice.com
 kindasingle.com
-kindhush.com
 kindlereunion.com
 kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
@@ -59869,6 +59868,7 @@ srz9.sarenza.nl
 ss-tehnicka-ck.gbc.criteo.com
 ss-telemetry.servicebus.windows.net
 ss.esade.edu
+ss.hellotushy.com
 ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
@@ -67873,6 +67873,7 @@ turnerinternational.hb.omtrdc.net
 turnerresearch1.hb-api.omtrdc.net
 turnersports.112.2o7.net
 turnitin.examsoft.com
+turtleface.net
 tussolucioneslegales.gbc.criteo.com
 tutbc1.www.tapmyback.com
 tuvevx.agent-sana.com
@@ -69985,6 +69986,7 @@ wavzlt.michaelstars.com
 waxsirens.com
 wayfinderanalytics.servicebus.windows.net
 wayjoyfarm.com
+waylowrates.net
 wayyaj8t094u.www.kodalia.com
 wbcygu.wardow.com
 wbextecd.112.2o7.net
