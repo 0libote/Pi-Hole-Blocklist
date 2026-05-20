@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 20 May 2026 02:54:42 UTC
+# Last Updated: 20 May 2026 14:57:01 UTC
 #
-# Domains: 72,991 | Added: 393 | Removed: 2
+# Domains: 72,994 | Added: 4 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -25598,7 +25598,6 @@ gocpr.heart.org
 gocuxy.baycrews.jp
 god.vsee.me
 goddardsystems.tt.omtrdc.net
-goddesslamps.com
 godev.pardot.com
 godev.steps.me
 godiciardstia.com
@@ -41950,6 +41949,7 @@ natoschool.gbc.criteo.com
 nats.xing.com
 natsp.xing.com
 naturalhistorymuseum.tt.omtrdc.net
+naturebeans.com
 nauticalfox.com
 nautilus.net.daraz.com
 nautilus.tt.omtrdc.net
@@ -47673,6 +47673,7 @@ pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.dashfi.dev
 pixel.driveniq.com
 pixel.dugwood.com
 pixel.embed.su
@@ -70956,6 +70957,7 @@ wild0army.com
 wild8prey.com
 wildcommittee.com
 wildlifereservessing.tt.omtrdc.net
+wildpetalfarm.com
 wildwoodavenue.com
 wileypublishing.112.2o7.net
 wileypublishing.tt.omtrdc.net
@@ -71068,6 +71070,7 @@ woodstock.viessmann.com.au
 woodtone.actonservice.com
 woodward.actonservice.com
 woodworkingone.wurthlac.com
+woofweather.com
 woolstapler.com
 woosyt.portalesardegna.com
 woowjy.desa.com.tr
