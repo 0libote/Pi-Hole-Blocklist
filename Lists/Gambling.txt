@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 22 May 2026 14:31:57 UTC
+# Last Updated: 23 May 2026 02:41:30 UTC
 #
-# Domains: 211,638 | Added: 988 | Removed: 2,934
+# Domains: 211,678 | Added: 41 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -60560,6 +60560,7 @@
 99ngvwnb.me
 99niceph.net
 99nn55.com
+99o.org
 99ok.asia
 99ok.city
 99ok.co
@@ -61945,6 +61946,7 @@ acengfs.life
 acenter4change.com
 acenxry.life
 aceocus.com
+aceodds.com
 aceofbingo.com
 aceonline.casino
 aceonlinecasino.co.uk
@@ -64381,6 +64383,8 @@ anim6b1.com
 anim6b4.com
 animalitos.bet
 animalitos.site
+animalitosdeoriente.com
+animalitosvenezuela.com
 animalpoker.club
 animalslist.org
 animalsofmontana.com
@@ -64915,6 +64919,7 @@ applicationpokerfrance.co.com
 applicationpokerfrance.us.com
 appliness.com
 applistingbrand.xyz
+appmelbet-venezuela.com
 appmillionaireslots.store
 appmillionslots.store
 appmkwin1.com
@@ -64961,6 +64966,7 @@ apuestahoy.casino
 apuestalave.com
 apuestalegal.ec
 apuestalegal.pe
+apuestalegalchile.com
 apuestamos.com
 apuestan.com
 apuestarey.com
@@ -75024,6 +75030,7 @@ betsson.com.co
 betsson.es
 betsson.fr
 betsson.it
+betsson.mx
 betsson.net.pl
 betsson.pe
 betsson.se
@@ -82946,6 +82953,7 @@ carpatic.co
 carrefour-casino.com
 carrefourbet.com
 carrefourjogo.com
+carrerasamericanas.xyz
 carrey55.com
 carrimagerygarage.com
 carrycasino.com
@@ -87199,6 +87207,7 @@ casino-vegaswinsco.co.uk
 casino-vegazone-online.com
 casino-vegazone-uk.com
 casino-velobet.org
+casino-venezuela.com
 casino-verajohn.org
 casino-verde-777.com.pl
 casino-vergleich.site
@@ -103779,6 +103788,7 @@ derivco.co.za
 dermaga168.org
 derpokerabend.de
 desacerdas.id
+desafiohipico.com
 desafiopg.net
 desafiopg.org
 desajambe.com
@@ -106785,6 +106795,7 @@ efesbetcasino934.com
 efesbetcasinogiris.co
 efescasino3.com
 efesebetcasino.vip
+effi-lotto.com
 effwurdsbooteek.com
 efh.casino
 efirbet.com
@@ -106909,6 +106920,7 @@ elbet.com
 elbetaso.com
 elbingo.com
 elbowrivercasinocalgary.ca
+elbrujodelosanimalitos.com
 elcarado.com
 elcaradocasino.com
 elcasino.online
@@ -107378,6 +107390,7 @@ elgordo.net
 elgrandatero.com.ve
 elgrullensepaloalto.com
 elgruposortario.mforos.com
+elguacharitomillonario.com
 elicitbets.store
 elinmejorable.com
 elisa.bet
@@ -107480,8 +107493,10 @@ eloncasino.bid
 elonmusk-casino-ca.com
 eloracasino.ca
 eloterija.si
+elparley.com
 elpaso411.com
 elpotroroberto.com
+elrecoleo.com
 elresultadodelaloteria.com
 elroyale-casino.vip
 elroyalecasino.club
@@ -111213,6 +111228,7 @@ fillincasino.com
 filmcasino-event.net
 filmcasino.at
 filmseansi.com
+filoelomoparley.com
 filthyrichslots.com
 fin.casino
 fina88.com
@@ -126613,6 +126629,7 @@ inbet88.com
 inbetcasino.com.mx
 inbetcasino.top
 inbetgames.com
+inbethorses.blogspot.com
 inbetsport.com
 inbrazzabets.com
 incasino.gr
@@ -134156,6 +134173,7 @@ jugadon-casino.win
 jugadon.com
 jugadoncasino.win
 jugamax.com.py
+jugandoando.com.ar
 jugarbet1.com
 jugarblackjack.org
 jugarblackjack21.com
@@ -134329,6 +134347,7 @@ junbet39.com
 junbet88.com
 junelo.com
 junfn.com
+jungladinamica.com
 jungle-spins.casino
 jungle68.com
 junglebet.com.au
@@ -142708,6 +142727,7 @@ loto678.com
 lotobet.com
 lotochaima.com
 lotoclubcasino.com.kz
+lotodia.com
 lotofreebie.org
 lotofreebie.ru
 lotofreebie.xyz
@@ -148309,6 +148329,7 @@ mejorespokeronline.co.com
 mejoressalasdepoker.eu.com
 mejoressitiosdecasino.mx
 mekinglove.com
+mel-bet-bangladesh.com
 mel-bet.com
 mel-bet.mobi
 mel-bet.ug
@@ -148411,13 +148432,16 @@ melbet-gt.com
 melbet-kazakhstan.com
 melbet-licence.com
 melbet-ma.com
+melbet-melbet.com
 melbet-mn.com
 melbet-mobile.com
+melbet-mongolia.org
 melbet-pe.com
 melbet-pe1.com
 melbet-pe2.com
 melbet-ph.mobi
 melbet-phi.com
+melbet-philippines.com
 melbet-pk.org
 melbet-rus-casino-i0.top
 melbet-rus.ru
@@ -148437,6 +148461,7 @@ melbet.asia
 melbet.cd
 melbet.co.zm
 melbet.com
+melbet.com.ci
 melbet.com.gh
 melbet.com.ph
 melbet.com.ve
@@ -148444,6 +148469,8 @@ melbet.ec
 melbet.eu.com
 melbet.ke
 melbet.mobi
+melbet.net.et
+melbet.network
 melbet.ng
 melbet.org
 melbet.ph
@@ -148469,11 +148496,16 @@ melbet9.com
 melbetaffiliates.com
 melbetaffiliates.info
 melbetangola.com
+melbetapp-es.com
+melbetapp.casino
 melbetapp.com
+melbetbd.net
+melbetbdt.com
 melbetbi.com
 melbetbonus.com
 melbetcasino-24.online
 melbetcasino-ng.com
+melbetcasino.com
 melbetcasino.nl
 melbetcasino.org
 melbetcasino.pro
@@ -148483,6 +148515,7 @@ melbetcasinovip.com
 melbetcd.com
 melbetegypt.com
 melbetet.com
+melbetethiopia.net
 melbetghana.com
 melbetgiris.live
 melbetinbd.com
@@ -148498,6 +148531,7 @@ melbetpartners.org
 melbetpartners.xyz
 melbetplus.com
 melbetregister.com
+melbetregistration.com.ve
 melbetreview.com
 melbetru.com
 melbets-bd.com
@@ -151895,6 +151929,7 @@ mundocasino.online
 mundocasino34.win
 mundoclub.com.ar
 mundodaaposta.net
+mundodeportivo.com
 mundojogo.com
 mundojogo.me
 mundojoxc.com
@@ -173221,6 +173256,7 @@ resultados-de-loteria.com
 resultados-futbol.com
 resultados365.com
 resultadosalinstante.com
+resultadosanimalitos.com
 resultadostriplecaracas.com
 resultadostriplezulia.com
 resultsgptercepat.com
@@ -191555,11 +191591,13 @@ triplefacil.com
 triplegato.com
 triplegordo-oficial.com
 triplemonkeypoker.com
+tripleplay.com.ve
 triplequack.com
 triples.bet
 tripleseven.casino
 triplesixsites.com
 tripletachira.com
+tripletamillonaria.com
 tripleyourvegas.com
 triplezamorano.com
 tripriau.com
@@ -192073,9 +192111,11 @@ ttyy4466.com
 ttz.casino
 tu4466.store
 tu55888.casino
+tuanimalito.com.ve
 tuanpm.xyz
 tuapuesta365.com
 tuazar.com
+tuazar.com.ve
 tubara777.com
 tubebets.top
 tubediva.weebly.com
@@ -192251,6 +192291,7 @@ tvbet.com
 tvbingo.dk
 tvcads.tos-ap-southeast-1.bytepluses.com
 tvg.com
+tvgsur.com
 tvoe-casino.com
 tvone-poker.online
 tvonepoker4.site
@@ -206407,7 +206448,6 @@ www1489-bets10.com
 www168.vip
 www17365com.com
 www18tk.com
-www2.betsson.mx
 www23win.com
 www25315.com
 www31898.com
