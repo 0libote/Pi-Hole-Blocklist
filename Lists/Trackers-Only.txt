@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 27 May 2026 03:28:19 UTC
+# Last Updated: 27 May 2026 15:33:03 UTC
 #
-# Domains: 60,605 | Added: 0 | Removed: 0
+# Domains: 60,605 | Added: 1 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -18560,7 +18560,6 @@ glamipixel.com
 glance-analytics.trafficmanager.net
 glass.autovistagroup.com
 glassbox-hlx-igw.bankofamerica.com
-glasscoyote.com
 glassguide-au.autovistagroup.com
 glassmoni.researchgate.net
 glaxosmithklinebeech.tt.omtrdc.net
@@ -59597,6 +59596,7 @@ workplacelight.com
 workplacesolutions.equifax.com
 workplacesolutions.inform.equifax.com
 workspacesolutions.gos1.com
+workwithdrones.com
 worldbank.tt.omtrdc.net
 worldlever.com
 worldmtcs.nhk.jp
