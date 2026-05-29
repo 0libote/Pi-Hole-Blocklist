@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 29 May 2026 02:53:28 UTC
+# Last Updated: 29 May 2026 14:59:01 UTC
 #
-# Domains: 60,605 | Added: 0 | Removed: 0
+# Domains: 60,609 | Added: 4 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5764,6 +5764,7 @@ amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
+ampscamp.net
 ampt.eulerian.com
 ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
@@ -30374,6 +30375,7 @@ metrics.motorhomebookers.com
 metrics.motortrend.com
 metrics.mrporter.com
 metrics.mrrooter.com
+metrics.mtcgame.com
 metrics.mum.edu
 metrics.mycardwallet.com
 metrics.mycareforward.com
@@ -51790,6 +51792,7 @@ stracking.trutv.com
 strackingvanrental.vanrental.de
 straightnest.com
 straindrinks.com
+strandedgame.com
 strangeclocks.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
@@ -55703,6 +55706,7 @@ track.abrdnjapan.co.uk
 track.abrdnnewindia.co.uk
 track.abrdnpit.co.uk
 track.ad.xiaomi.com
+track.addevent.com
 track.aimroas.com
 track.americansongwriter.com
 track.asia-focus.co.uk
