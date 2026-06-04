@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 03 June 2026 13:40:18 UTC
+# Last Updated: 04 June 2026 00:55:48 UTC
 #
-# Domains: 60,746 | Added: 0 | Removed: 0
+# Domains: 60,752 | Added: 7 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5918,6 +5918,7 @@ analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
 analytics.asml.com
+analytics.atom.com
 analytics.audioeye.com
 analytics.audionow.de
 analytics.autozone.com
@@ -8955,6 +8956,7 @@ bizlink.dinifi.com
 bizlog-gateway.myrealtrip.com
 bizmkt.lguplus.com
 biznews.oregon.gov
+biztoolsbrief.com
 bizupitalia01.wt-eu02.net
 bizz.cochraneco.com
 bj-ad-lgsmartad-com.aws-prd.net
@@ -9117,6 +9119,7 @@ bnzkua.trussardi.com.br
 bo-ad-lgsmartad-com.aws-prd.net
 bo.ad.lgsmartad.com
 bo.lgsmartad.com
+boardbumpers.com
 boat3deer.com
 boatcodeapp.com
 boatpaper.com
@@ -10701,6 +10704,7 @@ citrixtelemetryeh-alias.servicebus.windows.net
 citrixtelemetryeh.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
+citydeal.net
 cityrobotflower.com
 cizzvi.beldona.com
 cj.peterhahn.de
@@ -10753,6 +10757,7 @@ cleanservices.actonservice.com
 clear.wallapop.com
 clearbitscripts.com
 clearbrands.actonservice.com
+clearclips.com
 clerks.doccheck.com
 clevertapsendgrid.branch.rocks
 clgserv.pro
@@ -16722,6 +16727,7 @@ events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 events-dre.op.dbankcloud.com
 events-dre.op.hicloud.com
 events-endpoint.pointandplace.com
+events-ingestion-helpcenter.services.gorgias.help
 events-logs.doctolib.com
 events-ocu.zipify.com
 events-prod.autolist.com
@@ -17517,7 +17523,6 @@ followup.stevenshenager.edu
 followup2.independence.edu
 followup3.independence.edu
 followup4.independence.edu
-fontserif.com
 food.informaengage.com
 food.pentonmarketingsvcs.com
 food9wave.com
@@ -40437,6 +40442,7 @@ re.stjude.org
 reach-id.orbit.tm-awx.com
 reach.ironmountain.com
 reach.terumo-bct.com
+reachhumans.com
 react-admin-telemetry.marmelab.com
 reactjspdf.com
 read.lightreading.com
