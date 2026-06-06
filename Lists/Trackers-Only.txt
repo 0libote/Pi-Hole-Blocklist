@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 05 June 2026 13:03:53 UTC
+# Last Updated: 06 June 2026 00:46:10 UTC
 #
-# Domains: 60,752 | Added: 0 | Removed: 0
+# Domains: 60,758 | Added: 7 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -10883,6 +10883,7 @@ client-log.box.com
 client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client-side-metrics.criteo.net
 client-side-metrics.da1.us.criteo.net
@@ -13321,6 +13322,7 @@ daybreaklights.com
 dayintegrationintern.tt.omtrdc.net
 daymodern.com
 dazdmx.cobra.fr
+dazzlescript.com
 dazzlingbook.com
 db3aqu.atdmt.com
 db5-eap.settings-win.data.microsoft.com.akadns.net
@@ -14346,6 +14348,7 @@ doclen.hypedc.com
 docmorris01.wt-eu02.net
 doctipharma-fr.eulerian.net
 doctorsassociatesrx.112.2o7.net
+documentstock.com
 docyjy.ryderwear.com
 dodgebugs.com
 dogbedscentral.com
@@ -14653,6 +14656,7 @@ e.usesneakpeek.com
 e.vcty.co
 e.viously.com
 e.wework.com
+e.zg-api.com
 e035.pandasuite.io
 e045f561.b-cdn.net
 e10.verticurl.com
@@ -20145,7 +20149,6 @@ golp4elik.com
 gomerchant.groupon.com
 gondolagnome.com
 gone.pronhub.fun
-goodbark.com
 goodlifefitnesscentr.tt.omtrdc.net
 goodyear.122.2o7.net
 google-analytics-cn.com
@@ -39134,6 +39137,7 @@ pixel.kknews.cc
 pixel.leadlovers.app
 pixel.lilystyle.ai
 pixel.locker2.com
+pixel.marqo-ep.ai
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -40189,6 +40193,7 @@ qualitas-app.hotdoc.com.au
 quantumlagoon.com
 quantumshine.com
 qubitanalytics.appspot.com
+queen-one.net
 queenjam.com
 queenskart.com
 query1.petametrics.com
@@ -60044,6 +60049,7 @@ x-world.eulerian.net
 x.allabout.co.jp
 x.babe.today
 x.bloggurat.net
+x.designboom.com
 x.disq.us
 x.eulerian.com
 x.eulerian.eu
