@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 07 June 2026 00:49:09 UTC
+# Last Updated: 07 June 2026 12:36:38 UTC
 #
-# Domains: 60,758 | Added: 0 | Removed: 0
+# Domains: 60,307 | Added: 4 | Removed: 455
 #
 # List is updated daily adding and removing new and old domains
 
@@ -36,13 +36,11 @@
 102d.pandasuite.io
 106075.genieessp.com
 107006243521810.wt-eu02.net
-108557.genieessp.com
 10stepswp.advancedtech.com
 10xhellometro.112.2o7.net
 10xonegreatfamily.112.2o7.net
 11-c3.bigdata.ctc.neo.xiaomi.com
 1105governmentinformationgroup.122.2o7.net
-112686412066259.wt-eu02.net
 117490221505998.wt-eu02.net
 11959579.fun.joyrun.com
 11b6n4ty2x3.taxliencode.com
@@ -55,7 +53,6 @@
 1438976156.recolution.de
 143nchrtl3.com
 145003564476173.wt-eu02.net
-148749046266446.wt-eu02.net
 1558334541.rsc.cdn77.org
 16134024.artcollection.io
 161779.publy.co
@@ -127,7 +124,6 @@
 227633596530844.wt-eu02.net
 23andme.actonservice.com
 24-visionaryenterprise.com
-253822047730481.mateti.net
 2539951.r.bat.bing.com
 2540166.chalknation.com
 25ix8gm8ien.sandbox.panprices.com
@@ -1344,7 +1340,6 @@ a22941.actonservice.com
 a23027.actonservice.com
 a23030.actonservice.com
 a23041.actonservice.com
-a23044.actonsoftware.com
 a23051.actonservice.com
 a23104.actonsoftware.com
 a23118.actonservice.com
@@ -2083,7 +2078,6 @@ a36961.actonservice.com
 a36966.actonservice.com
 a37023.actonservice.com
 a37031.actonsoftware.com
-a37064.actonsoftware.com
 a37128.actonsoftware.com
 a37371.actonsoftware.com
 a37518.actonservice.com
@@ -4275,7 +4269,6 @@ aanalytics.adelaide.edu.au
 aanalytics.panduit.com
 aans.athome.com
 aaplepglobal.112.2o7.net
-aaqhmintg9.alphonso.tv
 aaqnpa.sizeofficial.se
 aaqrvt.thefryecompany.com
 aarp.122.2o7.net
@@ -4304,7 +4297,6 @@ ab.dns-finder.com
 ab.fanatical.com
 ab.oney.es
 ab.perfumesclub.com
-abalorios01.wt-eu02.net
 abastur.ubmmexico.com
 abbinformationsystem.tt.omtrdc.net
 abbottlaboratories.tt.omtrdc.net
@@ -4314,7 +4306,6 @@ abbqns.gowabi.com
 abbviecommercial.tt.omtrdc.net
 abc.bayer04.de
 abc.hb-api.omtrdc.net
-abc.hb.omtrdc.net
 abcd.coderays.com
 abclegal.actonservice.com
 abcnews.hb-api.omtrdc.net
@@ -5118,31 +5109,25 @@ ads.beta.roku.com
 ads.bing.com
 ads.bingads.microsoft.com
 ads.cloud.huawei.com
-ads.da1.vip.prod.criteo.com
 ads.dandelionchocolate.jp
 ads.eu.criteo.com
 ads.eu.msn.com
-ads.fr3.vip.prod.criteo.com
 ads.gcp.roku.com
 ads.genieessp.com
 ads.imbc.com
 ads.jp.msn.com
-ads.jp2.vip.prod.criteo.com
 ads.lgtvcommon.com
 ads.microsoft.com
 ads.mopub.com
 ads.msn.com
 ads.mtgroup.kr
-ads.nl3.vip.prod.criteo.com
 ads.roku.com
 ads.samsungads.com
-ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
 ads.staging.roku.com
 ads.tikpage.com
 ads.twitter.com
 ads.us.criteo.com
-ads.us5.vip.prod.criteo.com
 ads1.msads.net
 ads1.msn.com
 ads2.msads.net
@@ -5225,7 +5210,6 @@ advancedsolutions.actonservice.com
 advancing.acams.org
 advanstar.actonservice.com
 advantage.digitalsunray.com
-advantage.rsabroker.ca
 advantageauburn.actonservice.com
 advantageind.actonservice.com
 advantages.americanexpress.com
@@ -5257,7 +5241,6 @@ adviso-ca.eulerian.net
 advisor.americanexpress.ca
 advisor.eaglestrategies.com
 advisor.newyorklifeannuities.com
-advisor.pearlmeyer.com
 advisor.raa.com
 advisors.beaconfinserv.com
 advisorservices.etradefinancial.com
@@ -5346,7 +5329,6 @@ af.eficads.com
 af.gmobile.biz
 af.lgsmartad.com
 af.shozankan-shop.com
-afaprrnbzl1.alphonso.tv
 afclms.xd-design.co.kr
 afcv.champ-shop.com
 afdbwq.blivakker.no
@@ -5666,7 +5648,6 @@ als-svc.nytimes.com
 alsgaj.chosun.com
 alskd34.com
 also.greatsecuritydebate.net
-also01.wt-eu02.net
 altalex.wolterskluwer.com
 altema-log.com
 alternativetechnology.arrow.com
@@ -5775,7 +5756,6 @@ ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
 ams.oraclecloud.com
 amsstellensucheneuwebsiteproduction.112.2o7.net
-amsterdam.criteo.com
 amsunsolar.actonservice.com
 amswebproduction.112.2o7.net
 amtrakdigital.tt.omtrdc.net
@@ -6262,7 +6242,6 @@ analytics.pogo.tv
 analytics.pointdrive.linkedin.com
 analytics.pollardwater.com
 analytics.pop2watch.com
-analytics.porsche.com
 analytics.prezly.com
 analytics.productreview.com.au
 analytics.propensity.com
@@ -6738,9 +6717,7 @@ api.e.boohoo.com
 api.e.karenmillen.com
 api.e.mi.com
 api.e.next.co.uk
-api.e.nextdirect.com
 api.e.oasisfashion.com
-api.e.reiss.com
 api.e1.nextdirect.com
 api.ea.eulerian.com
 api.ea.eulerian.eu
@@ -8060,7 +8037,6 @@ au.vortex.data.trafficmanager.net
 aubankprod.112.2o7.net
 auchantelecom.eulerian.net
 aucqdk.autodoc.es
-auctionatatest01.webtrekk.net
 aud.banque-france.fr
 audemarspiguet.tt.omtrdc.net
 audev-zeit.wt-eu02.net
@@ -8120,7 +8096,6 @@ auth.carte-gr.total.fr
 auth.ff.avast.sec.miui.com
 authentic3d.actonservice.com
 authsmtp.happ.social
-auto.goengineer.com
 autoanythingcom.112.2o7.net
 autobytel.112.2o7.net
 autobytelcorppopup.112.2o7.net
@@ -8368,7 +8343,6 @@ axpjcp.tennis-point.co.uk
 axsgroup.tt.omtrdc.net
 aydtkb.pikabu.ru
 aygccr.eonet.jp
-ayiozpby35.alphonso.tv
 ayleaf.petersofkensington.com.au
 ayo.arredoitaliano.it
 az-ad-lgsmartad-com.aws-prd.net
@@ -8546,7 +8520,6 @@ balloonbelieve.com
 ballsbanana.com
 ballymoregroup.actonservice.com
 bambee.actonservice.com
-bamboo-external.act-on.net
 bamsfirestonedirectprod.112.2o7.net
 bamtech.tt.omtrdc.net
 banana.le.com
@@ -8634,7 +8607,6 @@ bbgbrukerbiospinprodesntls.112.2o7.net
 bbhobjaopy4.alphonso.tv
 bbhwww.112.2o7.net
 bbk.pnc.com
-bblade8.alphonso.tv
 bbs.theacademyforconsciousleadership.com
 bbubuq.aftco.com
 bbva.112.2o7.net
@@ -8753,7 +8725,6 @@ beewhispering.com
 beginnerpancake.com
 behave.sn.at
 behilbct57.alphonso.tv
-beiwanda01.webtrekk.net
 bekbprd.112.2o7.net
 bel.pg.com
 belambra-be.eulerian.net
@@ -8804,7 +8775,6 @@ beta.eulerian.eu
 beta.eulerian.fr
 beta.eulerian.net
 beta.toolbar.msn.com
-beta2.eulerian.com
 beta2.eulerian.eu
 beta2.eulerian.fr
 beta2.eulerian.net
@@ -8885,7 +8855,6 @@ bi.pst.tech
 biberukalap.com
 bibglj.timberland.fr
 bicp-analytics.postscript.io
-bidder.as.criteo.com
 bidder.criteo.com
 bidder.eu.criteo.com
 bidder.mediams.mb.softbank.jp
@@ -8911,7 +8880,6 @@ bikepaws.com
 bikesboard.com
 bikinginspire.com
 bilahh.feuvert.fr
-bild01.webtrekk.net
 bilder11.markt.de
 bilingualgeek.com
 billigermietwagende01.webtrekk.net
@@ -8991,7 +8959,6 @@ blackenterprise.black.news
 blackjack.abzorbagames.com
 blackmesh.actonservice.com
 blacktri-a.akamaihd.net
-blackwells.postaffiliatepro.com
 blackwoods.tt.omtrdc.net
 bladeshadowlauncherdev.112.2o7.net
 bladv.actonservice.com
@@ -9104,7 +9071,6 @@ bnk.wolterskluwerfs.com
 bnk30livejs.112.2o7.net
 bnkholic.112.2o7.net
 bnkicomv2.112.2o7.net
-bnkis3.alphonso.tv
 bnkr8dev.112.2o7.net
 bnpparibasfortis.tt.omtrdc.net
 bnppbecwprod.112.2o7.net
@@ -9114,7 +9080,6 @@ bnsmoi.valx.jp
 bnutnr.landandfarm.com
 bnvsjg.hometogo.de
 bnwhgdi66.alphonso.tv
-bnxrxe0.alphonso.tv
 bnzkua.trussardi.com.br
 bo-ad-lgsmartad-com.aws-prd.net
 bo.ad.lgsmartad.com
@@ -9201,7 +9166,6 @@ boutique.ricoh.fr
 bowl.actonservice.com
 box.pandora.xiaomi.com
 boxinc.tt.omtrdc.net
-boydgaming.com.102.112.2o7.net
 bp.commercial.batteriesplus.com
 bp.mlb.com
 bpceceprod1609.112.2o7.net
@@ -9528,7 +9492,6 @@ bs.serving-sys.com
 bs.yandex.ru
 bsbmex.flaschenpost.ch
 bsc.eulerian.com
-bsc.eulerian.eu
 bsc.eulerian.fr
 bsc.eulerian.net
 bsc01.eulerian.net
@@ -9608,7 +9571,6 @@ build.level5.com
 build.usgbc.org
 builderonlinecom.112.2o7.net
 buildingknife.com
-buildwith.guildquality.com
 bulgaria.openapp.link
 bulgariarestaurant.openapp.link
 bulk.api.bingads.microsoft.com
@@ -9693,7 +9655,6 @@ bwmxdg.kimono-365.jp
 bwntyd.neuve-a.net
 bwspqc.bloomonline.jp
 bwujxl.yoga-lava.com
-bwydgtdh9.alphonso.tv
 bx-cloud.com
 bxbuvv.zeelool.com
 bxcpvyl4.alphonso.tv
@@ -9738,7 +9699,6 @@ bzqxze.remixshop.com
 bzr.openai.com
 bzrcdn.openai.com
 bzuaqh.roan.nl
-bzyzph9.alphonso.tv
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 c-bingapis-com.dual-a-0034.a-msedge.net
 c-c-l.actonservice.com
@@ -9816,7 +9776,6 @@ c.wired.com
 c.wort-suche.com
 c.xbox.com
 c.za.msn.com
-c0011.boursorama.com
 c0012.brsimg.com
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
@@ -9901,7 +9860,6 @@ campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
 campaign-direct.kouketsuatsu-health.xyz
 campaign-fbsg.fujifilm.com
-campaign.abb.com
 campaign.amadeus.com
 campaign.api.bingads.microsoft.com
 campaign.api.sandbox.bingads.microsoft.com
@@ -9975,7 +9933,6 @@ canadapost.112.2o7.net
 canadapost.tt.omtrdc.net
 canadiantire.tt.omtrdc.net
 canal.fr.eulerian.net
-canalplus.com.eulerian.net
 cancalgary.112.2o7.net
 candb.tt.omtrdc.net
 candid.zone
@@ -10130,7 +10087,6 @@ cautiouscherries.com
 cautiouscrate.com
 cavecurtain.com
 cavy9soho.com
-cawjjp71.alphonso.tv
 cb-mms.carbuyer.co.uk
 cba.122.2o7.net
 cbc.122.2o7.net
@@ -10189,7 +10145,6 @@ ccma.hb.omtrdc.net
 ccmd.coveredca.com
 ccpd.jet2.com
 ccpd.jet2holidays.com
-ccrg.tt.omtrdc.net
 ccrgaviscom.112.2o7.net
 cctigeneralitat.tt.omtrdc.net
 cctrkom.creditcards.com
@@ -10212,7 +10167,6 @@ cdjbf8trk.com
 cdjhcf.hometogo.es
 cdl.lvsafe.io
 cdl2.booksy.com
-cdmbvxoo21.alphonso.tv
 cdn-a.raptor.digital
 cdn-aas-campaigns.alphonso.tv
 cdn-aas-ssai.alphonso.tv
@@ -10444,7 +10398,6 @@ cgctsw.mytour.vn
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
-cgpyzb8.alphonso.tv
 cgqkhc.trendyol.com
 cgrid-userverlua-fleet.criteo.com
 cgrid.criteo.com
@@ -10659,7 +10612,6 @@ cid6.actonsoftware.com
 cid9.actonsoftware.com
 cidemo.actonservice.com
 ciderfeast.com
-cidev.actonservice.com
 cidev.actonsoftware.com
 cigarsinternational.tt.omtrdc.net
 cihac.ubmmexico.com
@@ -10687,7 +10639,6 @@ ciszhp.motorradfrage.net
 citadium.eulerian.net
 citbank.tt.omtrdc.net
 citgroup.112.2o7.net
-citicorpcreditservic.tt.omtrdc.net
 citihktw.tt.omtrdc.net
 citisgsgipbmy.tt.omtrdc.net
 citizensclimate.actonservice.com
@@ -10696,6 +10647,7 @@ citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
+citrixanalyticseh3.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
 citrixanalyticseheu-alias.servicebus.windows.net
@@ -10723,7 +10675,6 @@ ckbjtnu46.alphonso.tv
 ckies.net
 ckpxtt.justfly.com
 cksfgh.jaycar.com.au
-ckxsfx1.alphonso.tv
 ckygge.mohd.it
 ckyhec.maxisport.com
 cl-ad-lgsmartad-com.aws-prd.net
@@ -10875,7 +10826,6 @@ clicks.variis.com
 clicks2.hqo.co
 clickserver.libero.it
 clickstream.sberbank.ru
-clickstrm.wf.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
@@ -10887,17 +10837,11 @@ client-logs-a.wbx2.com
 client-metrics.chess.com
 client-side-metrics.criteo.net
 client-side-metrics.da1.us.criteo.net
-client-side-metrics.da1.vip.prod.criteo.net
 client-side-metrics.fr3.eu.criteo.net
-client-side-metrics.fr3.vip.prod.criteo.net
 client-side-metrics.jp2.as.criteo.net
-client-side-metrics.jp2.vip.prod.criteo.net
 client-side-metrics.nl3.eu.criteo.net
-client-side-metrics.nl3.vip.prod.criteo.net
 client-side-metrics.sg1.as.criteo.net
-client-side-metrics.sg1.vip.prod.criteo.net
 client-side-metrics.us5.us.criteo.net
-client-side-metrics.us5.vip.prod.criteo.net
 client.perimeterx.net
 client.trustaff.com
 clientapi-samsung.dtignite.com
@@ -11011,7 +10955,6 @@ cmme.actonservice.com
 cmon.congress.gov
 cmp.112.2o7.net
 cmp.arnnet.com.au
-cmp.autotrader.co.uk
 cmp.cio.com
 cmp.computerwoche.de
 cmp.computerworld.com
@@ -11034,7 +10977,6 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.pcwelt.de
 cmp.pcworld.com
-cmp.tecchannel.de
 cmp.techhive.com
 cmp.tek.no
 cmp.telerama.fr
@@ -11059,7 +11001,6 @@ cn-api.mcsvc.samsung.com.cn
 cn-go.experian.com
 cn.ad.lgsmartad.com
 cn.adpinfo.com
-cn.cyclingnews.com
 cn.lgsmartad.com
 cn.mywd.com
 cn1.stadiumgoods.com
@@ -11348,8 +11289,6 @@ comms.thenbs.com
 commsec.tt.omtrdc.net
 commsvc.brigitte.de
 commsvc.eltern.de
-commsvc.essen-und-trinken.de
-commsvc.gala.de
 commsvc.geo.de
 commsvc.stern.de
 commsvc.urbia.de
@@ -11438,7 +11377,6 @@ compare.bedroomvillas.com
 compare.easyviaggio.com
 compare.easyviajar.com
 compare.jetcost.com
-compare.rentbyowner.com
 comparereaction.com
 compatexchange1.trafficmanager.net
 compilework.com
@@ -11568,8 +11506,6 @@ connect.healthcare.rush.edu
 connect.hexagon.com
 connect.hexagongeosystems.com
 connect.hexagonppm.com
-connect.hornbach.de
-connect.hornbach.nl
 connect.huru.ai
 connect.idocdn.com
 connect.im8.net
@@ -11761,7 +11697,6 @@ content.bondbrothers.com
 content.booksplusapp.com
 content.box.net
 content.brain-storm-email.com
-content.businessinsurance.com
 content.cammackhealth.com
 content.canadiantire.ca
 content.cannon-dunphy.com
@@ -11838,7 +11773,6 @@ content22.bmo.com
 content22.citibank.com.au
 content22.citibankonline.com
 content22.online.citi.com
-contentmetrics01.webtrekk.net
 contents.pwc.com
 contilla01.wt-eu02.net
 contoso-my.sharepoint.com
@@ -11861,7 +11795,6 @@ conveyor.lewcoinc.com
 convision.davivienda.com
 coobuo.pinkpanda.cz
 cooingcoal.com
-cook.shortest-route.com
 cookie-guard-erdee.ey.r.appspot.com
 cookie.amerigas.com
 cookie.cynch.com
@@ -11971,7 +11904,6 @@ count.carrierzone.com
 count.darkreader.app
 count.gothaer-digital.de
 count.ing-diba.at
-count.ing.de
 count.me.uk
 count.munhwa.com
 count.paycounter.com
@@ -12162,7 +12094,6 @@ crm-analytics.imweb.ru
 crm-cdn.peek-cloppenburg.com
 crm.casabaca.com
 crm.chambers.com
-crm.childrens.com
 crm.ironmountain.com
 crm.landing.ni.com
 crm.leads360.com
@@ -12275,7 +12206,6 @@ ct.irlmail.org
 ct.needlive.com
 ct.taskhuman.com
 ct5m.citadium.com
-ctaezcyhpl2.alphonso.tv
 ctagm.tchibo.de
 ctagm.tchibo.hu
 ctagm.tchibo.pl
@@ -12449,7 +12379,6 @@ cv1.start-eo.jp
 cv1.stefany.co.jp
 cvhefd.ixbt.com
 cvi6.destinia.qa
-cvjaztfqeb1.alphonso.tv
 cvlb.dev
 cvoyrn.astotel.com
 cvpthv.vipoutlet.com
@@ -12741,7 +12670,6 @@ data-inbank01.wt-eu02.net
 data-ingenuity.com
 data-ingest.xtralife.com
 data-insight365.com
-data-leipzig.wt-eu02.net
 data-logdelivery.wconcept.co.kr
 data-sparkasse-at.wt-eu02.net
 data-ssl.pnet.co.za
@@ -13050,7 +12978,6 @@ data.info.credit-suisse.com
 data.info.ficohsa.com.gt
 data.info.ficohsa.com.pa
 data.info.gobrightline.com
-data.info.infomoney.com.br
 data.info.jetstereo.com
 data.info.lumxpert.signify.com
 data.info.metro.fr
@@ -13551,7 +13478,6 @@ degh48.fnac.com
 degree.insead.edu
 degreechariot.com
 deguisetoi.eulerian.net
-deinschrank01.webtrekk.net
 deinschrankde01.wt-eu02.net
 dejavu.mercadolivre.com.br
 dejpog.sunstar-shop.jp
@@ -13581,7 +13507,6 @@ deluxecorporation.tt.omtrdc.net
 deluxecrate.com
 dem.desiderimagazine.it
 dem.eulerian.com
-dem.eulerian.eu
 dem.eulerian.fr
 dem.eulerian.net
 dem1.eulerian.net
@@ -13621,7 +13546,6 @@ designlines01.webtrekk.net
 designsgrid.com
 desirebucket.com
 desiredirt.com
-destinia-ad.eulerian.net
 destinia-ae.eulerian.net
 destinia-asia.eulerian.net
 destinia-at.eulerian.net
@@ -13858,7 +13782,6 @@ diamages.carte-gr.total.fr
 diboji.class101.net
 dicecandies.com
 didzrr.nutraholic.com
-dieessenz01.wt-eu02.net
 diet3dart.com
 dieti-natura.es.eulerian.net
 difficultfog.com
@@ -14145,7 +14068,6 @@ discoverydp.hb.omtrdc.net
 discoverydpgolfglobal.112.2o7.net
 discoverynordics.hb.omtrdc.net
 discreetquarter.com
-dishpurchasingcorporation.hb-api.omtrdc.net
 dishpurchasingcorporation.hb.omtrdc.net
 disney.tt.omtrdc.net
 disneyinternational.hb.omtrdc.net
@@ -14182,7 +14104,6 @@ dk.lgsmartad.com
 dkb01.webtrekk.net
 dkbicq.elektramat.nl
 dkclxi.sitkagear.com
-dkfstsgd41.alphonso.tv
 dkjn1bal2.com
 dkmvyl.kidsahoi.ch
 dkno.netpartnering.com
@@ -14313,7 +14234,6 @@ dmxhgf4zuwdvu.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dna.uol.com.br
 dnacdn.net
-dnbbankasa.tt.omtrdc.net
 dncxgm.pegadorfashion.com
 dndvms.24s.com
 dnecea.vacances-lagrange.com
@@ -14444,7 +14364,6 @@ dpagcoagcoglobal.112.2o7.net
 dpckzt.mesrecettesfaciles.fr
 dpcomdhl.tt.omtrdc.net
 dpcomepost.tt.omtrdc.net
-dpgxnezsy8.alphonso.tv
 dpiprodesntls.112.2o7.net
 dplp1.ibmnorthamerica.adobesandbox.com
 dpm.demdex.net.iberostar.com
@@ -14512,7 +14431,6 @@ dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 dsoxjxin5jji.controlconceptsusa.com
 dsp-ad-cache-tm.trafficmanager.net
 dsp.adnico.jp
-dsp.isboost.co.jp
 dsp.mediad2.jp
 dsp.samsungads.com
 dspx.tv
@@ -14766,7 +14684,6 @@ ea.pixmania.it
 ea.placedestendances.com
 ea.poeleaboismaison.com
 ea.promod.es
-ea.promod.fr
 ea.promovacances.com
 ea.quiksilver.eu
 ea.radiateurplus.com
@@ -15100,7 +15017,6 @@ educationlink.clear360.com
 educationmanagementllc.112.2o7.net
 educontinua.javeriana.edu.co
 eduynp.fcl-hid.com
-edw.ea.eulerian.net
 ee-ad-lgsmartad-com.aws-prd.net
 ee.ad.lgsmartad.com
 ee.lgsmartad.com
@@ -15113,7 +15029,6 @@ eel.transistor.fm
 eennme.vidaxl.sk
 eesexz.butyraj.pl
 eetzod.bemol.com.br
-eeullx6.alphonso.tv
 eewdrt.fashiontofigure.com
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -15191,7 +15106,6 @@ eitkrg.loriblu.com
 ejbbcf.finishline.com
 ejejip.bjjfanatics.com
 ejhyhg.travelist.pl
-ejhztuvfcb3.alphonso.tv
 ejimtl.costway.com
 ejkmld.tradus.com
 ejlytics.editorji.com
@@ -15297,7 +15211,6 @@ eloquatrack.kistler.com
 eloquatracking.internationalsos.com
 eloquatracking.iqvia.com
 eloquatracking.mindbody.io
-eloquatracking.mindbodyonline.com
 elq-tracking.genomes.atcc.org
 elq-trk.fullsail.edu
 elq.accuity.com
@@ -15861,7 +15774,6 @@ enablement.vmware.com
 enablis.actonservice.com
 enbazj.ilbianconero.com
 enbw-02.wt-eu02.net
-enbw01.wt-eu02.net
 enc-90128738.b-cdn.net
 enchantedrock.actonservice.com
 enchantedskyline.com
@@ -15891,7 +15803,6 @@ endljp.ziuaconstanta.ro
 endo.dentsply.com
 endresshauser01.wt-eu02.net
 endurablebulb.com
-enercity01.wt-eu02.net
 energeticexample.com
 energeticladybug.com
 energy.eneco.be
@@ -16147,7 +16058,6 @@ er12.eulerian.net
 er13.eulerian.net
 er14.eulerian.net
 er15.eulerian.net
-er16.eulerian.net
 er17.eulerian.net
 er21.eulerian.net
 er22.eulerian.net
@@ -16212,7 +16122,6 @@ esprit-uk01.webtrekk.net
 esprit01.webtrekk.net
 espritshop-it.wt-eu02.net
 espritshop-pl.wt-eu02.net
-espritshop-pl01.wt-eu02.net
 espy.boehs.org
 esqjac.costakreuzfahrten.de
 esqxrp.bonprix-fl.be
@@ -16255,7 +16164,6 @@ et19.eulerian.net
 et2.etr.im
 et2.eulerian.com
 et2.eulerian.eu
-et2.eulerian.fr
 et2.eulerian.net
 et21.eulerian.net
 et22.eulerian.net
@@ -16311,7 +16219,6 @@ et64.eulerian.net
 et65.eulerian.net
 et66.eulerian.net
 et7.etr.im
-et7.eulerian.com
 et7.eulerian.eu
 et7.eulerian.fr
 et7.eulerian.net
@@ -16346,7 +16253,6 @@ eta2.eulerian.net
 eta3.eulerian.net
 eta4.eulerian.net
 etb.eulerian.com
-etb.eulerian.fr
 etb.eulerian.net
 etb1.eulerian.net
 etb2.eulerian.net
@@ -16802,7 +16708,6 @@ events.nuance.com
 events.oakstreethealth.com
 events.ocdn.eu
 events.oddo-bhf.com
-events.omrf.org
 events.onet.pl
 events.paramount.tech
 events.pella.com
@@ -16933,7 +16838,6 @@ experience.blackbaud.com
 experience.comcastbiz.com
 experience.contextly.com
 experience.deceuninck.be
-experience.erblearn.org
 experience.faiu.com
 experience.fbbrands.com
 experience.goudengids.be
@@ -17187,7 +17091,6 @@ fb.echovisuals.com
 fbc.wcfbc.net
 fbfredericksburgcom.112.2o7.net
 fbjpji.europcar.es
-fbl.bluehornet.com
 fbo-statistics-collector-tc.is.flippingbook.com
 fbs.smoot.apple.com
 fbsg.fayebsg.com
@@ -17323,7 +17226,6 @@ fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
 fhiwyq.axiory.com
-fhkex91.alphonso.tv
 fhngty.vetsecurite.com
 fhqrnb.feelway.com
 fhrpqp.futfanatics.com.br
@@ -17413,7 +17315,6 @@ fjdzgn.paulfredrick.com
 fjgcai.zlavomat.sk
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
-fjnkfl18.alphonso.tv
 fjortk.braun-hamburg.com
 fjp4.animalcity.es
 fjuccm.uktsc.com
@@ -17429,7 +17330,6 @@ fkupm8697t19.eyevolution.de
 fkwc.sfr.fr
 fkxlsc.fenix-store.com
 fl5dpe.oui.sncf
-flaconi-at.wt-eu02.net
 flaconi02.webtrekk.net
 flakyfeast.com
 flameuncle.com
@@ -17443,7 +17343,6 @@ flavors.firmenich.com
 fldoai.municipal.com
 fledge.as.criteo.com
 fleet-eml.postmates.com
-fleet.volkswagen.co.uk
 fleurancenature-com.eulerian.net
 fleurancenature-fr.eulerian.net
 flex-communications.com
@@ -17722,7 +17621,6 @@ forpcid3.actonsoftware.com
 forpcid4.actonsoftware.com
 forpcid5.actonsoftware.com
 forpcid6.actonsoftware.com
-fortinet.tt.omtrdc.net
 fortis.hb.omtrdc.net
 fortisbank01.webtrekk.net
 fortunatemark.com
@@ -17743,7 +17641,6 @@ foxinteractivemedia.122.2o7.net
 foxitsoftware.actonsoftware.com
 foxlagoon.com
 foxnews.hb-api.omtrdc.net
-foxnews.hb.omtrdc.net
 foxnews.tt.omtrdc.net
 foxsports.hb.omtrdc.net
 foxt.actonservice.com
@@ -17809,7 +17706,6 @@ fpida.w-wing.jp
 fpida.wacoal.co.jp
 fpida.wacoalholdings.jp
 fpida.yue-japan.com
-fpimti4.alphonso.tv
 fpjscdn.net
 fpptmv.mrmarvis.co.uk
 fpssl-monitor-dal.omniture.com
@@ -17824,7 +17720,6 @@ fpvrgm.blackforestdecor.com
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
 fqcqnb.dwr.com
-fqkplwaite01.alphonso.tv
 fqppgv.cheapoair.com
 fqxnlh.kgcshop.co.kr
 fr-ad-lgsmartad-com.aws-prd.net
@@ -17976,7 +17871,6 @@ fudezz.kompas.tv
 fudezz.motorplus-online.com
 fudezz.sonora.id
 fuelinspector.com
-fuexgl35.alphonso.tv
 fufbgj.pazzo.com.tw
 fufoir.aif.ru
 fuicmy.hana-mail.jp
@@ -18198,7 +18092,6 @@ gbc2.da1.us.criteo.com
 gbc2.fr3.eu.criteo.com
 gbc2.jp2.as.criteo.com
 gbc2.nl3.eu.criteo.com
-gbc2.sg1.as.criteo.com
 gbc2.us5.us.criteo.com
 gbc3.da.us.criteo.com
 gbc3.da1.us.criteo.com
@@ -18273,7 +18166,6 @@ gd-ad-lgsmartad-com.aws-prd.net
 gd.ad.lgsmartad.com
 gd.lgsmartad.com
 gdafrjemy1.alphonso.tv
-gdaqynhjsj9.alphonso.tv
 gdfsrd.itslighting.kr
 gdg.gardnerdenver.com
 gdm1.toner.fr
@@ -18283,7 +18175,6 @@ gdpr.netralex.com
 gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
 gdt.qq.com
-gdtey1.alphonso.tv
 ge-ad-lgsmartad-com.aws-prd.net
 ge.ad.lgsmartad.com
 ge.lgsmartad.com
@@ -18300,7 +18191,6 @@ geekbackyard.com
 gefkkw.cyberport.de
 gehealthcare.tt.omtrdc.net
 geid.wbtrk.net
-geiumfw33.alphonso.tv
 gejzgq.gehaltsvergleich.com
 gel1.gosportmontagne.com
 gem.gbc.criteo.com
@@ -18610,7 +18500,6 @@ glb12pkgr.com
 glb21pkgr.com
 glbgox.djoser.de
 gld.samsungosp.com
-gldduprk3.alphonso.tv
 gldsta-02-or.com
 gleamingcow.com
 gleaminghaven.com
@@ -18783,7 +18672,6 @@ go.ali-cle.org
 go.alliancefunds.com
 go.alliancetrustcompany.com
 go.alliedair.net
-go.alm.com
 go.almoproav.com
 go.alpco.com
 go.alpha.avant.com
@@ -18873,7 +18761,6 @@ go.bidsync.com
 go.bigo.tv
 go.bigspeak.com
 go.bigteams.com
-go.bil-jac.com
 go.billsmafia.com
 go.bilt.page
 go.biolegend.com
@@ -18929,7 +18816,6 @@ go.cambiumnetworks.com
 go.campkesem.org
 go.campus.edu
 go.canadalifecentre.ca
-go.capgeminigroup.com
 go.capital.org
 go.capitolservices.com
 go.captivate.com
@@ -18940,7 +18826,6 @@ go.cargotec.com
 go.caringo.com
 go.carlisleft.com
 go.carrefourclub.co.il
-go.catalystmutuals.com
 go.cato.org
 go.cb-w.com
 go.cboe.com
@@ -18977,7 +18862,6 @@ go.citizen.com
 go.citysprint.co.uk
 go.cj.com
 go.clarifyhealth.com
-go.classlink.com
 go.clickipo.com
 go.client.gazpasserelle.engie.fr
 go.climate.emerson.com
@@ -19070,7 +18954,6 @@ go.drivencarsallaccess.ca
 go.dubbi.com.br
 go.dukane.com
 go.dunnhumby.com
-go.duolingo.com
 go.durst-group.com
 go.dutchbros.link
 go.dxc.technology
@@ -19079,7 +18962,6 @@ go.e.mailchimp.com
 go.eacpds.com
 go.eapps.com
 go.earlywarning.com
-go.eastern.edu
 go.ebates.ca
 go.ebq.com
 go.eccles.utah.edu
@@ -19188,7 +19070,6 @@ go.france.innovatedating.com
 go.frankgroup.com
 go.franklinamerican.com
 go.fransmart.com
-go.frazierdeeter.com
 go.freedomhouse.org
 go.freework.com
 go.frescofrigo.app
@@ -19226,7 +19107,6 @@ go.ginmon.de
 go.givevolunteers.org
 go.gladson.com
 go.glide.org
-go.globalatlantic.com
 go.globalindustrial.com
 go.globalknowledge.com
 go.globalpaymentsinc.com
@@ -19304,7 +19184,6 @@ go.ibwave.com
 go.ichiwaproperty.co.jp
 go.iclif.org
 go.iconaircraft.com
-go.icontainers.com
 go.icwgroup.com
 go.ideagen.com
 go.idealistconsulting.com
@@ -19488,7 +19367,6 @@ go.marfeel.com
 go.marketing.hcibulletin.com
 go.maropost.com
 go.martindale.com
-go.masergy.com
 go.mashable.com
 go.mashery.com
 go.masterbrand.com
@@ -19514,7 +19392,6 @@ go.merqueo.com
 go.message.ofx.com
 go.metalgoodsmfg.com
 go.metallic.com
-go.metroexhibits.com
 go.mexicancupid.date
 go.mexico.innovatedating.com
 go.meyersresearchllc.com
@@ -19853,7 +19730,6 @@ go.steadyinvestor.com
 go.steelbuilding.com
 go.stefanini.com
 go.steps.me
-go.sterlingrisk.com
 go.stgapp.sharekey.com
 go.stormtrap.com
 go.storyhunter.com
@@ -19907,7 +19783,6 @@ go.teledynelecroy.com
 go.teledynemarine.com
 go.teletracking.com
 go.tellusapp.com
-go.temenos.com
 go.ten-inc.com
 go.teretek.jp
 go.terradotta.com
@@ -19959,7 +19834,6 @@ go.treelineinc.com
 go.treepeople.org
 go.trendhunter.com
 go.trevo.my
-go.trilogyed.com
 go.trimtabsfunds.com
 go.tripplite.com
 go.triumphlearning.com
@@ -20009,7 +19883,6 @@ go.verismic.com
 go.vermontlaw.edu
 go.verosoftware.com
 go.versa-networks.com
-go.vertexinc.com
 go.vertexsmb.com
 go.vevox.com
 go.vfc.com
@@ -20100,7 +19973,6 @@ go2.bizbash.com
 go2.clearent.com
 go2.extensisgroup.com
 go2.hexarmor.com
-go2.invmetrics.com
 go2.kofax.com
 go2.letscliq.com
 go2.manta.com
@@ -20591,7 +20463,6 @@ hcmhqb.radpowerbikes.ca
 hcmw.templodelmasaje.com
 hcsc.tt.omtrdc.net
 hcsmec.decathlon.pt
-hctvvxuk66.alphonso.tv
 hcu.actonservice.com
 hczvwi.soldejaneiro.com
 hd.browser.miui.com
@@ -20865,7 +20736,6 @@ hlrztkztfe5.alphonso.tv
 hlygsp.modivo.ro
 hmakpa.saksoff5th.com
 hmcncq.pierreetvacances.com
-hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
 hmeagu.e87.com
 hmeoda.restplatzboerse.ch
@@ -21017,7 +20887,6 @@ hsfaffiliatesllc.tt.omtrdc.net
 hsfhfh95.alphonso.tv
 hsleadflows.net
 hslkll.psychic.de
-hsmjvjlu4.alphonso.tv
 hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
@@ -21076,7 +20945,6 @@ hutkse.wecandoo.fr
 hvac.goodcoinc.com
 hvac.solutions.jci.com
 hvgcfx1.com
-hvmllc.tt.omtrdc.net
 hvpeme.petedge.com
 hvrhgt.the-sun.com
 hvrhgt.thescottishsun.co.uk
@@ -21314,7 +21182,6 @@ ihi.flowplayer.com
 ihnbqe.shane.co.jp
 ihpyig.hometogo.ch
 ihtnxu.tannergoods.com
-ihzculw9.alphonso.tv
 iiajtl.zeit.de
 iiceq.intuit.com
 iiqtru.aunworks.jp
@@ -21354,7 +21221,6 @@ ilpostoplus.openapp.link
 ilsecoloxixitalia01.wt-eu02.net
 ilsole24oreitalia01.wt-eu02.net
 iltcaf.immobilienscout24.de
-iluvtsmu17.alphonso.tv
 iluz.keepcool.fr
 ilvqos.lyst.es
 im.etr.im
@@ -21392,13 +21258,8 @@ imagecutie.com
 imagenes.ubmmexico.com
 imagens.conteudo.algartelecom.com.br
 imageproxy.as.criteo.net
-imageproxy.da1.vip.prod.criteo.net
 imageproxy.eu.criteo.net
-imageproxy.fr3.vip.prod.criteo.net
-imageproxy.nl3.vip.prod.criteo.net
-imageproxy.sg1.vip.prod.criteo.net
 imageproxy.us.criteo.net
-imageproxy.us5.vip.prod.criteo.net
 images.a.flukebiomedical.com
 images.access.imaginelearning.com
 images.aepinfo.com
@@ -21419,7 +21280,6 @@ images.bounceback.chiesiusa.com
 images.brand.j2.com
 images.business.fedex.com
 images.business.lenovo.com
-images.business.samsungusa.com
 images.by.sensiolabs.com
 images.campaign.crmit.com
 images.campaign.reedexpo.at
@@ -21901,7 +21761,6 @@ imagica.brain.ai
 imaginative-trade7.com
 imagine.ricoh.nl
 imap.a.shortest-route.com
-imap.c.shortest-route.com
 imap.cainus.teradatadmc.com
 imap.happ.social
 imap.m.shortest-route.com
@@ -22003,7 +21862,6 @@ in-ftd-100.nl3.vip.prod.criteo.com
 in-ftd-100.sg1.vip.prod.criteo.com
 in-ftd-100.us5.vip.prod.criteo.com
 in-ftd-103.da1.vip.prod.criteo.com
-in-ftd-103.fr3.vip.prod.criteo.com
 in-ftd-103.jp2.vip.prod.criteo.com
 in-ftd-103.nl3.vip.prod.criteo.com
 in-ftd-103.sg1.vip.prod.criteo.com
@@ -22013,7 +21871,6 @@ in-ftd-104.fr3.vip.prod.criteo.com
 in-ftd-104.jp2.vip.prod.criteo.com
 in-ftd-104.nl3.vip.prod.criteo.com
 in-ftd-104.sg1.vip.prod.criteo.com
-in-ftd-104.us5.vip.prod.criteo.com
 in-ftd-105.da1.vip.prod.criteo.com
 in-ftd-105.fr3.vip.prod.criteo.com
 in-ftd-105.jp2.vip.prod.criteo.com
@@ -22410,7 +22267,6 @@ info.energizect.com
 info.engage.3m.com
 info.entega.de
 info.epworthvilla.org
-info.erepublic.com
 info.escocorp.com
 info.esriaustralia.com.au
 info.esriindonesia.co.id
@@ -23016,7 +22872,6 @@ infoworldmediagroup.112.2o7.net
 infrastrategy.122.2o7.net
 infratotalduicom.122.2o7.net
 ingdirectaustralia.tt.omtrdc.net
-ingenuityinsightful-52.com
 ingest.appcenter.ms
 ingest.coincodex.com
 ingest.make.rvapps.io
@@ -23030,7 +22885,6 @@ ingress.linktr.ee
 ingress.trendii.com
 ingspain.tt.omtrdc.net
 inkubate.actonservice.com
-inmdgvv25.alphonso.tv
 inmtuj.jobs.ie
 inmuzp.popsockets.com
 innerskinresearch.com
@@ -23272,10 +23126,8 @@ io1.eulerian.eu
 io1.eulerian.fr
 io1.eulerian.net
 io1.io1g.net
-io101.eulerian.net
 io102.eulerian.net
 io103.eulerian.net
-io104.eulerian.net
 ioactiveinc.actonservice.com
 ioaoyyl3.alphonso.tv
 iobyeq.dallmayr-versand.de
@@ -23492,7 +23344,6 @@ jabalproperties.org
 jabber.etr.im
 jabber.eulerian.biz
 jabber.eulerian.ca
-jabber.eulerian.co.uk
 jabber.eulerian.com
 jabber.eulerian.eu
 jabber.eulerian.fr
@@ -23818,7 +23669,6 @@ jrxrit.europcar.de
 jrzgcz.ciociariaoggi.it
 jrzgcz.latinaoggi.eu
 js.cdn.applicationinsights.io
-js.genieessp.com
 js.jma.go.jp
 js.mediams.mb.softbank.jp
 js.monetize-ssp.com
@@ -23857,8 +23707,6 @@ jubilanttempest.com
 jubilantvista.com
 jubilantwhisper.com
 jubileo-ppb.carte-gr.total.fr
-jucbz7.alphonso.tv
-jucny23.alphonso.tv
 jufhxk.audienhearing.com
 juicebard.com
 juiceblocks.com
@@ -23873,7 +23721,6 @@ jupiter.intl.sys.miui.com
 jupiter.rus.sys.miui.com
 jupiter.sys.miui.com
 jupiterhealth-app.hotdoc.com.au
-jupyter.eulerian.net
 just.playvici.com
 justconfig.com
 justicejudo.com
@@ -23953,7 +23800,6 @@ kaebyy.autouncle.se
 kaiser.tt.omtrdc.net
 kakakucom.112.2o7.net
 kaladyaudiology.ericksonbuilt.com
-kalhiwv76.alphonso.tv
 kallerupstone.viessmann.dk
 kalstats.kaltura.com
 kalwub.mizuho-re.co.jp
@@ -24065,7 +23911,6 @@ kiomi-com01.webtrekk.net
 kiplinger.112.2o7.net
 kiqwal.autoscout24.es
 kiqwil.l-m.co.jp
-kirklandsinc.tt.omtrdc.net
 kirsrn.runway-webstore.com
 kistacity.viessmann.se
 kit22.com
@@ -24153,7 +23998,6 @@ kpr2exp21.com
 kprbexp21.com
 kpu.samsungelectronics.com
 kqchxa.denizbutik.com
-kqcwmezun8.alphonso.tv
 kqdqrj.traktorpool.de
 kqefj.clearstem.com
 kqhckf.outfits24.de
@@ -24284,8 +24128,6 @@ krishnaw368.alphonso.tv
 krishnaw369.alphonso.tv
 krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
-krishnaw372.alphonso.tv
-krishnaw373.alphonso.tv
 krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
 krishnaw377.alphonso.tv
@@ -24299,7 +24141,6 @@ krishnaw384.alphonso.tv
 krishnaw385.alphonso.tv
 krishnaw386.alphonso.tv
 krishnaw387.alphonso.tv
-krishnaw389.alphonso.tv
 krishnaw390.alphonso.tv
 krishnaw391.alphonso.tv
 krishnaw392.alphonso.tv
@@ -24313,7 +24154,6 @@ krishnaw404.alphonso.tv
 krishnaw405.alphonso.tv
 krishnaw407.alphonso.tv
 krishnaw408.alphonso.tv
-krishnaw410.alphonso.tv
 krishnaw411.alphonso.tv
 krishnaw412.alphonso.tv
 krishnaw413.alphonso.tv
@@ -24331,7 +24171,6 @@ krishnaw428.alphonso.tv
 krishnaw429.alphonso.tv
 krishnaw430.alphonso.tv
 krishnaw432.alphonso.tv
-krishnaw433.alphonso.tv
 krishnaw434.alphonso.tv
 krishnaw435.alphonso.tv
 krishnaw436.alphonso.tv
@@ -24349,7 +24188,6 @@ krishnaw450.alphonso.tv
 krishnaw451.alphonso.tv
 krishnaw452.alphonso.tv
 krishnaw453.alphonso.tv
-krishnaw454.alphonso.tv
 krishnaw456.alphonso.tv
 krishnaw457.alphonso.tv
 krishnaw458.alphonso.tv
@@ -24396,10 +24234,6 @@ krishnaw501.alphonso.tv
 krishnaw502.alphonso.tv
 krishnaw503.alphonso.tv
 krishnaw504.alphonso.tv
-krishnaw505.alphonso.tv
-krishnaw506.alphonso.tv
-krishnaw507.alphonso.tv
-krishnaw508.alphonso.tv
 kristechwire.actonservice.com
 krkralovehradecky01.webtrekk.net
 krm22.actonservice.com
@@ -24431,7 +24265,6 @@ kuwaitmarketing.sedgwick.com
 kuyun.com
 kvfumh.fairwaystyles.com
 kvfunf.factorydirect.ca
-kvk2.ahojkanarskeostrovy.com
 kvnkjd.kaigoshoku.mynavi.jp
 kvskic.jadore-jun.jp
 kvt5.blesscollectionhotels.com
@@ -24468,7 +24301,6 @@ kz.ad.lgsmartad.com
 kz.lgsmartad.com
 kzc6.czescwyspykanaryjskie.com
 kzhesi.corcoran.com
-kzjcbzwsof9.alphonso.tv
 kzmual.superga.com
 kzsicw.chip.de
 kzsicw.cinema.de
@@ -24904,7 +24736,6 @@ libraryvalue.com
 librato-collector.genius.com
 licensinginsights.ascap.com
 licensingtelemetry-prod.servicebus.windows.net
-licyktai42.alphonso.tv
 liecso.e-himart.co.kr
 lieudetravail.ricoh.fr
 lifescience.item24.de
@@ -24917,7 +24748,6 @@ lightenafterthought.com
 lighterthinnerstronger.fiber-line.com
 lighttalon.com
 ligxyv.hackers.co.kr
-ligznugvqw69.alphonso.tv
 like.reply.de
 likethedog.com
 lilly.tt.omtrdc.net
@@ -25896,7 +25726,6 @@ lnk.raceful.ly
 lnk.rush.gold
 lnk.welthee.com
 lnk2.patpat.com
-lnkd.tt.omtrdc.net
 lnntnt.hsastore.com
 lntvby.banggood.com
 lnxfgm.party-calendar.net
@@ -26346,7 +26175,6 @@ lumpygnome.com
 lumpylumber.com
 lumpywood.com
 lumtjt.plumbingonline.ca
-luna.r.lafamo.com
 lunarcave.com
 lunchroomlock.com
 luptbq.lampsplus.com
@@ -26412,7 +26240,6 @@ lytics.findairpods.com
 lyxfra.shopee.com.my
 lyypsy.unisportstore.se
 lzcwbt.schuhcenter.de
-lzfjgrp86.alphonso.tv
 lziqkx.countryoutfitter.com
 lzr0.ekosport.nl
 lzrhay.farmaciasoccavo.it
@@ -26597,7 +26424,6 @@ mail.bravado.co
 mail.bravardag.se
 mail.bridgetowermedia.info
 mail.bridgetowermedia.press
-mail.cafonline.org.uk
 mail.calnexinfo.com
 mail.carte-gr.total.fr
 mail.central.co.th
@@ -26661,7 +26487,6 @@ mail.everydayme.fi
 mail.everydayme.no
 mail.everydayme.ru
 mail.everydaymearabia.com
-mail.executivetravelmail.com
 mail.fathomdelivers.com
 mail.festivasailingvacationsmail.com
 mail.fhlbtopekamail.com
@@ -26735,7 +26560,6 @@ mail1.aabacosmallbusiness.com
 mail1.actsys-mail.com
 mail1.amexopen.americanexpress.com
 mail1.aosag.net
-mail1.aospb.com
 mail1.b.e.meridiancm.com
 mail1.b2b-mail.net
 mail1.happ.social
@@ -26799,7 +26623,6 @@ mail141.aosag.net
 mail142.aosag.net
 mail143.aosag.net
 mail144.aosag.net
-mail145.aosag.net
 mail146.aosag.net
 mail147.aosag.net
 mail148.aosag.net
@@ -26889,7 +26712,6 @@ mail2.vivus1.com
 mail20.aosag.net
 mail20.b2b-mail.net
 mail200.aosag.net
-mail201.aosag.net
 mail202.aosag.net
 mail203.aosag.net
 mail204.aosag.net
@@ -26922,7 +26744,6 @@ mail226.aosag.net
 mail227.aosag.net
 mail228.aosag.net
 mail229.aosag.net
-mail23.aosag.net
 mail23.b2b-mail.net
 mail230.aosag.net
 mail231.aosag.net
@@ -26958,11 +26779,9 @@ mail26.b2b-mail.net
 mail27.aosag.net
 mail27.b2b-mail.net
 mail28.aosag.net
-mail28.b2b-mail.net
 mail29.aosag.net
 mail29.b2b-mail.net
 mail3.aabacosmallbusiness.com
-mail3.amexopen.americanexpress.com
 mail3.aosag.net
 mail3.b.e.meridiancm.com
 mail3.b2b-mail.net
@@ -26985,7 +26804,6 @@ mail34.b2b-mail.net
 mail35.aosag.net
 mail35.b2b-mail.net
 mail36.aosag.net
-mail36.b2b-mail.net
 mail37.aosag.net
 mail37.b2b-mail.net
 mail38.aosag.net
@@ -27108,7 +26926,6 @@ mailer.phhlending.com
 mailer.plidek.com
 mailer.progressiveagentmail.com
 mailer.rbis-averydennison.com
-mailer.realstorygroupemail.com
 mailer.setaram.com
 mailer.smallbiz.hulu.com
 mailer.smallbusinessmiracles.com
@@ -27283,7 +27100,6 @@ mailer22.zoommeetingsclassaction.com
 mailer220.aosag.net
 mailer221.aosag.net
 mailer222.aosag.net
-mailer223.aosag.net
 mailer224.aosag.net
 mailer225.aosag.net
 mailer226.aosag.net
@@ -27344,7 +27160,6 @@ mailer31.zoommeetingsclassaction.com
 mailer32.aosag.net
 mailer32.zoommeetingsclassaction.com
 mailer33.aosag.net
-mailer33.zoommeetingsclassaction.com
 mailer34.aosag.net
 mailer34.zoommeetingsclassaction.com
 mailer35.aosag.net
@@ -27366,7 +27181,6 @@ mailer40.zoommeetingsclassaction.com
 mailer41.aosag.net
 mailer41.zoommeetingsclassaction.com
 mailer42.aosag.net
-mailer42.zoommeetingsclassaction.com
 mailer43.aosag.net
 mailer43.zoommeetingsclassaction.com
 mailer44.aosag.net
@@ -27399,7 +27213,6 @@ mailer55.zoommeetingsclassaction.com
 mailer56.aosag.net
 mailer56.zoommeetingsclassaction.com
 mailer57.aosag.net
-mailer57.zoommeetingsclassaction.com
 mailer58.aosag.net
 mailer58.zoommeetingsclassaction.com
 mailer59.aosag.net
@@ -28079,7 +27892,6 @@ marketing.frontrowseatsllc.com
 marketing.ftfnews.com
 marketing.funmobility.com
 marketing.funraise.io
-marketing.fusioncharts.com
 marketing.fwcbd.com
 marketing.gables.com
 marketing.gasandsupply.com
@@ -29175,7 +28987,6 @@ mckiey.thun.com
 mckinseyglobalnewsitecoreprod.112.2o7.net
 mckinseyknow.tt.omtrdc.net
 mckinseyknowledge.122.2o7.net
-mcomuid8.alphonso.tv
 mcp.tvinteractive.tv
 mcs-ie.tiktokw.eu
 mcs-va-useast2a.tiktokv.com
@@ -31240,6 +31051,7 @@ mistat.intl.xiaomi.com.ksyna.net
 mistat.rus.xiaomi.com
 mistat.rus.xiaomi.com.edgesuite.net
 mistat.rus.xiaomi.com.ksyna.net
+mistat.xiaomi.com
 mistat.xiaomi.com.download.ks-cdn.com
 misterspex01.webtrekk.net
 misterspex01.wt-eu02.net
@@ -31284,7 +31096,6 @@ mjca-yijws.global.ssl.fastly.net
 mjfunt.bibi.com
 mjjvkx.monoprice.com
 mjnpya.marktplaats.nl
-mjrlg36.alphonso.tv
 mjsnvi.extraspace.com
 mjutjc.telstarsurf.de
 mjwnxc.julbie.com
@@ -31362,7 +31173,6 @@ ml.lgsmartad.com
 ml01.eulerian.net
 ml02.eulerian.net
 ml03.eulerian.net
-ml04.eulerian.net
 ml05.eulerian.net
 ml06.eulerian.net
 ml07.eulerian.net
@@ -31598,7 +31408,6 @@ mp.theepochtimes.com
 mpakal.openapp.link
 mpassde01.webtrekk.net
 mpc-co.actonservice.com
-mpenaidv15.alphonso.tv
 mpfml72.alphonso.tv
 mpglie.apartmentguide.com
 mpgtft.zoobeauval.com
@@ -31626,7 +31435,6 @@ mr.ad.lgsmartad.com
 mr.homedepot.ca
 mr.lgsmartad.com
 mre6.destinia.ma
-mrhcmybeao1.alphonso.tv
 mri.iradimed.com
 mrksmm.yumegazai.com
 mroprospector.aviationweek.com
@@ -31804,7 +31612,6 @@ mta61-18.muc.bh-mail.com
 mta61-180.muc.bh-mail.com
 mta61-181.muc.bh-mail.com
 mta61-182.muc.bh-mail.com
-mta61-183.muc.bh-mail.com
 mta61-184.muc.bh-mail.com
 mta61-185.muc.bh-mail.com
 mta61-186.muc.bh-mail.com
@@ -31814,7 +31621,6 @@ mta61-189.muc.bh-mail.com
 mta61-19.muc.bh-mail.com
 mta61-190.muc.bh-mail.com
 mta61-191.muc.bh-mail.com
-mta61-192.muc.bh-mail.com
 mta61-193.muc.bh-mail.com
 mta61-194.muc.bh-mail.com
 mta61-195.muc.bh-mail.com
@@ -31828,7 +31634,6 @@ mta61-200.muc.bh-mail.com
 mta61-201.muc.bh-mail.com
 mta61-202.muc.bh-mail.com
 mta61-203.muc.bh-mail.com
-mta61-204.muc.bh-mail.com
 mta61-205.muc.bh-mail.com
 mta61-206.muc.bh-mail.com
 mta61-207.muc.bh-mail.com
@@ -31843,7 +31648,6 @@ mta61-214.muc.bh-mail.com
 mta61-215.muc.bh-mail.com
 mta61-216.muc.bh-mail.com
 mta61-217.muc.bh-mail.com
-mta61-218.muc.bh-mail.com
 mta61-219.muc.bh-mail.com
 mta61-22.muc.bh-mail.com
 mta61-220.muc.bh-mail.com
@@ -31913,8 +31717,6 @@ mta61-49.muc.bh-mail.com
 mta61-5.muc.bh-mail.com
 mta61-50.muc.bh-mail.com
 mta61-51.muc.bh-mail.com
-mta61-52.muc.bh-mail.com
-mta61-53.muc.bh-mail.com
 mta61-54.muc.bh-mail.com
 mta61-55.muc.bh-mail.com
 mta61-56.muc.bh-mail.com
@@ -31928,7 +31730,6 @@ mta61-62.muc.bh-mail.com
 mta61-63.muc.bh-mail.com
 mta61-64.muc.bh-mail.com
 mta61-65.muc.bh-mail.com
-mta61-66.muc.bh-mail.com
 mta61-67.muc.bh-mail.com
 mta61-68.muc.bh-mail.com
 mta61-69.muc.bh-mail.com
@@ -31962,12 +31763,10 @@ mta61-93.muc.bh-mail.com
 mta61-94.muc.bh-mail.com
 mta61-95.muc.bh-mail.com
 mta61-96.muc.bh-mail.com
-mta61-97.muc.bh-mail.com
 mta61-98.muc.bh-mail.com
 mta61-99.muc.bh-mail.com
 mta62-1.muc.bh-mail.com
 mta62-10.muc.bh-mail.com
-mta62-100.muc.bh-mail.com
 mta62-101.muc.bh-mail.com
 mta62-102.muc.bh-mail.com
 mta62-103.muc.bh-mail.com
@@ -31997,7 +31796,6 @@ mta62-124.muc.bh-mail.com
 mta62-125.muc.bh-mail.com
 mta62-126.muc.bh-mail.com
 mta62-127.muc.bh-mail.com
-mta62-128.muc.bh-mail.com
 mta62-129.muc.bh-mail.com
 mta62-13.muc.bh-mail.com
 mta62-130.muc.bh-mail.com
@@ -32124,7 +31922,6 @@ mta62-24.muc.bh-mail.com
 mta62-240.muc.bh-mail.com
 mta62-241.muc.bh-mail.com
 mta62-242.muc.bh-mail.com
-mta62-243.muc.bh-mail.com
 mta62-244.muc.bh-mail.com
 mta62-245.muc.bh-mail.com
 mta62-246.muc.bh-mail.com
@@ -32132,7 +31929,6 @@ mta62-247.muc.bh-mail.com
 mta62-248.muc.bh-mail.com
 mta62-249.muc.bh-mail.com
 mta62-25.muc.bh-mail.com
-mta62-250.muc.bh-mail.com
 mta62-251.muc.bh-mail.com
 mta62-252.muc.bh-mail.com
 mta62-253.muc.bh-mail.com
@@ -32196,9 +31992,7 @@ mta62-76.muc.bh-mail.com
 mta62-77.muc.bh-mail.com
 mta62-78.muc.bh-mail.com
 mta62-79.muc.bh-mail.com
-mta62-8.muc.bh-mail.com
 mta62-80.muc.bh-mail.com
-mta62-81.muc.bh-mail.com
 mta62-82.muc.bh-mail.com
 mta62-83.muc.bh-mail.com
 mta62-84.muc.bh-mail.com
@@ -32246,8 +32040,6 @@ mta63-120.muc.bh-mail.com
 mta63-121.muc.bh-mail.com
 mta63-122.muc.bh-mail.com
 mta63-123.muc.bh-mail.com
-mta63-124.muc.bh-mail.com
-mta63-125.muc.bh-mail.com
 mta63-126.muc.bh-mail.com
 mta63-127.muc.bh-mail.com
 mta63-128.muc.bh-mail.com
@@ -32367,7 +32159,6 @@ mta63-23.muc.bh-mail.com
 mta63-230.muc.bh-mail.com
 mta63-231.muc.bh-mail.com
 mta63-232.muc.bh-mail.com
-mta63-233.muc.bh-mail.com
 mta63-234.muc.bh-mail.com
 mta63-235.muc.bh-mail.com
 mta63-236.muc.bh-mail.com
@@ -32386,9 +32177,7 @@ mta63-247.muc.bh-mail.com
 mta63-248.muc.bh-mail.com
 mta63-249.muc.bh-mail.com
 mta63-25.muc.bh-mail.com
-mta63-250.muc.bh-mail.com
 mta63-251.muc.bh-mail.com
-mta63-252.muc.bh-mail.com
 mta63-253.muc.bh-mail.com
 mta63-254.muc.bh-mail.com
 mta63-26.muc.bh-mail.com
@@ -32399,7 +32188,6 @@ mta63-3.muc.bh-mail.com
 mta63-30.muc.bh-mail.com
 mta63-31.muc.bh-mail.com
 mta63-32.muc.bh-mail.com
-mta63-33.muc.bh-mail.com
 mta63-34.muc.bh-mail.com
 mta63-35.muc.bh-mail.com
 mta63-36.muc.bh-mail.com
@@ -32543,7 +32331,6 @@ mta64-16.muc.bh-mail.com
 mta64-160.muc.bh-mail.com
 mta64-161.muc.bh-mail.com
 mta64-162.muc.bh-mail.com
-mta64-163.muc.bh-mail.com
 mta64-164.muc.bh-mail.com
 mta64-165.muc.bh-mail.com
 mta64-166.muc.bh-mail.com
@@ -32651,7 +32438,6 @@ mta64-28.muc.bh-mail.com
 mta64-29.muc.bh-mail.com
 mta64-3.muc.bh-mail.com
 mta64-30.muc.bh-mail.com
-mta64-31.muc.bh-mail.com
 mta64-32.muc.bh-mail.com
 mta64-33.muc.bh-mail.com
 mta64-34.muc.bh-mail.com
@@ -32678,7 +32464,6 @@ mta64-52.muc.bh-mail.com
 mta64-53.muc.bh-mail.com
 mta64-54.muc.bh-mail.com
 mta64-55.muc.bh-mail.com
-mta64-56.muc.bh-mail.com
 mta64-57.muc.bh-mail.com
 mta64-58.muc.bh-mail.com
 mta64-59.muc.bh-mail.com
@@ -32689,7 +32474,6 @@ mta64-62.muc.bh-mail.com
 mta64-63.muc.bh-mail.com
 mta64-64.muc.bh-mail.com
 mta64-65.muc.bh-mail.com
-mta64-66.muc.bh-mail.com
 mta64-67.muc.bh-mail.com
 mta64-68.muc.bh-mail.com
 mta64-69.muc.bh-mail.com
@@ -32731,7 +32515,6 @@ mta65-10.muc.bh-mail.com
 mta65-100.muc.bh-mail.com
 mta65-101.muc.bh-mail.com
 mta65-102.muc.bh-mail.com
-mta65-103.muc.bh-mail.com
 mta65-104.muc.bh-mail.com
 mta65-105.muc.bh-mail.com
 mta65-106.muc.bh-mail.com
@@ -32769,13 +32552,11 @@ mta65-134.muc.bh-mail.com
 mta65-135.muc.bh-mail.com
 mta65-136.muc.bh-mail.com
 mta65-137.muc.bh-mail.com
-mta65-138.muc.bh-mail.com
 mta65-139.muc.bh-mail.com
 mta65-14.muc.bh-mail.com
 mta65-140.muc.bh-mail.com
 mta65-141.muc.bh-mail.com
 mta65-142.muc.bh-mail.com
-mta65-143.muc.bh-mail.com
 mta65-144.muc.bh-mail.com
 mta65-145.muc.bh-mail.com
 mta65-146.muc.bh-mail.com
@@ -32794,7 +32575,6 @@ mta65-157.muc.bh-mail.com
 mta65-158.muc.bh-mail.com
 mta65-159.muc.bh-mail.com
 mta65-16.muc.bh-mail.com
-mta65-160.muc.bh-mail.com
 mta65-161.muc.bh-mail.com
 mta65-162.muc.bh-mail.com
 mta65-163.muc.bh-mail.com
@@ -32962,7 +32742,6 @@ mta65-8.muc.bh-mail.com
 mta65-80.muc.bh-mail.com
 mta65-81.muc.bh-mail.com
 mta65-82.muc.bh-mail.com
-mta65-83.muc.bh-mail.com
 mta65-84.muc.bh-mail.com
 mta65-85.muc.bh-mail.com
 mta65-86.muc.bh-mail.com
@@ -32974,7 +32753,6 @@ mta65-90.muc.bh-mail.com
 mta65-91.muc.bh-mail.com
 mta65-92.muc.bh-mail.com
 mta65-93.muc.bh-mail.com
-mta65-94.muc.bh-mail.com
 mta65-95.muc.bh-mail.com
 mta65-96.muc.bh-mail.com
 mta65-97.muc.bh-mail.com
@@ -33006,7 +32784,6 @@ mta66-119.muc.bh-mail.com
 mta66-12.muc.bh-mail.com
 mta66-120.muc.bh-mail.com
 mta66-121.muc.bh-mail.com
-mta66-122.muc.bh-mail.com
 mta66-123.muc.bh-mail.com
 mta66-124.muc.bh-mail.com
 mta66-125.muc.bh-mail.com
@@ -33128,7 +32905,6 @@ mta66-229.muc.bh-mail.com
 mta66-23.muc.bh-mail.com
 mta66-230.muc.bh-mail.com
 mta66-231.muc.bh-mail.com
-mta66-232.muc.bh-mail.com
 mta66-233.muc.bh-mail.com
 mta66-234.muc.bh-mail.com
 mta66-235.muc.bh-mail.com
@@ -33263,7 +33039,6 @@ mta67-121.muc.bh-mail.com
 mta67-122.muc.bh-mail.com
 mta67-123.muc.bh-mail.com
 mta67-124.muc.bh-mail.com
-mta67-125.muc.bh-mail.com
 mta67-126.muc.bh-mail.com
 mta67-127.muc.bh-mail.com
 mta67-128.muc.bh-mail.com
@@ -33395,7 +33170,6 @@ mta67-240.muc.bh-mail.com
 mta67-241.muc.bh-mail.com
 mta67-242.muc.bh-mail.com
 mta67-243.muc.bh-mail.com
-mta67-244.muc.bh-mail.com
 mta67-245.muc.bh-mail.com
 mta67-246.muc.bh-mail.com
 mta67-247.muc.bh-mail.com
@@ -33559,14 +33333,12 @@ mva1.maeva.com
 mvc.shopjapan.co.jp
 mvjkbj.2-carat.net
 mvjkbj.inazumanews2.com
-mvvjxmygdr2.alphonso.tv
 mw-ind.actonservice.com
 mw.lgsmartad.com
 mwa.meanwellaustralia.com.au
 mwbhkv.plasico.bg
 mwbilx.pisos.com
 mwf7.montecarlowellness.com
-mwhxl42.alphonso.tv
 mws.verisk.com
 mwuvclbed2.alphonso.tv
 mwxema.galerieslafayette.com
@@ -33593,7 +33365,6 @@ mx003.cainus.teradatadmc.com
 mx003.wcohus.teradatadmc.com
 mx004.cainus.teradatadmc.com
 mx004.wcohus.teradatadmc.com
-mx01.a.shortest-route.com
 mx01.c.shortest-route.com
 mx01.m.shortest-route.com
 mx01.ru.teradatadmc.com
@@ -33647,7 +33418,6 @@ mx117-de.aosau.net
 mx118-de.aosau.net
 mx119-de.aosau.net
 mx12-de.aosau.net
-mx12.aosau.net
 mx12.aosdelivery.com
 mx120-de.aosau.net
 mx121-de.aosau.net
@@ -33662,7 +33432,6 @@ mx129-de.aosau.net
 mx13-de.aosau.net
 mx13.aosau.net
 mx130-de.aosau.net
-mx131-de.aosau.net
 mx132-de.aosau.net
 mx133-de.aosau.net
 mx134-de.aosau.net
@@ -33678,7 +33447,6 @@ mx141-de.aosau.net
 mx142-de.aosau.net
 mx143-de.aosau.net
 mx144-de.aosau.net
-mx145-de.aosau.net
 mx145.aoscmt.com
 mx146-de.aosau.net
 mx146.aoscmt.com
@@ -33713,7 +33481,6 @@ mx159.aoscmt.com
 mx16-de.aosau.net
 mx16.aosau.net
 mx160-de.aosau.net
-mx160.aoscmt.com
 mx161-de.aosau.net
 mx161.aoscmt.com
 mx162-de.aosau.net
@@ -33760,7 +33527,6 @@ mx185-de.aosau.net
 mx186-de.aosau.net
 mx187-de.aosau.net
 mx188-de.aosau.net
-mx189-de.aosau.net
 mx19-de.aosau.net
 mx19.aosau.net
 mx190-de.aosau.net
@@ -33861,7 +33627,6 @@ mx31-de.aosau.net
 mx32-de.aosau.net
 mx33-de.aosau.net
 mx34-de.aosau.net
-mx35-de.aosau.net
 mx36-de.aosau.net
 mx37-de.aosau.net
 mx38-de.aosau.net
@@ -33870,7 +33635,6 @@ mx4-b.e.replacementdevicelawsuit.com
 mx4-de.aosau.net
 mx4.aosau.net
 mx4.aosdelivery.com
-mx40-de.aosau.net
 mx41-de.aosau.net
 mx42-de.aosau.net
 mx43-de.aosau.net
@@ -33894,7 +33658,6 @@ mx56-de.aosau.net
 mx57-de.aosau.net
 mx58-de.aosau.net
 mx59-de.aosau.net
-mx6-de.aosau.net
 mx6.aosau.net
 mx6.aosdelivery.com
 mx60-de.aosau.net
@@ -33908,7 +33671,6 @@ mx67-de.aosau.net
 mx68-de.aosau.net
 mx69-de.aosau.net
 mx7-de.aosau.net
-mx7.aosau.net
 mx7.aosdelivery.com
 mx70-de.aosau.net
 mx71-de.aosau.net
@@ -33944,7 +33706,6 @@ mx94-de.aosau.net
 mx95-de.aosau.net
 mx96-de.aosau.net
 mx97-de.aosau.net
-mx98-de.aosau.net
 mx99-de.aosau.net
 mx99.aosau.net
 mxdzxd.mister-auto.com
@@ -34199,7 +33960,6 @@ net.steiner-vision.de
 net.tradeers.de
 net.voopter.com.br
 net.zooroyal.de
-net1.gosportmontagne.com
 net1.netski.com
 netaddiction01.webtrekk.net
 netc.sfr.fr
@@ -34506,7 +34266,6 @@ noiselessplough.com
 nol.yahoo.com
 nom.familysearch.org
 nom.lds.org
-nomade-aventure.eulerian.net
 nomsc.kpn.com
 nonchalantnerve.com
 nondescriptcrowd.com
@@ -34554,7 +34313,6 @@ notice.metrobyt-mobile.com
 notice.t-mobile.com
 notices.regis.edu
 noticias.grandt.com.ar
-notificacion.lifemiles.com
 notificaciones.conduce-seguro.es
 notifications.autozonepro.com
 notifpush.com
@@ -34627,7 +34385,6 @@ ns0.eulerian.eu
 ns0.eulerian.fr
 ns0.eulerian.net
 ns01.eulerian.com
-ns01.eulerian.eu
 ns01.eulerian.fr
 ns01.eulerian.net
 ns02.eulerian.com
@@ -34740,7 +34497,6 @@ nullradar.com
 numbers.monthlyphotos.com
 numerousnest.com
 nums.upscale.app
-nuobqhs7.alphonso.tv
 nuquds.citizenwatch.com
 nurse.fastaff.com
 nurse.trustaff.com
@@ -34865,7 +34621,6 @@ ob111.aoscufe.com
 ob112.aoscufe.com
 ob113.aoscufe.com
 ob114.aoscufe.com
-ob115.aoscufe.com
 ob116.aoscufe.com
 ob117.aoscufe.com
 ob118.aoscufe.com
@@ -34912,7 +34667,6 @@ ob155.aoscufe.com
 ob156.aoscufe.com
 ob157.aoscufe.com
 ob158.aoscufe.com
-ob159.aoscufe.com
 ob16.aoscufe.com
 ob160.aoscufe.com
 ob161.aoscufe.com
@@ -34934,7 +34688,6 @@ ob175.aoscufe.com
 ob176.aoscufe.com
 ob177.aoscufe.com
 ob178.aoscufe.com
-ob179.aoscufe.com
 ob18.aoscufe.com
 ob180.aoscufe.com
 ob181.aoscufe.com
@@ -34965,7 +34718,6 @@ ob202.aoscufe.com
 ob203.aoscufe.com
 ob204.aoscufe.com
 ob205.aoscufe.com
-ob206.aoscufe.com
 ob207.aoscufe.com
 ob208.aoscufe.com
 ob209.aoscufe.com
@@ -35012,13 +34764,11 @@ ob245.aoscufe.com
 ob246.aoscufe.com
 ob247.aoscufe.com
 ob248.aoscufe.com
-ob249.aoscufe.com
 ob25.aoscufe.com
 ob250.aoscufe.com
 ob251.aoscufe.com
 ob252.aoscufe.com
 ob253.aoscufe.com
-ob254.aoscufe.com
 ob255.aoscufe.com
 ob26.aoscufe.com
 ob27.aoscufe.com
@@ -35101,7 +34851,6 @@ ob96.aoscufe.com
 ob97.aoscufe.com
 ob98.aoscufe.com
 ob99.aoscufe.com
-obcwfnkus0.alphonso.tv
 oberonincredig.112.2o7.net
 oberoniplay.112.2o7.net
 obfrok.partyking.no
@@ -35117,18 +34866,15 @@ objecthero.com
 objectpartners.actonservice.com
 oblivionfleet.com
 obm.bridgetowermedia.press
-obm.emails.luxurylink.com
 obm1.aosag.net
 obm1.aoscufe.com
 obm10.aosag.net
-obm10.aoscufe.com
 obm100.aoscufe.com
 obm101.aoscufe.com
 obm102.aoscufe.com
 obm103.aoscufe.com
 obm104.aoscufe.com
 obm105.aoscufe.com
-obm106.aoscufe.com
 obm107.aoscufe.com
 obm108.aoscufe.com
 obm109.aoscufe.com
@@ -35150,7 +34896,6 @@ obm120.aoscufe.com
 obm121.aoscufe.com
 obm122.aoscufe.com
 obm123.aoscufe.com
-obm124.aoscufe.com
 obm125.aoscufe.com
 obm126.aoscufe.com
 obm127.aoscufe.com
@@ -35176,7 +34921,6 @@ obm142.aoscufe.com
 obm143.aoscufe.com
 obm144.aoscufe.com
 obm145.aoscufe.com
-obm146.aoscufe.com
 obm147.aoscufe.com
 obm148.aoscufe.com
 obm149.aoscufe.com
@@ -35187,12 +34931,10 @@ obm151.aoscufe.com
 obm152.aoscufe.com
 obm153.aoscufe.com
 obm154.aoscufe.com
-obm155.aoscufe.com
 obm156.aoscufe.com
 obm157.aoscufe.com
 obm158.aoscufe.com
 obm159.aoscufe.com
-obm16.aosag.net
 obm16.aoscufe.com
 obm160.aoscufe.com
 obm161.aoscufe.com
@@ -35216,7 +34958,6 @@ obm176.aoscufe.com
 obm177.aoscufe.com
 obm178.aoscufe.com
 obm179.aoscufe.com
-obm18.aosag.net
 obm18.aoscufe.com
 obm180.aoscufe.com
 obm181.aoscufe.com
@@ -35241,7 +34982,6 @@ obm193.aoscufe.com
 obm194.aoscmt.com
 obm194.aoscufe.com
 obm195.aoscmt.com
-obm195.aoscufe.com
 obm196.aoscmt.com
 obm196.aoscufe.com
 obm197.aoscmt.com
@@ -35257,7 +34997,6 @@ obm20.aosag.net
 obm20.aoscufe.com
 obm200.aoscmt.com
 obm200.aoscufe.com
-obm201.aoscmt.com
 obm201.aoscufe.com
 obm202.aoscmt.com
 obm202.aoscufe.com
@@ -35299,7 +35038,6 @@ obm218.aoscufe.com
 obm219.aoscmt.com
 obm219.aoscufe.com
 obm22.aosag.net
-obm22.aoscufe.com
 obm220.aoscmt.com
 obm220.aoscufe.com
 obm221.aoscmt.com
@@ -35331,10 +35069,8 @@ obm233.aoscufe.com
 obm234.aoscufe.com
 obm235.aoscufe.com
 obm236.aoscufe.com
-obm237.aoscufe.com
 obm238.aoscufe.com
 obm239.aoscufe.com
-obm24.aosag.net
 obm24.aoscufe.com
 obm240.aoscufe.com
 obm241.aoscufe.com
@@ -35351,7 +35087,6 @@ obm248.aospb.com
 obm249.aoscufe.com
 obm249.aospb.com
 obm25.aosag.net
-obm25.aoscufe.com
 obm250.aoscufe.com
 obm250.aospb.com
 obm251.aoscufe.com
@@ -35395,7 +35130,6 @@ obm44.aoscufe.com
 obm45.aoscufe.com
 obm46.aoscufe.com
 obm47.aoscufe.com
-obm48.aoscufe.com
 obm49.aosau.net
 obm49.aoscufe.com
 obm5.aosag.net
@@ -35418,7 +35152,6 @@ obm61.aoscufe.com
 obm62.aoscufe.com
 obm63.aoscufe.com
 obm64.aoscufe.com
-obm65.aoscufe.com
 obm66.aoscufe.com
 obm67.aoscufe.com
 obm68.aoscufe.com
@@ -35485,7 +35218,6 @@ obmmx119.aoscufe.com
 obmmx12.aoscufe.com
 obmmx120.aoscufe.com
 obmmx121.aoscufe.com
-obmmx122.aoscufe.com
 obmmx123.aoscufe.com
 obmmx124.aoscufe.com
 obmmx125.aoscufe.com
@@ -35495,7 +35227,6 @@ obmmx128.aoscufe.com
 obmmx129.aoscufe.com
 obmmx13.aoscufe.com
 obmmx130.aoscufe.com
-obmmx131.aoscufe.com
 obmmx132.aoscufe.com
 obmmx133.aoscufe.com
 obmmx134.aoscufe.com
@@ -35523,7 +35254,6 @@ obmmx153.aoscufe.com
 obmmx154.aoscufe.com
 obmmx155.aoscufe.com
 obmmx156.aoscufe.com
-obmmx157.aoscufe.com
 obmmx158.aoscufe.com
 obmmx159.aoscufe.com
 obmmx16.aoscufe.com
@@ -35549,7 +35279,6 @@ obmmx177.aoscufe.com
 obmmx178.aoscufe.com
 obmmx179.aoscufe.com
 obmmx18.aoscufe.com
-obmmx180.aoscufe.com
 obmmx181.aoscufe.com
 obmmx182.aoscufe.com
 obmmx183.aoscufe.com
@@ -35607,7 +35336,6 @@ obmmx229.aoscufe.com
 obmmx23.aoscufe.com
 obmmx230.aoscufe.com
 obmmx231.aoscufe.com
-obmmx232.aoscufe.com
 obmmx233.aoscufe.com
 obmmx234.aoscufe.com
 obmmx235.aoscufe.com
@@ -35677,7 +35405,6 @@ obmmx62.aoscufe.com
 obmmx63.aoscufe.com
 obmmx64.aoscufe.com
 obmmx65.aoscufe.com
-obmmx66.aoscufe.com
 obmmx67.aoscufe.com
 obmmx68.aoscufe.com
 obmmx69.aoscufe.com
@@ -35733,7 +35460,6 @@ observe.metarouter.io
 observer.ip-label.net
 obseu.netgreencolumn.com
 obsidiangems.com
-obsstrx34.alphonso.tv
 obtfhl.bellemaison.jp
 oca.microsoft.com
 oca.telemetry.microsoft.com
@@ -35760,7 +35486,6 @@ odalys-vacances.eulerian.net
 odalys-vacation-rental.eulerian.net
 odc.1und1.de
 odc.wunderground.com
-odejg19.alphonso.tv
 odepcf.modetour.com
 odfl.tt.omtrdc.net
 odin-signals.apple.com
@@ -35817,7 +35542,6 @@ ogb2.natessance.com
 ogb2.sobio-etic.com
 ogcsvq.sourcenext.com
 oghub.io
-ogksvswlts6.alphonso.tv
 ognunn.chavesnamao.com.br
 ogpdwe.livin24.com
 ogwzby.peek-und-cloppenburg.de
@@ -36134,7 +35858,6 @@ onfiei-eifi.uscluster.net
 onfiei-eifi.wcohus.teradatadmc.com
 onfiei-eifo.uscluster.net
 onfiei-eifo.wcohus.teradatadmc.com
-onfiei-eini.uscluster.net
 onfiei-eini.wcohus.teradatadmc.com
 onfiei-eion.uscluster.net
 onfiei-eion.wcohus.teradatadmc.com
@@ -36153,14 +35876,12 @@ onfiei-fiei.wcohus.teradatadmc.com
 onfiei-fifi.uscluster.net
 onfiei-fifi.wcohus.teradatadmc.com
 onfiei-fifo.uscluster.net
-onfiei-fifo.wcohus.teradatadmc.com
 onfiei-fini.uscluster.net
 onfiei-fini.wcohus.teradatadmc.com
 onfiei-fion.uscluster.net
 onfiei-fion.wcohus.teradatadmc.com
 onfiei-fise.uscluster.net
 onfiei-fise.wcohus.teradatadmc.com
-onfiei-fisi.uscluster.net
 onfiei-fisi.wcohus.teradatadmc.com
 onfiei-fith.uscluster.net
 onfiei-fith.wcohus.teradatadmc.com
@@ -36300,7 +36021,6 @@ onfiei-onon.uscluster.net
 onfiei-onon.wcohus.teradatadmc.com
 onfiei-ononei.uscluster.net
 onfiei-ononei.wcohus.teradatadmc.com
-onfiei-ononfi.uscluster.net
 onfiei-ononfi.wcohus.teradatadmc.com
 onfiei-ononfo.uscluster.net
 onfiei-ononfo.wcohus.teradatadmc.com
@@ -36351,7 +36071,6 @@ onfiei-onsifo.wcohus.teradatadmc.com
 onfiei-onsini.uscluster.net
 onfiei-onsini.wcohus.teradatadmc.com
 onfiei-onsion.uscluster.net
-onfiei-onsion.wcohus.teradatadmc.com
 onfiei-onsise.uscluster.net
 onfiei-onsise.wcohus.teradatadmc.com
 onfiei-onsisi.uscluster.net
@@ -36360,7 +36079,6 @@ onfiei-onsith.uscluster.net
 onfiei-onsith.wcohus.teradatadmc.com
 onfiei-onsitw.uscluster.net
 onfiei-onsitw.wcohus.teradatadmc.com
-onfiei-onsize.uscluster.net
 onfiei-onsize.wcohus.teradatadmc.com
 onfiei-onth.uscluster.net
 onfiei-onth.wcohus.teradatadmc.com
@@ -36379,7 +36097,6 @@ onfiei-onthse.wcohus.teradatadmc.com
 onfiei-onthsi.uscluster.net
 onfiei-onthsi.wcohus.teradatadmc.com
 onfiei-onthth.uscluster.net
-onfiei-onthth.wcohus.teradatadmc.com
 onfiei-onthtw.uscluster.net
 onfiei-onthtw.wcohus.teradatadmc.com
 onfiei-onthze.uscluster.net
@@ -36405,12 +36122,10 @@ onfiei-ontwth.wcohus.teradatadmc.com
 onfiei-ontwtw.uscluster.net
 onfiei-ontwtw.wcohus.teradatadmc.com
 onfiei-ontwze.uscluster.net
-onfiei-ontwze.wcohus.teradatadmc.com
 onfiei-onze.uscluster.net
 onfiei-onze.wcohus.teradatadmc.com
 onfiei-onzeei.uscluster.net
 onfiei-onzeei.wcohus.teradatadmc.com
-onfiei-onzefi.uscluster.net
 onfiei-onzefi.wcohus.teradatadmc.com
 onfiei-onzefo.uscluster.net
 onfiei-onzefo.wcohus.teradatadmc.com
@@ -36448,7 +36163,6 @@ onfiei-setw.uscluster.net
 onfiei-setw.wcohus.teradatadmc.com
 onfiei-seze.uscluster.net
 onfiei-seze.wcohus.teradatadmc.com
-onfiei-siei.uscluster.net
 onfiei-siei.wcohus.teradatadmc.com
 onfiei-sifi.uscluster.net
 onfiei-sifi.wcohus.teradatadmc.com
@@ -36540,7 +36254,6 @@ onfiei-twonon.uscluster.net
 onfiei-twonon.wcohus.teradatadmc.com
 onfiei-twonse.uscluster.net
 onfiei-twonse.wcohus.teradatadmc.com
-onfiei-twonsi.uscluster.net
 onfiei-twonsi.wcohus.teradatadmc.com
 onfiei-twonth.uscluster.net
 onfiei-twonth.wcohus.teradatadmc.com
@@ -36560,7 +36273,6 @@ onfiei-twthfi.uscluster.net
 onfiei-twthfi.wcohus.teradatadmc.com
 onfiei-twthfo.uscluster.net
 onfiei-twthfo.wcohus.teradatadmc.com
-onfiei-twthni.uscluster.net
 onfiei-twthni.wcohus.teradatadmc.com
 onfiei-twthon.uscluster.net
 onfiei-twthon.wcohus.teradatadmc.com
@@ -36659,7 +36371,6 @@ onfize-fitw.uscluster.com
 onfize-fize.cainus.teradatadmc.com
 onfize-fize.uscluster.com
 onfize-foei.cainus.teradatadmc.com
-onfize-foei.uscluster.com
 onfize-fofi.cainus.teradatadmc.com
 onfize-fofi.uscluster.com
 onfize-fofo.cainus.teradatadmc.com
@@ -36682,7 +36393,6 @@ onfize-niei.cainus.teradatadmc.com
 onfize-niei.uscluster.com
 onfize-nifi.cainus.teradatadmc.com
 onfize-nifi.uscluster.com
-onfize-nifo.cainus.teradatadmc.com
 onfize-nifo.uscluster.com
 onfize-nini.cainus.teradatadmc.com
 onfize-nini.uscluster.com
@@ -36806,13 +36516,11 @@ onfize-ononth.cainus.teradatadmc.com
 onfize-ononth.uscluster.com
 onfize-onontw.cainus.teradatadmc.com
 onfize-onontw.uscluster.com
-onfize-ononze.cainus.teradatadmc.com
 onfize-ononze.uscluster.com
 onfize-onse.cainus.teradatadmc.com
 onfize-onse.uscluster.com
 onfize-onseei.cainus.teradatadmc.com
 onfize-onseei.uscluster.com
-onfize-onsefi.cainus.teradatadmc.com
 onfize-onsefi.uscluster.com
 onfize-onsefo.cainus.teradatadmc.com
 onfize-onsefo.uscluster.com
@@ -36866,7 +36574,6 @@ onfize-onthon.cainus.teradatadmc.com
 onfize-onthon.uscluster.com
 onfize-onthse.cainus.teradatadmc.com
 onfize-onthse.uscluster.com
-onfize-onthsi.cainus.teradatadmc.com
 onfize-onthsi.uscluster.com
 onfize-onthth.cainus.teradatadmc.com
 onfize-onthth.uscluster.com
@@ -36879,7 +36586,6 @@ onfize-ontw.uscluster.com
 onfize-ontwei.cainus.teradatadmc.com
 onfize-ontwei.uscluster.com
 onfize-ontwfi.cainus.teradatadmc.com
-onfize-ontwfi.uscluster.com
 onfize-ontwfo.cainus.teradatadmc.com
 onfize-ontwfo.uscluster.com
 onfize-ontwni.cainus.teradatadmc.com
@@ -36947,19 +36653,16 @@ onfize-sifo.uscluster.com
 onfize-sini.cainus.teradatadmc.com
 onfize-sini.uscluster.com
 onfize-sion.cainus.teradatadmc.com
-onfize-sion.uscluster.com
 onfize-sise.cainus.teradatadmc.com
 onfize-sise.uscluster.com
 onfize-sisi.cainus.teradatadmc.com
 onfize-sisi.uscluster.com
 onfize-sith.cainus.teradatadmc.com
 onfize-sith.uscluster.com
-onfize-sitw.cainus.teradatadmc.com
 onfize-sitw.uscluster.com
 onfize-size.cainus.teradatadmc.com
 onfize-size.uscluster.com
 onfize-thei.cainus.teradatadmc.com
-onfize-thei.uscluster.com
 onfize-thfi.cainus.teradatadmc.com
 onfize-thfi.uscluster.com
 onfize-thfo.cainus.teradatadmc.com
@@ -37037,7 +36740,6 @@ onfize-twonth.uscluster.com
 onfize-twontw.cainus.teradatadmc.com
 onfize-twontw.uscluster.com
 onfize-twonze.cainus.teradatadmc.com
-onfize-twonze.uscluster.com
 onfize-twse.cainus.teradatadmc.com
 onfize-twse.uscluster.com
 onfize-twsi.cainus.teradatadmc.com
@@ -37068,7 +36770,6 @@ onfize-twtw.cainus.teradatadmc.com
 onfize-twtw.uscluster.com
 onfize-twtwei.cainus.teradatadmc.com
 onfize-twtwei.uscluster.com
-onfize-twtwfi.cainus.teradatadmc.com
 onfize-twtwfi.uscluster.com
 onfize-twtwfo.cainus.teradatadmc.com
 onfize-twtwfo.uscluster.com
@@ -37142,7 +36843,6 @@ onfose-fini.m.teradatadmc.com
 onfose-fini.rucluster.net
 onfose-fion.m.teradatadmc.com
 onfose-fion.rucluster.net
-onfose-fise.m.teradatadmc.com
 onfose-fise.rucluster.net
 onfose-fisi.m.teradatadmc.com
 onfose-fisi.rucluster.net
@@ -37280,7 +36980,6 @@ onfose-onnise.m.teradatadmc.com
 onfose-onnise.rucluster.net
 onfose-onnisi.m.teradatadmc.com
 onfose-onnisi.rucluster.net
-onfose-onnith.m.teradatadmc.com
 onfose-onnith.rucluster.net
 onfose-onnitw.m.teradatadmc.com
 onfose-onnitw.rucluster.net
@@ -37324,7 +37023,6 @@ onfose-onsese.m.teradatadmc.com
 onfose-onsese.rucluster.net
 onfose-onsesi.m.teradatadmc.com
 onfose-onsesi.rucluster.net
-onfose-onseth.m.teradatadmc.com
 onfose-onseth.rucluster.net
 onfose-onsetw.m.teradatadmc.com
 onfose-onsetw.rucluster.net
@@ -37339,7 +37037,6 @@ onfose-onsifi.rucluster.net
 onfose-onsifo.m.teradatadmc.com
 onfose-onsifo.rucluster.net
 onfose-onsini.m.teradatadmc.com
-onfose-onsini.rucluster.net
 onfose-onsion.m.teradatadmc.com
 onfose-onsion.rucluster.net
 onfose-onsise.m.teradatadmc.com
@@ -37356,13 +37053,11 @@ onfose-onth.m.teradatadmc.com
 onfose-onth.rucluster.net
 onfose-onthei.m.teradatadmc.com
 onfose-onthei.rucluster.net
-onfose-onthfi.m.teradatadmc.com
 onfose-onthfi.rucluster.net
 onfose-onthfo.m.teradatadmc.com
 onfose-onthfo.rucluster.net
 onfose-onthni.m.teradatadmc.com
 onfose-onthni.rucluster.net
-onfose-onthon.m.teradatadmc.com
 onfose-onthon.rucluster.net
 onfose-onthse.m.teradatadmc.com
 onfose-onthse.rucluster.net
@@ -37372,7 +37067,6 @@ onfose-onthth.m.teradatadmc.com
 onfose-onthth.rucluster.net
 onfose-onthtw.m.teradatadmc.com
 onfose-onthtw.rucluster.net
-onfose-onthze.m.teradatadmc.com
 onfose-onthze.rucluster.net
 onfose-ontw.m.teradatadmc.com
 onfose-ontw.rucluster.net
@@ -37464,7 +37158,6 @@ onfose-size.m.teradatadmc.com
 onfose-size.rucluster.net
 onfose-th.m.teradatadmc.com
 onfose-th.rucluster.net
-onfose-thei.m.teradatadmc.com
 onfose-thei.rucluster.net
 onfose-thfi.m.teradatadmc.com
 onfose-thfi.rucluster.net
@@ -37481,7 +37174,6 @@ onfose-thsi.rucluster.net
 onfose-thth.m.teradatadmc.com
 onfose-thth.rucluster.net
 onfose-thtw.m.teradatadmc.com
-onfose-thtw.rucluster.net
 onfose-thze.m.teradatadmc.com
 onfose-thze.rucluster.net
 onfose-tw.m.teradatadmc.com
@@ -37523,7 +37215,6 @@ onfose-twfotw.rucluster.net
 onfose-twfoze.m.teradatadmc.com
 onfose-twfoze.rucluster.net
 onfose-twni.m.teradatadmc.com
-onfose-twni.rucluster.net
 onfose-twon.m.teradatadmc.com
 onfose-twon.rucluster.net
 onfose-twonei.m.teradatadmc.com
@@ -37568,7 +37259,6 @@ onfose-twthsi.m.teradatadmc.com
 onfose-twthsi.rucluster.net
 onfose-twthth.m.teradatadmc.com
 onfose-twthth.rucluster.net
-onfose-twthtw.m.teradatadmc.com
 onfose-twthtw.rucluster.net
 onfose-twthze.m.teradatadmc.com
 onfose-twthze.rucluster.net
@@ -37576,7 +37266,6 @@ onfose-twtw.m.teradatadmc.com
 onfose-twtw.rucluster.net
 onfose-twtwei.m.teradatadmc.com
 onfose-twtwei.rucluster.net
-onfose-twtwfi.m.teradatadmc.com
 onfose-twtwfi.rucluster.net
 onfose-twtwfo.m.teradatadmc.com
 onfose-twtwfo.rucluster.net
@@ -37628,7 +37317,6 @@ onfosi-oneini.cncluster.net
 onfosi-oneini.n.teradatadmc.com
 onfosi-oneion.cncluster.net
 onfosi-oneion.n.teradatadmc.com
-onfosi-oneise.cncluster.net
 onfosi-oneise.n.teradatadmc.com
 onfosi-oneisi.cncluster.net
 onfosi-oneisi.n.teradatadmc.com
@@ -37641,10 +37329,8 @@ onfosi-oneize.n.teradatadmc.com
 onfosi-onfiei.cncluster.net
 onfosi-onfiei.n.teradatadmc.com
 onfosi-onfifi.cncluster.net
-onfosi-onfifi.n.teradatadmc.com
 onfosi-onfifo.cncluster.net
 onfosi-onfifo.n.teradatadmc.com
-onfosi-onfini.cncluster.net
 onfosi-onfini.n.teradatadmc.com
 onfosi-onfion.cncluster.net
 onfosi-onfion.n.teradatadmc.com
@@ -37779,20 +37465,17 @@ onfosi-onthtw.n.teradatadmc.com
 onfosi-onthze.cncluster.net
 onfosi-onthze.n.teradatadmc.com
 onfosi-ontwei.cncluster.net
-onfosi-ontwei.n.teradatadmc.com
 onfosi-ontwfi.cncluster.net
 onfosi-ontwfi.n.teradatadmc.com
 onfosi-ontwfo.cncluster.net
 onfosi-ontwfo.n.teradatadmc.com
 onfosi-ontwni.cncluster.net
 onfosi-ontwni.n.teradatadmc.com
-onfosi-ontwon.cncluster.net
 onfosi-ontwon.n.teradatadmc.com
 onfosi-ontwse.cncluster.net
 onfosi-ontwse.n.teradatadmc.com
 onfosi-ontwsi.cncluster.net
 onfosi-ontwsi.n.teradatadmc.com
-onfosi-ontwth.cncluster.net
 onfosi-ontwth.n.teradatadmc.com
 onfosi-ontwtw.cncluster.net
 onfosi-ontwtw.n.teradatadmc.com
@@ -37811,7 +37494,6 @@ onfosi-onzeon.n.teradatadmc.com
 onfosi-onzese.cncluster.net
 onfosi-onzese.n.teradatadmc.com
 onfosi-onzesi.cncluster.net
-onfosi-onzesi.n.teradatadmc.com
 onfosi-onzeth.cncluster.net
 onfosi-onzeth.n.teradatadmc.com
 onfosi-onzetw.cncluster.net
@@ -37868,7 +37550,6 @@ onfosi-twontw.cncluster.net
 onfosi-twontw.n.teradatadmc.com
 onfosi-twonze.cncluster.net
 onfosi-twonze.n.teradatadmc.com
-onfosi-twthei.cncluster.net
 onfosi-twthei.n.teradatadmc.com
 onfosi-twthfi.cncluster.net
 onfosi-twthfi.n.teradatadmc.com
@@ -37985,7 +37666,6 @@ onfosi-zefosi.n.teradatadmc.com
 onfosi-zefoth.cncluster.net
 onfosi-zefoth.n.teradatadmc.com
 onfosi-zefotw.cncluster.net
-onfosi-zefotw.n.teradatadmc.com
 onfosi-zefoze.cncluster.net
 onfosi-zefoze.n.teradatadmc.com
 onfosi-zeniei.cncluster.net
@@ -38001,11 +37681,9 @@ onfosi-zenion.n.teradatadmc.com
 onfosi-zenise.cncluster.net
 onfosi-zenise.n.teradatadmc.com
 onfosi-zenisi.cncluster.net
-onfosi-zenisi.n.teradatadmc.com
 onfosi-zenith.cncluster.net
 onfosi-zenith.n.teradatadmc.com
 onfosi-zenitw.cncluster.net
-onfosi-zenitw.n.teradatadmc.com
 onfosi-zenize.cncluster.net
 onfosi-zenize.n.teradatadmc.com
 onfosi-zeonei.cncluster.net
@@ -38029,7 +37707,6 @@ onfosi-zeontw.n.teradatadmc.com
 onfosi-zeonze.cncluster.net
 onfosi-zeonze.n.teradatadmc.com
 onfosi-zeseei.cncluster.net
-onfosi-zeseei.n.teradatadmc.com
 onfosi-zesefi.cncluster.net
 onfosi-zesefi.n.teradatadmc.com
 onfosi-zesefo.cncluster.net
@@ -38040,14 +37717,12 @@ onfosi-zeseon.cncluster.net
 onfosi-zeseon.n.teradatadmc.com
 onfosi-zesese.cncluster.net
 onfosi-zesese.n.teradatadmc.com
-onfosi-zesesi.cncluster.net
 onfosi-zesesi.n.teradatadmc.com
 onfosi-zeseth.cncluster.net
 onfosi-zeseth.n.teradatadmc.com
 onfosi-zesetw.cncluster.net
 onfosi-zesetw.n.teradatadmc.com
 onfosi-zeseze.cncluster.net
-onfosi-zeseze.n.teradatadmc.com
 onfosi-zesiei.cncluster.net
 onfosi-zesiei.n.teradatadmc.com
 onfosi-zesifi.cncluster.net
@@ -38061,7 +37736,6 @@ onfosi-zesion.n.teradatadmc.com
 onfosi-zesise.cncluster.net
 onfosi-zesise.n.teradatadmc.com
 onfosi-zesisi.cncluster.net
-onfosi-zesisi.n.teradatadmc.com
 onfosi-zesith.cncluster.net
 onfosi-zesith.n.teradatadmc.com
 onfosi-zesitw.cncluster.net
@@ -38344,8 +38018,6 @@ othanasis.openapp.link
 othisf.tagomago.pl
 otisxx.sullyn.com
 otkhyc.bueromarkt-ag.de
-otmkdsuymg28.alphonso.tv
-otnjqz72.alphonso.tv
 otr.kaspersky.ca
 otr.kaspersky.co.jp
 otr.kaspersky.co.uk
@@ -38382,7 +38054,6 @@ ounwut.thehappyplanner.com
 our.sunshinecoast.qld.gov.au
 ourblogthing.com
 ours3care.com
-ousjxiybg2.alphonso.tv
 out.information.maileva.com
 out.velpa.pl
 outal.origo.hu
@@ -38676,7 +38347,6 @@ pardot.securian.com
 pardot.tampuuri.fi
 pardot.tayagroups.com
 pardot.vyexample.com
-pardot.withintelligence.com
 parentapp.byjus.com
 parentpicture.com
 parents.app.playosmo.com
@@ -38875,7 +38545,6 @@ peyqvn.falke.com
 pf.a23.in
 pf.etr.im
 pf.eulerian.com
-pf.eulerian.eu
 pf.eulerian.fr
 pf.eulerian.net
 pf.events.data.microsoft.com
@@ -39016,7 +38685,6 @@ photobox-ch.eulerian.net
 photobox-de.eulerian.net
 photobox-dk.eulerian.net
 photobox-es.eulerian.net
-photobox-fr.eulerian.net
 photobox-ie.eulerian.net
 photobox-it.eulerian.net
 photobox-nl.eulerian.net
@@ -39094,7 +38762,6 @@ pittsburghpostgazette.112.2o7.net
 pivotpointsecurity.actonservice.com
 pix.airbusgroup.com
 pix.eads.com
-pix.eu.criteo.net
 pix.hyj.mobi
 pix.pub
 pix.revjet.com
@@ -39102,7 +38769,6 @@ pix.spot.im
 pix.telekom-dienste.de
 pix.telekom.com
 pix.telekom.de
-pix.us.criteo.net
 pixel-a.basis.net
 pixel-storage.konnektu.ru
 pixel-sync.trafficmanager.net
@@ -39384,7 +39050,6 @@ plbcsd.vidaxl.se
 plbusiness.samsung.com
 plczro.21dressroom.com
 pld.eulerian.net
-pld01.eulerian.net
 pld02.eulerian.net
 pld03.eulerian.net
 pld04.eulerian.net
@@ -39507,7 +39172,6 @@ poro.58.com
 porpoise.azettl.net
 porqhi.topictravel.nl
 porsche.nabooda-auto.com
-porsche01.wt-eu02.net
 port.sec.miui.com
 portal.dcgone.com
 portal.insight.maruedr.com
@@ -39682,7 +39346,6 @@ prismtest.epoise.com
 pristinegale.com
 privacy-analytics-proxy.cookiebot.com
 privacy-api.9gag.com
-privacy.criteo.com
 privacy.eu.criteo.com
 privacy.miui.com
 privacy.outdoorsg.com
@@ -39960,13 +39623,10 @@ pv.xcar.com.cn
 pvfbav.sportler.com
 pvn.rewe.de
 pvoheg.bubbleroom.se
-pvrfd2.alphonso.tv
 pvrugd.nieruchomosci-online.pl
 pvx.xcar.com.cn
 pw.gigazine.net
 pwc.tt.omtrdc.net
-pwjke9.alphonso.tv
-pwlcv9.alphonso.tv
 pwojexjma1.alphonso.tv
 pwtftm.shingaku.mynavi.jp
 px-intl.ucweb.com
@@ -40057,13 +39717,11 @@ qcgtoz.cwjobs.co.uk
 qcmxuy.hardloop.de
 qcppad.merrell.com
 qdicel.marymaxim.com
-qdizj52.alphonso.tv
 qdkaky.rikilovesriki.com
 qdlmwrluk95.alphonso.tv
 qdnxys.cotswoldco.com
 qdqdfp.toitsutest-koukou.com
 qdvavs.trademax.se
-qdyjkmzm45.alphonso.tv
 qedlai.restplatzboerse.com
 qejrwy.lazienkaplus.pl
 qerpks.rollei.de
@@ -40111,7 +39769,6 @@ qktnee.fribikeshop.dk
 qkxzdm.stellenanzeigen.de
 qldmga.criteo.work
 qldvnj.purepara.com
-qlhnpdj93.alphonso.tv
 qljiop.allabout.co.jp
 qllxvh.shopstyle.com
 qlmfpj.laura.ca
@@ -40207,7 +39864,6 @@ questions.theanswerco.com
 questrominfo.bu.edu
 questsoftware.112.2o7.net
 questtest.epoise.com
-quhbax9.alphonso.tv
 quick.openapp.link
 quickenloans.tt.omtrdc.net
 quickkoala.io
@@ -40428,12 +40084,9 @@ rdeswa1.com
 rdewdwf27.alphonso.tv
 rdfine.camelbrown.com
 rdi.da1.us.criteo.com
-rdi.da1.vip.prod.criteo.com
 rdi.eu.criteo.com
 rdi.jp2.as.criteo.com
-rdi.jp2.vip.prod.criteo.com
 rdi.nl3.eu.criteo.com
-rdi.nl3.vip.prod.criteo.com
 rdi.us.criteo.com
 rdl.lgtvcommon.com
 rdlrbm.studying.jp
@@ -40803,7 +40456,6 @@ req12pkgb.com
 reqssx.centerparcs.fr
 request.idangels.org
 request.verisign.com
-rergj0.alphonso.tv
 rertrc.abc-mart.net
 res.elle.fr
 res.femina.fr
@@ -41154,7 +40806,6 @@ rrbaib.tsutsumishop.jp
 rrgiuy.jackroad.co.jp
 rrincc.auto-doc.it
 rrjzyj.lepage.fr
-rrmunf5.alphonso.tv
 rrpartners.122.2o7.net
 rrxldl.bol.de
 rrznha.lanvin-en-bleu.com
@@ -41204,7 +40855,6 @@ rtb.jp2.as.criteo.com
 rtb.nl3.eu.criteo.com
 rtb.prod.carbonatixaudio.com
 rtb.sg1.as.criteo.com
-rtb.us5.us.criteo.com
 rtc.multiscreensite.com
 rtds.progressive.com
 rtegbv.jmclaughlin.com
@@ -41300,7 +40950,6 @@ rwohdj.motocard.com
 rwpuqm.underarmour.es
 rwrnkb.lifelongcollectibles.com
 rwryla.theblockshop.com.au
-rwtjrztik97.alphonso.tv
 rx-test.capsulecares.com
 rx.capsulecares.com
 rxaap.actonservice.com
@@ -41500,7 +41149,6 @@ s177775138.hs.eloqua.com
 s1782711468.sc.origins.en25.com
 s1802092.hs.eloqua.com
 s1849907385.hs.eloqua.com
-s1879417329.hs.eloqua.com
 s188399297.hs.eloqua.com
 s1885709864.sc.origins.en25.com
 s188599536.hs.eloqua.com
@@ -42421,7 +42069,6 @@ sch-crt-91.com
 schaeffers.112.2o7.net
 scheduler.hbbtv.smartclip.net
 scheduling.qualifi.hr
-schema-registry.webtrekk.com
 schemas.microsoft.akadns.net
 schinnerer.actonservice.com
 scholarloop.com
@@ -43434,7 +43081,6 @@ sg.lucanet.com
 sg01.eulerian.net
 sg02.eulerian.net
 sg03.eulerian.net
-sg04.eulerian.net
 sg3.notarize.com
 sgali-mcs.byteoversea.com
 sggsbd.fonteyn.nl
@@ -43834,7 +43480,6 @@ slotabrosdev.zharev.com
 slotabrosuat.zharev.com
 slryca.meyou.jp
 sltravelcom.112.2o7.net
-slygoo0.alphonso.tv
 sm-test.groc.press
 sm.delltechnologies.com
 sm.edweek.org
@@ -44767,7 +44412,6 @@ smetrics.ecmweb.com
 smetrics.edc.ca
 smetrics.eddiebauer.com
 smetrics.edge.ca
-smetrics.ediblearrangements.com
 smetrics.edifice-watches.com
 smetrics.editorialmanager.com
 smetrics.ee.co.uk
@@ -45107,7 +44751,6 @@ smetrics.hks-power.co.jp
 smetrics.hm.com
 smetrics.hmhco.com
 smetrics.hoken.zexy.net
-smetrics.holafly.com
 smetrics.holcimelevate.com
 smetrics.hollandamerica.com
 smetrics.hollisterco.com
@@ -47015,7 +46658,6 @@ smtp.agrinion.bluehornet.com
 smtp.aguaclara.bluehornet.com
 smtp.aguadilla.bluehornet.com
 smtp.aizawl.bluehornet.com
-smtp.akhiok.bluehornet.com
 smtp.akita.bluehornet.com
 smtp.akrotiri.bluehornet.com
 smtp.aktau.bluehornet.com
@@ -47041,12 +46683,10 @@ smtp.amalfi.bluehornet.com
 smtp.amamiisland.bluehornet.com
 smtp.amasya.bluehornet.com
 smtp.ambriz.bluehornet.com
-smtp.amtiman.bluehornet.com
 smtp.anadyr.bluehornet.com
 smtp.andizhan.bluehornet.com
 smtp.andover.bluehornet.com
 smtp.androsisland.bluehornet.com
-smtp.angelfire.bluehornet.com
 smtp.ankeny.bluehornet.com
 smtp.annaba.bluehornet.com
 smtp.annai.bluehornet.com
@@ -47117,7 +46757,6 @@ smtp.bandung.bluehornet.com
 smtp.bangalore.bluehornet.com
 smtp.bangassou.bluehornet.com
 smtp.bangda.bluehornet.com
-smtp.bangor.bluehornet.com
 smtp.banjaluka.bluehornet.com
 smtp.banjarmasin.bluehornet.com
 smtp.banning.bluehornet.com
@@ -47132,7 +46771,6 @@ smtp.bardstown.bluehornet.com
 smtp.bardufoss.bluehornet.com
 smtp.barharbor.bluehornet.com
 smtp.bari.bluehornet.com
-smtp.bariloche.bluehornet.com
 smtp.barinas.bluehornet.com
 smtp.barisal.bluehornet.com
 smtp.barnaul.bluehornet.com
@@ -47272,7 +46910,6 @@ smtp.boussaada.bluehornet.com
 smtp.bowlinggreen.bluehornet.com
 smtp.bowman.bluehornet.com
 smtp.boynefalls.bluehornet.com
-smtp.bozeman.bluehornet.com
 smtp.bradford.bluehornet.com
 smtp.brady.bluehornet.com
 smtp.braga.bluehornet.com
@@ -47292,7 +46929,6 @@ smtp.brno.bluehornet.com
 smtp.broadus.bluehornet.com
 smtp.brokenbow.bluehornet.com
 smtp.brokenhill.bluehornet.com
-smtp.brookings.bluehornet.com
 smtp.brooksville.bluehornet.com
 smtp.broome.bluehornet.com
 smtp.brownfield.bluehornet.com
@@ -47302,18 +46938,15 @@ smtp.brunswick.bluehornet.com
 smtp.bryan.bluehornet.com
 smtp.brycecanyon.bluehornet.com
 smtp.bucaramanga.bluehornet.com
-smtp.buckeye.bluehornet.com
 smtp.buenaventura.bluehornet.com
 smtp.buffalo.bluehornet.com
 smtp.bukaisland.bluehornet.com
-smtp.bukhara.bluehornet.com
 smtp.bulawayo.bluehornet.com
 smtp.bullheadcity.bluehornet.com
 smtp.bunbury.bluehornet.com
 smtp.bunia.bluehornet.com
 smtp.buraidah.bluehornet.com
 smtp.burao.bluehornet.com
-smtp.burbank.bluehornet.com
 smtp.burgas.bluehornet.com
 smtp.buriram.bluehornet.com
 smtp.burketown.bluehornet.com
@@ -47331,7 +46964,6 @@ smtp.buttonville.bluehornet.com
 smtp.butuan.bluehornet.com
 smtp.bydgoszcz.bluehornet.com
 smtp.cadillac.bluehornet.com
-smtp.caen.bluehornet.com
 smtp.cagliari.bluehornet.com
 smtp.cahokia.bluehornet.com
 smtp.cairns.bluehornet.com
@@ -47380,7 +47012,6 @@ smtp.carrillo.bluehornet.com
 smtp.carrizosprings.bluehornet.com
 smtp.carroll.bluehornet.com
 smtp.carrollton.bluehornet.com
-smtp.cartagena.bluehornet.com
 smtp.cartago.bluehornet.com
 smtp.caruaru.bluehornet.com
 smtp.casablanca.bluehornet.com
@@ -47389,7 +47020,6 @@ smtp.cascadelocks.bluehornet.com
 smtp.casper.bluehornet.com
 smtp.castres.bluehornet.com
 smtp.catalonia.bluehornet.com
-smtp.catania.bluehornet.com
 smtp.catlake.bluehornet.com
 smtp.caxiasdosul.bluehornet.com
 smtp.cayecaulker.bluehornet.com
@@ -47436,7 +47066,6 @@ smtp.chesterfield.bluehornet.com
 smtp.chetumal.bluehornet.com
 smtp.chetwynd.bluehornet.com
 smtp.chevery.bluehornet.com
-smtp.chiangmai.bluehornet.com
 smtp.chiangrai.bluehornet.com
 smtp.chicago.bluehornet.com
 smtp.chichenitza.bluehornet.com
@@ -47487,7 +47116,6 @@ smtp.cody.bluehornet.com
 smtp.coffeyville.bluehornet.com
 smtp.coimbra.bluehornet.com
 smtp.colby.bluehornet.com
-smtp.coldbay.bluehornet.com
 smtp.coleman.bluehornet.com
 smtp.colima.bluehornet.com
 smtp.collegepark.bluehornet.com
@@ -47496,7 +47124,6 @@ smtp.cologne.bluehornet.com
 smtp.comanche.bluehornet.com
 smtp.comodororivadavia.bluehornet.com
 smtp.compton.bluehornet.com
-smtp.concordia.bluehornet.com
 smtp.connersville.bluehornet.com
 smtp.constanta.bluehornet.com
 smtp.contanza.bluehornet.com
@@ -47516,7 +47143,6 @@ smtp.corsicana.bluehornet.com
 smtp.cortez.bluehornet.com
 smtp.corvallis.bluehornet.com
 smtp.coto47.bluehornet.com
-smtp.cotonou.bluehornet.com
 smtp.cottbus.bluehornet.com
 smtp.cotulla.bluehornet.com
 smtp.councilbluffs.bluehornet.com
@@ -47537,7 +47163,6 @@ smtp.crosscity.bluehornet.com
 smtp.crossett.bluehornet.com
 smtp.crossville.bluehornet.com
 smtp.crotone.bluehornet.com
-smtp.croydon.bluehornet.com
 smtp.crystalriver.bluehornet.com
 smtp.cuamba.bluehornet.com
 smtp.cuenca.bluehornet.com
@@ -47548,7 +47173,6 @@ smtp.cumberland.bluehornet.com
 smtp.cunnamulla.bluehornet.com
 smtp.curitiba.bluehornet.com
 smtp.currie.bluehornet.com
-smtp.currituck.bluehornet.com
 smtp.cusco.bluehornet.com
 smtp.cushing.bluehornet.com
 smtp.custer.bluehornet.com
@@ -47559,7 +47183,6 @@ smtp.dakhla.bluehornet.com
 smtp.dalby.bluehornet.com
 smtp.dalhart.bluehornet.com
 smtp.dalian.bluehornet.com
-smtp.dallas.bluehornet.com
 smtp.dallasandfortworth.bluehornet.com
 smtp.daloa.bluehornet.com
 smtp.dalton.bluehornet.com
@@ -47605,7 +47228,6 @@ smtp.derry.bluehornet.com
 smtp.desrochesisland.bluehornet.com
 smtp.destin.bluehornet.com
 smtp.detroit.bluehornet.com
-smtp.detroitlakes.bluehornet.com
 smtp.dexter.bluehornet.com
 smtp.dhahran.bluehornet.com
 smtp.dibrugarh.bluehornet.com
@@ -47680,7 +47302,6 @@ smtp.ebolowa.bluehornet.com
 smtp.echuca.bluehornet.com
 smtp.edenton.bluehornet.com
 smtp.edgewoodarsenal.bluehornet.com
-smtp.edinburgh.bluehornet.com
 smtp.edwardriver.bluehornet.com
 smtp.edwards.bluehornet.com
 smtp.eelde.bluehornet.com
@@ -47719,7 +47340,6 @@ smtp.enid.bluehornet.com
 smtp.eniwetok.bluehornet.com
 smtp.enniskillen.bluehornet.com
 smtp.enschede.bluehornet.com
-smtp.ensenada.bluehornet.com
 smtp.entebbe.bluehornet.com
 smtp.enterprise.bluehornet.com
 smtp.ephrata.bluehornet.com
@@ -47754,7 +47374,6 @@ smtp.fairfield.bluehornet.com
 smtp.fairmont.bluehornet.com
 smtp.faisalabad.bluehornet.com
 smtp.falfurrias.bluehornet.com
-smtp.fallon.bluehornet.com
 smtp.fallscity.bluehornet.com
 smtp.falmouth.bluehornet.com
 smtp.farah.bluehornet.com
@@ -47851,7 +47470,6 @@ smtp.funchal.bluehornet.com
 smtp.fuzhou.bluehornet.com
 smtp.gabbs.bluehornet.com
 smtp.gadsden.bluehornet.com
-smtp.gage.bluehornet.com
 smtp.gainesville.bluehornet.com
 smtp.gaithersburg.bluehornet.com
 smtp.galcaio.bluehornet.com
@@ -47913,7 +47531,6 @@ smtp.gozo.bluehornet.com
 smtp.grafton.bluehornet.com
 smtp.granbury.bluehornet.com
 smtp.grandeprairie.bluehornet.com
-smtp.grandforks.bluehornet.com
 smtp.grandisland.bluehornet.com
 smtp.grandjunction.bluehornet.com
 smtp.grandmarais.bluehornet.com
@@ -47980,7 +47597,6 @@ smtp.hammerfest.bluehornet.com
 smtp.hammond.bluehornet.com
 smtp.hampton.bluehornet.com
 smtp.hana.bluehornet.com
-smtp.hancock.bluehornet.com
 smtp.hanford.bluehornet.com
 smtp.hangzhou.bluehornet.com
 smtp.hanimaadhooisland.bluehornet.com
@@ -48019,7 +47635,6 @@ smtp.heidelberg.bluehornet.com
 smtp.helena.bluehornet.com
 smtp.hemet.bluehornet.com
 smtp.heraklion.bluehornet.com
-smtp.herat.bluehornet.com
 smtp.hereford.bluehornet.com
 smtp.herington.bluehornet.com
 smtp.herlong.bluehornet.com
@@ -48032,7 +47647,6 @@ smtp.highgate.bluehornet.com
 smtp.hillcity.bluehornet.com
 smtp.hillsboro.bluehornet.com
 smtp.hillsdale.bluehornet.com
-smtp.hilo.bluehornet.com
 smtp.hiltonheadisland.bluehornet.com
 smtp.hiroshima.bluehornet.com
 smtp.hobart.bluehornet.com
@@ -48065,7 +47679,6 @@ smtp.hualien.bluehornet.com
 smtp.hubli.bluehornet.com
 smtp.hugo.bluehornet.com
 smtp.hugoton.bluehornet.com
-smtp.huntingburg.bluehornet.com
 smtp.huntington.bluehornet.com
 smtp.huntsville.bluehornet.com
 smtp.hurghada.bluehornet.com
@@ -48107,7 +47720,6 @@ smtp.inyokern.bluehornet.com
 smtp.ioannina.bluehornet.com
 smtp.iowacity.bluehornet.com
 smtp.iowafalls.bluehornet.com
-smtp.ipoh.bluehornet.com
 smtp.iquique.bluehornet.com
 smtp.iquitos.bluehornet.com
 smtp.irkutsk.bluehornet.com
@@ -48216,7 +47828,6 @@ smtp.kemerovo.bluehornet.com
 smtp.kemmerer.bluehornet.com
 smtp.kenai.bluehornet.com
 smtp.kennett.bluehornet.com
-smtp.kenosha.bluehornet.com
 smtp.keokuk.bluehornet.com
 smtp.kerikeri.bluehornet.com
 smtp.kermanshah.bluehornet.com
@@ -48340,7 +47951,6 @@ smtp.lebanon.bluehornet.com
 smtp.lebourget.bluehornet.com
 smtp.leesburg.bluehornet.com
 smtp.leh.bluehornet.com
-smtp.lehavre.bluehornet.com
 smtp.leicestershire.bluehornet.com
 smtp.leipzig.bluehornet.com
 smtp.leknes.bluehornet.com
@@ -48411,7 +48021,6 @@ smtp.lusk.bluehornet.com
 smtp.luverne.bluehornet.com
 smtp.luxor.bluehornet.com
 smtp.luzonisland.bluehornet.com
-smtp.lviv.bluehornet.com
 smtp.lynchburg.bluehornet.com
 smtp.lyon.bluehornet.com
 smtp.lyons.bluehornet.com
@@ -48439,8 +48048,6 @@ smtp.malden.bluehornet.com
 smtp.malone.bluehornet.com
 smtp.mammothlakes.bluehornet.com
 smtp.managua.bluehornet.com
-smtp.manassas.bluehornet.com
-smtp.manaus.bluehornet.com
 smtp.manchester.bluehornet.com
 smtp.mangalore.bluehornet.com
 smtp.mangochi.bluehornet.com
@@ -48485,7 +48092,6 @@ smtp.marysville.bluehornet.com
 smtp.maryville.bluehornet.com
 smtp.masada.bluehornet.com
 smtp.masjedsoleiman.bluehornet.com
-smtp.masoncity.bluehornet.com
 smtp.massena.bluehornet.com
 smtp.masset.bluehornet.com
 smtp.matagami.bluehornet.com
@@ -48519,7 +48125,6 @@ smtp.melilla.bluehornet.com
 smtp.memmingen.bluehornet.com
 smtp.memphis.bluehornet.com
 smtp.mena.bluehornet.com
-smtp.mendoza.bluehornet.com
 smtp.menominee.bluehornet.com
 smtp.menomonie.bluehornet.com
 smtp.menorca.bluehornet.com
@@ -48541,7 +48146,6 @@ smtp.michigancity.bluehornet.com
 smtp.middletonisland.bluehornet.com
 smtp.middletown.bluehornet.com
 smtp.midland.bluehornet.com
-smtp.milan.bluehornet.com
 smtp.milano.bluehornet.com
 smtp.mildura.bluehornet.com
 smtp.milescity.bluehornet.com
@@ -48652,7 +48256,6 @@ smtp.nantes.bluehornet.com
 smtp.napier.bluehornet.com
 smtp.naples.bluehornet.com
 smtp.narvik.bluehornet.com
-smtp.nashua.bluehornet.com
 smtp.natal.bluehornet.com
 smtp.natchez.bluehornet.com
 smtp.natchitoches.bluehornet.com
@@ -48668,7 +48271,6 @@ smtp.necochea.bluehornet.com
 smtp.needles.bluehornet.com
 smtp.negeleboran.bluehornet.com
 smtp.nelson.bluehornet.com
-smtp.neosho.bluehornet.com
 smtp.neuquen.bluehornet.com
 smtp.nevada.bluehornet.com
 smtp.nevis.bluehornet.com
@@ -48711,7 +48313,6 @@ smtp.norilsk.bluehornet.com
 smtp.northbend.bluehornet.com
 smtp.northmyrtlebeach.bluehornet.com
 smtp.northplatte.bluehornet.com
-smtp.norton.bluehornet.com
 smtp.norwayhouse.bluehornet.com
 smtp.norwich.bluehornet.com
 smtp.norwood.bluehornet.com
@@ -48734,7 +48335,6 @@ smtp.odenton.bluehornet.com
 smtp.ogden.bluehornet.com
 smtp.olathe.bluehornet.com
 smtp.oldcrow.bluehornet.com
-smtp.oldtown.bluehornet.com
 smtp.olivebranch.bluehornet.com
 smtp.omaha.bluehornet.com
 smtp.oneida.bluehornet.com
@@ -48807,7 +48407,6 @@ smtp.portelizabeth.bluehornet.com
 smtp.porterville.bluehornet.com
 smtp.porthardy.bluehornet.com
 smtp.porthedland.bluehornet.com
-smtp.porthuron.bluehornet.com
 smtp.portisabel.bluehornet.com
 smtp.portlavaca.bluehornet.com
 smtp.portoseguro.bluehornet.com
@@ -48866,7 +48465,6 @@ smtp.rockymount.bluehornet.com
 smtp.rogerscity.bluehornet.com
 smtp.rogersville.bluehornet.com
 smtp.rome.bluehornet.com
-smtp.romulus.bluehornet.com
 smtp.ronaldsway.bluehornet.com
 smtp.rostock.bluehornet.com
 smtp.rotterdam.bluehornet.com
@@ -48896,7 +48494,6 @@ smtp.salisbury.bluehornet.com
 smtp.salisland.bluehornet.com
 smtp.sallisaw.bluehornet.com
 smtp.salmon.bluehornet.com
-smtp.salta.bluehornet.com
 smtp.saltillo.bluehornet.com
 smtp.saltoncity.bluehornet.com
 smtp.salvador.bluehornet.com
@@ -48916,7 +48513,6 @@ smtp.sandisland.bluehornet.com
 smtp.sandpoint.bluehornet.com
 smtp.sandusky.bluehornet.com
 smtp.sandylake.bluehornet.com
-smtp.sanfernando.bluehornet.com
 smtp.sanfernandodelvalledecatamarca.bluehornet.com
 smtp.sanford.bluehornet.com
 smtp.sanfrancisco.bluehornet.com
@@ -49042,7 +48638,6 @@ smtp.snyder.bluehornet.com
 smtp.socorro.bluehornet.com
 smtp.sogndal.bluehornet.com
 smtp.somerset.bluehornet.com
-smtp.somerville.bluehornet.com
 smtp.sonora.bluehornet.com
 smtp.soroti.bluehornet.com
 smtp.southbend.bluehornet.com
@@ -49082,7 +48677,6 @@ smtp.stuart.bluehornet.com
 smtp.sturgeonbay.bluehornet.com
 smtp.sturgis.bluehornet.com
 smtp.stuttgart.bluehornet.com
-smtp.suceava.bluehornet.com
 smtp.sucre.bluehornet.com
 smtp.suffolk.bluehornet.com
 smtp.sugarland.bluehornet.com
@@ -49100,7 +48694,6 @@ smtp.superior.bluehornet.com
 smtp.surabaya.bluehornet.com
 smtp.suratthani.bluehornet.com
 smtp.surgut.bluehornet.com
-smtp.susanville.bluehornet.com
 smtp.sussex.bluehornet.com
 smtp.sutton.bluehornet.com
 smtp.swainsboro.bluehornet.com
@@ -49150,7 +48743,6 @@ smtp.threerivers.bluehornet.com
 smtp.tijuana.bluehornet.com
 smtp.tincity.bluehornet.com
 smtp.tinianisland.bluehornet.com
-smtp.tirupati.bluehornet.com
 smtp.titusville.bluehornet.com
 smtp.toksookbay.bluehornet.com
 smtp.tomahawk.bluehornet.com
@@ -49195,7 +48787,6 @@ smtp.wahpeton.bluehornet.com
 smtp.waingapu.bluehornet.com
 smtp.wales.bluehornet.com
 smtp.wallopsisland.bluehornet.com
-smtp.wangerooge.bluehornet.com
 smtp.wapakoneta.bluehornet.com
 smtp.warnerrobins.bluehornet.com
 smtp.warroad.bluehornet.com
@@ -49217,7 +48808,6 @@ smtp.wells.bluehornet.com
 smtp.wellsville.bluehornet.com
 smtp.wenatchee.bluehornet.com
 smtp.wendover.bluehornet.com
-smtp.westbend.bluehornet.com
 smtp.westchicago.bluehornet.com
 smtp.westerland.bluehornet.com
 smtp.westerly.bluehornet.com
@@ -49810,6 +49400,7 @@ spaces.martela.no
 spaces.martela.pl
 spaces.martela.se
 spain.thomsonreuters.com
+spaincentral-0.in.applicationinsights.azure.com
 spam.carte-gr.total.fr
 spamfighter.112.2o7.net
 spamtitan.actonservice.com
@@ -49842,7 +49433,6 @@ spersonalization.mrelectric.com
 spersonalization.mrrooter.ca
 spersonalization.mrrooter.com
 spersonalization.rainbowintl.com
-spgxtkm9.alphonso.tv
 sphc.caring4cancer.com
 spicesonwheels.com
 spicevikings.com
@@ -49868,7 +49458,6 @@ spoonballoon.com
 spoonsilk.com
 sport2000.eulerian.net
 sportingnews.122.2o7.net
-sportscheck01.wt-eu02.net
 sportscheckde01.wt-eu02.net
 sportsnearby.com
 sportyforum.com
@@ -51822,7 +51411,6 @@ stingyspoon.com
 stjjp.msn.com
 stjoe.psjhealth.org
 stjude.tt.omtrdc.net
-stkgybebfr04.alphonso.tv
 stktkt.profizelt24.de
 stliom.vidaxl.cz
 stlog.d.dmkt-sp.jp
@@ -52051,7 +51639,6 @@ sunsetstatic.com
 sunshinegates.com
 sunshinepint.com
 supcareer-com.eulerian.net
-supdecreation-com.eulerian.net
 supdigital-fr.eulerian.net
 super8-link.mysuki.io
 superchichair.com
@@ -52387,7 +51974,6 @@ t-locasun-de.eulerian.net
 t-locasun-es.eulerian.net
 t-locasun-fr.eulerian.net
 t-locasun-it.eulerian.net
-t-locasun-nl.eulerian.net
 t-pan.triodos.com
 t-ring-fallback-s2.msedge.net
 t-ring-fallback.msedge.net
@@ -52727,7 +52313,6 @@ t.prod1.discover.binge.com.au
 t.producthunt.com
 t.purduesports.com
 t.quisma.com
-t.radiomediaset.it
 t.ragincajuns.com
 t.rail-and-drive.de
 t.rainide.com
@@ -53602,7 +53187,6 @@ th.ad.lgsmartad.com
 th.lgsmartad.com
 thalasseo.eulerian.net
 thalesgroup-events.com
-thaliaat02.webtrekk.net
 thaliach02.webtrekk.net
 thaliade02.webtrekk.net
 thanecityfc.spyn.co
@@ -54243,7 +53827,6 @@ tkacr601.alphonso.tv
 tkacr602.alphonso.tv
 tkacr603.alphonso.tv
 tkacr604.alphonso.tv
-tkacr605.alphonso.tv
 tkacr606.alphonso.tv
 tkacr607.alphonso.tv
 tkacr608.alphonso.tv
@@ -54427,8 +54010,6 @@ tkacr786.alphonso.tv
 tkacr787.alphonso.tv
 tkacr788.alphonso.tv
 tkacr789.alphonso.tv
-tkacr790.alphonso.tv
-tkacr791.alphonso.tv
 tkelq.genesys.com
 tkgaws.seokplant.com
 tkjcqb.forrent.com
@@ -54867,7 +54448,6 @@ tr.communication.offresb2b.fr
 tr.communication.top-office.com
 tr.companeo-news.co.uk
 tr.computeruniverse.net
-tr.computeruniverse.wt-eu02.net
 tr.comunicacao.younited-credit.com
 tr.comunicazione.younited-credit.com
 tr.contact.astuceco.fr
@@ -57449,7 +57029,6 @@ tvcoag.brw.pl
 tvepg.pandora.xiaomi.com
 tver-metrics.streaks.jp
 tvguide.112.2o7.net
-tviwdwyijb98.alphonso.tv
 tvkfms.nta.co.jp
 tvl8.supdecreation.com
 tvmeta-dynamic.tvinteractive.tv
@@ -57550,6 +57129,7 @@ ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
+uaenorth-0.in.applicationinsights.azure.com
 ualkzq.moobel1.ee
 uaqcui.tennis-point.fr
 uarrdg.landsofamerica.com
@@ -57676,7 +57256,6 @@ uinpmz.iichi.com
 uiusqp.crowdcow.com
 uiwock.epantofi.ro
 ujbhri.pharmamarket.nl
-ujdcipvr0.alphonso.tv
 ujlwwo.lehner-versand.ch
 ujq1.destinia.is
 ujuyhix2.alphonso.tv
@@ -57850,7 +57429,6 @@ ureruadebis.papawash.com
 ureruebis.nintama.co.jp
 uriokr.bauhaus.es
 urj6.iberojet.es
-urjuj89.alphonso.tv
 url.density.exchange
 url1020.keycollectorcomics.com
 url1445.affirm.com
@@ -57892,7 +57470,6 @@ us-central1-markuphero.cloudfunctions.net
 us-east4.ads.gcp.roku.com
 us-east4.dev.ads.gcp.roku.com
 us-go.experian.com
-us-ic3.events.data.microsoft.com
 us-marketing.roxtec.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
@@ -57985,7 +57562,6 @@ usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
 usgzei.vidaxl.ch
 usingyourcard.americanexpress.co.uk
-uslwjo8.alphonso.tv
 usmetric.rediff.com
 usmtprod.112.2o7.net
 usnews.122.2o7.net
@@ -58508,7 +58084,6 @@ vdrn.redplum.com
 vdrxia.farmacosmo.it
 vdslnp.highkey.com
 vdterms.samsungcloudsolution.com
-vdtokbvr50.alphonso.tv
 vdvdjf.remotepc.com
 vdzrjr.kenminkyosai.or.jp
 ve-ad-lgsmartad-com.aws-prd.net
@@ -58586,7 +58161,6 @@ vfdemsp.mno.link
 vfes.mno.link
 vfesmsp.mno.link
 vfghe.com
-vfijt8.alphonso.tv
 vfit.mno.link
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
@@ -58615,7 +58189,6 @@ vhmewg.edreams.fr
 vhmjci.edreams.co.uk
 vhpabx.herffjones.com
 vhrbxb.vidaxl.nl
-vhykfbuf48.alphonso.tv
 vi.adviso.ca
 vi.lgsmartad.com
 via-mta.b2b-mail.net
@@ -58814,7 +58387,6 @@ vnl1.voyage-prive.nl
 vnlvxi.vivastreet.co.uk
 vnmopn.brax.com
 vnqcyq.noon.co.kr
-vnumedia01.webtrekk.net
 vnzwxk.e-bebek.com
 vocalsure.com
 vocfhq.ilgiardinodeilibri.it
@@ -58828,7 +58400,6 @@ vodafoneturkey.tt.omtrdc.net
 vodafoneuk.tt.omtrdc.net
 voeux2020.wearemip.com
 voexk5.alphonso.tv
-vofpr7.alphonso.tv
 vogelservices.122.2o7.net
 voice.thewealthadvisor.com
 voicepins.com
@@ -58841,7 +58412,6 @@ volatilevessel.com
 volksfreund01.wt-eu02.net
 volkswagen.112.2o7.net
 volkswagen.122.2o7.net
-volkswagenag.tt.omtrdc.net
 volkswagengroupofame.tt.omtrdc.net
 vols7feed.com
 vonazon.actonservice.com
@@ -58873,12 +58443,10 @@ vp.eulerian.com
 vp.eulerian.eu
 vp.eulerian.fr
 vp.eulerian.net
-vp01.eulerian.net
 vp02.eulerian.net
 vp03.eulerian.net
 vp04.eulerian.net
 vp05.eulerian.net
-vp06.eulerian.net
 vp07.eulerian.net
 vp08.eulerian.net
 vp09.eulerian.net
@@ -58905,7 +58473,6 @@ vps03.eulerian.net
 vps04.eulerian.net
 vpuuzj.schnullireich.de
 vqbidy.benetton.com
-vqglui0.alphonso.tv
 vqjacf.mauriziocollectionstore.com
 vqp3.madeindesign.co.uk
 vqpque.eloan.co.jp
@@ -58928,7 +58495,6 @@ vsc.eulerian.net
 vsc01.eulerian.net
 vsc02.eulerian.net
 vsc03.eulerian.net
-vsc04.eulerian.net
 vsc05.eulerian.net
 vsc06.eulerian.net
 vsc07.eulerian.net
@@ -58984,7 +58550,6 @@ vwotiw.agazeta.com.br
 vwrgru.happymail.co.jp
 vws3.melia.com
 vwvrl11.alphonso.tv
-vwwpcztjfx1.alphonso.tv
 vxbirwzxli95.alphonso.tv
 vxcjoz.nextadvisor.com
 vxlpha.weddingpark.net
@@ -59565,7 +59130,6 @@ westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
-westus3.in.applicationinsights.azure.com
 westwickfarrow.122.2o7.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
@@ -59575,7 +59139,6 @@ wext.eulerian.eu
 wext.eulerian.fr
 wext.eulerian.net
 wezbvq.heine-shop.nl
-wfaxl94.alphonso.tv
 wfmcgd.msccruzeiros.com.br
 wgeaqi.laredoute.gr
 wggu.wmra.it
@@ -59619,7 +59182,6 @@ whymaze.com
 wiar9wff0ma9.ping.t3.gg
 widget-pixels.outbrain.com
 widget.as.criteo.com
-widget.criteo.com
 widget.educationdynamics.com
 widget.eu.criteo.com
 widget.us.criteo.com
@@ -59818,7 +59380,6 @@ wt.viagogo.net
 wt01.webtrekk.net
 wtaccesscontrol.com
 wtads.webtrekk.net
-wtayth56.alphonso.tv
 wtb-tag.swaven.com
 wtbevents.pricespider.com
 wtdpkq.tausendkind.de
@@ -59967,7 +59528,6 @@ www2.salary.com
 www2.senetas.com
 www2.simplilearn.com
 www2.timecommunications.biz
-www2.tradeweb.com
 www2.tyrens.se
 www2.unit4.nl
 www2.usautoparts.net
@@ -60156,7 +59716,6 @@ xpu.samsungelectronics.com
 xpygen.unger-fashion.com
 xpzswr.shasa.com
 xqdwwj.medpeer.jp
-xqkhxmkoxa6.alphonso.tv
 xqqyx2.alphonso.tv
 xqslse.annadiva.nl
 xqtcur.kirklands.com
@@ -60192,14 +59751,12 @@ xutolr.mainichikirei.jp
 xutolr.mantan-web.jp
 xuymgm.hostgator.mx
 xvantage.ingrammicro.com
-xvrjoiw71.alphonso.tv
 xvteew.lacoste.jp
 xvyxgy.stz.com.br
 xwpoxv.birdies.com
 xwpzlz.gemimarket.it
 xwzebw.waja.co.jp
 xxjiqg.oysho.com
-xxnddqoplr5.alphonso.tv
 xxpaz5.alphonso.tv
 xxpnnq.sklepmartes.pl
 xxsdtb.edreams.com
@@ -60231,7 +59788,6 @@ yadtbk.blacks.co.uk
 yae6.mes-bijoux.fr
 yagoqv.smartbuyglasses.ca
 yajkhd.supersports.com
-yalcvrn0.alphonso.tv
 yama1hove.com
 yamaha.122.2o7.net
 yami8alea.com
@@ -60242,7 +59798,6 @@ yawxae.footpatrol.com
 yaxedj.vkf-renzel.de
 yazzuf.joyn.de
 ybgsyd.osharewalker.co.jp
-ybskbpp84.alphonso.tv
 ybswii.swarovski.com
 ybzcmz.momoshop.com.tw
 ycembr.net-a-porter.com
@@ -60565,7 +60120,6 @@ zdbbqb.mancrates.com
 zdcjts.asics.com
 zdi0.destinia.cr
 zdpsve.scrapbook.com
-zdptgxxqzy2.alphonso.tv
 zdqlel.restplatzboerse.at
 zds.net.anwalt.de
 zdx5.destinia.pe
@@ -60603,7 +60157,6 @@ zhduni.rizap.jp
 zhihu-web-analytics.zhihu.com
 zhqcir.netage.ne.jp
 zhyeqw.mercury.ru
-zicf.inven.co.kr
 zicgoi.emmiegray.de
 ziegert01.webtrekk.net
 zieyeq.intent24.fr
@@ -60657,7 +60210,6 @@ zm-ad-lgsmartad-com.aws-prd.net
 zm.ad.lgsmartad.com
 zm.lgsmartad.com
 zm5d.lexpress.fr
-zmcfztc2.alphonso.tv
 zmepmwhey7.alphonso.tv
 zmetrics.boston.com
 zmetrics.msn.com
@@ -60681,10 +60233,8 @@ znrttr.jaypore.com
 zodalt.com
 zodhqv.peterson.fr
 zodxgk.lecoqsportif.com
-zoklwxuo66.alphonso.tv
 zombieslayer-alternate.kano.link
 zombieslayer.kano.link
-zonbpmtibc27.alphonso.tv
 zonewedgeshaft.com
 zononi.com
 zoominfo-txn1.aoscmt.com
@@ -60763,6 +60313,5 @@ zycnof.distrelec.de
 zyq2.destinia.sk
 zz.bdstatic.com
 zzaoea.costacrociere.it
-zzoxjxat57.alphonso.tv
 zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
