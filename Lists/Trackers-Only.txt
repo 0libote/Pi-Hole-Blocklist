@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 08 June 2026 13:30:35 UTC
+# Last Updated: 09 June 2026 00:43:58 UTC
 #
-# Domains: 60,396 | Added: 0 | Removed: 0
+# Domains: 60,398 | Added: 2 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -17310,6 +17310,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 find.studenthousing.org
 findsdmitalia01.wt-eu02.net
 findthetruth.allergyai.com
+findyourdelight.com
 findyourinfluence.actonservice.com
 finecoitalia01.wt-eu02.net
 finedit01.wt-eu02.net
@@ -42328,6 +42329,7 @@ sears.112.2o7.net
 searscom.112.2o7.net
 searshomeservices.112.2o7.net
 searskmartcom.112.2o7.net
+seaskypro.com
 seat6worn.com
 seatac15.com
 seatsa.tt.omtrdc.net
