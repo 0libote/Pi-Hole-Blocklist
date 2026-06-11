@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 10 June 2026 13:13:19 UTC
+# Last Updated: 11 June 2026 00:50:01 UTC
 #
-# Domains: 50,353 | Added: 0 | Removed: 0
+# Domains: 50,342 | Added: 6 | Removed: 17
 #
 # List is updated daily adding and removing new and old domains
 
@@ -77,7 +77,6 @@
 1bliq.io
 1bpmtrvkqkj.pettoonies.com
 1bw7etm93lf.www.woodbrass.com
-1cros.net
 1ctc.sfr.fr
 1e90.pandasuite.io
 1eusy6.boxoffice.adventuretix.com
@@ -160,7 +159,6 @@
 3skickasurf.tre.se
 3wn3w3skxpym.round.t3.gg
 40caidaylimpia.catzolab.net
-4251.tech
 4399stat.5054399.com
 44-trk-srv.com
 44tele-infra.com
@@ -1133,7 +1131,6 @@ a19895.actonservice.com
 a19930.actonservice.com
 a19997.actonservice.com
 a1at.mno.link
-a1webstrategy.com
 a2.slotxbros.com
 a20022.actonservice.com
 a2006.actonsoftware.com
@@ -4178,7 +4175,6 @@ aas.visitsaudi.com
 aatbs.com.102.122.2o7.net
 aaucna.casasbahia.com.br
 aavacations.com.102.112.2o7.net
-aaxwall.com
 aazfby.auto.de
 aazmiw.reisenthel.com
 ab-machine.forbes.com
@@ -5460,7 +5456,6 @@ aloofvest.com
 alp1.drimki.fr
 alpha.go.levelbank.com
 alpha.telemetry.microsoft.com
-alpha1trk.com
 alphasimplex.actonservice.com
 alphonso.tv
 alpineactor.com
@@ -9419,6 +9414,7 @@ c-bingapis-com.dual-a-0034.a-msedge.net
 c-c-l.actonservice.com
 c-ring-fallback.msedge.net
 c-ring.msedge.net
+c-stat.eu
 c-t.topya.com
 c.albss.com
 c.amazinglybrilliant.com.au
@@ -9787,7 +9783,6 @@ catracking.cubiq.com
 catracking.finning.com
 cats.d20.rs
 catschickens.com
-catsunrunjam.com
 cattell.loanzify.app
 cattlecommittee.com
 cauldronfest.com
@@ -10591,6 +10586,7 @@ cloudmetrics.xenforo.com
 cloudpath82.com
 cloudtracer101.com
 cloudwp.io
+cloverkeys.com
 cloverleaf.infor.com
 clp-mms.cloudpro.co.uk
 clq.postaffiliatepro.com
@@ -12828,7 +12824,6 @@ datafiletechnologies.actonservice.com
 dataholics.tech
 datalayer.orange.fr
 datanoticias.prisasd.com
-dataofpages.com
 datapickles.com
 datas.connectingthreads.com
 datas.knitpicks.com
@@ -15096,7 +15091,6 @@ emails.travelchannel.com
 emails.verishop.com
 emails.watchown.tv
 emails.xcmsolutions.com
-emailsnow.info
 emalu-store-com.eulerian.net
 emarketing.adoramapix.com
 emarketing.landisgyr.com
@@ -19779,6 +19773,7 @@ hoojts.demmelhuber.net
 hook.gitv.pandora.xiaomi.com
 hook6vein.com
 hookconference.com
+hoorayplay.com
 hootsuite.branch.rocks
 hop.dttd.app
 hopeful.coh.org
@@ -20005,7 +20000,6 @@ i.upoker.net
 i.w.inmobi.com
 i1.services.social.microsoft.com
 i218435.net
-ia-dmp.com
 ia.51.la
 ia.ekstrabladet.dk
 ia84berzxy7v.de.themoneytizer.com
@@ -20194,6 +20188,7 @@ image.mdr.de
 image.now.beyondtrust.info
 image.success.bluewolf.com
 image.thermoscientific.com
+imagebuffer.com
 imagecutie.com
 imagenes.ubmmexico.com
 imagens.conteudo.algartelecom.com.br
@@ -28861,7 +28856,6 @@ minstats.xyz
 minuteburst.com
 miqeuu.timberland.it
 mirabelanalytics.com
-mircheigeshoa.com
 mirec.ubmmexico.com
 miropapremama-es.eulerian.net
 mirvso.boggi.com
@@ -29161,7 +29155,6 @@ morganfranklin.actonservice.com
 mormonorg.112.2o7.net
 mormont.gamer-network.net
 morningnewsonline.112.2o7.net
-mors22.com
 mortgage.equifax.com
 mortgage.inform.equifax.com
 mortgage.leads360.com
@@ -32291,7 +32284,6 @@ push.samsungosp.com.cn
 pushd.netky.tech
 pushmaster-cdn.xyz
 pushspring.actonservice.com
-pushvisit.xyz
 putphc.zuhre.com.tr
 puzzle.spiriteq.com
 pv.hd.sohu.com
@@ -32638,7 +32630,6 @@ r2r.utas.edu.au
 r45j15.com
 r4nds.absorba.com
 raab3frog.com
-raac33.net
 rabbit.donald.cat
 rabbitbreath.com
 rabbitrifle.com
@@ -40723,7 +40714,6 @@ statistic.audima.co
 statistic.jac-systeme.de
 statistic.qzone.qq.com
 statistic2.reichelt.de
-statisticplatform.com
 statistics.csob.cz
 statistics.daktilo.com
 statistics.darkreader.app
@@ -41113,6 +41103,7 @@ stats.jerickson.net
 stats.jetzt-aktivieren.de
 stats.jhsheridan.com
 stats.jjude.com
+stats.jkdesa.com
 stats.joaopedro.dev
 stats.jsbible.com
 stats.jtrees.io
@@ -43342,7 +43333,6 @@ test.swa.info
 test.takedwn.ws
 test.thei.co
 test.thomsonreuters.com
-test.vast
 test.zeus-wifi.jp
 test2.majelan.com
 test92.com
@@ -45599,7 +45589,6 @@ track-e.cypress.com
 track-e.infineon.com
 track-e.infineoncommunity.com
 track-mail.homage.co
-track-selectmedia.com
 track-srv.vietnamnet.vn
 track-test.workframe.com
 track-v4.ipadpresence.com
@@ -46663,7 +46652,6 @@ training.hager.co.uk
 training.indigobusiness.co.uk
 training.thunderhead.com
 traka8.crypto-mall.org
-trakle01.online
 trane-ir-corp-ingersollrand.112.2o7.net
 trane.112.2o7.net
 tranest-schlage-link.112.2o7.net
@@ -47381,6 +47369,7 @@ ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
 uct.service.usercentrics.eu
+ud.galaxus.ch
 ud.galaxus.de
 udblog.huya.com
 udc.msn.com
