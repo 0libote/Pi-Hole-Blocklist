@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 12 June 2026 13:12:02 UTC
+# Last Updated: 13 June 2026 00:51:43 UTC
 #
-# Domains: 50,342 | Added: 0 | Removed: 0
+# Domains: 50,349 | Added: 9 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6029,6 +6029,7 @@ analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.phn.com
 analytics.picknrg.com
+analytics.pingaja.com
 analytics.pipelife-bewaesserung.at
 analytics.pipelife.at
 analytics.pipelife.bg
@@ -22347,6 +22348,7 @@ joinus.holidayseniorliving.com
 jokeg7.alphonso.tv
 joqawz.snipes.nl
 josh7cuba.com
+joshpaintings.com
 joskgw.sewingmachinesplus.com
 journalregistercompany.122.2o7.net
 journey.cisco.com
@@ -22441,6 +22443,7 @@ juiceblocks.com
 juicingoasis.com
 jujtcq.amnibus.com
 jumbo.zomato.com
+jumbochalk.com
 jumpstartinc.actonservice.com
 jumpto.use-beez.com
 jun23.madeindesign.de
@@ -23138,6 +23141,7 @@ ladxxr.sonovente.com
 laforms.goepson.com
 lafrancedunordausud.eulerian.net
 lagrange.logs.roku.com
+lakeofficepros.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
 lakesecure.com
@@ -24290,7 +24294,6 @@ links.teladoc.com
 links.thedyrt.com
 links.theinfatuation.com
 links.thephoenix.org
-links.thriveglobal.com
 links.tlc.com
 links.travelchannel.com
 links.tribe.fitness
@@ -35609,6 +35612,7 @@ sgp-api.xmpush.global.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 sgsb.aba.com
 sgstats.com
+sgtm.cmoa.jp
 sgtm.tagmanageritalia.it
 sgtm.tennis-point.de
 sgw-analytics.panasonic.com
@@ -40464,7 +40468,6 @@ staging-go.getsquire.com
 staging-link-ccontact.focuscura.com
 staging-link.docyt.com
 staging-link.kol.store
-staging-links.thriveglobal.com
 staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.api.zhuti.n.xiaomi.com
@@ -41225,6 +41228,7 @@ stats.newslit.co
 stats.newsweek.com
 stats.nexagon.dk
 stats.nhk.or.jp
+stats.nkkk.de
 stats.nodewood.com
 stats.nonprofit.foundation
 stats.nortonhealthcare.com
@@ -41503,6 +41507,7 @@ stats.varrando.com
 stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
+stats.velarium.cc
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
@@ -41763,6 +41768,7 @@ strongercity.com
 sts.advertising.microsoft.com
 sts.authramp.com
 sts.eliasjarzombek.com
+sts.marketingsuite.jp
 sts.papyrs.com
 sts.tour-europe.org
 stscs.ditzo.nl
@@ -46156,6 +46162,7 @@ tracking.gpm-rtv.ru
 tracking.graduateschool.edu
 tracking.graphly.io
 tracking.grosseladies.de
+tracking.groupe-ldlc.com
 tracking.gruppo.mps.it
 tracking.guidehouse.com
 tracking.handlesets.com
