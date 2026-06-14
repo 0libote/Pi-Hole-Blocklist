@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 14 June 2026 00:50:59 UTC
+# Last Updated: 14 June 2026 12:42:31 UTC
 #
-# Domains: 50,349 | Added: 0 | Removed: 0
+# Domains: 50,400 | Added: 55 | Removed: 4
 #
 # List is updated daily adding and removing new and old domains
 
@@ -4651,6 +4651,7 @@ ad.msn.com
 ad.nettvservices.com
 ad.ordersuit.info
 ad.prod.rpay.int.roku.com
+ad.qa.ap.int.roku.com
 ad.quickapp.hybrid.xiaomi.com
 ad.rejichoice.jp
 ad.rus.xiaomi.com
@@ -4660,6 +4661,7 @@ ad.takasu.co.jp
 ad.tempstaff.co.jp
 ad.theatre.co.jp
 ad.theatreacademy.jp
+ad.usw2.qa.ap.int.roku.com
 ad.xiaomi.com
 ad.yna.co.kr
 ad1.tone.ne.jp
@@ -4962,6 +4964,7 @@ ads-collector.luizalabs.com
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
 ads-drru.platform.hihonorcloud.com
+ads-msn-com-profile.trafficmanager.net
 ads-tracking.beop.io
 ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
@@ -5172,6 +5175,7 @@ af.eficads.com
 af.gmobile.biz
 af.lgsmartad.com
 af.shozankan-shop.com
+afaprrnbzl1.alphonso.tv
 afclms.xd-design.co.kr
 afcv.champ-shop.com
 afdbwq.blivakker.no
@@ -5373,6 +5377,7 @@ alaburger.openapp.link
 aladdinupdate.blackrock.com
 alamocapital.actonservice.com
 alapita.openapp.link
+alb-ais-prod-lb.alphonso.tv
 alb.reddit.com
 albanychicago.advancedtech.com
 albanytimesunion.122.2o7.net
@@ -8134,6 +8139,7 @@ azscgj.penningtons.com
 azullinhasaereas.tt.omtrdc.net
 azure.bcp.bingads.trafficmanager.net
 azure.bingads.microsoft.com
+azure.bingads.trafficmanager.net
 azure.tip.bingads.trafficmanager.net
 azuremystique.com
 azurestealth.com
@@ -8629,6 +8635,7 @@ biminibliss.rwbimini.com
 binarycrest.com
 binarykite.com
 bingads.microsoft.com
+bingads.trafficmanager.net
 binocule21c.merriam-webster.com
 bins.recycleaway.com
 binspiredtees.com
@@ -8804,6 +8811,7 @@ bnk.wolterskluwerfs.com
 bnk30livejs.112.2o7.net
 bnkholic.112.2o7.net
 bnkicomv2.112.2o7.net
+bnkis3.alphonso.tv
 bnkr8dev.112.2o7.net
 bnpparibasfortis.tt.omtrdc.net
 bnppbecwprod.112.2o7.net
@@ -10166,6 +10174,7 @@ childlikeform.com
 chillingtofu.com
 china-gld.push.samsungosp.com.cn
 chinaeast2-0.in.applicationinsights.azure.cn
+chinaeast3-global.in.applicationinsights.azure.cn
 chinanorth3-0.in.applicationinsights.azure.cn
 chingovernment.com
 chip2gift.com
@@ -10846,6 +10855,7 @@ collect.vans.com.cn
 collect.verify.lnearn.com
 collect2.allianz.ch
 collectfront.nector.io
+collection-location-livenet.trafficmanager.net
 collection.e-satisfaction.com
 collection.location.live.net
 collection.mola.tv
@@ -10864,7 +10874,6 @@ collector.automote.co.nz
 collector.azure.cn
 collector.azure.eaglex.ic.gov
 collector.azure.microsoft.cloud
-collector.azure.microsoft.scloud
 collector.betway.be
 collector.betway.com
 collector.cint.com
@@ -11711,6 +11720,7 @@ crm.smu.edu
 crm.toyotago.com.ec
 crm.velocify.com
 crmcommunications.progressive.com
+crmjqv9.alphonso.tv
 crmonline.actonservice.com
 crocetta.viessmann.it
 crochetdivas.com
@@ -13059,6 +13069,7 @@ default.tracking.miui.com
 defeatedbadge.com
 defensevest.com
 defygravity.convio.com
+degea.alphonso.tv
 degh48.fnac.com
 degree.insead.edu
 degreechariot.com
@@ -13925,6 +13936,7 @@ dpu.samsungelectronics.com
 dq95d35.com
 dqa-auth.di.atlas.samsung.com
 dqefxd.kaigoworker.jp
+dqfui3.alphonso.tv
 dqif5bl25s0bf.cloudfront.net
 dqntra.home-to-go.ca
 dqqfrs.qatarairways.com
@@ -13998,6 +14010,7 @@ dtr-onsite-feed.datarize.ai
 dtsif22.alphonso.tv
 dttrk.com
 dtxtngytz5im1.cloudfront.net
+dtyjiik06.alphonso.tv
 dtzrrz.green-japan.com
 du4rq1xqh3i1k.cloudfront.net
 dual-s-ring.msedge.net
@@ -14063,6 +14076,7 @@ dz1dt3wqswdezgx4j2ryem5iad.apple.com
 dzbbzg.carfinance247.co.uk
 dzforp.buscape.com.br
 dzgwautxzdtn9.cloudfront.net
+dzhsiasru67.alphonso.tv
 dzjhok.teufelaudio.at
 dzkygl.ullapopken.nl
 dzqkrgamr75.alphonso.tv
@@ -14531,6 +14545,7 @@ egbqvs.vila.com
 egdehs.selected.com
 eghrbf.immowelt.at
 egia.actonservice.com
+egmfuqki23.alphonso.tv
 egoi.site
 egs.samsungallstore.com
 egvemw.aboutyou.ee
@@ -14551,6 +14566,7 @@ ei.monday.com
 eic-ngfts.lge.com
 eic-ngfts.lge.com.edgekey.net
 eic-qt2-ngfts.lge.com
+eic-qt2-ngfts.lge.com.edgekey.net
 eic.ads.lgtvcommon.com
 eic.cdpbeacon.lgtvcommon.com
 eic.homeprv.lgtvcommon.com
@@ -15377,6 +15393,7 @@ eolvci.olx.ro
 eonline.tt.omtrdc.net
 eonmxd.urban-research.jp
 eoocpp.fujiidaimaru.co.jp
+eoydhe10.alphonso.tv
 eozwcp.jetex.com
 ep.regis.edu
 epargnez.adp.ca
@@ -15737,6 +15754,7 @@ eumarketing.sedgwick.com
 eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
 eureka-app.eurekaplatform.org
+eurffc-word-telemetry.wac.trafficmanager.net
 eurogamer-de.eurogamer.de
 eurogamer-pt.eurogamer.pt
 eurogamer-uk.eurogamer.net
@@ -15990,6 +16008,7 @@ ewe.loudcrowd.com
 ewfarp.kappa.com
 ewfrnd.stockmann.ru
 eworfe.babyartikel.de
+ewqwvq9.alphonso.tv
 ewsabilene.112.2o7.net
 ewscorpuschristi.112.2o7.net
 ewscripps.112.2o7.net
@@ -16402,6 +16421,7 @@ fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
 fhiwyq.axiory.com
+fhkex91.alphonso.tv
 fhngty.vetsecurite.com
 fhqrnb.feelway.com
 fhrpqp.futfanatics.com.br
@@ -19912,6 +19932,7 @@ hvac.goodcoinc.com
 hvac.solutions.jci.com
 hvgcfx1.com
 hvpeme.petedge.com
+hvqjcycemh5.alphonso.tv
 hvrhgt.the-sun.com
 hvrhgt.thescottishsun.co.uk
 hvrhgt.thesun.co.uk
@@ -20074,6 +20095,7 @@ idiagnostics-mdn1.apple.com
 idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idianw.warmteservice.nl
+idkjv31.alphonso.tv
 idlecollect.com
 idlqzb.puntoscolombia.com
 idm.api.autohome.com.cn
@@ -21989,6 +22011,7 @@ irelandroad.com
 ireport.com.102.122.2o7.net
 irfiqx.babyneeds.ro
 iridescentdusk.com
+irmchav36.alphonso.tv
 irmsolutions.choicepoint.com
 iro.iperceptions.com
 iron0walk.com
@@ -22490,6 +22513,7 @@ jyupgi.eurostarshotels.co.uk
 jyyqzt.sledstore.se
 jyyzvb.careerindex.jp
 jzauch.motostorm.it
+jzbznqbz81.alphonso.tv
 jzgfhr.nordicnest.com
 jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
@@ -22843,6 +22867,7 @@ krishnaw368.alphonso.tv
 krishnaw369.alphonso.tv
 krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
+krishnaw372.alphonso.tv
 krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
 krishnaw377.alphonso.tv
@@ -22892,7 +22917,6 @@ krishnaw436.alphonso.tv
 krishnaw437.alphonso.tv
 krishnaw438.alphonso.tv
 krishnaw439.alphonso.tv
-krishnaw440.alphonso.tv
 krishnaw441.alphonso.tv
 krishnaw445.alphonso.tv
 krishnaw446.alphonso.tv
@@ -24364,6 +24388,7 @@ lizmjtlnix16.alphonso.tv
 lj5s1u8ct5vz.app.chatpay.dev
 ljb0.assuronline.com
 ljbpfe.notino.es
+ljjsajcuwf67.alphonso.tv
 ljqpvo.hardrock.com
 ljyipz.nugnes1920.com
 ljzxdu.largus.fr
@@ -29221,6 +29246,7 @@ mr.ad.lgsmartad.com
 mr.homedepot.ca
 mr.lgsmartad.com
 mre6.destinia.ma
+mrhcmybeao1.alphonso.tv
 mri.iradimed.com
 mrksmm.yumegazai.com
 mroprospector.aviationweek.com
@@ -30084,6 +30110,7 @@ nstclj.rubylane.com
 nsteq.queensland.com
 nthldc.europcar.co.uk
 ntkfbsqfxy2.alphonso.tv
+ntmonou0.alphonso.tv
 ntopcd.underarmour.nl
 ntphyl.milan-jeunesse.com
 ntt-fletscv.ntt-flets.com
@@ -30652,6 +30679,7 @@ onmlkjiion.carte-gr.total.fr
 onoztg.ultimate-guitar.com
 onsitestats.bluecore.com
 ontxgr.hofer-reisen.at
+onvshoi4.alphonso.tv
 oo.ooshop.com
 oocrzh.byojet.com
 oodpreprod.122.2o7.net
@@ -32385,6 +32413,7 @@ qc.vanityfair.com
 qc.vogue.com
 qc.wired.com
 qcblzn.pinkpanda.it
+qcduuw89.alphonso.tv
 qceyjl.cellularoutfitter.com
 qcgtoz.cwjobs.co.uk
 qcmxuy.hardloop.de
@@ -47327,6 +47356,7 @@ ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
+uaenorth-0.in.applicationinsights.azure.com
 ualkzq.moobel1.ee
 uaqcui.tennis-point.fr
 uarrdg.landsofamerica.com
@@ -47450,6 +47480,7 @@ uinpmz.iichi.com
 uiusqp.crowdcow.com
 uiwock.epantofi.ro
 ujbhri.pharmamarket.nl
+ujdcipvr0.alphonso.tv
 ujlwwo.lehner-versand.ch
 ujq1.destinia.is
 ujuyhix2.alphonso.tv
@@ -47595,7 +47626,6 @@ upgrade.pandora.xiaomi.com
 upgradeyoga.com
 upi.112.2o7.net
 upload.euleriancdn.net
-upload.fp.measure.office.com.corp.mmco.int.cardano.com
 uppbrl.thomassabo.com
 uppitytime.com
 upqmpu.leasingtime.de
@@ -47612,6 +47642,7 @@ uqhpej.wiberrentacar.com
 ur.b.inhaabit.com
 urbanlaurel.com
 ureca.samsungapps.com
+ureca.samsungapps.com.ad.mexnet.de
 urehgr.halekulani.com
 ureoaw.netthandelen.no
 ureruadebis.papawash.com
@@ -47663,6 +47694,7 @@ us-mesh-events-data-leafs.trafficmanager.net
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
 us-now.experian.com
+us-report.gras.samsungdm.com
 us-service.acr.roku.com
 us-teams.events.data.microsoft.com
 us-v10.events.data.microsoft.com
@@ -47676,6 +47708,7 @@ us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us.aria.events.data.trafficmanager.net
 us.cdpbeacon.lgtvcommon.com
 us.cdpsvc.lgtvcommon.com
+us.event-tracking.samsung.com
 us.events.data.trafficmanager.net
 us.homeprv.lgtvcommon.com
 us.ibs.lgappstv.com
@@ -47745,6 +47778,7 @@ usfoods.tt.omtrdc.net
 usgovarizona-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
+usgovvirginia-global.in.applicationinsights.azure.us
 usgzei.vidaxl.ch
 usingyourcard.americanexpress.co.uk
 usmetric.rediff.com
@@ -48240,6 +48274,7 @@ vazulp.graniph.com
 vbe.eulerian.net
 vbe.voyage-prive.be
 vbkryy.pasonacareer.jp
+vbpfpbmodz9.alphonso.tv
 vbseje.stonehengehealth.com
 vbsjdd.olx.pt
 vbtdzb.fyndiq.se
@@ -48569,6 +48604,7 @@ vodafoneturkey.tt.omtrdc.net
 vodafoneuk.tt.omtrdc.net
 voeux2020.wearemip.com
 voexk5.alphonso.tv
+vofpr7.alphonso.tv
 vogelservices.122.2o7.net
 voice.thewealthadvisor.com
 voicepins.com
@@ -48620,6 +48656,7 @@ vpmdiq.propertyfinder.qa
 vppst.iltrovatore.it
 vpuuzj.schnullireich.de
 vqbidy.benetton.com
+vqglui0.alphonso.tv
 vqjacf.mauriziocollectionstore.com
 vqp3.madeindesign.co.uk
 vqpque.eloan.co.jp
@@ -48668,6 +48705,7 @@ vwonwkaqvq-a.global.ssl.fastly.net
 vwotiw.agazeta.com.br
 vwrgru.happymail.co.jp
 vwvrl11.alphonso.tv
+vwwpcztjfx1.alphonso.tv
 vxbirwzxli95.alphonso.tv
 vxcjoz.nextadvisor.com
 vxlpha.weddingpark.net
@@ -48867,7 +48905,6 @@ wds.weqs.me
 wdsgpy.lekarna.cz
 wdukge.midwayusa.com
 wdvqypb4.alphonso.tv
-we-events-prod-1.trafficmanager.net
 we-love-privacy.humane.club
 we.care.oswegohealth.org
 we.kurly.com
@@ -49235,6 +49272,7 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wevbgr.vidaxl.it
 wezbvq.heine-shop.nl
+wfaxl94.alphonso.tv
 wfmcgd.msccruzeiros.com.br
 wgeaqi.laredoute.gr
 wgnrrd.culturekings.com
@@ -49469,6 +49507,7 @@ wt.oscaro.com
 wt.vhb.de
 wt.viagogo.net
 wtaccesscontrol.com
+wtayth56.alphonso.tv
 wtb-tag.swaven.com
 wtbevents.pricespider.com
 wtdpkq.tausendkind.de
@@ -49792,6 +49831,7 @@ xpu.samsungelectronics.com
 xpygen.unger-fashion.com
 xpzswr.shasa.com
 xqdwwj.medpeer.jp
+xqkhxmkoxa6.alphonso.tv
 xqqyx2.alphonso.tv
 xqslse.annadiva.nl
 xqtcur.kirklands.com
@@ -49826,12 +49866,15 @@ xutolr.mainichikirei.jp
 xutolr.mantan-web.jp
 xuymgm.hostgator.mx
 xvantage.ingrammicro.com
+xvrjoiw71.alphonso.tv
 xvteew.lacoste.jp
 xvyxgy.stz.com.br
+xwoveqhs3.alphonso.tv
 xwpoxv.birdies.com
 xwpzlz.gemimarket.it
 xwzebw.waja.co.jp
 xxjiqg.oysho.com
+xxnddqoplr5.alphonso.tv
 xxpaz5.alphonso.tv
 xxpnnq.sklepmartes.pl
 xxsdtb.edreams.com
@@ -49861,6 +49904,7 @@ yachtloft.com
 yadtbk.blacks.co.uk
 yagoqv.smartbuyglasses.ca
 yajkhd.supersports.com
+yalcvrn0.alphonso.tv
 yama1hove.com
 yamaha.122.2o7.net
 yami8alea.com
@@ -49871,6 +49915,7 @@ yawxae.footpatrol.com
 yaxedj.vkf-renzel.de
 yazzuf.joyn.de
 ybgsyd.osharewalker.co.jp
+ybskbpp84.alphonso.tv
 ybswii.swarovski.com
 ybzcmz.momoshop.com.tw
 ycembr.net-a-porter.com
@@ -50173,6 +50218,7 @@ zdbbqb.mancrates.com
 zdcjts.asics.com
 zdi0.destinia.cr
 zdpsve.scrapbook.com
+zdptgxxqzy2.alphonso.tv
 zdqlel.restplatzboerse.at
 zds.net.anwalt.de
 zdx5.destinia.pe
@@ -50258,6 +50304,7 @@ zm-ad-lgsmartad-com.aws-prd.net
 zm.ad.lgsmartad.com
 zm.lgsmartad.com
 zm5d.lexpress.fr
+zmcfztc2.alphonso.tv
 zmepmwhey7.alphonso.tv
 zmetrics.boston.com
 zmetrics.msn.com
@@ -50281,8 +50328,10 @@ znrttr.jaypore.com
 zodalt.com
 zodhqv.peterson.fr
 zodxgk.lecoqsportif.com
+zoklwxuo66.alphonso.tv
 zombieslayer-alternate.kano.link
 zombieslayer.kano.link
+zonbpmtibc27.alphonso.tv
 zonewedgeshaft.com
 zononi.com
 zoominfo.actonservice.com
@@ -50313,6 +50362,7 @@ zsqnv4.alphonso.tv
 zsrznel7.alphonso.tv
 ztarkm.johnnie-o.com
 ztbbpz.betten.de
+ztbiazom15.alphonso.tv
 ztd.dds.microsoft.com
 ztfjtn.liujo.com
 ztgblo.vidaxl.lt
@@ -50355,5 +50405,6 @@ zycnof.distrelec.de
 zyq2.destinia.sk
 zz.bdstatic.com
 zzaoea.costacrociere.it
+zzoxjxat57.alphonso.tv
 zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
