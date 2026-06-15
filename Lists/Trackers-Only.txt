@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 15 June 2026 00:53:21 UTC
+# Last Updated: 15 June 2026 14:09:55 UTC
 #
-# Domains: 60,383 | Added: 9,983 | Removed: 0
+# Domains: 60,382 | Added: 3 | Removed: 4
 #
 # List is updated daily adding and removing new and old domains
 
@@ -21169,6 +21169,7 @@ id.a-mx.com
 id.ad.lgsmartad.com
 id.google.de
 id.lgsmartad.com
+id.nbcuni.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -25714,7 +25715,6 @@ linkvetdev.insights.md
 lintv.122.2o7.net
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
-lipstat.com
 liquid.agora.pl
 list1holp.com
 listen.trakks.com
@@ -28949,6 +28949,7 @@ mass1soma.com
 massivemark.com
 master.cifraclub.com.br
 master.ec.eulerian.net
+masterenter.com
 masternaut.actonservice.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
@@ -35696,6 +35697,7 @@ omadi.actonservice.com
 omahasteaks.com.102.122.207.net
 omazeuceeazczprod.112.2o7.net
 omcshw.pharmasi.it
+omegaroutes.com
 omes.tt.omtrdc.net
 ometrics.ameds.com
 ometrics.netapp.com
@@ -39488,7 +39490,6 @@ profiling.plannja.com
 profiling.ruukki.com
 profit.edc.ca
 profitrumour.com
-proftrafficcounter.com
 profusesupport.com
 programme.enviedeplus.com
 programmes-skema.skema-bs.fr
@@ -55877,8 +55878,6 @@ tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cdiscount.com
-tracking.cds.dmm.co.jp
-tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
