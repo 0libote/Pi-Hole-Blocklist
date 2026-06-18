@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 17 June 2026 13:21:49 UTC
+# Last Updated: 18 June 2026 00:56:00 UTC
 #
-# Domains: 60,382 | Added: 0 | Removed: 0
+# Domains: 60,388 | Added: 6 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -23987,6 +23987,7 @@ kinesis.us-east-1.analytics.edmentum.com
 kingnews.burgerking.co.za
 kings-email.com
 kingsandqueens.splowser.com
+kingsealed.com
 kingstonsmith.actonservice.com
 kiomi-com01.webtrekk.net
 kiplinger.112.2o7.net
@@ -38189,6 +38190,7 @@ p.gazeta.pl
 p.hentaiforce.net
 p.ianmjones.com
 p.iforge.app
+p.imgur.gg
 p.jmlp.app
 p.logbox.io
 p.marqueplace.com
@@ -38788,6 +38790,7 @@ pingback.issuu.com
 pingjs.qq.com
 pingo.staticmoly.me
 pings.vidpulse.com
+pingsurvey.com
 pinnacle.plato.com.au
 pinptg.milleni.com.tr
 pint-dev-branch.airship.com
@@ -38962,6 +38965,7 @@ planethome01.webtrekk.net
 planetout.122.2o7.net
 plans.ceteraretirement.com
 plans.fundtherebuild.com
+plantcourse.com
 plas.imfeld.dev
 platform.cid.samba.tv
 platform.iteratehq.com
@@ -39212,6 +39216,7 @@ ponos.zeronaught.com
 ponyo.cheriefm.fr
 pool.onjoyri.de
 pool.onjoyride.com
+poolcushions.com
 poor5zero.com
 pop.carte-gr.total.fr
 pop.dmglobal.com
@@ -39366,6 +39371,7 @@ presence.teams.live.com
 presscoder.com
 pret-dunion.eulerian.net
 prettybicycle.com
+prettydemo.com
 prettyeasycafe.com
 prettylearning.com
 preview.crm.sms.miui.com
