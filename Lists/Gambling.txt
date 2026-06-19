@@ -2,9 +2,9 @@
 # List - Gambling
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 18 June 2026 13:10:43 UTC
+# Last Updated: 19 June 2026 00:55:19 UTC
 #
-# Domains: 254,867 | Added: 4,251 | Removed: 2,786
+# Domains: 254,874 | Added: 7 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -78354,6 +78354,7 @@ betasus1130.com
 betasus1710.com
 betasus724.com
 betasusa.site
+betasustek.online
 betat-casino.com
 betat.casino
 betatcasino.co.uk
@@ -121286,6 +121287,7 @@ didi51-l1489.vip
 didi51-l1495.vip
 didi51-l1496.vip
 didi51-l1527.vip
+didi51-l1847.cc
 didi51-l2164.cc
 didi51-l2214.cc
 didi51-l2354.cc
@@ -121305,6 +121307,7 @@ didi51-l309.vip
 didi51-l329.vip
 didi51-l332.vip
 didi51-l349.vip
+didi51-l376.vip
 didi51-l457.vip
 didi51-l459.vip
 didi51-l462.vip
@@ -140594,12 +140597,14 @@ grandpashabet-resmii.vip
 grandpashabet-s.co
 grandpashabet-site.co
 grandpashabet-siteniz2026.vip
+grandpashabet-turkey2026.vip
 grandpashabet-viphesqp2026.vip
 grandpashabet-yeniadresi2026.icu
 grandpashabet.casino
 grandpashabet10217.com
 grandpashabet1926.com
 grandpashabet2026-girisleri.com
+grandpashabet2026-guncelgir.com
 grandpashabet2026girislinkim.vip
 grandpashabet34055.com
 grandpashabet3842.com
@@ -140629,6 +140634,7 @@ grandpashabet9625.com
 grandpashabet9834.com
 grandpashabet9856.com
 grandpashabetadi.com
+grandpashabetapp.co
 grandpashabetcasinogt.com
 grandpashabeterisim-2026.com
 grandpashabeterisim2026.com
@@ -194953,6 +194959,7 @@ palacebet.com
 palacebet.vip
 palacebetcasinoo.com
 palacebetingirisitr.icu
+palacebetworldcup.icu
 palacebingo.com
 palacecasino.app
 palacecasino.eu
