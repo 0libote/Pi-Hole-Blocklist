@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 19 June 2026 13:14:16 UTC
+# Last Updated: 20 June 2026 00:47:14 UTC
 #
-# Domains: 60,388 | Added: 0 | Removed: 0
+# Domains: 60,396 | Added: 8 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5808,6 +5808,7 @@ analytic.buoyweather.com
 analytic.calif.aaa.com
 analytic.capitalgroup.com
 analytic.cibc.com
+analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
@@ -6149,6 +6150,7 @@ analytics.metro.de
 analytics.metro.fr
 analytics.metro.pk
 analytics.metro.ua
+analytics.mgm.gov.tr
 analytics.midas-antilles.fr
 analytics.midas.be
 analytics.midas.ci
@@ -13421,6 +13423,7 @@ ddioce.wolverine.com
 ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
+ddlnk.net
 ddm.frandroid.com
 ddmfrg.modivo.bg
 ddnahc.mesbagages.com
@@ -40796,6 +40799,7 @@ roas-service.store-services-prod.remarkable.com
 roberthalfintl.tt.omtrdc.net
 robotflowermobile.com
 robotgarages.com
+robotsrefinery.com
 rochelle.wantsext.me
 rock5rice.com
 rockagainst.com
@@ -50290,6 +50294,7 @@ stape.brascast.com
 staples.tt.omtrdc.net
 star-cntr-5.com
 starchild.odencat.com
+starfurniture.net
 starget.aircanada.com
 starget.airmiles.ca
 starget.beneplace.com
@@ -51591,6 +51596,7 @@ stts.swisshranalytics.ch
 stubhub.122.2o7.net
 studentadvantage.actonservice.com
 studio.joinsalut.com
+studioalkaline.com
 study.jcu.edu.au
 study.vu.edu.au
 studycooking.com
@@ -53262,6 +53268,7 @@ theboeingcompany.tt.omtrdc.net
 thebrainybulb.com
 thecea.actonservice.com
 thecontainerstore.tt.omtrdc.net
+thecounter.net
 thecrazychili.com
 thedailystarcom.112.2o7.net
 thefishstops.com
@@ -58735,6 +58742,7 @@ warnerbrothersrecords.112.2o7.net
 warnwing.com
 warrenfcu.actonservice.com
 warrjy.feiler.jp
+wart.val.town
 was.epson.com
 was.stubhub.com
 was.vodafone.de
