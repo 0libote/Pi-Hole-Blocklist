@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 21 June 2026 00:52:22 UTC
+# Last Updated: 21 June 2026 12:43:13 UTC
 #
-# Domains: 60,396 | Added: 0 | Removed: 0
+# Domains: 60,295 | Added: 6 | Removed: 107
 #
 # List is updated daily adding and removing new and old domains
 
@@ -2153,7 +2153,6 @@ a41559.actonsoftware.com
 a41609.actonservice.com
 a41628.actonservice.com
 a41643.actonservice.com
-a41664.actonsoftware.com
 a41691.actonservice.com
 a41714.actonservice.com
 a41765.actonsoftware.com
@@ -2842,7 +2841,6 @@ a46300.actonservice.com
 a46303.actonservice.com
 a46306.actonservice.com
 a46534.actonservice.com
-a4712.actonsoftware.com
 a4952.actonsoftware.com
 a64lmglobal.112.2o7.net
 a6689.actonsoftware.com
@@ -4301,7 +4299,6 @@ abbottlaboratories.tt.omtrdc.net
 abbottlabs.112.2o7.net
 abbottnutrition.com.102.112.2o7.net
 abbqns.gowabi.com
-abbviecommercial.tt.omtrdc.net
 abc.bayer04.de
 abc.hb-api.omtrdc.net
 abc.hb.omtrdc.net
@@ -4861,7 +4858,6 @@ adc3-launch.adcolony.com
 adclear.baur.de
 adcontroll.com
 adcs.basspro.ca
-adcs.basspro.com
 adcs.cabelas.com
 add.barkleyus.com
 addictedattention.com
@@ -4992,7 +4988,6 @@ adobe-ep.healthcare.gov
 adobe-ep.insurekidsnow.gov
 adobe-ep.medicaid.gov
 adobe-ep.medicare.gov
-adobe-metrics.zionsbank.com
 adobe-nonsecure.cjone.com
 adobe-secure.cjone.com
 adobe.112.2o7.net
@@ -5140,7 +5135,6 @@ adsdkprod.azureedge.net
 adserver.bing.com
 adserver.snapads.com
 adservice.google.de
-adservice.hani.co.kr
 adservices.roku.com
 adsmeasurement.com
 adsnid.wagyushop.com
@@ -5694,7 +5688,6 @@ amazonmerchants.122.2o7.net
 amazonservices.122.2o7.net
 amazonservicesllc.tt.omtrdc.net
 amazonshopbop.122.2o7.net
-amazonwebservicesinc.tt.omtrdc.net
 amazonwebstore.122.2o7.net
 ambassadors.diorinsider.com
 ambientdusk.com
@@ -6245,7 +6238,6 @@ analytics.pogo.tv
 analytics.pointdrive.linkedin.com
 analytics.pollardwater.com
 analytics.pop2watch.com
-analytics.porsche.com
 analytics.prezly.com
 analytics.productreview.com.au
 analytics.propensity.com
@@ -6495,7 +6487,6 @@ angdr.112.2o7.net
 angebote.plex.com
 angiba.112.2o7.net
 angieslist.112.2o7.net
-angieslist.tt.omtrdc.net
 anglo.email
 angmar.112.2o7.net
 angmil.112.2o7.net
@@ -6665,10 +6656,8 @@ api-analytics.pelikan.sk
 api-analytics.rozetka.com.ua
 api-analytics.samsungknox.com
 api-analytics.sazka.cz
-api-analytics.t-mobile.cz
 api-cdmp.fiskars.com
 api-consumer365.desigual.com
-api-crm.miele.com
 api-dooh.samsungads.com
 api-exp.dfs.uk
 api-exponea.ellos.se
@@ -6733,7 +6722,6 @@ api.edgeoffer.microsoft.com
 api.elliehuxtable.com
 api.email.debenhams.co.uk
 api.eu.hismarttv.com
-api.exp.sofology.co.uk
 api.fuck.education
 api.g.micloud.xiaomi.net
 api.game.intl.miui.com
@@ -6749,7 +6737,6 @@ api.ryanyao.design
 api.sae.systems
 api.sms.intl.miui.com
 api.thetake.com
-api.weltevree.eu
 api.wipmania.com
 api.xmpush.global.xiaomi.com
 apilog-web.acfun.cn
@@ -8019,7 +8006,6 @@ attivoconsulting.actonservice.com
 attorney.findlaw.com
 attorneymarketingnetwork1.actonsoftware.com
 attractionbanana.com
-attributionday.com
 attributiontrackingga.googlecode.com
 atumanera.burgerking.com.mx
 atv01.webtrekk.net
@@ -8404,7 +8390,6 @@ b.escardio.org
 b.ewd.io
 b.fox.com
 b.foxsports.com
-b.fr3.eu.criteo.com
 b.fr3.vip.prod.criteo.com
 b.freshpair.com
 b.fxnetworks.com
@@ -8485,7 +8470,6 @@ b3mxnuvcer.com
 b536mpmxoqxa.www.themoneytizer.com
 b5j6itccyluq.nofluffjobs.com
 b629.electronicdesign.com
-b6ft.zone-turf.fr
 b73c.pandasuite.io
 b7tp47v2nb3x-a.akamaihd.net
 ba-ad-lgsmartad-com.aws-prd.net
@@ -8557,7 +8541,6 @@ bankwithunited.tt.omtrdc.net
 banner.appsflyersdk.com
 banstat.nadavi.net
 bapages.carte-gr.total.fr
-baptist-health.hrm.healthgrades.com
 baptisthealth.hrm.healthgrades.com
 barbarousbase.com
 barbershirts.com
@@ -8773,7 +8756,6 @@ bestill.help.no
 bestinfo.bluetrustloans.com
 bestmediatech.postaffiliatepro.com
 bestshoesboot.com
-bestwesterninternati.tt.omtrdc.net
 besucher.nona.de
 bet.122.2o7.net
 beta-link.liilix.com
@@ -9904,7 +9886,6 @@ campaign.raymondcorp.com
 campaign.rockwellautomation.com
 campaign.ruukki.com
 campaign.shl.com
-campaign.slackhq.com
 campaign.ssab.com
 campaign.tandemdiabetes.com
 campaign.zurn.com
@@ -9974,7 +9955,6 @@ canwest.112.2o7.net
 canwestglobal.112.2o7.net
 caowuq.babyliss-romania.ro
 capcityadvcom.112.2o7.net
-cape.smu.edu
 capecodonlinecom.112.2o7.net
 capella.122.2o7.net
 capelladev.112.2o7.net
@@ -10358,7 +10338,6 @@ celigo.actonservice.com
 cellstats.mako.co.il
 cem.bankofscotland.co.uk
 cem.halifax-online.co.uk
-cem.halifax.co.uk
 cem.lloydsbank.co.uk
 cem.lloydsbank.com
 cem.mbna.co.uk
@@ -11315,7 +11294,6 @@ comms.supplychain.nhs.uk
 comms.thenbs.com
 commsec.tt.omtrdc.net
 commsvc.brigitte.de
-commsvc.eltern.de
 commsvc.essen-und-trinken.de
 commsvc.gala.de
 commsvc.geo.de
@@ -11548,7 +11526,6 @@ connect.johndorys.co.za
 connect.kristechwire.com
 connect.labcorp.com
 connect.landy.com
-connect.leaseplan.gr
 connect.lgcns.com
 connect.lightriver.com
 connect.link.boone.health
@@ -11674,8 +11651,6 @@ consulting.mcgladrey.com
 consulting.ramboll.com
 consumer.equifax.com
 consumer.inform.equifax.com
-consumercellular.tt.omtrdc.net
-consumerinfo.tt.omtrdc.net
 consumerknowhow.com
 consumerzero.com
 contact-us.adp.ca
@@ -11769,7 +11744,6 @@ content.northcdatacenters.info
 content.ntwine-conferencing.com
 content.nxp.com
 content.ohcare.ohiohealth.com
-content.one-dc.com
 content.palram.com
 content.pix.style
 content.pollardwater.com
@@ -12699,7 +12673,6 @@ dash.getsitecontrol.com
 dashboardbntest.branchcustom.xyz
 dashingdrop.com
 dasych.drmartypets.com
-data-api.csob.cz
 data-events.uniplaces.com
 data-inbank01.wt-eu02.net
 data-ingenuity.com
@@ -13575,7 +13548,6 @@ dependenttrip.com
 deployinput.com
 depositowizink-com.eulerian.net
 derbypops.com
-derstandard-fsmat.derstandard.at
 derstandard-spat.derstandard.at
 descarga.veikul.com
 descargar.billeteramango.com
@@ -14096,7 +14068,6 @@ discover.parker.com
 discover.pharmaignite.com
 discover.phenomenex.com
 discover.rewe-group.at
-discover.selinc.com
 discover.servicios.com.ec
 discover.streamly.video
 discover.supplydepotstore.com
@@ -14114,7 +14085,6 @@ discoverynordics.hb.omtrdc.net
 discreetquarter.com
 dishpurchasingcorporation.hb-api.omtrdc.net
 dishpurchasingcorporation.hb.omtrdc.net
-disney.tt.omtrdc.net
 disneyinternational.hb.omtrdc.net
 disneyvacations.com.102.112.2o7.net
 dispatch.com.102.112.2o7.net
@@ -14659,7 +14629,6 @@ ea.armandthiery.fr
 ea.assuronline.com
 ea.auchantelecom.fr
 ea.audika.com
-ea.autolib.eu
 ea.auvergne-direct.fr
 ea.bcassurance.fr
 ea.camping-and-co.com
@@ -15122,7 +15091,6 @@ ehadvicedev.112.2o7.net
 eharmony.112.2o7.net
 ehauzf.jewlr.ca
 ehavol.consul.com.br
-ehc.com.102.112.2o7.net
 ehdkzm.ottoversand.at
 ehedwd.sikayetvar.com
 ehg-samsungusa.hitbox.com
@@ -15169,7 +15137,6 @@ ek8.voyage-prive.com
 ekfwof.finnishdesignshop.fi
 eklexu.kibuba.com
 ekontor01.webtrekk.net
-ekosjs.outdoorvoices.com
 ekphpa.perfectlypriscilla.com
 el.quizlet.com
 ela-3-tnk.com
@@ -16327,7 +16294,6 @@ etherealbamboo.com
 ethereallagoon.com
 etherealripple.com
 etihadairways.tt.omtrdc.net
-etisalat.tt.omtrdc.net
 etk.locusrobotics.com
 etl.springbot.com
 etop.ro
@@ -16812,7 +16778,6 @@ evepdcharleston.112.2o7.net
 evepdeagledev.112.2o7.net
 ever-track-51.com
 evergage1.actonservice.com
-evergreenmedia.actonservice.com
 eversource.actonservice.com
 evhvza.sodimac.com.br
 evike.postaffiliatepro.com
@@ -16934,9 +16899,7 @@ explore.epsilon.com
 explore.firstnet.com
 explore.flexera.com
 explore.hubert.com
-explore.inmotionnow.com
 explore.landcentral.com
-explore.parexel.com
 explore.revenera.com
 explore.starbuckscardb2b.com
 explore.waldenu.edu
@@ -16972,14 +16935,12 @@ extranet.c4.miui-l7-feedback.izsagsovue.elb.xiaomi.com
 extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
-extranets.criteo.com
 extrovert.122.2o7.net
 exuberantedge.com
 exwvpm.misumi-ec.com
 exxwhi.jmty.jp
 eyc-marketing.eyc.com
 eycnlprod.112.2o7.net
-eyefinity.actonsoftware.com
 eyenox.eschuhe.de
 eyfygb.yourfirm.de
 eylnhf.jobhouse.jp
@@ -18132,7 +18093,6 @@ gb.click.finning.com
 gb.lgsmartad.com
 gba.kwm.com
 gbasccnma3.alphonso.tv
-gbc.criteo.com
 gbc0.da.us.criteo.com
 gbc0.da1.us.criteo.com
 gbc0.fr3.eu.criteo.com
@@ -18377,7 +18337,6 @@ get.megastarfinancial.com
 get.miso.kr
 get.mistplay.com
 get.mojo.sport
-get.more.rutgers.edu
 get.muchbetter.com
 get.myoyster.mx
 get.nala.money
@@ -18733,7 +18692,6 @@ go.almoproav.com
 go.alpco.com
 go.alpha.avant.com
 go.alphaapp.sharekey.com
-go.alumdev.columbia.edu
 go.amazonsellerservices.com
 go.americancentury.com
 go.americangriddle.com
@@ -18751,7 +18709,6 @@ go.appexchange.com
 go.appsassociates.com
 go.appsian.com
 go.arbor.com
-go.arcadia.edu
 go.arielpa.nyc
 go.arktura.com
 go.armstrongflooring.com
@@ -18783,7 +18740,6 @@ go.avalara.com
 go.avant.com
 go.avetta.com
 go.avisonyoung.com
-go.avixa.org
 go.avon.sk
 go.avvo.com
 go.awcwire.com
@@ -18873,7 +18829,6 @@ go.callersmart.com
 go.calo.app
 go.cambiumnetworks.com
 go.campkesem.org
-go.campus.edu
 go.canadalifecentre.ca
 go.capgeminigroup.com
 go.capital.org
@@ -18893,7 +18848,6 @@ go.cb-w.com
 go.cboe.com
 go.ccalliance.org
 go.cccis.com
-go.cdlconsultants.com
 go.cdsi.us.com
 go.ceatec.com
 go.cei.org
@@ -18952,7 +18906,6 @@ go.connect.pcconnection.com
 go.connxus.com
 go.consensusfax.com
 go.contact.alphabet.com
-go.contelligent.com
 go.control4.com
 go.convenenow.com
 go.cooktravel.net
@@ -18985,7 +18938,6 @@ go.daxko.com
 go.dcli.com
 go.dealerinspire.com
 go.dechra-us.com
-go.decisionquest.com
 go.deltarisk.com
 go.deltek.com
 go.delve.com
@@ -19197,7 +19149,6 @@ go.gregorydickow.com
 go.greycastlesecurity.com
 go.gridwise.io
 go.grist.org
-go.guardicore.com
 go.guidepoint.com
 go.guildmortgage.net
 go.guycarp.com
@@ -19292,7 +19243,6 @@ go.insitesoft.com
 go.int.vsp.com
 go.integraoptics.com
 go.intelerad.com
-go.intelex.com
 go.interactivelegal.com
 go.intercall.com
 go.interworks.com
@@ -19346,7 +19296,6 @@ go.keenvibe.com
 go.keenvibe.de
 go.kellimeador.com
 go.kepner-tregoe.com
-go.kepplerspeakers.com
 go.kevinbarryfineart.com
 go.kgi.edu
 go.kidsoutandabout.com
@@ -19405,7 +19354,6 @@ go.llapac.com
 go.locosonic.com
 go.logigear.com
 go.logikcull.com
-go.logility.com
 go.lojistic.com
 go.loveshaw.com
 go.lsvtglobal.com
@@ -19453,7 +19401,6 @@ go.melp.life
 go.memexoee.com
 go.mercatoradvisorygroup.com
 go.mercedesbenzsouthorlando.com
-go.mercurygate.com
 go.meridiancapital.com
 go.meridianllc.com
 go.meritdirect.com
@@ -19526,7 +19473,6 @@ go.netherlands.innovatedating.com
 go.netwitness.com
 go.networkmediapartners.com
 go.neverware.com
-go.newable.co.uk
 go.newbaymedia.com
 go.news.loyaltycompany.com
 go.nextep.com
@@ -19648,7 +19594,6 @@ go.promodel.com
 go.protools.emerson.com
 go.psentertainment.com
 go.ptglab.com
-go.ptisecurity.com
 go.ptzoptics.com
 go.pubu.tw
 go.q4inc.com
@@ -19699,7 +19644,6 @@ go.rolanddg.com
 go.rosseto.com
 go.rosslynva.org
 go.roushcleantech.com
-go.rpa.org
 go.rseg.com
 go.rtafleet.com
 go.rti.org
@@ -19877,10 +19821,8 @@ go.thelawyer.com
 go.themmrf.org
 go.thestjames.co
 go.thetambellinigroup.com
-go.thevhs.org
 go.theworknumber.com
 go.thingtech.com
-go.thirdspacelearning.com
 go.thruinc.com
 go.ticketbiz.se
 go.tiekinetix.com
@@ -19913,7 +19855,6 @@ go.triumphlearning.com
 go.truegreencapital.com
 go.tsvconnect.com
 go.tuev.cn
-go.turbocourt.com
 go.turkey.innovatedating.com
 go.turnitin.com
 go.tuv.com
@@ -19989,7 +19930,6 @@ go.weddingpro.com
 go.weecare.co
 go.werbleapp.com
 go.werepair.org
-go.wernerco.com
 go.west.com
 go.westmonroepartners.com
 go.whatchu.com
@@ -19999,7 +19939,6 @@ go.whip-around.com
 go.whiparound.com
 go.wibu.us
 go.wildlandtrekking.com
-go.wilshirefp.com
 go.wireco.com
 go.wiremasters.net
 go.wm.plantemoran.com
@@ -20060,7 +19999,6 @@ go2.store.car.org
 go2.stromasys.com
 go2.toshiba.com
 go2.unitrends.com
-go2.wolterskluwer.ca
 go5.global.toshiba
 goa.dngn.kr
 goaccredited.actonservice.com
@@ -20084,7 +20022,6 @@ goertz-01.wt-eu02.net
 gogaej.momastore.jp
 gogofunding.actonservice.com
 gogovapps.actonservice.com
-gohealthinsurance.com.102.122.2o7.net
 goldencomm.actonservice.com
 goldenhelix.actonservice.com
 goldenpaints.actonservice.com
@@ -20205,7 +20142,6 @@ graywords.net
 grc.openapp.link
 grc2.secureforms.mcafee.com
 greasysquare.com
-greatrentals.com.102.122.2o7.net
 green-griffin-860.appspot.com
 greenbeacon.actonservice.com
 greencharge.actonservice.com
@@ -20585,7 +20521,6 @@ hearstmagazines.112.2o7.net
 hearstugo.112.2o7.net
 heartbeat-pearl.vercel.app
 heartbeat.pmd.444.hu
-heartbeats.omtrdc.net
 heartbreakingmind.com
 heartflow.actonservice.com
 hearthow.com
@@ -20934,7 +20869,6 @@ hr-ad-lgsmartad-com.aws-prd.net
 hr.ad.lgsmartad.com
 hr.adp.ca
 hr.lgsmartad.com
-hr1.silkroad.com
 hra.nyp.org
 hrb1tng0.com
 hrbitov.viessmann.cz
@@ -22289,7 +22223,6 @@ info.createeveryopportunity.org
 info.cresinsurance.com
 info.crisp.aleragroup.com
 info.crossmfg.com
-info.ctc.jp
 info.ctiimage.com
 info.culturespanmarketing.com
 info.curriculumassociates.com
@@ -22786,7 +22719,6 @@ info.texastaxgroup.com
 info.theaba.org
 info.thecentennial.aleragroup.com
 info.thecolonialcenter.com
-info.thekrazycouponlady.com
 info.themichaelmannteam.com
 info.themsrgroup.com
 info.themyersbriggs.com
@@ -22823,7 +22755,6 @@ info.ubmamevents.com
 info.uchealth.com
 info.uconnhuskies.com
 info.uila.com
-info.und.edu
 info.unicosystem.com
 info.unicous.com
 info.unis.edu.gt
@@ -23146,7 +23077,6 @@ inv3te.oui.sncf
 invata.actonservice.com
 inventive-acute.com
 inventtango.com
-invescogroup.tt.omtrdc.net
 invest.rubicoin.com
 investment.lianest.co.jp
 investments.aberdeenstandard.com
@@ -23849,7 +23779,6 @@ jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
 jzq915.playmobil.com
 jzqfac.bestsecret.ch
-jzzuvzq98.alphonso.tv
 k-ring-fallback.msedge.net
 k-ring.msedge.net
 k.brandalley.be
@@ -24084,6 +24013,7 @@ kpr2exp21.com
 kprbexp21.com
 kpu.samsungelectronics.com
 kqchxa.denizbutik.com
+kqcwmezun8.alphonso.tv
 kqdqrj.traktorpool.de
 kqefj.clearstem.com
 kqhckf.outfits24.de
@@ -24214,7 +24144,6 @@ krishnaw368.alphonso.tv
 krishnaw369.alphonso.tv
 krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
-krishnaw372.alphonso.tv
 krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
 krishnaw377.alphonso.tv
@@ -24239,8 +24168,6 @@ krishnaw400.alphonso.tv
 krishnaw401.alphonso.tv
 krishnaw404.alphonso.tv
 krishnaw405.alphonso.tv
-krishnaw407.alphonso.tv
-krishnaw408.alphonso.tv
 krishnaw411.alphonso.tv
 krishnaw412.alphonso.tv
 krishnaw413.alphonso.tv
@@ -24267,7 +24194,6 @@ krishnaw439.alphonso.tv
 krishnaw441.alphonso.tv
 krishnaw445.alphonso.tv
 krishnaw446.alphonso.tv
-krishnaw447.alphonso.tv
 krishnaw448.alphonso.tv
 krishnaw449.alphonso.tv
 krishnaw450.alphonso.tv
@@ -25673,7 +25599,6 @@ links.slicepay.in
 links.soulsoftware.org
 links.sparkmail.branch.rocks
 links.staging-lifestepsapp.com
-links.strava.com
 links.stretchitapp.com
 links.subscribed.app
 links.sudokuplus.net
@@ -25980,6 +25905,7 @@ logs.n.xiaomi.com
 logs.naukri.com
 logs.netflix.com
 logs.openbank.com
+logs.qa.ap.int.roku.com
 logs.roku.com
 logs.spilgames.com
 logs.sr.roku.com
@@ -31287,7 +31213,6 @@ mm.eulerian.eu
 mm.eulerian.fr
 mm.eulerian.net
 mm.lgsmartad.com
-mm.masmovil.es
 mm.melia.com
 mm.morrellinc.com
 mm.openapp.link
@@ -33398,6 +33323,7 @@ mva1.maeva.com
 mvc.shopjapan.co.jp
 mvjkbj.2-carat.net
 mvjkbj.inazumanews2.com
+mvvjxmygdr2.alphonso.tv
 mw-ind.actonservice.com
 mw.lgsmartad.com
 mwa.meanwellaustralia.com.au
@@ -35582,7 +35508,6 @@ office.pipe.aria.microsoft.com
 officedepot.tt.omtrdc.net
 officeworks.tt.omtrdc.net
 official.kminjurylawyers.com
-officiel-des-vacances.eulerian.net
 offshoreassets.com
 offshorecyclone.com
 offshoregeology.com
@@ -38395,10 +38320,8 @@ parallelbulb.com
 paramedicexam.quantresear.ch
 parchedsofa.com
 pardko.pricerunner.com
-pardot-tracker.displayr.com
 pardot.atosmedical.se
 pardot.ecu.edu
-pardot.pensexpert.de
 pardot.securian.com
 pardot.tampuuri.fi
 pardot.tayagroups.com
@@ -38818,7 +38741,6 @@ pirounakia.openapp.link
 pitapan.openapp.link
 pitatisisminis.openapp.link
 pitcher.actonservice.com
-pitneybowesinc.tt.omtrdc.net
 pittaking.openapp.link
 pittsburghpostgazette.112.2o7.net
 pivotpointsecurity.actonservice.com
@@ -39276,7 +39198,6 @@ pp-co02.nl3.eu.criteo.net
 pp-za01.fr3.eu.criteo.net
 pp-za01.nl3.eu.criteo.net
 pp-za02.fr3.eu.criteo.net
-pp-za02.nl3.eu.criteo.net
 pp.promocionesfarma.com
 pp.promofarma.com
 pp.scorecardrewards.com
@@ -39790,6 +39711,7 @@ qdlmwrluk95.alphonso.tv
 qdnxys.cotswoldco.com
 qdqdfp.toitsutest-koukou.com
 qdvavs.trademax.se
+qdyjkmzm45.alphonso.tv
 qedlai.restplatzboerse.com
 qejrwy.lazienkaplus.pl
 qerpks.rollei.de
@@ -40151,7 +40073,6 @@ rdewdwf27.alphonso.tv
 rdfine.camelbrown.com
 rdi.da1.us.criteo.com
 rdi.eu.criteo.com
-rdi.jp2.as.criteo.com
 rdi.nl3.eu.criteo.com
 rdi.us.criteo.com
 rdl.lgtvcommon.com
@@ -40294,7 +40215,6 @@ refer.onxmaps.com
 refer.optimum.com
 refer.payluy.com.kh
 refer.princess.com
-refer.purchasingpower.com
 refer.revzilla.com
 refer.samedelman.com
 refer.sharkninja.com
@@ -40401,7 +40321,6 @@ removeads.workers.dev
 remp-beam.golem.de
 remp.nv.ua
 renaultbankdirekt.efscle.com
-renfe.tt.omtrdc.net
 renfeprod.112.2o7.net
 rent.mgrc.com
 rentacar.eulerian.net
@@ -40702,7 +40621,6 @@ rh.grupoocq.com.br
 rh.ocq.com.br
 rh.vettaquimica.com.br
 rh1a.granions.fr
-rh5i.tradingsat.com
 rhahvac.actonservice.com
 rhdcmp.maxcolchon.com
 rhdpmaamx36.alphonso.tv
@@ -41195,7 +41113,6 @@ s1521.hs.eloqua.com
 s154878491.hs.eloqua.com
 s1550576449.hs.eloqua.com
 s1555122525.hs.eloqua.com
-s1575097598.hs.eloqua.com
 s1583749854.hs.eloqua.com
 s161752090.hs.eloqua.com
 s1632284857.hs.eloqua.com
@@ -41217,7 +41134,6 @@ s1973398186.hs.eloqua.com
 s1981585949.hs.eloqua.com
 s1r.zerkalo.io
 s2008141379.hs.eloqua.com
-s2008299307.hs.eloqua.com
 s2013560044.sc.origins.en25.com
 s2033604275.hs.eloqua.com
 s2048.hs.eloqua.com
@@ -41235,7 +41151,6 @@ s290512336.hs.eloqua.com
 s2whyufxmzam.chatpay.com.br
 s3-config.samsungacr.com
 s3.landing.ni.com
-s3049749.hs.eloqua.com
 s334284386.hs.eloqua.com
 s337390453.hs.eloqua.com
 s34830204.hs.eloqua.com
@@ -41263,7 +41178,6 @@ s477278796.hs.eloqua.com
 s489322457.hs.eloqua.com
 s4e8.cascades.com
 s5.charliehebdo.fr
-s566810826.hs.eloqua.com
 s57532.hs.eloqua.com
 s5797642.hs.eloqua.com
 s5network1.com
@@ -41272,7 +41186,6 @@ s609785623.hs.eloqua.com
 s6137615.hs.eloqua.com
 s615419487.sc.origins.en25.com
 s61956.hs.eloqua.com
-s619564847.hs.eloqua.com
 s6704250.hs.eloqua.com
 s704917861.hs.eloqua.com
 s706.hs.eloqua.com
@@ -43160,7 +43073,6 @@ sgtm.tagmanageritalia.it
 sgtm.tennis-point.de
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
-sgwqoz.toddsnyder.com
 sh.b.inhaabit.com
 shadeship.com
 shadowmade.com
@@ -43558,7 +43470,6 @@ sm.trb.com
 smallable-com.eulerian.net
 smallbusiness.adpinfo.com
 smallershops.com
-smart-7-innovative.com
 smart-business-365.com
 smart-business-foresight.com
 smart-business-intuition.com
@@ -44225,7 +44136,6 @@ smetrics.chelseafc.com
 smetrics.chemistanddruggist.co.uk
 smetrics.chghealthcare.com
 smetrics.chicagobusiness.com
-smetrics.chicos.com
 smetrics.childrensplace.com
 smetrics.chip1stop.com
 smetrics.christianscience.com
@@ -49112,7 +49022,6 @@ som.constellation.com
 som.craftsman.com
 som.escapehomes.com
 som.gaservesamerica.com
-som.greatrentals.com
 som.greatwolf.com
 som.healthgrades.com
 som.homeaway.com
@@ -49958,7 +49867,6 @@ ssp-ads.fr3.eu.criteo.com
 ssp-ads.jp2.as.criteo.com
 ssp-ads.nl3.eu.criteo.com
 ssp-ads.sg1.as.criteo.com
-ssp-ads.us5.us.criteo.com
 ssp-prod-eastus-nonmutt.trafficmanager.net
 ssp-sync.criteo.com
 ssp.seznam.cz
@@ -51696,7 +51604,6 @@ sunsetstatic.com
 sunshinegates.com
 sunshinepint.com
 supcareer-com.eulerian.net
-supdecreation-com.eulerian.net
 supdigital-fr.eulerian.net
 super8-link.mysuki.io
 superchichair.com
@@ -52077,6 +51984,7 @@ t-s.xolairhcp.com
 t-s.xpansions.com
 t-s.zelboraf.com
 t-s1-ring.msedge.net
+t-s2-ring.msedge.net
 t-systems01.webtrekk.net
 t-test.esvdigital.com
 t.10er-tagesticket.de
@@ -52551,7 +52459,6 @@ tagm.tchibo.at
 tagm.tchibo.com.tr
 tagm.tchibo.cz
 tagm.tchibo.de
-tagm.tchibo.hu
 tagm.tchibo.pl
 tagmwu.thalia.at
 tagourounakia.openapp.link
@@ -52908,7 +52815,6 @@ td.airdroid.com
 td.doubleclick.net
 td.emails.domain.com.au
 tdaqzz.graviditetskollen.nu
-tdbankfinancialgroup.tt.omtrdc.net
 tdbnom.madeleine.de
 tdbrochure.advancedtech.com
 tdbsoc.thegivingmovement.com
@@ -57188,7 +57094,6 @@ ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
-uaenorth-0.in.applicationinsights.azure.com
 ualkzq.moobel1.ee
 uaqcui.tennis-point.fr
 uarrdg.landsofamerica.com
@@ -57316,7 +57221,6 @@ uinpmz.iichi.com
 uiusqp.crowdcow.com
 uiwock.epantofi.ro
 ujbhri.pharmamarket.nl
-ujdcipvr0.alphonso.tv
 ujlwwo.lehner-versand.ch
 ujq1.destinia.is
 ujuyhix2.alphonso.tv
@@ -57531,6 +57435,7 @@ us-central1-markuphero.cloudfunctions.net
 us-east4.ads.gcp.roku.com
 us-east4.dev.ads.gcp.roku.com
 us-go.experian.com
+us-ic3.events.data.microsoft.com
 us-marketing.roxtec.com
 us-mesh-events-data-leafs.trafficmanager.net
 us-mesh.events.data.microsoft.com
@@ -57598,12 +57503,10 @@ usage.centsdonations.com
 usage.myhomescreen.tv
 usaoptimizedby.increasingly.co
 usaprogrip.actonservice.com
-usarmy2024.tt.omtrdc.net
 usatoday1.112.2o7.net
 usb-vna.coppermountaintech.com
 usbank.tt.omtrdc.net
 usc.adserver.snapads.com
-uscellular.tt.omtrdc.net
 usdbbx.mmartan.com.br
 usdm.122.2o7.net
 use.fvr.to
@@ -57623,7 +57526,6 @@ usfoods.tt.omtrdc.net
 usgovarizona-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
-usgovvirginia-global.in.applicationinsights.azure.us
 usgzei.vidaxl.ch
 usingyourcard.americanexpress.co.uk
 usmetric.rediff.com
@@ -58162,7 +58064,6 @@ vegaoo-es.eulerian.net
 vegaoo-it.eulerian.net
 vegaoo-nl.eulerian.net
 vegaoo-pt.eulerian.net
-vegaoo-uk.eulerian.net
 vegaoo.eulerian.net
 vegaooparty.eulerian.net
 vegaoopro.eulerian.net
@@ -58815,7 +58716,6 @@ wcastrprod.122.2o7.net
 wchjfv.apartmenttherapy.com
 wco.crownpeak.com
 wct-2.com
-wcyjcl.goodyear.com
 wd.adcolony.com
 wdcflashco.tt.omtrdc.net
 wddnff.bonprix.cz
@@ -60293,7 +60193,6 @@ zlvxiw.medicarelife.com
 zm-ad-lgsmartad-com.aws-prd.net
 zm.ad.lgsmartad.com
 zm.lgsmartad.com
-zm5d.lexpress.fr
 zmcfztc2.alphonso.tv
 zmepmwhey7.alphonso.tv
 zmetrics.boston.com
