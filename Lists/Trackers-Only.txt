@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 24 June 2026 12:47:54 UTC
+# Last Updated: 25 June 2026 00:47:18 UTC
 #
-# Domains: 60,704 | Added: 0 | Removed: 0
+# Domains: 60,709 | Added: 6 | Removed: 1
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5765,7 +5765,6 @@ amplitude.chess.com
 ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
-ampscamp.net
 ampt.eulerian.com
 ams-pageview-public.s3.amazonaws.com
 ams.lelong.com.my
@@ -9993,6 +9992,7 @@ cantire.122.2o7.net
 canvasandsocks.com
 canwest.112.2o7.net
 canwestglobal.112.2o7.net
+canyonpizza.net
 caowuq.babyliss-romania.ro
 capcityadvcom.112.2o7.net
 cape.smu.edu
@@ -11257,6 +11257,7 @@ collector.cint.com
 collector.clareity.net
 collector.dgnet.ltd.uk
 collector.ex.co
+collector.feedzop.com
 collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
@@ -11268,11 +11269,13 @@ collector.net-logger.com
 collector.pi.spectrum.net
 collector.pmc.com
 collector.quillbot.com
+collector.quizzop.com
 collector.schibsted.io
 collector.spankbang.party
 collector.t-idr.com
 collector.taoxh.life
 collector.theconversation.com
+collector.umogames.com
 collector.xhaccess.com
 collector.xhamster.com
 collector.xhamster.desi
@@ -11934,6 +11937,7 @@ corporatemrguide.americanexpress.de
 corporatepages.proximus.com
 corporateplatino.americanexpress.it
 corporationservicecompany.112.2o7.net
+correctedcode.com
 correos.tt.omtrdc.net
 cortellisconnections.thomsonreuters.com
 corus.hb.omtrdc.net
@@ -12714,6 +12718,7 @@ dandyglow.com
 danielsmoving.actonservice.com
 danskebank.tt.omtrdc.net
 danv01ao0kdr2.cloudfront.net
+dap.hindustantimes.com
 dapperdiscussion.com
 dar-pix-prod-lb.alphonso.tv
 dardenrestaurants.112.2o7.net
