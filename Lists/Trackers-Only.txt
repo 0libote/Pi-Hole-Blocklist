@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 26 June 2026 12:47:24 UTC
+# Last Updated: 27 June 2026 00:45:59 UTC
 #
-# Domains: 60,709 | Added: 0 | Removed: 0
+# Domains: 60,720 | Added: 13 | Removed: 2
 #
 # List is updated daily adding and removing new and old domains
 
@@ -7887,7 +7887,6 @@ ask.antalis.pt
 ask.antalis.ro
 ask.antalis.se
 ask.wearelistening.co.nz
-askdriver.com
 asknetag.112.2o7.net
 asnjih.apatchy.co.uk
 asoewk.jaanuu.com
@@ -12613,6 +12612,7 @@ d276.ourmidland.com
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
+d2gt2ux04o03l1.cloudfront.net
 d2i34c80a0ftze.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
@@ -20137,6 +20137,7 @@ goldfishgrowth.com
 goldstudies.com
 golfcartlaws.com
 golfersrow.com
+gollum.monotote.com
 golp4elik.com
 gomerchant.groupon.com
 gondolagnome.com
@@ -20641,6 +20642,7 @@ heatmaps.lcisoft.it
 heavycom.122.2o7.net
 heavydetail.com
 heavyplayground.com
+heimdall.hearstapps.com
 heise01.webtrekk.net
 heise02.webtrekk.net
 hej.henriksommerfeld.se
@@ -20693,6 +20695,7 @@ herb2warn.com
 herb7calk.com
 herbalife.tt.omtrdc.net
 herbgreencolumn.com
+herbstarsbuilding.com
 herma01.webtrekk.net
 hermeslogistik01.wt-eu02.net
 hermestest01.webtrekk.net
@@ -24487,6 +24490,7 @@ l.e.domain.com.au
 l.emails.kmart.com.au
 l.engage.canva.com
 l.entrenous.fr
+l.ffx.io
 l.football.fr
 l.football365.fr
 l.francetvinfo.fr
@@ -24792,6 +24796,7 @@ leftliquid.com
 legacyportal.nettvservices.com
 legacywatson.trafficmanager.net
 legalhold.ediscovery.com
+legolas.monotote.com
 leipzigde01.webtrekk.net
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
@@ -25971,6 +25976,7 @@ log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
+log.strawpoll.com
 log.tagtic.cn
 log.targetpush.co.kr
 log.tossinvest.com
@@ -38350,6 +38356,7 @@ outbound-245.aoscmt.com
 outdoor.theres.co
 outdoorsoil.com
 outdoorthingy.com
+outerwords.com
 outfitter01.wt-eu02.net
 outreach.allmy-data.com
 outreach.connectednation.org
@@ -40098,6 +40105,7 @@ qoairs.scholl-shoes.com
 qohlsl.drawer.fr
 qonwdq.helmexpress.com
 qouxkn.natuurhuisje.nl
+qovani.com
 qoygsv.born2be.pl
 qpc4.visilab.ch
 qpielh.kfhi.or.kr
@@ -52623,6 +52631,7 @@ t.miamihurricanes.com
 t.miamiredhawks.com
 t.mktg.genesys.com
 t.mmaeast.com
+t.mmganalytics.com
 t.montecarlosbm.com
 t.msubobcats.com
 t.msuspartans.com
@@ -53191,6 +53200,7 @@ tbe.tom.ru
 tbihvt.pickawood.com
 tbjasp.cyrillus.de
 tbknig.ecc.jp
+tblcontent.com
 tbmgyz.centerparcs.de
 tbstv.112.2o7.net
 tbsveryfunnyads.112.2o7.net
@@ -53346,6 +53356,7 @@ telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.appex.bing.net
 telemetry.boxt.co.uk
+telemetry.bydata.com
 telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
@@ -57044,6 +57055,7 @@ trk.dvsystems.com
 trk.e.chooseumpquabank.com
 trk.e.mailchimp.com
 trk.e.underarmour.com
+trk.edf.fr
 trk.elmlea.com
 trk.elmorietschle.com
 trk.elq.mcphersonoil.com
@@ -57735,7 +57747,6 @@ unknowncrate.com
 unknownidea.com
 unl1zvy2zuyn.franchiseplus.nl
 unleash.livepix.gg
-unloadyourself.com
 unm.emol.com
 unosey64.alphonso.tv
 unrealpain.com
