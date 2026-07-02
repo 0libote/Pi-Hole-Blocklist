@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 01 July 2026 13:00:41 UTC
+# Last Updated: 02 July 2026 00:46:11 UTC
 #
-# Domains: 60,313 | Added: 0 | Removed: 0
+# Domains: 60,316 | Added: 3 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -11101,6 +11101,7 @@ cockpitdcbaima.carte-gr.total.fr
 cod.bitrec.com
 code.randomhouse.com
 cofactordigital.actonservice.com
+coffeefire.net
 coffeesidehustle.com
 coffeycomm.actonservice.com
 cogstate.actonservice.com
@@ -39187,6 +39188,7 @@ powerfulcopper.com
 poweronemedia.122.2o7.net
 powerpoint-telemetry.wac.trafficmanager.net
 powerrobotflower.com
+powertoolwiki.com
 powerup.rsaworks.com
 pp-ar01.fr3.eu.criteo.net
 pp-ar01.nl3.eu.criteo.net
@@ -49400,6 +49402,7 @@ sparknetworks.112.2o7.net
 sparknewzealandtradi.tt.omtrdc.net
 sparmit01.webtrekk.net
 spc.personalcreations.com
+spea.eko.com
 spec-sensors.actonservice.com
 specialevent.informaengage.com
 specialscissors.com
