@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 05 July 2026 02:45:08 UTC
+# Last Updated: 05 July 2026 13:25:05 UTC
 #
-# Domains: 60,318 | Added: 0 | Removed: 0
+# Domains: 60,324 | Added: 10 | Removed: 4
 #
 # List is updated daily adding and removing new and old domains
 
@@ -4737,6 +4737,7 @@ ad-log.dable.io
 ad-platform.jmty.jp
 ad-server.samsungads.com
 ad-tracker-api.luizalabs.com
+ad-tracker.samsungads.com
 ad.320320.net
 ad.aceplanet.co.kr
 ad.aim-universe.co.jp
@@ -5826,6 +5827,7 @@ analytics-dataplane.invideo.io
 analytics-dev-api.test.samsunghealth.com
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
+analytics-events.apple.com
 analytics-fe.digital-cloud-prem.medallia.com
 analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
@@ -12170,7 +12172,6 @@ csr11.net.asambeauty.com
 csr31.net.anwalt.de
 css6.docmorris.fr
 cssmps40.alphonso.tv
-cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
 cstat.apple.com
 cstat.apple.com.edgesuite.net
@@ -23770,6 +23771,7 @@ jzoxch.menswearhouse.com
 jzprtb.1stdibs.com
 jzq915.playmobil.com
 jzqfac.bestsecret.ch
+jzzuvzq98.alphonso.tv
 k-ring-fallback.msedge.net
 k-ring.msedge.net
 k.brandalley.be
@@ -23871,6 +23873,7 @@ kfw02.webtrekk.net
 kfw03.webtrekk.net
 kfw04.webtrekk.net
 kg-ad-lgsmartad-com.aws-prd.net
+kg-legacy-analytics.servicebus.windows.net
 kg.ad.lgsmartad.com
 kg.lgsmartad.com
 kgbokc.masrefacciones.mx
@@ -24158,6 +24161,7 @@ krishnaw400.alphonso.tv
 krishnaw401.alphonso.tv
 krishnaw404.alphonso.tv
 krishnaw405.alphonso.tv
+krishnaw408.alphonso.tv
 krishnaw411.alphonso.tv
 krishnaw412.alphonso.tv
 krishnaw413.alphonso.tv
@@ -33983,6 +33987,7 @@ newcom.122.2o7.net
 newjersey-content.cresa.com
 newlook.112.2o7.net
 newperspective.americanexpress.com
+news-analytics-events.apple.com
 news-app-events.apple.com
 news-events.apple.com
 news-info.gcgfinancial.com
@@ -39118,6 +39123,7 @@ pod.spoti.fi
 podbooth.martela.com
 podbooth.martela.no
 podbooth.martela.se
+podcasts-analytics-events.apple.com
 podname.com
 poeleaboismaison.eulerian.net
 poemprompt.com
@@ -39338,6 +39344,7 @@ prismtest.epoise.com
 pristinegale.com
 privacy-analytics-proxy.cookiebot.com
 privacy-api.9gag.com
+privacy-backend.samsungads.com
 privacy.as.criteo.com
 privacy.criteo.com
 privacy.eu.criteo.com
@@ -43419,7 +43426,6 @@ sk-topgal.m-shop.me
 sk.ad.lgsmartad.com
 sk.lgsmartad.com
 sk0.monnierfreres.eu
-skadnetwork.iad-apple.com.akadns.net
 skaffa.tidyapp.se
 skbnfa.filorga.com
 skcrtxr.com
@@ -57014,6 +57020,7 @@ turnersports.112.2o7.net
 turtleface.net
 tutbc1.www.tapmyback.com
 tuvevx.agent-sana.com
+tv-analytics-events.apple.com
 tv-static.scdn.co
 tv-test.esvdigital.com
 tv.ads.spotx.tv
@@ -57125,6 +57132,7 @@ ua.lgsmartad.com
 uaaooa.stansberryresearch.com
 uaas.yandex.ru
 uaemarketing.sedgwick.com
+uaenorth-0.in.applicationinsights.azure.com
 ualkzq.moobel1.ee
 uaqcui.tennis-point.fr
 uarrdg.landsofamerica.com
@@ -59701,11 +59709,9 @@ xmqrvx.jewelry-queen-shop.com
 xmyvhu.soxo.pl
 xnukcp.cpcompany.com
 xovsoot4.alphonso.tv
-xp-cdn-lb.itunes-apple.com.akadns.net
 xp-cdn.apple.com
 xp.allianz.de
 xp.apple.com.edgekey.net
-xp.itunes-apple.com.akadns.net
 xp.v.aaplimg.com
 xp2023-pix.s3.amazonaws.com
 xpcpmr.gsm55.com
