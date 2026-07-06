@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 06 July 2026 02:50:38 UTC
+# Last Updated: 06 July 2026 15:25:43 UTC
 #
-# Domains: 60,725 | Added: 401 | Removed: 0
+# Domains: 60,727 | Added: 2 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5853,6 +5853,7 @@ analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analytics-events.apple.com
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud-prem.medallia.eu
 analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-gw.games.wanmei.com
@@ -8584,6 +8585,7 @@ barclaysbankplc.tt.omtrdc.net
 barclayscapital-ssl.112.2o7.net
 barclaysinternationalibprod.112.2o7.net
 barium.cheezdev.com
+barkfactor.com
 barp3.bordeaux.aeroport.fr
 barqueue.com
 barracuda.carte-gr.total.fr
