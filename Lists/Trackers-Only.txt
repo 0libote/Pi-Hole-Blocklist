@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 08 July 2026 13:56:10 UTC
+# Last Updated: 09 July 2026 02:38:02 UTC
 #
-# Domains: 60,727 | Added: 0 | Removed: 0
+# Domains: 60,732 | Added: 5 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6411,6 +6411,7 @@ analytics.vitalsignstracker.com
 analytics.viture.dev
 analytics.vivint.com
 analytics.vixcloud.co
+analytics.vk.asahi.co.jp
 analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wask.co
@@ -10499,6 +10500,7 @@ chef.newtrina.com
 chefkoch01.webtrekk.net
 chelsea.clicks.hqo.co
 chelseafc.hb.omtrdc.net
+chemistrycore.com
 cherriescare.com
 cherry.le.com
 ches5sort.com
@@ -13490,6 +13492,7 @@ debonairtree.com
 debug-inform.liilix.com
 debug-r.rover.com
 decidedrum.com
+decisionhut.com
 decisivebase.com
 decisivedrawer.com
 deckers.112.2o7.net
@@ -13616,6 +13619,7 @@ deseretnews.112.2o7.net
 desertgates.com
 design.informabi.com
 design.nanawall.com
+designdew.com
 designlines01.webtrekk.net
 designsgrid.com
 desirebucket.com
@@ -15809,6 +15813,7 @@ embellishedmeadow.com
 emberwhisper.com
 embknh.perriconemd.com
 emblhthdevelopment.112.2o7.net
+embossedpaper.com
 emc.122.2o7.net
 emc.dr-stick.shop
 emcalliance.vmware.com
