@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 13 July 2026 02:29:54 UTC
+# Last Updated: 13 July 2026 14:27:26 UTC
 #
-# Domains: 60,699 | Added: 613 | Removed: 0
+# Domains: 60,709 | Added: 10 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -6107,6 +6107,7 @@ analytics.idfnet.net
 analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
+analytics.infraloods.nl
 analytics.inquisitr.com
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -10007,6 +10008,7 @@ capital-fr.capital.fr
 capitalgroup.112.2o7.net
 capitalgroupcompanie.tt.omtrdc.net
 capitaloneservices.tt.omtrdc.net
+capitalopera.com
 capito01.webtrekk.net
 capping.sirius.press
 capplanllc.actonservice.com
@@ -10249,6 +10251,7 @@ cdn.mateti.net
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
+cdn.prod.euid.eu
 cdn.ravm.tv
 cdn.smartclip.net
 cdn.sy-d.io
@@ -20268,6 +20271,7 @@ greenweez-uk.eulerian.net
 greenweez.eulerian.net
 greetz01.wt-eu02.net
 greif.actonservice.com
+gresrv.com
 grgnsht.nzxt.com
 grid-bidder-global-1.as.criteo.com
 grid-bidder-global-1.eu.criteo.com
@@ -36086,6 +36090,7 @@ onecloud.avaya.com
 onecollector.cloudapp.aria.akadns.net
 onecrow.net
 onedropocean.com
+onekindmarket.com
 onelink.taptalk.io
 onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
@@ -38073,6 +38078,7 @@ onfosi-zetwtw.n.teradatadmc.com
 onfosi-zetwze.cncluster.net
 onfosi-zetwze.n.teradatadmc.com
 onghfx.revolve.com
+onioncomic.com
 onjjbn.koffiemarkt.be
 onjmsj.sumai-surfin.com
 online-mt-com-455208869.p06.elqsandbox.com
@@ -39000,6 +39006,7 @@ physicstees.com
 pi.armentekort.be
 pi.ias.xiaomi.com
 pi.ispot.tv
+pi.pdfjs.express
 pi.piensoymascotas.com
 pi.technik3d.com
 piatra.clickandboat.com
@@ -40769,6 +40776,7 @@ research.gartner.com
 research.insidesales.com
 research.leads360.com
 research.velocify.com
+researchlog.dbresearch.com
 resetpassword.surepetcare.io
 resgermany01.webtrekk.net
 resolution.taxdefensenetwork.com
@@ -41044,6 +41052,7 @@ roas-service.store-services-prod.remarkable.com
 roberthalfintl.tt.omtrdc.net
 robotflowermobile.com
 robotgarages.com
+robotrefinery.com
 robotsrefinery.com
 rochelle.wantsext.me
 rock5rice.com
@@ -57304,6 +57313,7 @@ trkr.shoppingminds.net
 trksrv44.com
 trksrv45.com
 trksrv46.com
+trkweb.clinch.co
 tropicalpal.com
 tropo01.webtrekk.net
 troubleshade.com
