@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 15 July 2026 13:30:02 UTC
+# Last Updated: 16 July 2026 02:14:08 UTC
 #
-# Domains: 60,709 | Added: 0 | Removed: 0
+# Domains: 60,719 | Added: 10 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -17001,6 +17001,7 @@ expresspros.tt.omtrdc.net
 exr-mms.expertreviews.co.uk
 extendyourreach.actonservice.com
 external-bos5-1.xx.fbcdn.net.iberostar.com
+external-tag.mysquadbeyond.com
 external.fpbc1-1.fna.fbcdn.net.iberostar.com
 external.logs.roku.com
 external.techopian.com
@@ -20646,6 +20647,7 @@ heartflow.actonservice.com
 hearthow.com
 heat6have.com
 heatexperience.com
+heatmap.support-inc.co.jp
 heatmaps.lcisoft.it
 heavycom.122.2o7.net
 heavydetail.com
@@ -20919,6 +20921,7 @@ homelyheater.com
 homepjlconline.com.112.2o7.net
 homepproav.112.2o7.net
 homeprv.lgtvcommon.com
+homerunfood.com
 homeslick.com
 homesteadtechnologies.122.2o7.net
 homestore.122.2o7.net
@@ -38686,6 +38689,7 @@ partygamingglobal.122.2o7.net
 pass-1234.com
 pass8heal.com
 passivepolo.com
+passwordbyte.com
 pastoralroad.com
 patagonia.122.2o7.net
 path-follower.com
@@ -39353,6 +39357,7 @@ play.wavelength.zone
 playbook.convio.com
 player-metrics.instaread.co
 player-telemetry.vimeo.com
+playerhappy.com
 playfulriver.com
 playonsports1.hb-api.omtrdc.net
 plbcsd.vidaxl.se
@@ -41057,6 +41062,7 @@ robotsrefinery.com
 rochelle.wantsext.me
 rock5rice.com
 rockagainst.com
+rocketmonitor.com
 rockett.logs.roku.com
 rockolitalia01.wt-eu02.net
 rockstarwriter.com
@@ -41080,6 +41086,7 @@ rote8mino.com
 rottenray.com
 rotunda.ncsl.org
 roulette.abzorbagames.com
+routebug.com
 router.tracking.miui.com
 router28.net.anwalt.de
 routes.navibration.com
@@ -42399,6 +42406,7 @@ science.dunnhumby.com
 science.schoolspecialtynews.com
 scienceaaas.org
 sciencedart.com
+sciencevault.net
 scientificshirt.com
 scinfo.mitsuifudosan.co.jp
 scintillatingscissors.com
@@ -42554,6 +42562,7 @@ sealtravels.com
 seamarketny.actonservice.com
 seamlesssalon.com
 seao.business.samsung.com
+seaotterplay.com
 search.anonymous.ads.brave.com
 search.miui.com
 searchads.apple.com
@@ -43160,6 +43169,7 @@ send.preply.com
 send1.alsearsmd.com
 send2.alsearsmd.com
 sendgrid.employeelinkapp.com
+sendinblast.com
 sendingspire.com
 sendmoney.americanexpress.co.uk
 sendpulsenewtest.branch.rocks
