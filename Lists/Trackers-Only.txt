@@ -2,9 +2,9 @@
 # List - Trackers-Only
 # GitHub: https://github.com/0libote/Pi-Hole-Blocklist
 #
-# Last Updated: 17 July 2026 13:21:33 UTC
+# Last Updated: 18 July 2026 02:06:36 UTC
 #
-# Domains: 60,719 | Added: 0 | Removed: 0
+# Domains: 60,730 | Added: 11 | Removed: 0
 #
 # List is updated daily adding and removing new and old domains
 
@@ -5134,6 +5134,7 @@ ads.samsungads.com
 ads.spacenine.biz
 ads.staging.roku.com
 ads.tikpage.com
+ads.tvp.pl
 ads.twitter.com
 ads.us.criteo.com
 ads1.msads.net
@@ -9806,6 +9807,7 @@ c.topya.com
 c.tr.msn.com
 c.tw.msn.com
 c.uk.msn.com
+c.uniten.io
 c.vanityfair.com
 c.vcty.co
 c.vogue.com
@@ -24709,6 +24711,7 @@ lbnrrh.autouncle.dk
 lbrgfl89.alphonso.tv
 lbs-samsung.swypeconnect.com
 lbv5.mperf.com
+lc-event.pixiv.net
 lc.lgsmartad.com
 lccronadevelopment.112.2o7.net
 lcdsyj.daily.co.jp
@@ -43772,6 +43775,7 @@ skilledview.com
 skiller-education.eulerian.net
 skillfuldrop.com
 skillfullyfrugal.com
+skillpuppy.com
 skillsfuturesingapor.tt.omtrdc.net
 skillshouse.actonservice.com
 skincheckwa-app.hotdoc.com.au
@@ -52195,6 +52199,7 @@ swa.vodafone.pt
 swa.wowcher.co.uk
 swaljol72dgv.controlconceptsusa.com
 swankysquare.com
+swanwebcreations.com
 swasc.homedepot.ca
 swasc.homedepot.com
 swasc.kaufland.bg
@@ -52243,6 +52248,7 @@ swisslife.eulerian.net
 switzerlandnorth-0.in.applicationinsights.azure.com
 swmhdata.stuttgarter-nachrichten.de
 swmhdata.stuttgarter-zeitung.de
+swordblock.com
 swordgoose.com
 swqleb.adidas.ru
 swsoft.122.2o7.net
@@ -53183,6 +53189,7 @@ target.zinia.com
 targetab.metrobyt-mobile.com
 targeted-config-test.samsungacr.com
 targetemsecure.blob.core.windows.net
+targetfax.com
 targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
@@ -53616,6 +53623,7 @@ thelibraryofcongress.122.2o7.net
 thelotter-affiliates.com
 themangotea.com
 theme.echovisuals.com
+themegoats.com
 themepicker.com
 thepixelpioneer.com
 thepowerstones.com
@@ -58548,6 +58556,8 @@ verseballs.com
 versionone.com.102.122.2o7.net
 versuswall.com
 vertexcs.actonservice.com
+verybark.com
+verybouncy.com
 vetsource.actonservice.com
 vetxanh.edu.vn
 vewbab.entertainmentearth.com
@@ -58668,6 +58678,7 @@ view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
 viewer.pandasuite.io
+viewresource.com
 views.arabnews.com
 views.asurascans.com
 views.b1tv.ro
